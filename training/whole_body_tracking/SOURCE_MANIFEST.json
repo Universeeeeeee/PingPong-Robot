@@ -1,0 +1,78 @@
+{
+  "batch": "01",
+  "scope": "Standalone observation contracts and no-spin return evaluation; no complete training runtime",
+  "upstream_repository": "https://github.com/hitchopen/HOPE",
+  "upstream_revision": "d14886823fc72304c611d99ad6cdc105c51d3aca",
+  "target_base_commit": "84a7b91be44f11c8429124e85b8c7c076ec42065",
+  "imported_files": [
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/actor_observation_contract.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/actor_observation_contract.py",
+      "source_sha256": "6183d303f8bf7a7f16587a230684f7d5140ad94816887bdc48887595549abcb5",
+      "release_sha256": "6183d303f8bf7a7f16587a230684f7d5140ad94816887bdc48887595549abcb5",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/success_metric.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/success_metric.py",
+      "source_sha256": "b75e074bdbeb0c9a9e38056d01529ffcc9d6e0bf2a90e4c9154938ca5b576430",
+      "release_sha256": "dd050334bb22694cea128cd2638de65b2c87f2b8dfa956bdc212a07024b17641",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_success_metric.py",
+      "target": "training/whole_body_tracking/tests/test_success_metric.py",
+      "source_sha256": "f40ba899fee6dbfc8d706e147915317deab84ffdc87542561ca04b04fa2e2084",
+      "release_sha256": "f40ba899fee6dbfc8d706e147915317deab84ffdc87542561ca04b04fa2e2084",
+      "modified": false
+    },
+    {
+      "source": "HOPE/configs/ball_physics.yaml",
+      "target": "configs/ball_physics.yaml",
+      "source_sha256": "415c17116b73c2985a3be78be06cedce4788def1ccc388c7979235b3a3cae5e7",
+      "release_sha256": "71be7c36fb568fee9b0380d6ec1e01ddb28a9adf7eacac79378f50a2947909ba",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/LICENCE",
+      "target": "training/whole_body_tracking/LICENCE",
+      "source_sha256": "b0cc61522063924d9f562c494f78a7e653e018ca39e1c940fd328bacc0c5dedc",
+      "release_sha256": "b0cc61522063924d9f562c494f78a7e653e018ca39e1c940fd328bacc0c5dedc",
+      "modified": false
+    },
+    {
+      "source": "HOPE/LICENSE",
+      "target": "LICENSES/HOPE-Apache-2.0.txt",
+      "source_sha256": "73d0e09c2ec2ba848c46e62f6e14096218a56e0b18efe51e9d8961829f534c8a",
+      "release_sha256": "73d0e09c2ec2ba848c46e62f6e14096218a56e0b18efe51e9d8961829f534c8a",
+      "modified": false
+    }
+  ],
+  "added_support_files": [
+    {
+      "path": "training/whole_body_tracking/README.md",
+      "sha256": "182353cf0d8b4be0d52a43c4a09094a05fdda50b4b42b8017df6903c5e0c70ef"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "8c300365c56cc2eaa5d1b5772e540856b6c34c280d987700688ad8abf2f1a724"
+    },
+    {
+      "path": "training/whole_body_tracking/requirements-batch-01.txt",
+      "sha256": "ea3ef61ac942300265cc5dc2a5d1243859b83abdeb5dcd3bd4c46cc2bce8d92a"
+    },
+    {
+      "path": "training/whole_body_tracking/tests/test_actor_observation_contract.py",
+      "sha256": "523dad248a08b7285b7aee1e57db8e56f4738219d159cd66cd361040d07e4946"
+    },
+    {
+      "path": "training/whole_body_tracking/tests/test_ball_physics_config.py",
+      "sha256": "a9ba1c8c2bbd7a854bff228d7739eeb5ad55be944ad0cf237a981d08fc1a9330"
+    }
+  ],
+  "changes": [
+    "Neutral BALL_PHYSICS_CONFIG with legacy fallback",
+    "Physics commentary and upstream-only provenance references; numeric configuration unchanged",
+    "Scoped observation and YAML regression tests, dependencies and source/license documentation"
+  ]
+}
