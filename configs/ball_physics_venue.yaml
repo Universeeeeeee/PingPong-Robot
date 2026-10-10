@@ -1,0 +1,54 @@
+# Upstream fitted parameters, copied without numerical changes.
+# Fit claims have not been reproduced for this release; see THIRD_PARTY_NOTICES.md.
+ball:
+  mass: 0.0034
+  mass_clean: 0.0027
+  radius: 0.02
+  inertia_coeff: 0.6666666666666666
+air:
+  rho: 1.2
+flight:
+  k_d: 0.1261
+  k_d_clean_scaled: 0.1588
+  k_m: 0.00444
+  k_m_clean_scaled: 0.00559
+  g: 9.81
+  rk4_h: 0.0005
+  magnus_saturating_form: C_L(SR) = cl_slope*SR / (1 + cl_slope*SR/cl_max)
+  cl_slope: 0.87
+  cl_max: 0.55
+contact:
+  table:
+    e_eff: 0.9215
+    a_t: 0.369
+    b_t: 0.0
+    mu_safety: 2.0
+  paddle:
+    e_eff: 0.654
+    a_t: 0.52
+    b_t: 0.0
+    mu_safety: 0.5
+    e_lin_a: 0.749
+    e_lin_b: 0.0258
+    e_exp_g1: 0.759
+    e_exp_g2: -0.0441
+capture:
+  rate_hz: 300.0
+  e2e_latency_bound_ms: 20
+  position_noise:
+    white_mm: 1.9
+    ar1_marginal_mm: 5.2
+    ar1_rho: 0.946
+    ar1_tau_ms: 60
+    long_arc_rms_mm: 9.1
+    center_offset_mm: 1.9
+  spin_noise:
+    floor_rev_s: 2.0
+    bounce_dw_scale: 0.65
+    strike_dw_scale: 0.22
+  timing:
+    same_clock: true
+    frame_quantization_ms: 1.67
+    gap_p50_ms: 10
+    racket_occlusion_ms: 30
+    contact_dwell_ms: 2

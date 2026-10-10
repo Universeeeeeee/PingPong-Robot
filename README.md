@@ -8,6 +8,7 @@ PingPongRobot 是一个由动捕驱动的乒乓球机器人项目。当前代码
 - `planner/`：动捕桥接相关的规划与协作记录。
 - `Optitrack/windows_natnet_adapter/`：Windows 侧 NatNet 适配器骨架和交接文档。
 - `docs/`：设计说明和项目级文档。
+- `training/whole_body_tracking/`：A3 PPO 训练源码；本批训练、恢复、评估和导出尚未实测，需外部 Isaac/NVIDIA 环境、合法机器人资产和动作数据，详见该目录 README。
 - `logs/`：本地日志输出和会话产物。
 
 ## 快速开始

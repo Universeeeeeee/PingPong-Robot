@@ -1,0 +1,35 @@
+[package]
+
+# Semantic Versioning is used: https://semver.org/
+version = "0.1.0"
+
+# Description
+category = "isaaclab"
+readme  = "README.md"
+
+title = "PingPong Whole-Body Training"
+author = "BeyondMimic and HOPE contributors"
+maintainer = "PingPong-Robot contributors"
+description = "Isaac Lab whole-body tracking extension for Agibot A3 ping-pong"
+repository = "https://github.com/Universeeeeeee/PingPong-Robot.git"
+keywords = ["robotics", "reinforcement-learning", "isaaclab", "table-tennis"]
+
+[dependencies]
+"isaaclab" = {}
+"isaaclab_assets" = {}
+"isaaclab_mimic" = {}
+"isaaclab_rl" = {}
+"isaaclab_tasks" = {}
+# NOTE: Add additional dependencies here
+
+[[python.module]]
+name = "whole_body_tracking"
+
+[isaaclab_settings]
+# TODO: Uncomment and list any apt dependencies here.
+#       If none, leave it commented out.
+# apt_deps = ["example_package"]
+# TODO: Uncomment and provide path to a ros_ws
+#       with rosdeps to be installed. If none,
+#       leave it commented out.
+# ros_ws = "path/from/extension_root/to/ros_ws"

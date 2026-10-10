@@ -1,0 +1,551 @@
+{
+  "batch": "02",
+  "scope": "A3 PPO source dependency closure; runtime training/recovery/evaluation/export unverified",
+  "upstream_repository": "https://github.com/hitchopen/HOPE",
+  "upstream_revision": "d14886823fc72304c611d99ad6cdc105c51d3aca",
+  "target_base_commit": "6983b9e7468953f35ed58365d379dccbfe74368f",
+  "runtime_validation": "NOT RUN: waived for this batch by user; no Linux/NVIDIA/Isaac runtime",
+  "imported_files": [
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/config/extension.toml",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/config/extension.toml",
+      "source_sha256": "2e38236c0afab473ed02d3c8501fdc54788a78ea9311454ee2a609015cc70225",
+      "release_sha256": "28873e9b21e665510ec4fc65ed6e86cd12d30feff27b067d5da298d71067dad0",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/pyproject.toml",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/pyproject.toml",
+      "source_sha256": "5427dcc108de1d2537775540acdd539d65a2f31506ba992bc95e5bfeefb6f288",
+      "release_sha256": "5427dcc108de1d2537775540acdd539d65a2f31506ba992bc95e5bfeefb6f288",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/setup.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/setup.py",
+      "source_sha256": "26312dddc8c8562ff8afce6d6ab3dd6358e0edbd2aeabf1a7f8fd263c74dedab",
+      "release_sha256": "c6925480b6179ea003f50ff4cfc60d15598480b62c21cf641c79eab14ded32a0",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/__init__.py",
+      "source_sha256": "860dbead5fb0f58128d3399e1ac4b3827829e5e3f54fc7766d475720f9f367cf",
+      "release_sha256": "860dbead5fb0f58128d3399e1ac4b3827829e5e3f54fc7766d475720f9f367cf",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/assets/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/assets/__init__.py",
+      "source_sha256": "e7979cd984a83a95f3ecbd690a7ecd3334621bb4550ebaeff52e56a0ee11c2b9",
+      "release_sha256": "e7979cd984a83a95f3ecbd690a7ecd3334621bb4550ebaeff52e56a0ee11c2b9",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/robots/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/robots/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/robots/agibot_a3.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/robots/agibot_a3.py",
+      "source_sha256": "e7bbd1e4c09e979e7fb44e976afbf1eda83f442ac26379f83ec7630ae7f0b5b1",
+      "release_sha256": "d3a556383c3ab2b5f261c7fa902a6a2f38d8f096c22a56a347b0c7530bfb3f34",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/__init__.py",
+      "source_sha256": "36a4f4b382bb6e2f91a7582ffc62b5585592c4dd687147bacab94cad822e0c61",
+      "release_sha256": "0387b78a90d4d0623503e478fdfadff201d62a7311bf242f480041840dabf990",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/table_tennis/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/table_tennis/__init__.py",
+      "source_sha256": "d73ae01c8d9874949fc09856091d251370f6d6de88f568afb4863a197e4fb811",
+      "release_sha256": "227e9fc0cadf548e123e3dc6ab671a981e1a830fe7b07286a62f31e276aa72f2",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/table_tennis/geometry.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/table_tennis/geometry.py",
+      "source_sha256": "e5c7921f44ab7f02d613549d00063731d80030aa950d31587e1c9498f8fafa64",
+      "release_sha256": "e5c7921f44ab7f02d613549d00063731d80030aa950d31587e1c9498f8fafa64",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/__init__.py",
+      "source_sha256": "fac06b7d10d76561e72e471a8acfc996fc6937814d5934641298a5adec2832ba",
+      "release_sha256": "fac06b7d10d76561e72e471a8acfc996fc6937814d5934641298a5adec2832ba",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/__init__.py",
+      "source_sha256": "8639a1f13d362570a7b8b4559f8c7b816299b8632206c2d6d8fe3b40976cb3fa",
+      "release_sha256": "826c130ea0b3aced449e3e11e1e02da4577b4b2dcad65602831da4b3c32ca665",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/agents/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/agents/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/agents/ppo.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/agents/ppo.py",
+      "source_sha256": "f2e74889fda88de2b60b905885923c7e88ef15d533ed4c9cb3a717f72a50af50",
+      "release_sha256": "f2e74889fda88de2b60b905885923c7e88ef15d533ed4c9cb3a717f72a50af50",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/flat_env_cfg.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/flat_env_cfg.py",
+      "source_sha256": "2d5810b8ea37a1d03dc1cf57e4346f59c2eedc511eaa3520fcd4c009d59ee2c6",
+      "release_sha256": "2d5810b8ea37a1d03dc1cf57e4346f59c2eedc511eaa3520fcd4c009d59ee2c6",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/hope_env_cfg.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/config/agibot_a3/hope_env_cfg.py",
+      "source_sha256": "4a702d51d02948eece15ef909b9a5149c09fcc3a93d435c7c0f7bc7c1387735d",
+      "release_sha256": "4a702d51d02948eece15ef909b9a5149c09fcc3a93d435c7c0f7bc7c1387735d",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/__init__.py",
+      "source_sha256": "b22623e8ba58500a4b58d258610141664cae6889ec228828b63d2d606258b721",
+      "release_sha256": "b22623e8ba58500a4b58d258610141664cae6889ec228828b63d2d606258b721",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/commands.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/commands.py",
+      "source_sha256": "3b21b105e572a802e2557c8ac4ade8d9423db99acac358784df4c3f633fb08f8",
+      "release_sha256": "3b21b105e572a802e2557c8ac4ade8d9423db99acac358784df4c3f633fb08f8",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/events.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/events.py",
+      "source_sha256": "8f49dfd46ad643bcc995247cea100ccd935691960eef9562e8955ad1d29de129",
+      "release_sha256": "8f49dfd46ad643bcc995247cea100ccd935691960eef9562e8955ad1d29de129",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_actions.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_actions.py",
+      "source_sha256": "823c210693151d7438028a5661035f95cef781ac68ea7286822753cd1ba4ccb3",
+      "release_sha256": "823c210693151d7438028a5661035f95cef781ac68ea7286822753cd1ba4ccb3",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_commands.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_commands.py",
+      "source_sha256": "61af83e6b113cf8071d564ffb11b809dce0d70778076143050ba432441971424",
+      "release_sha256": "61af83e6b113cf8071d564ffb11b809dce0d70778076143050ba432441971424",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_observations.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_observations.py",
+      "source_sha256": "4c9387bd40a28b1b889c8a2721341643d008491d6fc6f38d914211dc1977bfda",
+      "release_sha256": "4c9387bd40a28b1b889c8a2721341643d008491d6fc6f38d914211dc1977bfda",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_rewards.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_rewards.py",
+      "source_sha256": "d91bd3997266167ac718df3438dd9a9015d8194297a94333f4a2895dd464a306",
+      "release_sha256": "d91bd3997266167ac718df3438dd9a9015d8194297a94333f4a2895dd464a306",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_symmetry.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/hope_symmetry.py",
+      "source_sha256": "2f1a2a2207485f87457de74ff26ac8a250c61068a7447aac6fb31d30acb3340a",
+      "release_sha256": "2f1a2a2207485f87457de74ff26ac8a250c61068a7447aac6fb31d30acb3340a",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/observations.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/observations.py",
+      "source_sha256": "fee4a138e272b27f210c5533be187e7721e1c5406329bb25238c446bf32a782d",
+      "release_sha256": "fee4a138e272b27f210c5533be187e7721e1c5406329bb25238c446bf32a782d",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/one_step_contract.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/one_step_contract.py",
+      "source_sha256": "38795692a6debd989747ea027b4640b8ab137962fe8b06449e91539ddc4f83bc",
+      "release_sha256": "38795692a6debd989747ea027b4640b8ab137962fe8b06449e91539ddc4f83bc",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/physical_ball.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/physical_ball.py",
+      "source_sha256": "d44275680b3462af9d188dc5fa63c6ed970b20f03f8ed971638bf4289a853a76",
+      "release_sha256": "d44275680b3462af9d188dc5fa63c6ed970b20f03f8ed971638bf4289a853a76",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/qdes_contract.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/qdes_contract.py",
+      "source_sha256": "6f6dcb389229f7818cd1c0804b881b81ebd4bdec2bf4d38c8f2808684659cb17",
+      "release_sha256": "6f6dcb389229f7818cd1c0804b881b81ebd4bdec2bf4d38c8f2808684659cb17",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/recovery_curriculum.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/recovery_curriculum.py",
+      "source_sha256": "c62561aee23786355ae5158577689bcb1f45a8cd1c5267bda9284a8f40beab48",
+      "release_sha256": "c62561aee23786355ae5158577689bcb1f45a8cd1c5267bda9284a8f40beab48",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/recovery_safe_set.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/recovery_safe_set.py",
+      "source_sha256": "d451f1f5dbd6b72b53af90a57985fdf96d76c47041502b5e662274dfd8170fbb",
+      "release_sha256": "d451f1f5dbd6b72b53af90a57985fdf96d76c47041502b5e662274dfd8170fbb",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/rewards.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/rewards.py",
+      "source_sha256": "b323de7a120e8ac45d3dfc9f7d85d8d8633ec42e5af3162653d1b7804cc90f4b",
+      "release_sha256": "b323de7a120e8ac45d3dfc9f7d85d8d8633ec42e5af3162653d1b7804cc90f4b",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/shadow_ball.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/shadow_ball.py",
+      "source_sha256": "ea9b75fa10152a81e4917a34c0dc5ef09007ce39f5c3b47e7f485eef582f39e7",
+      "release_sha256": "ea9b75fa10152a81e4917a34c0dc5ef09007ce39f5c3b47e7f485eef582f39e7",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/strike_curriculum.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/strike_curriculum.py",
+      "source_sha256": "5b313deb4d6852cf795e81761ac9c7587d53aae63b6f67052e1be0c8b4a8df64",
+      "release_sha256": "5b313deb4d6852cf795e81761ac9c7587d53aae63b6f67052e1be0c8b4a8df64",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/terminations.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/terminations.py",
+      "source_sha256": "ef7295e19c4497f46bf7d906961547130ca09db83c4889dc91558044d34c06dc",
+      "release_sha256": "ef7295e19c4497f46bf7d906961547130ca09db83c4889dc91558044d34c06dc",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/venue_target_tuple.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/venue_target_tuple.py",
+      "source_sha256": "0f9139a959e4e72e5070c599de3a378ae0823c9387cbaa92c96edd4ce9762ba8",
+      "release_sha256": "0f9139a959e4e72e5070c599de3a378ae0823c9387cbaa92c96edd4ce9762ba8",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/virtual_ball.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/mdp/virtual_ball.py",
+      "source_sha256": "26cae2fd59d1a43870dad0732779b2b591a2eda40b5faa61ca30a4c775d9e6d8",
+      "release_sha256": "26cae2fd59d1a43870dad0732779b2b591a2eda40b5faa61ca30a4c775d9e6d8",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/terrain_patch.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/terrain_patch.py",
+      "source_sha256": "c19eeaea8f12792217e51fe89bfbf57cfd90f402ed5348b4b4f97b7fd31f8437",
+      "release_sha256": "c19eeaea8f12792217e51fe89bfbf57cfd90f402ed5348b4b4f97b7fd31f8437",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/tracking_env_cfg.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/tasks/tracking/tracking_env_cfg.py",
+      "source_sha256": "d6cbeaf52df136506f068e65fc49a582616220d17452c13d5d2a8e4a95bd8285",
+      "release_sha256": "d6cbeaf52df136506f068e65fc49a582616220d17452c13d5d2a8e4a95bd8285",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/__init__.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/a3_deploy_manifest.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/a3_deploy_manifest.py",
+      "source_sha256": "d4b54141b3e058b5eb57448726fa6244d07f69c56300e754f1c3612fc821cfc5",
+      "release_sha256": "d4b54141b3e058b5eb57448726fa6244d07f69c56300e754f1c3612fc821cfc5",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/action_adapter_config.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/action_adapter_config.py",
+      "source_sha256": "07a0fdc45769aa30bd968df5a5adb8ce432f1d010c2896566749d0ec9e071fb6",
+      "release_sha256": "a314b414e41e9c4fa57d19df346465c096cb998cde5173bb22421295a2a3a255",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/adamw_ppo.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/adamw_ppo.py",
+      "source_sha256": "6139f3231a9b2cfb0bcca438355a43a5b01ec743ff5184f9304f8e60f8af9e74",
+      "release_sha256": "6139f3231a9b2cfb0bcca438355a43a5b01ec743ff5184f9304f8e60f8af9e74",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/bounded_actor_critic.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/bounded_actor_critic.py",
+      "source_sha256": "db7c31e700785ad0d040d3593166c309dc8d91a3d77b5deb445a7c22a4806d8b",
+      "release_sha256": "db7c31e700785ad0d040d3593166c309dc8d91a3d77b5deb445a7c22a4806d8b",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/ckpt_compat.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/ckpt_compat.py",
+      "source_sha256": "4f24b8f6b089ed0a6ff6e98c1a8740a8dca276fe8517ab711902ef5fb106aad7",
+      "release_sha256": "4f24b8f6b089ed0a6ff6e98c1a8740a8dca276fe8517ab711902ef5fb106aad7",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/exporter.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/exporter.py",
+      "source_sha256": "a18fa3722b7fba0e3651e26a30c752ef5f596d74e892c81249a3afff6fbe7457",
+      "release_sha256": "a18fa3722b7fba0e3651e26a30c752ef5f596d74e892c81249a3afff6fbe7457",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/motion_schema.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/motion_schema.py",
+      "source_sha256": "8e4e6efac05087b91f69109ffca0ea260ca5b380ee7cb8d427c0005c3b7db769",
+      "release_sha256": "8e4e6efac05087b91f69109ffca0ea260ca5b380ee7cb8d427c0005c3b7db769",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/my_on_policy_runner.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/my_on_policy_runner.py",
+      "source_sha256": "2e5c1948ce76ae5e5d0524dcf3f8d115c5a63989072b4e64a940ec1ef23b623a",
+      "release_sha256": "a7c8c22edebd1432e60f55cdfa71a74f90d6d65769c70c3677a46b4b7a37d18f",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/ppo_cfg.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/ppo_cfg.py",
+      "source_sha256": "6b39774f704a5045b49379676366e07f830b46d361fa4eb20df7044fe4b274d0",
+      "release_sha256": "6b39774f704a5045b49379676366e07f830b46d361fa4eb20df7044fe4b274d0",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/projection_ppo.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/projection_ppo.py",
+      "source_sha256": "4748c9bb2ce5776106d72431b903793ea161ce08f31a31309f1df0cc18e5b343",
+      "release_sha256": "4748c9bb2ce5776106d72431b903793ea161ce08f31a31309f1df0cc18e5b343",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/task_reward_overrides.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/task_reward_overrides.py",
+      "source_sha256": "c447c75d1653fb2feff239836a5c09ab7402412d69b7dbc820d31869fbcd9403",
+      "release_sha256": "c447c75d1653fb2feff239836a5c09ab7402412d69b7dbc820d31869fbcd9403",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/wandb_logging.py",
+      "target": "training/whole_body_tracking/source/whole_body_tracking/whole_body_tracking/utils/wandb_logging.py",
+      "source_sha256": "7bd516f2181eccae18ddfbc51f5187e544fa567c1c7328b12e3f441a77e63b1b",
+      "release_sha256": "7bd516f2181eccae18ddfbc51f5187e544fa567c1c7328b12e3f441a77e63b1b",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/scripts/train.py",
+      "target": "training/whole_body_tracking/scripts/train.py",
+      "source_sha256": "de077cdd17c64e08c5bb9173075d49af5de27dec0e198fc2ecb0fac70e18f56f",
+      "release_sha256": "582adbdef740153e778bfd0bf4cac97d06f63b8850ae810f85fa059469c3013e",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/scripts/play.py",
+      "target": "training/whole_body_tracking/scripts/play.py",
+      "source_sha256": "3b6717731e981890ea6e8c4567dbe191677b5612e636eedbf5ec926304ee3956",
+      "release_sha256": "ea3f0dcd5126de84b500804cfc1ba310cbaf3d966deb13ad8b563eaa82e007b0",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/scripts/evaluate.py",
+      "target": "training/whole_body_tracking/scripts/evaluate.py",
+      "source_sha256": "c90c0fb47c667e026f57ceb21eb085335d71bbde6ac3eca62cbd8ba0aec0d3b0",
+      "release_sha256": "585307d7b4c835a527bd3dc69eede11bc7a3b69108c2087bd93b2ea7988dde4d",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/scripts/export_onnx.py",
+      "target": "training/whole_body_tracking/scripts/export_onnx.py",
+      "source_sha256": "b5c7ee46a39785e9d5d51f5e808d66edbb777157627a89a61d4bcd46cb871980",
+      "release_sha256": "69edf019d8bd7970264b888d8f78c7104b9e0fc74e6cb490e6d698d28daa0da1",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/scripts/prepare_a3_isaac_asset.py",
+      "target": "training/whole_body_tracking/scripts/prepare_a3_isaac_asset.py",
+      "source_sha256": "162ad0a713c8559021f3d0d5bf9a13a205935400e7f638c2fbc5a695629dc92b",
+      "release_sha256": "7efa4436160eacef6d25d37bd91ba6adee62e816b7bb35be5675695d1c033dd6",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/algo/ppo.yaml",
+      "target": "training/whole_body_tracking/cfg/algo/ppo.yaml",
+      "source_sha256": "fdfd198f6e7a6f22ccdaadc352107186b01c34908c032b3008929f633a5ca225",
+      "release_sha256": "fdfd198f6e7a6f22ccdaadc352107186b01c34908c032b3008929f633a5ca225",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/base/env_base.yaml",
+      "target": "training/whole_body_tracking/cfg/base/env_base.yaml",
+      "source_sha256": "a3838f973ca2f7abce1e7435dd3096146b6f22bf41a1ba50eafd4e439abf581c",
+      "release_sha256": "a3838f973ca2f7abce1e7435dd3096146b6f22bf41a1ba50eafd4e439abf581c",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/base/randomization_base.yaml",
+      "target": "training/whole_body_tracking/cfg/base/randomization_base.yaml",
+      "source_sha256": "a8f3fb7eb2f812df7f8e0720bdba0ab21cd939b4c641cfd49a8f6fea60a630dd",
+      "release_sha256": "a8f3fb7eb2f812df7f8e0720bdba0ab21cd939b4c641cfd49a8f6fea60a630dd",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/base/sim_base.yaml",
+      "target": "training/whole_body_tracking/cfg/base/sim_base.yaml",
+      "source_sha256": "1116d8d2b5b10001bfd978c42c8fb3f1f916ef598ed28508b44eff285c12eaa1",
+      "release_sha256": "1116d8d2b5b10001bfd978c42c8fb3f1f916ef598ed28508b44eff285c12eaa1",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/play.yaml",
+      "target": "training/whole_body_tracking/cfg/play.yaml",
+      "source_sha256": "b70600918013f3dea85e0a6823970085afb296dc7af2e303ca57b7b1a5e95427",
+      "release_sha256": "8dc915210f2e3663c5f8e99a72c719c27589d3bca0ab5f3c713417762553900d",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/task/HOPEPingPong.yaml",
+      "target": "training/whole_body_tracking/cfg/task/HOPEPingPong.yaml",
+      "source_sha256": "3878de6db96d8c4b02e2fb7b5c87ab47486d1e1f569095e1b4569e951f6625da",
+      "release_sha256": "3878de6db96d8c4b02e2fb7b5c87ab47486d1e1f569095e1b4569e951f6625da",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/train.yaml",
+      "target": "training/whole_body_tracking/cfg/train.yaml",
+      "source_sha256": "492942a2194af7b8814c0c06811cc5ad27de78029375d27fc3078dff2f088b8f",
+      "release_sha256": "b88383f2a87f5eddf3c65756e7cb11ce0a652eaa284982abc6fc6091bb6219d6",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/cfg/task/HOPEPingPong.yaml",
+      "target": "training/whole_body_tracking/cfg/task/PingPong.yaml",
+      "source_sha256": "3878de6db96d8c4b02e2fb7b5c87ab47486d1e1f569095e1b4569e951f6625da",
+      "release_sha256": "d53208966617dfa833201dbdac3dc971fd5430ef30d6d06c92373a36dc7b56cc",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_reward_overrides.py",
+      "target": "training/whole_body_tracking/tests/test_reward_overrides.py",
+      "source_sha256": "580b7833307fea1ace89ea2a438c3f0f6387283b69badf55dee5a6e1d61826b8",
+      "release_sha256": "580b7833307fea1ace89ea2a438c3f0f6387283b69badf55dee5a6e1d61826b8",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_domain_rand_overrides.py",
+      "target": "training/whole_body_tracking/tests/test_domain_rand_overrides.py",
+      "source_sha256": "b30660d1a3a6b7398a62c1864065f8c73c38b60d8577accebe2f1e022281899c",
+      "release_sha256": "b30660d1a3a6b7398a62c1864065f8c73c38b60d8577accebe2f1e022281899c",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_setup_metadata.py",
+      "target": "training/whole_body_tracking/tests/test_setup_metadata.py",
+      "source_sha256": "07e8783d49e5472912c857e08b305380c32853bdda995019dd1066bad2ed83a0",
+      "release_sha256": "07e8783d49e5472912c857e08b305380c32853bdda995019dd1066bad2ed83a0",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_policy_contract.py",
+      "target": "training/whole_body_tracking/tests/test_policy_contract.py",
+      "source_sha256": "7267f174717cd3ddee5b6c0f2eae012480ebd75373476a5f66fe8388778d8026",
+      "release_sha256": "f610d04b12c126dd9cd650232369fe2b02b91c282f0d862ee955d0a814529d50",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_prepare_a3_isaac_asset.py",
+      "target": "training/whole_body_tracking/tests/test_prepare_a3_isaac_asset.py",
+      "source_sha256": "4128b8d95a19172f046ee869b30747c8957f26784dd3208a30fe0b97c8bc0d5a",
+      "release_sha256": "4128b8d95a19172f046ee869b30747c8957f26784dd3208a30fe0b97c8bc0d5a",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/tests/test_motion_loader_schema.py",
+      "target": "training/whole_body_tracking/tests/test_motion_loader_schema.py",
+      "source_sha256": "728ae705562657ccf9c620af9dfd6a61c1719e5ebea876c6068a27912e79fb02",
+      "release_sha256": "728ae705562657ccf9c620af9dfd6a61c1719e5ebea876c6068a27912e79fb02",
+      "modified": false
+    },
+    {
+      "source": "HOPE/hope_training/config/joint_order_agibot_a3.yaml",
+      "target": "training/config/joint_order_agibot_a3.yaml",
+      "source_sha256": "7748a134f362ce2ad6a3afe30234a7590133244dcabbaa5d990cda9776acb205",
+      "release_sha256": "7748a134f362ce2ad6a3afe30234a7590133244dcabbaa5d990cda9776acb205",
+      "modified": false
+    },
+    {
+      "source": "HOPE/a3_deploy/a3_deploy_example/config/action_adapter.yaml",
+      "target": "configs/action_adapter.yaml",
+      "source_sha256": "6af4c852eee15f051dc73e5489cc70cbef3680ec6613e496e950617dd797b4ec",
+      "release_sha256": "7254b3e35e6c4a65f9050af8af6f04a43803fa6ac4df65427920964034f60972",
+      "modified": true
+    },
+    {
+      "source": "HOPE/configs/ball_physics_venue.yaml",
+      "target": "configs/ball_physics_venue.yaml",
+      "source_sha256": "69ae86353308aacfc009172cd26d2fee62ecc78f542a747bc46a93b9b6c2dfca",
+      "release_sha256": "7c8ee9b2826016edd7b635e9bdc5b9ea7270971a52811868c9abf4abc341504c",
+      "modified": true
+    },
+    {
+      "source": "HOPE/hope_training/whole_body_tracking/setup_train_env.sh",
+      "target": "training/whole_body_tracking/setup_train_env.sh",
+      "source_sha256": "c42eea50cca1c67b351ec51eb32d1f87deb60251ac9870ee89b3f6769a34f374",
+      "release_sha256": "b72b2ee26ed2b9607936e7421d1bdc04ff37a7562b2e23e3723a6a266520a499",
+      "modified": true
+    }
+  ],
+  "excluded": [
+    "A3 URDF/meshes and other vendor assets",
+    "motion NPZ and venue tuple bank/receipt",
+    "checkpoints including unmaterialized model_21800.pt LFS pointer",
+    "raw captures/videos/personal data/caches/environments",
+    "a3_pingpong_sim",
+    "standalone match-simulation environments, C++ planning, detection"
+  ],
+  "compatibility": {
+    "formal_actor_dim": 110,
+    "formal_action_dim": 31,
+    "public_gym_id": "PingPong-Hitter-AgibotA3-v0",
+    "legacy_gym_alias": "HOPE-HitterPingPong-AgibotA3-v0",
+    "checkpoint_identifiers_preserved": true,
+    "old_107_to_29_checkpoint_migration_verified": false
+  }
+}
