@@ -11,6 +11,10 @@ PingPongRobot 是一个由动捕驱动的乒乓球机器人项目。当前代码
 - `training/whole_body_tracking/`：A3 PPO 训练源码；本批训练、恢复、评估和导出尚未实测，需外部 Isaac/NVIDIA 环境、合法机器人资产和动作数据，详见该目录 README。
 - `logs/`：本地日志输出和会话产物。
 
+## 独立球动力学（第三批）
+
+`simulation/ball_physics/` 提供批量球飞行、旋转、桌面反弹与球拍碰撞的独立核心算法。模块 11 项测试、已有适配器 22 项测试，以及离线 wheel/配置和批量步进检查均通过。详见该目录 README 与 VALIDATION；不代表完整训练或实机验证。
+
 ## 快速开始
 
 这个仓库当前主要围绕 `mocap/hope_optitrack_adapter/` 下的 Python 适配器。
