@@ -67,3 +67,17 @@ their own distributions; their source and binaries are not vendored here.
 Runtime training, checkpoint creation/resume, environment evaluation and ONNX
 export are unverified for batch 02. The user authorized source publication
 without those checks; this is not a claim of training or deployment readiness.
+
+## Batch 03: standalone ball physics
+
+- The local project-owned simulation source is released under the user's
+  explicit publication authorization. This batch does not relicense existing
+  code or introduce a new blanket license. Source and transformed release
+  hashes are recorded in `simulation/ball_physics/SOURCE_MANIFEST.json`.
+- The original source cites Duerr et al. (Nature, 2026), equations 1–8, for
+  aerodynamic and contact structure. Necessary research attribution is retained;
+  no paper text, external implementation, vendor asset, fitted residual network
+  or weight is redistributed. The provisional contact coefficients are documented.
+- PyTorch, PyYAML, pytest and setuptools remain separately installed dependencies;
+  their source and binaries are not vendored. Existing third-party license and
+  copyright notices elsewhere in the repository are unchanged.

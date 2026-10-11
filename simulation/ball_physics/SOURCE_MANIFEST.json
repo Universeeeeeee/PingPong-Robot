@@ -1,0 +1,58 @@
+{
+  "batch": "03",
+  "module": "ball physics",
+  "source_repository_head": "94b3854324df68cc21da6faf0f4dc07b6c86e89b",
+  "source_content": "Actual working-tree files; hashes are authoritative, not an assertion that all match source HEAD.",
+  "research_attribution": "Duerr et al. (Nature, 2026), as identified in original source; no paper text, vendor code, models or learned residuals redistributed.",
+  "files": [
+    {
+      "source": "src/a3_pingpong_sim/dynamics.py",
+      "target": "src/pingpong_physics/dynamics.py",
+      "source_sha256": "684bef7e40e13772e68651c2972eafd283303973487b87b00501e2a92b73b11c",
+      "release_sha256": "1d6d0b1e05f619d49e2eabdf44da88b9e7275eb6c1a1dd35d6ddadaac8a967fa",
+      "changes": "Rename own API SonyBallConfig/SonyBallWorld to BallPhysicsConfig/BallPhysicsWorld; retain research attribution."
+    },
+    {
+      "source": "src/a3_pingpong_sim/randomization.py",
+      "target": "src/pingpong_physics/randomization.py",
+      "source_sha256": "4d418d898fea12121bfdd521f0fe8b32daeab40cfe95ce96810564ce082f2e8e",
+      "release_sha256": "712c4965aecb745b5bf02b068535346d312465d640d3a5336fcdcf63ee6b52b6",
+      "changes": "Use package-local YAML path so installed distributions include their default config. Trim trailing blank line at EOF."
+    },
+    {
+      "source": "src/a3_pingpong_sim/contracts.py",
+      "target": "src/pingpong_physics/contracts.py",
+      "source_sha256": "c3aab9dbf9bcbc34c9ea947cf3ce365721ea22df25c13a1bfb11bf3aafbc1d22",
+      "release_sha256": "e09471c126ede3b4e46a9e1c3a1b79c77efdb94a46cefeb7ca8300bfb7997d5d",
+      "changes": "Keep only the unchanged BallState and BallEvents definitions used by physics; omit planner and robot contracts."
+    },
+    {
+      "source": "configs/domain_randomization.yaml",
+      "target": "src/pingpong_physics/domain_randomization.yaml",
+      "source_sha256": "1b82c5529594c70e3b9bbe02844202881dd4ceee7beeb6fc97a7d516c59b53a3",
+      "release_sha256": "1b82c5529594c70e3b9bbe02844202881dd4ceee7beeb6fc97a7d516c59b53a3",
+      "changes": "none"
+    },
+    {
+      "source": "tests/test_dynamics.py",
+      "target": "tests/test_dynamics.py",
+      "source_sha256": "422b240745788a55e1d922cbaee0b9d4776ac7c64895ac40678105817b23dabd",
+      "release_sha256": "ca31d5ab009e516e451949a95715165325607b0b72a21b5b2c991e63d84a7c98",
+      "changes": "Update imports and neutral physics API names only."
+    },
+    {
+      "source": "tests/test_randomization.py",
+      "target": "tests/test_randomization.py",
+      "source_sha256": "b34ce1ac255ec7be430d6aeaed363e03c8617a4eb738563cea1e4d0b0aa10564",
+      "release_sha256": "541209125cdf5103bb6eb5a83657fdf0ba1f2f2697e81b016983f5cfc9239c12",
+      "changes": "Update imports and neutral physics API names only."
+    },
+    {
+      "source": "tests/conftest.py",
+      "target": "tests/conftest.py",
+      "source_sha256": "86157341de29dcac8fdd7e85d8d83973887aa8f20184eaeaea0ac2f97cd4227f",
+      "release_sha256": "bc2d89a2743b1c0d47cf81bc3612c7f1289753f718e57c06b6dee3ba2c4561d7",
+      "changes": "Trim trailing blank line at EOF."
+    }
+  ]
+}
