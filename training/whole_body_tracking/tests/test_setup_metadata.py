@@ -26,7 +26,7 @@ def test_editable_install_includes_subpackages_and_hydra_dependencies() -> None:
     assert "packages=find_packages()" in source
 
 
-def test_extension_metadata_is_hope_specific() -> None:
+def test_extension_metadata_uses_public_pingpong_names() -> None:
     metadata = (
         _ROOT
         / "source"
@@ -34,7 +34,7 @@ def test_extension_metadata_is_hope_specific() -> None:
         / "config"
         / "extension.toml"
     ).read_text(encoding="utf-8")
-    assert 'title = "HOPE Whole-Body Tracking"' in metadata
-    assert 'repository = "https://github.com/hitchopen/HOPE.git"' in metadata
+    assert 'title = "PingPong Whole-Body Training"' in metadata
+    assert 'repository = "https://github.com/Universeeeeeee/PingPong-Robot.git"' in metadata
     assert "Extension Template" not in metadata
     assert "IsaacLabExtensionTemplate" not in metadata
