@@ -479,8 +479,8 @@
       "source": "HOPE/hope_training/whole_body_tracking/tests/test_setup_metadata.py",
       "target": "training/whole_body_tracking/tests/test_setup_metadata.py",
       "source_sha256": "07e8783d49e5472912c857e08b305380c32853bdda995019dd1066bad2ed83a0",
-      "release_sha256": "07e8783d49e5472912c857e08b305380c32853bdda995019dd1066bad2ed83a0",
-      "modified": false
+      "release_sha256": "8833b10c7c7656108c0fd6410beaf76c3659883c2b5d9969c5498cd67fc32192",
+      "modified": true
     },
     {
       "source": "HOPE/hope_training/whole_body_tracking/tests/test_policy_contract.py",
