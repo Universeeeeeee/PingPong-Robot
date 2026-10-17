@@ -1,4 +1,4 @@
-# Third-party notices for training source releases
+# Third-party notices for source releases
 
 These notices apply to the files added by this batch. They do not relicense the
 repository's pre-existing code or imply that the full upstream project is included.
@@ -81,3 +81,24 @@ without those checks; this is not a claim of training or deployment readiness.
 - PyTorch, PyYAML, pytest and setuptools remain separately installed dependencies;
   their source and binaries are not vendored. Existing third-party license and
   copyright notices elsewhere in the repository are unchanged.
+
+## Batch 04: standalone C++ trajectory and racket target planning
+
+- Source: `hope_ws/src/hope_planner_cpp/` in
+  https://github.com/hitchopen/HOPE at
+  `d14886823fc72304c611d99ad6cdc105c51d3aca`. The upstream package declares
+  Apache-2.0, and its project notices identify planner contributions as
+  Apache-2.0. The original full license remains verbatim in
+  `LICENSES/HOPE-Apache-2.0.txt`.
+- Only two solver implementations, their headers, the required shared types
+  and the associated regression test file are derived from that package.
+  Source/release hashes and modifications are recorded in
+  `planner/cpp_core/SOURCE_MANIFEST.json`. Modified files carry a notice.
+- Namespace/include paths and person-derived model API names are neutralized
+  consistently across code and tests. Necessary Nakashima/Ace scientific
+  attribution remains in comments. No formulas, numerical defaults or numerical
+  test assertions are retuned. No external paper text is redistributed.
+- Eigen and GoogleTest are separately installed build/test dependencies with
+  their own licenses. No dependency source, header tree or binary is vendored.
+  ROS nodes/messages, hardware controls, raw data, checkpoints and weights are
+  excluded. This notice does not relicense other existing repository code.

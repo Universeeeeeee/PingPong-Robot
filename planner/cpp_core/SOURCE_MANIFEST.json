@@ -1,0 +1,63 @@
+{
+  "batch": "04",
+  "scope": "Standalone C++ trajectory prediction and racket target solve; no ROS nodes, training or hardware control",
+  "upstream_repository": "https://github.com/hitchopen/HOPE",
+  "upstream_revision": "d14886823fc72304c611d99ad6cdc105c51d3aca",
+  "target_base_commit": "018b92e188c5eb4c0b9792597d3799cf19cf6b33",
+  "license": "Apache-2.0; see ../../LICENSES/HOPE-Apache-2.0.txt and ../../THIRD_PARTY_NOTICES.md",
+  "changes": [
+    "Rename namespace/include paths to pingpong_planner and person-derived model identifiers to Coulomb terminology consistently in implementation, declarations and tests; retain scientific attribution comments.",
+    "Limit shared types to the seven data/configuration types used by the two solvers.",
+    "Adjust trajectory API comments to the standalone scope. Numerical defaults, formulas and upstream test assertions are unchanged.",
+    "Add SPDX identifiers and explicit modification notices to derivative source files."
+  ],
+  "imported_files": [
+    {
+      "source": "hope_ws/src/hope_planner_cpp/include/hope_planner_cpp/types.hpp",
+      "target": "include/pingpong_planner/types.hpp",
+      "source_sha256": "6c65813e548a1008498e5c2e4dc75c63dd808500f53952f1fa20f6317623b487",
+      "release_sha256": "0d223e9ffd831b1e8dd3400bd496c5926ef71caf62cf52bbcb1ec06646b2b52b",
+      "modified": true
+    },
+    {
+      "source": "hope_ws/src/hope_planner_cpp/include/hope_planner_cpp/trajectory_predictor.hpp",
+      "target": "include/pingpong_planner/trajectory_predictor.hpp",
+      "source_sha256": "80e99e7b9a9afbe007362a55e95846e22b38f57f1653ce626cf435a065dd3b16",
+      "release_sha256": "1d78515fddc06dcb11434b8f86135a7146ab54f02e0f6e8b4df8cc102de9ec73",
+      "modified": true
+    },
+    {
+      "source": "hope_ws/src/hope_planner_cpp/include/hope_planner_cpp/racket_target_planner.hpp",
+      "target": "include/pingpong_planner/racket_target_planner.hpp",
+      "source_sha256": "702810cc94ca033ce5200f0579e166424fb7d0194ef021e9767362f5fbca57fa",
+      "release_sha256": "c06e941f073146beaa77879de78568a28e8232e22e48ce1ce8e947301bbb4b16",
+      "modified": true
+    },
+    {
+      "source": "hope_ws/src/hope_planner_cpp/src/trajectory_predictor.cpp",
+      "target": "src/trajectory_predictor.cpp",
+      "source_sha256": "1db90aa069601991d4717ceb32788dcb9a15d477b5ff97aee1cd25fdf8e6742d",
+      "release_sha256": "6a29200cdbcbcc03c575591d3df9bd0ea0e6719049906b434e59dbd7ef0ce968",
+      "modified": true
+    },
+    {
+      "source": "hope_ws/src/hope_planner_cpp/src/racket_target_planner.cpp",
+      "target": "src/racket_target_planner.cpp",
+      "source_sha256": "dfd28c25ca42fd20c882384314d383f1a58238a006f2a356939748bd5b4939f4",
+      "release_sha256": "669ad7ddf9b05b814e7c80adc3dcf5573ee84d2c3cc11738d823cff270d95766",
+      "modified": true
+    },
+    {
+      "source": "hope_ws/src/hope_planner_cpp/test/test_trajectory_and_stage3.cpp",
+      "target": "tests/test_trajectory_and_stage3.cpp",
+      "source_sha256": "3a6407c38443cc0b32cc6fc3af00fd8ccfd3621f6e4673652377bb10c1e2fd92",
+      "release_sha256": "89c6cf1a4534362bba92a99ddc666971eb00a3bec3227ace9b83a060abf20729",
+      "modified": true
+    }
+  ],
+  "excluded": [
+    "ROS nodes/messages/launchers and hardware controls",
+    "state/spin estimators, transport and audit components",
+    "replay data, configurations for hardware, checkpoints and weights"
+  ]
+}
