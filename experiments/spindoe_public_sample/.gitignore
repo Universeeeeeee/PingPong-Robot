@@ -1,0 +1,10 @@
+.venv/
+.venv-runtime/
+.cache/
+upstream/
+upstream.tar.gz
+__pycache__/
+data/logo/sony_gcs_official.mp4
+outputs/
+*.log
+data/logo/.sony_parts/

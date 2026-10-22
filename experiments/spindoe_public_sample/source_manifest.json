@@ -1,0 +1,231 @@
+{
+  "repository": "https://github.com/cogsys-tuebingen/spindoe",
+  "commit": "ebc8a9eac32e42cdbe2978767ef0134d67dfc123",
+  "files": [
+    {
+      "path": "LICENSE",
+      "size": 11357,
+      "git_blob_sha1": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "README.md",
+      "size": 1733,
+      "git_blob_sha1": "4473ef6c6d926c74fbd4b9643451affb6f72a453"
+    },
+    {
+      "path": "cad/ref_pattern.csv",
+      "size": 1193,
+      "git_blob_sha1": "ee8b0e3fbde9a726692693df4a83b3f10f7e8d6d"
+    },
+    {
+      "path": "data/model/spindoe.ckpt",
+      "size": 20489777,
+      "git_blob_sha1": "b11716af1a8b978e98753005c3472e1bf0d82a72"
+    },
+    {
+      "path": "data/test/686338211101.png",
+      "size": 6256,
+      "git_blob_sha1": "15e8df0b3f8f57b547896811193491fcfd746641"
+    },
+    {
+      "path": "data/test/686340833945.png",
+      "size": 6419,
+      "git_blob_sha1": "31f2b102c7ffa048e9fea32ae6e9d83873ef427c"
+    },
+    {
+      "path": "data/test/686343457114.png",
+      "size": 6429,
+      "git_blob_sha1": "dcd4242b2db9f76b773b42c8f30de6c56eeab8e9"
+    },
+    {
+      "path": "data/test/686346079794.png",
+      "size": 6575,
+      "git_blob_sha1": "6202b2d66dbfe50e825bea08068ab0b1bb323312"
+    },
+    {
+      "path": "data/test/686348702150.png",
+      "size": 6663,
+      "git_blob_sha1": "ff459f98ea9e2be282996eb34aeb74a4eff751f2"
+    },
+    {
+      "path": "data/test/686351325685.png",
+      "size": 6824,
+      "git_blob_sha1": "45b1798516efcdf1767c71d951f5bd182260475d"
+    },
+    {
+      "path": "data/test/686353948731.png",
+      "size": 7021,
+      "git_blob_sha1": "0a8e2ae7c6499ec5832035c50b92d097287460a5"
+    },
+    {
+      "path": "data/test/686356571657.png",
+      "size": 6922,
+      "git_blob_sha1": "738879638db3dc9e864268a10785181706e22a5d"
+    },
+    {
+      "path": "data/test/686361817547.png",
+      "size": 7333,
+      "git_blob_sha1": "e28c56f34db20e45eb8b43326fc9b36c7cacee80"
+    },
+    {
+      "path": "data/test/686364440266.png",
+      "size": 7246,
+      "git_blob_sha1": "61698e8c1582d7a5c50861ce1080c32e699dd4c3"
+    },
+    {
+      "path": "data/test/686367063149.png",
+      "size": 7413,
+      "git_blob_sha1": "159b806b5f2537afc362155ce1c29c446530ad83"
+    },
+    {
+      "path": "data/test/686369686116.png",
+      "size": 7524,
+      "git_blob_sha1": "467af3b42399ec565c58e151c3c32aa2ca13d6ce"
+    },
+    {
+      "path": "data/test/686372308390.png",
+      "size": 7490,
+      "git_blob_sha1": "c4f8f3f91537bd3f99785b09822ba2633ee7d006"
+    },
+    {
+      "path": "data/test/686374932047.png",
+      "size": 7662,
+      "git_blob_sha1": "68d3992b7aaf82ef83f8d435ff89da63b2d0b4ad"
+    },
+    {
+      "path": "data/test/686377555135.png",
+      "size": 7671,
+      "git_blob_sha1": "2b48189f9c41ff23d5473075f19c3447a0feec46"
+    },
+    {
+      "path": "data/test/686382800618.png",
+      "size": 7742,
+      "git_blob_sha1": "f23136675432a725ce08aae7bc264231e6676cdd"
+    },
+    {
+      "path": "data/test/686385423624.png",
+      "size": 7934,
+      "git_blob_sha1": "9bd0b307f53d6e9e637594a28180e4fe9c0f81a3"
+    },
+    {
+      "path": "data/test/686390665201.png",
+      "size": 8095,
+      "git_blob_sha1": "1de582fa500a5313e847f89e1b25d6e81c497afd"
+    },
+    {
+      "path": "data/test/686393292440.png",
+      "size": 8036,
+      "git_blob_sha1": "6b974b7ae4812b6c8b5712bf3155b1161d009c5d"
+    },
+    {
+      "path": "data/test/686398538289.png",
+      "size": 8348,
+      "git_blob_sha1": "420fc42ca1e4ec346a5a1b4d63158d9be516be75"
+    },
+    {
+      "path": "data/test/686401161011.png",
+      "size": 8501,
+      "git_blob_sha1": "70703b8768af5aa88e8e180ad56d4db35011e416"
+    },
+    {
+      "path": "data/test/686403784139.png",
+      "size": 8463,
+      "git_blob_sha1": "0fdb706258a9b6e34603ab1a0f6191e80b14b7db"
+    },
+    {
+      "path": "python/baygeohasher.py",
+      "size": 12949,
+      "git_blob_sha1": "46741cc1926fe9eefb8111fed996dacef77d0d78"
+    },
+    {
+      "path": "python/benchmark_baygeohasher.py",
+      "size": 4427,
+      "git_blob_sha1": "00e49a68c6fd19a8b25f3c1bbcd3e09a1c417b67"
+    },
+    {
+      "path": "python/data_augmentation.py",
+      "size": 1913,
+      "git_blob_sha1": "9319174c181643bb5d7582fbea37dbee24f17b50"
+    },
+    {
+      "path": "python/doe.py",
+      "size": 9331,
+      "git_blob_sha1": "6ea83ab5499575e4cd1026bfe9a874bfb8eb4579"
+    },
+    {
+      "path": "python/dotdatamodule.py",
+      "size": 4037,
+      "git_blob_sha1": "992345c11271f3f8bdddb187363d8da2fad6f36a"
+    },
+    {
+      "path": "python/dotdataset.py",
+      "size": 5960,
+      "git_blob_sha1": "333d9db7fa1ea457410d1901379e330d8d9460f3"
+    },
+    {
+      "path": "python/dotdetector.py",
+      "size": 5046,
+      "git_blob_sha1": "a0401a97571c742eb6f00797b7a8cfaad2cd13d3"
+    },
+    {
+      "path": "python/gen_pattern.py",
+      "size": 6267,
+      "git_blob_sha1": "8c4ac550f1758cf898e0589214264b8209c9617c"
+    },
+    {
+      "path": "python/geohashing_MC.pkl",
+      "size": 1012,
+      "git_blob_sha1": "ed49848928e63c7a4b424f92413ad48049a43014"
+    },
+    {
+      "path": "python/kent_distr.py",
+      "size": 15747,
+      "git_blob_sha1": "83925005c4a6b07afc41b70c0a59381d78879ac1"
+    },
+    {
+      "path": "python/loss.py",
+      "size": 1439,
+      "git_blob_sha1": "13f322f6527fdf3296fe1c83e3fa8fd4138c9190"
+    },
+    {
+      "path": "python/plot_pattern.py",
+      "size": 1316,
+      "git_blob_sha1": "f29899d7c4ecd427e6a6e4ff2e07030514fa382e"
+    },
+    {
+      "path": "python/points_opt.csv",
+      "size": 1215,
+      "git_blob_sha1": "7edd6b4a7a63da6425ac35a8760700a6d6d23fa0"
+    },
+    {
+      "path": "python/spin_regressor.py",
+      "size": 12181,
+      "git_blob_sha1": "3cb3867ebc5f216b6f3cc96080c5a5a73f902b08"
+    },
+    {
+      "path": "python/spindoe.py",
+      "size": 5104,
+      "git_blob_sha1": "4d63aa490cb1370f731f912e407deb5017e61c9d"
+    },
+    {
+      "path": "python/test_dotdetector.py",
+      "size": 1263,
+      "git_blob_sha1": "56030aa68183bdf6c188e9d03dc2d7ae2305e996"
+    },
+    {
+      "path": "python/train_config.yaml",
+      "size": 604,
+      "git_blob_sha1": "c37387214b7453b46b11c624ef985f0a987a3888"
+    },
+    {
+      "path": "python/train_dotdetector.py",
+      "size": 264,
+      "git_blob_sha1": "ca26b90bb5085704c216b08d0c67c37b09b3ca50"
+    },
+    {
+      "path": "python/utils.py",
+      "size": 840,
+      "git_blob_sha1": "145d2ef10983ee2fb6f269ea73ac27ec35edd2e7"
+    }
+  ]
+}
