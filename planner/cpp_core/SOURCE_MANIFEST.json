@@ -9,14 +9,15 @@
     "Rename namespace/include paths to pingpong_planner and person-derived model identifiers to Coulomb terminology consistently in implementation, declarations and tests; retain scientific attribution comments.",
     "Limit shared types to the seven data/configuration types used by the two solvers.",
     "Adjust trajectory API comments to the standalone scope. Numerical defaults, formulas and upstream test assertions are unchanged.",
-    "Add SPDX identifiers and explicit modification notices to derivative source files."
+    "Add SPDX identifiers and explicit modification notices to derivative source files.",
+    "Replace tracking-vendor brand names in explanatory comments with generic terms; executable code and scientific attribution are unchanged."
   ],
   "imported_files": [
     {
       "source": "hope_ws/src/hope_planner_cpp/include/hope_planner_cpp/types.hpp",
       "target": "include/pingpong_planner/types.hpp",
       "source_sha256": "6c65813e548a1008498e5c2e4dc75c63dd808500f53952f1fa20f6317623b487",
-      "release_sha256": "0d223e9ffd831b1e8dd3400bd496c5926ef71caf62cf52bbcb1ec06646b2b52b",
+      "release_sha256": "79d6622e9ab0895db7925df3731f8dbea52eaf5924262ddfe5157291e7cae929",
       "modified": true
     },
     {
@@ -37,7 +38,7 @@
       "source": "hope_ws/src/hope_planner_cpp/src/trajectory_predictor.cpp",
       "target": "src/trajectory_predictor.cpp",
       "source_sha256": "1db90aa069601991d4717ceb32788dcb9a15d477b5ff97aee1cd25fdf8e6742d",
-      "release_sha256": "6a29200cdbcbcc03c575591d3df9bd0ea0e6719049906b434e59dbd7ef0ce968",
+      "release_sha256": "4d4bafa0488179442c8f2867542559e0fb01a4d5cac352b92934beae85bd88f1",
       "modified": true
     },
     {

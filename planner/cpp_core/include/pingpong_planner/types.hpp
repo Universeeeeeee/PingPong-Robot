@@ -22,7 +22,7 @@ struct BallPhysics {
   double restitution_v = 0.9215;
   // Nakashima/Ace Coulomb prior (not venue-fit).
   double coulomb_friction_mu = 0.25;
-  // Retained OptiTrack grip law from ball_physics_venue.yaml.  This is a
+  // Retained table-contact grip law from ball_physics_venue.yaml.  This is a
   // separate candidate from the Nakashima rolling-cap law above.
   double table_tangential_gain = 0.369;
   double table_friction_cap_mu = 2.0;

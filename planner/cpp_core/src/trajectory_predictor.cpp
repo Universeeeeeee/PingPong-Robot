@@ -350,7 +350,7 @@ StrikeTarget TrajectoryPredictor::predict_with_spin(
     Vec3 bounce_position = position;
     Vec3 post_velocity = velocity;
     double remaining_dt = dt;
-    // OptiTrack reports the ball center.  Contact therefore happens at
+    // Tracking samples report the ball center.  Contact therefore happens at
     // z=radius, not at the point-ball z=0 plane retained by the legacy path.
     const double contact_z = std::max(0.0, physics_.radius);
     if (position_new.z() < contact_z && velocity_new.z() < 0.0) {

@@ -13,6 +13,13 @@ Coordinates and time must match the supplied model: the default table spans
 `x=[0, length]`, `y=[-width, 0]`, with its surface at `z=0`; positions use metres
 and time uses seconds. Spin inputs use radians per second.
 
+## Validation status
+
+This draft is a source upload. The release has not been compiled or tested;
+CMake and Eigen are unavailable in the current review environment.
+The naming-only follow-up was checked statically and does not establish build
+or runtime correctness.
+
 ## Build
 
 Use CMake 3.16+, a C++17 compiler and a separately installed Eigen 3.3+.
