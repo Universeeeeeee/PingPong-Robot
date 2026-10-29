@@ -15,10 +15,11 @@ and time uses seconds. Spin inputs use radians per second.
 
 ## Validation status
 
-This draft is a source upload. The release has not been compiled or tested;
-CMake and Eigen are unavailable in the current review environment.
-The naming-only follow-up was checked statically and does not establish build
-or runtime correctness.
+Validated on macOS ARM64 on 2026-10-29 with AppleClang 21, CMake 4.4.5,
+Eigen 3.4.1 and GoogleTest 1.11.0: the Release library build and all six C++
+regression tests passed. Repository regressions also passed: 22 adapter tests
+and 13 foundation tests. These are local results; no remote CI runs were
+available. See [VALIDATION.md](VALIDATION.md) for commands and limits.
 
 ## Build
 
