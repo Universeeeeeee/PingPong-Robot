@@ -1,0 +1,41 @@
+[
+  {
+    "file": "DSP03F100025_20261029_221544.raw",
+    "bytes": 716230574,
+    "sha256": "ed87b5876ece9c4985bb088087e99f1cd41197e791b21de809fd2d68444bf652",
+    "sha256_matches_ubuntu": true,
+    "decoded_parts": 745,
+    "all_decoded_hashes_match_ubuntu": true,
+    "duration_s": 22.653717,
+    "events": 186030505,
+    "timestamp_regressions": 0,
+    "raw_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/raw/DSP03F100025_20261029_221544.raw",
+    "decoded_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/decoded/local_analysis_221544"
+  },
+  {
+    "file": "DSP03F100025_20261029_221756.raw",
+    "bytes": 180587775,
+    "sha256": "62ae9fb7d89b3ce225e39d6bc77b5a14853ed4bd49829ced2a09c84ddcdf8ddc",
+    "sha256_matches_ubuntu": true,
+    "decoded_parts": 138,
+    "all_decoded_hashes_match_ubuntu": true,
+    "duration_s": 35.689302,
+    "events": 34272883,
+    "timestamp_regressions": 0,
+    "raw_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/raw/DSP03F100025_20261029_221756.raw",
+    "decoded_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/decoded/local_analysis_221756"
+  },
+  {
+    "file": "DSP03F100025_20261029_222403.raw",
+    "bytes": 37888575,
+    "sha256": "304dc16c45b2e7d73a7cf8bd7300e2f9787b08b949f44a1f06059df99f79c2e7",
+    "sha256_matches_ubuntu": true,
+    "decoded_parts": 25,
+    "all_decoded_hashes_match_ubuntu": true,
+    "duration_s": 17.579495,
+    "events": 6020744,
+    "timestamp_regressions": 0,
+    "raw_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/raw/DSP03F100025_20261029_222403.raw",
+    "decoded_path": "/Users/vae/Projects/PingPongRobot/g1_spin/data/decoded/local_analysis_222403"
+  }
+]

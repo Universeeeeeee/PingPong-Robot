@@ -1,0 +1,74 @@
+[
+  {
+    "time_s": 0.3,
+    "ball_box_events": 38164,
+    "global_events": 133658,
+    "ball_box_fraction": 0.2855347229496177
+  },
+  {
+    "time_s": 2.3048833636363635,
+    "ball_box_events": 36208,
+    "global_events": 98311,
+    "ball_box_fraction": 0.36830059708476165
+  },
+  {
+    "time_s": 4.309766727272727,
+    "ball_box_events": 34527,
+    "global_events": 96652,
+    "ball_box_fraction": 0.3572300624922402
+  },
+  {
+    "time_s": 6.314650090909091,
+    "ball_box_events": 34239,
+    "global_events": 96340,
+    "ball_box_fraction": 0.35539755034253684
+  },
+  {
+    "time_s": 8.319533454545455,
+    "ball_box_events": 4208,
+    "global_events": 129088,
+    "ball_box_fraction": 0.032597917699553794
+  },
+  {
+    "time_s": 10.324416818181819,
+    "ball_box_events": 3397,
+    "global_events": 74878,
+    "ball_box_fraction": 0.04536713053233259
+  },
+  {
+    "time_s": 12.329300181818184,
+    "ball_box_events": 5044,
+    "global_events": 165858,
+    "ball_box_fraction": 0.030411556873952417
+  },
+  {
+    "time_s": 14.334183545454547,
+    "ball_box_events": 12383,
+    "global_events": 371464,
+    "ball_box_fraction": 0.03333566644412379
+  },
+  {
+    "time_s": 16.33906690909091,
+    "ball_box_events": 9299,
+    "global_events": 372960,
+    "ball_box_fraction": 0.02493296868296868
+  },
+  {
+    "time_s": 18.343950272727273,
+    "ball_box_events": 8522,
+    "global_events": 422208,
+    "ball_box_fraction": 0.020184364104896164
+  },
+  {
+    "time_s": 20.348833636363636,
+    "ball_box_events": 5779,
+    "global_events": 369174,
+    "ball_box_fraction": 0.01565386511509478
+  },
+  {
+    "time_s": 22.353717,
+    "ball_box_events": 5626,
+    "global_events": 371542,
+    "ball_box_fraction": 0.015142298851812177
+  }
+]

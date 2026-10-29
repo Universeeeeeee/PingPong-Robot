@@ -1,0 +1,74 @@
+[
+  {
+    "path": "outputs/demo_final/1000rpm/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/2000rpm/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/3000rpm/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/500rpm/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/background_noise/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/empty/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/demo_final/reverse/event_preview.mp4",
+    "decoded_frames": 15,
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  {
+    "path": "outputs/raw_check/preview.mp4",
+    "decoded_frames": 50,
+    "shape": [
+      720,
+      1280,
+      3
+    ]
+  }
+]

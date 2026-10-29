@@ -1,0 +1,379 @@
+[
+  {
+    "source": "outputs/demo_final/500rpm/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 500,
+      "axis": [
+        0.3,
+        0.7,
+        0.6
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 501.01501525824216,
+    "rpm_std": 4.079750748162019,
+    "runtime_s": 0.8055326539997623,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 1.0150152582421583,
+    "rpm_relative_error": 0.0020300305164843166,
+    "median_axis_error_deg": 4.181785463807206,
+    "case": "500rpm",
+    "period_baseline": {
+      "valid": true,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": 500.00000000000006,
+      "candidate_frequency_hz": 8.333333333333334,
+      "period_strength": 0.7990972453878556,
+      "candidates_hz": [
+        8.333333333333334,
+        16.666666666666668,
+        800.0,
+        400.0,
+        25.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": null,
+      "autocorrelation": 0.8000000000000004,
+      "runtime_s": 0.0002361229999223724,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.004288318001272273,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/1000rpm/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 1000,
+      "axis": [
+        0.3,
+        0.7,
+        0.6
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 1022.2135259370216,
+    "rpm_std": 21.120568852940796,
+    "runtime_s": 0.85339750699859,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 22.213525937021586,
+    "rpm_relative_error": 0.022213525937021587,
+    "median_axis_error_deg": 1.7385768834783217,
+    "case": "1000rpm",
+    "period_baseline": {
+      "valid": true,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": 1000.0000000000001,
+      "candidate_frequency_hz": 16.666666666666668,
+      "period_strength": 0.8017858576234436,
+      "candidates_hz": [
+        16.666666666666668,
+        33.333333333333336,
+        400.0,
+        800.0,
+        50.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": null,
+      "autocorrelation": 0.9,
+      "runtime_s": 0.0002674939987628022,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.002840569000909454,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/2000rpm/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 2000,
+      "axis": [
+        -0.5,
+        0.2,
+        0.8
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 2010.344026661186,
+    "rpm_std": 4.2722400935114155,
+    "runtime_s": 0.8387898090004455,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 10.344026661186035,
+    "rpm_relative_error": 0.005172013330593018,
+    "median_axis_error_deg": 0.23737730293819043,
+    "case": "2000rpm",
+    "period_baseline": {
+      "valid": true,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": 2000.0000000000002,
+      "candidate_frequency_hz": 33.333333333333336,
+      "period_strength": 0.5297057803608957,
+      "candidates_hz": [
+        33.333333333333336,
+        800.0,
+        66.66666666666667,
+        400.0,
+        300.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": null,
+      "autocorrelation": 0.9499999999999998,
+      "runtime_s": 0.00020840299839619547,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.001932589000716689,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/3000rpm/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 3000,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 3000.033609531889,
+    "rpm_std": 0.0039009785716167195,
+    "runtime_s": 0.8028372520002449,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 0.033609531888942,
+    "rpm_relative_error": 1.1203177296314e-05,
+    "median_axis_error_deg": 0.8501941662802033,
+    "case": "3000rpm",
+    "period_baseline": {
+      "valid": false,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": null,
+      "candidate_frequency_hz": null,
+      "period_strength": 0.49999993717520974,
+      "candidates_hz": [
+        800.0,
+        400.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": "weak_or_ambiguous_periodicity",
+      "autocorrelation": -0.24937499999999926,
+      "runtime_s": 0.0001982220001082169,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.0019355399999767542,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/reverse/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": -1000,
+      "axis": [
+        0.3,
+        0.7,
+        0.6
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 997.1588612859076,
+    "rpm_std": 1.73876346526484,
+    "runtime_s": 0.8635880509991694,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 2.8411387140923807,
+    "rpm_relative_error": 0.0028411387140923807,
+    "median_axis_error_deg": 0.5606436150220652,
+    "case": "reverse",
+    "period_baseline": {
+      "valid": true,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": 1000.0000000000001,
+      "candidate_frequency_hz": 16.666666666666668,
+      "period_strength": 0.7897352721782499,
+      "candidates_hz": [
+        16.666666666666668,
+        33.333333333333336,
+        400.0,
+        800.0,
+        50.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": null,
+      "autocorrelation": 0.8999999999999998,
+      "runtime_s": 0.0002277410003443947,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.003122735999568249,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/background_noise/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 1000,
+      "axis": [
+        0.3,
+        0.7,
+        0.6
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 1.0,
+    "median_rpm": 1022.1844881084274,
+    "rpm_std": 20.408400562574915,
+    "runtime_s": 0.8808182829998259,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "rpm_absolute_error": 22.184488108427445,
+    "rpm_relative_error": 0.022184488108427446,
+    "median_axis_error_deg": 1.737753979063446,
+    "case": "background_noise",
+    "period_baseline": {
+      "valid": true,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": 1000.0000000000001,
+      "candidate_frequency_hz": 16.666666666666668,
+      "period_strength": 0.7746249329909981,
+      "candidates_hz": [
+        16.666666666666668,
+        33.333333333333336,
+        400.0,
+        800.0,
+        50.0
+      ],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": null,
+      "autocorrelation": 0.8776668952065554,
+      "runtime_s": 0.0002458610015310114,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {
+        "accepted_planes": 0
+      },
+      "failure_reason": "insufficient_stable_local_planes",
+      "runtime_s": 0.002821785999913118,
+      "duration_s": 0.03
+    }
+  },
+  {
+    "source": "outputs/demo_final/empty/synthetic.npz",
+    "synthetic_truth": {
+      "rpm": 0,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "model": "idealized_surface_landmarks"
+    },
+    "window_count": 3,
+    "valid_fraction": 0.0,
+    "median_rpm": null,
+    "rpm_std": null,
+    "runtime_s": 0.0005481030002556508,
+    "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+    "case": "empty",
+    "period_baseline": {
+      "valid": false,
+      "method": "event_rate_periodicity",
+      "candidate_rpm": null,
+      "candidate_frequency_hz": null,
+      "period_strength": null,
+      "candidates_hz": [],
+      "ambiguity": "Event repetition may be a harmonic, illumination flicker, or unrelated to spin.",
+      "failure_reason": "insufficient_events",
+      "runtime_s": 4.285000613890588e-06,
+      "duration_s": 0.6
+    },
+    "flow_baseline": {
+      "valid": false,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "quality": {},
+      "failure_reason": "insufficient_events",
+      "runtime_s": 7.036000170046464e-06,
+      "duration_s": 0.03
+    }
+  }
+]

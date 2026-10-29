@@ -1,0 +1,8 @@
+{
+  "frames": 15,
+  "fps": 50,
+  "window_ms": 2,
+  "playback_speed": 0.1,
+  "timestamp_unit": "us",
+  "source": "outputs/demo_final/empty/synthetic.npz"
+}

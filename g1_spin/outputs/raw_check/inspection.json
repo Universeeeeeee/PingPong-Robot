@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "width": 1280,
+    "height": 720,
+    "timestamp_unit": "us",
+    "source": "/home/pingpong1/g1_spin/data/raw/G1_CONNECTIVITY_TEST_20261029_210504.raw",
+    "synthetic": null,
+    "sdk_index_start_us": 9959239,
+    "sdk_index_end_us": 12997718,
+    "sdk_indexed_events": 840449,
+    "decoder": "official dvsense_driver 1.3.0 RawFileReader",
+    "completeness": "SDK-decoded CD events; real G1 RAW acceptance pending; see docs/sdk_validation.md"
+  },
+  "events": 840449,
+  "start_us": 9959239,
+  "end_us": 12997713,
+  "duration_s": 3.038474,
+  "mean_events_s": 276602.3339347317,
+  "on_fraction": 0.29759568992288643,
+  "off_fraction": 0.7024043100771136,
+  "timestamp_regressions": 0,
+  "duplicate_timestamps": 107022,
+  "max_gap_us": 49
+}
