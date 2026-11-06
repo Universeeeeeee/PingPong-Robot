@@ -1,0 +1,360 @@
+[
+  {
+    "run": 1,
+    "method": "G",
+    "planned": 18,
+    "geometry_available": 14,
+    "input_eligible": 14,
+    "initialization_available": null,
+    "search_executed": 14,
+    "common_nonzero_evidence": 14,
+    "measurement_valid": 14,
+    "native_statuses": {
+      "accepted": 14,
+      "not_executed": 4
+    },
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": 264.67693981563093,
+    "candidate_rpm_median_including_rejected": 264.67693981563093,
+    "pipeline_s_median_on_input_eligible": 0.6860478544258513,
+    "pipeline_s_median_on_measurements": 0.6860478544258513,
+    "cost_note": "G search cost"
+  },
+  {
+    "run": 1,
+    "method": "A",
+    "planned": 18,
+    "geometry_available": 14,
+    "input_eligible": 14,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "literal_text_initializer_failed": 14,
+      "not_executed": 4
+    },
+    "failures": {
+      "insufficient_flow_constraints": 14,
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.012198104406706989,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 1,
+    "method": "S",
+    "planned": 18,
+    "geometry_available": 14,
+    "input_eligible": 14,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "insufficient_flow_constraints": 14,
+      "not_executed": 4
+    },
+    "failures": {
+      "insufficient_flow_constraints": 14,
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.012196958938147873,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 5,
+    "method": "G",
+    "planned": 39,
+    "geometry_available": 32,
+    "input_eligible": 20,
+    "initialization_available": null,
+    "search_executed": 20,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "insufficient_events": 12,
+      "no_rotation_evidence": 20,
+      "not_executed": 7
+    },
+    "failures": {
+      "insufficient_events": 12,
+      "no_rotation_evidence": 20,
+      "geometry_unavailable": 7
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": 57.396731175710684,
+    "pipeline_s_median_on_input_eligible": 0.20853781251935288,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "G search cost"
+  },
+  {
+    "run": 5,
+    "method": "A",
+    "planned": 39,
+    "geometry_available": 32,
+    "input_eligible": 20,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "literal_text_initializer_failed": 32,
+      "not_executed": 7
+    },
+    "failures": {
+      "insufficient_events": 12,
+      "insufficient_flow_constraints": 20,
+      "geometry_unavailable": 7
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.0057264589704573154,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 5,
+    "method": "S",
+    "planned": 39,
+    "geometry_available": 32,
+    "input_eligible": 20,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "insufficient_flow_constraints": 32,
+      "not_executed": 7
+    },
+    "failures": {
+      "insufficient_events": 12,
+      "insufficient_flow_constraints": 20,
+      "geometry_unavailable": 7
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.005723541951738298,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 2,
+    "method": "G",
+    "planned": 12,
+    "geometry_available": 12,
+    "input_eligible": 12,
+    "initialization_available": null,
+    "search_executed": 12,
+    "common_nonzero_evidence": 11,
+    "measurement_valid": 11,
+    "native_statuses": {
+      "accepted": 11,
+      "no_rotation_evidence": 1
+    },
+    "failures": {
+      "no_rotation_evidence": 1
+    },
+    "measurement_rpm_median": 257.9799530103649,
+    "candidate_rpm_median_including_rejected": 257.8633657081689,
+    "pipeline_s_median_on_input_eligible": 0.7309464159770869,
+    "pipeline_s_median_on_measurements": 0.7399608740815893,
+    "cost_note": "G search cost"
+  },
+  {
+    "run": 2,
+    "method": "A",
+    "planned": 12,
+    "geometry_available": 12,
+    "input_eligible": 12,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "literal_text_initializer_failed": 12
+    },
+    "failures": {
+      "insufficient_flow_constraints": 12
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.015353979484643787,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 2,
+    "method": "S",
+    "planned": 12,
+    "geometry_available": 12,
+    "input_eligible": 12,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "insufficient_flow_constraints": 12
+    },
+    "failures": {
+      "insufficient_flow_constraints": 12
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.015352770977187902,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 3,
+    "method": "G",
+    "planned": 12,
+    "geometry_available": 8,
+    "input_eligible": 8,
+    "initialization_available": null,
+    "search_executed": 8,
+    "common_nonzero_evidence": 8,
+    "measurement_valid": 8,
+    "native_statuses": {
+      "accepted": 8,
+      "not_executed": 4
+    },
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": 271.9410351908348,
+    "candidate_rpm_median_including_rejected": 271.9410351908348,
+    "pipeline_s_median_on_input_eligible": 0.7449719795258716,
+    "pipeline_s_median_on_measurements": 0.7449719795258716,
+    "cost_note": "G search cost"
+  },
+  {
+    "run": 3,
+    "method": "A",
+    "planned": 12,
+    "geometry_available": 8,
+    "input_eligible": 8,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "literal_text_initializer_failed": 8,
+      "not_executed": 4
+    },
+    "failures": {
+      "insufficient_flow_constraints": 8,
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.013030061963945627,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 3,
+    "method": "S",
+    "planned": 12,
+    "geometry_available": 8,
+    "input_eligible": 8,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "insufficient_flow_constraints": 8,
+      "not_executed": 4
+    },
+    "failures": {
+      "insufficient_flow_constraints": 8,
+      "geometry_unavailable": 4
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.013028520508669317,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 4,
+    "method": "G",
+    "planned": 27,
+    "geometry_available": 22,
+    "input_eligible": 22,
+    "initialization_available": null,
+    "search_executed": 22,
+    "common_nonzero_evidence": 20,
+    "measurement_valid": 20,
+    "native_statuses": {
+      "not_executed": 5,
+      "accepted": 20,
+      "no_rotation_evidence": 2
+    },
+    "failures": {
+      "geometry_unavailable": 5,
+      "no_rotation_evidence": 2
+    },
+    "measurement_rpm_median": 249.4803932702487,
+    "candidate_rpm_median_including_rejected": 242.8601598255104,
+    "pipeline_s_median_on_input_eligible": 0.8059004999813624,
+    "pipeline_s_median_on_measurements": 0.7545225834473968,
+    "cost_note": "G search cost"
+  },
+  {
+    "run": 4,
+    "method": "A",
+    "planned": 27,
+    "geometry_available": 22,
+    "input_eligible": 22,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "not_executed": 5,
+      "literal_text_initializer_failed": 22
+    },
+    "failures": {
+      "geometry_unavailable": 5,
+      "insufficient_flow_constraints": 22
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.012157312536146492,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  },
+  {
+    "run": 4,
+    "method": "S",
+    "planned": 27,
+    "geometry_available": 22,
+    "input_eligible": 22,
+    "initialization_available": 0,
+    "search_executed": 0,
+    "common_nonzero_evidence": 0,
+    "measurement_valid": 0,
+    "native_statuses": {
+      "not_executed": 5,
+      "insufficient_flow_constraints": 22
+    },
+    "failures": {
+      "geometry_unavailable": 5,
+      "insufficient_flow_constraints": 22
+    },
+    "measurement_rpm_median": null,
+    "candidate_rpm_median_including_rejected": null,
+    "pipeline_s_median_on_input_eligible": 0.012155792559497058,
+    "pipeline_s_median_on_measurements": null,
+    "cost_note": "Failure-only plane extraction+LS cost; no real A/S searches or speed comparison"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "width": 1280,
+  "height": 720,
+  "timestamp_unit": "us",
+  "source": "/home/pingpong1/g1_spin/data/raw/DSP03F100025_20261105_201123.raw",
+  "synthetic": null,
+  "sdk_index_start_us": 1027211178,
+  "sdk_index_end_us": 1033812550,
+  "sdk_indexed_events": 6325974,
+  "decoder": "official dvsense_driver 1.3.0 RawFileReader",
+  "completeness": "SDK-decoded CD events; real G1 RAW acceptance pending; see docs/sdk_validation.md",
+  "parts": [
+    "part_0000.npy",
+    "part_0001.npy",
+    "part_0002.npy",
+    "part_0003.npy",
+    "part_0004.npy",
+    "part_0005.npy",
+    "part_0006.npy"
+  ],
+  "statistics": {
+    "events": 6325974,
+    "on": 2508207,
+    "off": 3817767,
+    "first_timestamp_us": 1027211179,
+    "last_timestamp_us": 1033812550,
+    "duration_us": 6601371,
+    "mean_events_per_second": 958281.8478161582,
+    "timestamp_regressions": 0,
+    "equal_adjacent_timestamps": 2268034,
+    "max_forward_gap_us": 18,
+    "gaps_over_threshold": 0,
+    "gap_threshold_us": 100000,
+    "invalid_events": 0,
+    "note": "Equal timestamps are valid. Gaps do not alone prove packet loss. CD events only; triggers are separate."
+  },
+  "sha256": "4f44e323556d2b005e32825245455189470b0d9025e0319035567d95d64f8dcd",
+  "raw_unchanged": true,
+  "source_size_bytes": 34763776,
+  "recording_order": 2
+}

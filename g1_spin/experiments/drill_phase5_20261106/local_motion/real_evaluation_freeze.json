@@ -1,0 +1,21 @@
+{
+  "stage": "After T-only models/qualification/global systems, before first dev H/future evaluation",
+  "date": "2026-11-07",
+  "tau_px": 0.5,
+  "files": {
+    "tau_freeze.json": "66fa11d3af89ad6d3ffd623daa7f47bab0aa7024b46e064fb05784e8c55d9f08",
+    "evaluate_real.py": "2d365af6890f49afdcee0f4cdde078c1d3d07a75f722ee35a0abd01ab3f2c29d",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "qualify_training.py": "182093b0f1859541987ec5f7e195e85525523c9075f3f119a70fcd67a71d9a12",
+    "real/development_training_qualification.json": "102a05554342e03f43df3d0b03dbbfb982c7802965e060bdd253e5469a4c4f8f",
+    "real/development_T_global_systems.json": "fc4f4e99f8d67149eedfe32fdf08b82854952b210a28b35fd049770e63799326",
+    "real/development_qualification_freeze.json": "cec3639d93f01869fba75efde0936ffcc2c3a83af09c0c4f55409e75aca27fb3"
+  },
+  "bootstrap_min_valid": 24,
+  "normal_P95_max_deg": 15,
+  "static_max_abs_speed_px_s": 50,
+  "motion_resolution": "Conservative next1ms prediction displacement |vn|*.001 must be>=tau; below resolution is unidentifiable",
+  "nonzero": "T-qualified and abs(v)>max50,2delta_v; H/future support, bothP95<=tau and bothmean gains>=.20; actual min gain>all>=15 valid19 separately shuffled statistics",
+  "stationary": "T static-compatible, H/future supports and static-line P95<=tau; only stationary_constraint, never nonzero success",
+  "constraint_selection": "T-only; H/future never prune constraints or refit global systems"
+}

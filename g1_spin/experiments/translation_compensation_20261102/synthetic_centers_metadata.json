@@ -1,0 +1,10 @@
+{
+  "image_plane": "G1 image plane",
+  "center_semantics": "ball_center",
+  "timebase": "synthetic integer microseconds from first generated sample",
+  "source": "synthetic.generate ideal point geometry plus imposed translation",
+  "synchronization_verified": true,
+  "synchronization_basis": "constructed using exactly the same integer event times",
+  "center_error": "exact imposed synthetic center; real center error unknown",
+  "data_kind": "controlled_synthetic_not_G1_recording"
+}

@@ -1,0 +1,30 @@
+{
+  "stage": "task1+3 before any synthetic estimator result",
+  "files": {
+    "protocol.md": "e8420b2db07ee45745d57097439fc9c60c3d670c8c3a7ffb24f2a7d1459ec0d8",
+    "generate.py": "ab69acd18b7092c9c656ea06765a90e9048be3eefe35c74b9f788da43f83b110",
+    "common.py": "43709bf4bcc6e074cda947a0aa8d4d562693b8f0adb347d6089c8d82b834dea8",
+    "run_synthetic.py": "7c4442dea5509395468d4797cf917d5a8c260d6c72afb502318058e8254c7e92",
+    "generation_config.json": "061eb485633c7b12260d697f9a140f9bde161b5cdd7aa10a12f8956c206f9649",
+    "generation.json": "e803bf165a56605c896a1ce19b551a904bc91a5eaa2a65ad8a5ac2a6e0ea7a06",
+    "source_hashes.json": "5ab441c68e3bb1b4713b355db335c002fd3a11267f6ba4010cd6ed7748e2d878",
+    "frozen/stage3_test_math.py": "2c08aa0d37712e2338386b34d9cc4b4ad1f3906c2cdac78d4d607f31437139dd",
+    "frozen/stage3_methods.py": "00541b97b6fc6112d250ec813ebcb560797f8042dc635d1eec4928370dcfd1e9",
+    "frozen/stage3_flow.py": "3fd81056dd12e41e93b276f854deae323058e5dddad7cee2481fe68532f3c914",
+    "frozen/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+    "frozen/optical_flow.py": "26f9d2267eee8adf449f7286fea05c5ab7148c5ab38dbedbbe6a666d59994f5e",
+    "frozen/stage3_verify.py": "b556a332a4e5e00fd3c3ce01e053c23dd470007837adc31f05671b351ebf9587",
+    "inputs/mixed_geometry.json": "1fdae97f30d3992bceb306f1e7d2373dae92cfca4faecfa5084e074101f8b960",
+    "inputs/translation.npz": "d8e7e05f88f3164f7294bca06b725b1579611fa3ba8687a9de22688fd0f1ca9d",
+    "inputs/second_geometry.json": "c69d91f853a07132f8e2fa89b8f4c7b1a5d1a27f7f534ce858bdb25256c6175c",
+    "inputs/reverse_geometry.json": "c69d91f853a07132f8e2fa89b8f4c7b1a5d1a27f7f534ce858bdb25256c6175c",
+    "inputs/zero.npz": "30481c8c705c03e4726c4354a7dbf18584402232096beb81f80e63ae0800dcf2",
+    "inputs/translation_geometry.json": "1fdae97f30d3992bceb306f1e7d2373dae92cfca4faecfa5084e074101f8b960",
+    "inputs/mixed.npz": "8519588cc42b9a8e600b3e4e18d7e032943d124e0cf10bccc6bb7211d86d4bcf",
+    "inputs/reverse.npz": "894de07dbf27f1f8ff9c51bdde0fc442a2251dac934595294f40f71ff5a82975",
+    "inputs/base.npz": "2f6760f7412267286486a9aa69b5a2f09b2f8e2be8d3110f2817ee0552782b5d",
+    "inputs/second.npz": "43c901fde54928aa93780e4cbf52bfc4672f09dbfb6895d65e71edb6893a5970",
+    "inputs/base_geometry.json": "c69d91f853a07132f8e2fa89b8f4c7b1a5d1a27f7f534ce858bdb25256c6175c",
+    "inputs/zero_geometry.json": "c69d91f853a07132f8e2fa89b8f4c7b1a5d1a27f7f534ce858bdb25256c6175c"
+  }
+}

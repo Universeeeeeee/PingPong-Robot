@@ -1,0 +1,1563 @@
+[
+  {
+    "attempt": "run1_1_2",
+    "selected_peak_unchanged": {
+      "period_s": 0.482,
+      "frequency_hz": 2.074688796680498,
+      "rpm_if_one_repeat_per_rotation": 124.48132780082987,
+      "similarity": 0.9197309369685631,
+      "pairs": 259
+    },
+    "all_peaks": [
+      {
+        "period_s": 0.482,
+        "frequency_hz": 2.074688796680498,
+        "rpm_if_one_repeat_per_rotation": 124.48132780082987,
+        "similarity": 0.9197309369685631,
+        "pairs": 259
+      },
+      {
+        "period_s": 0.242,
+        "frequency_hz": 4.132231404958678,
+        "rpm_if_one_repeat_per_rotation": 247.93388429752068,
+        "similarity": 0.8166265466066249,
+        "pairs": 379
+      },
+      {
+        "period_s": 0.088,
+        "frequency_hz": 11.363636363636365,
+        "rpm_if_one_repeat_per_rotation": 681.8181818181819,
+        "similarity": 0.13469964381569466,
+        "pairs": 456
+      },
+      {
+        "period_s": 0.33,
+        "frequency_hz": 3.0303030303030303,
+        "rpm_if_one_repeat_per_rotation": 181.8181818181818,
+        "similarity": 0.1337288765804773,
+        "pairs": 335
+      },
+      {
+        "period_s": 0.152,
+        "frequency_hz": 6.578947368421053,
+        "rpm_if_one_repeat_per_rotation": 394.7368421052632,
+        "similarity": 0.12711559348323903,
+        "pairs": 424
+      },
+      {
+        "period_s": 0.394,
+        "frequency_hz": 2.5380710659898478,
+        "rpm_if_one_repeat_per_rotation": 152.28426395939087,
+        "similarity": 0.1256411183494463,
+        "pairs": 303
+      },
+      {
+        "period_s": 0.406,
+        "frequency_hz": 2.463054187192118,
+        "rpm_if_one_repeat_per_rotation": 147.7832512315271,
+        "similarity": 0.12393819324560248,
+        "pairs": 297
+      },
+      {
+        "period_s": 0.164,
+        "frequency_hz": 6.097560975609756,
+        "rpm_if_one_repeat_per_rotation": 365.8536585365853,
+        "similarity": 0.11957638767410042,
+        "pairs": 418
+      },
+      {
+        "period_s": 0.076,
+        "frequency_hz": 13.157894736842106,
+        "rpm_if_one_repeat_per_rotation": 789.4736842105264,
+        "similarity": 0.10495966616646271,
+        "pairs": 462
+      },
+      {
+        "period_s": 0.318,
+        "frequency_hz": 3.144654088050314,
+        "rpm_if_one_repeat_per_rotation": 188.67924528301887,
+        "similarity": 0.10243733674498005,
+        "pairs": 341
+      },
+      {
+        "period_s": 0.35000000000000003,
+        "frequency_hz": 2.8571428571428568,
+        "rpm_if_one_repeat_per_rotation": 171.42857142857142,
+        "similarity": 0.07065335976345798,
+        "pairs": 325
+      },
+      {
+        "period_s": 0.11,
+        "frequency_hz": 9.090909090909092,
+        "rpm_if_one_repeat_per_rotation": 545.4545454545455,
+        "similarity": 0.06970993914726001,
+        "pairs": 445
+      },
+      {
+        "period_s": 0.132,
+        "frequency_hz": 7.575757575757575,
+        "rpm_if_one_repeat_per_rotation": 454.5454545454545,
+        "similarity": 0.06651019732495635,
+        "pairs": 434
+      },
+      {
+        "period_s": 0.372,
+        "frequency_hz": 2.6881720430107525,
+        "rpm_if_one_repeat_per_rotation": 161.29032258064515,
+        "similarity": 0.0644503429424679,
+        "pairs": 314
+      },
+      {
+        "period_s": 0.056,
+        "frequency_hz": 17.857142857142858,
+        "rpm_if_one_repeat_per_rotation": 1071.4285714285713,
+        "similarity": 0.05115293701837189,
+        "pairs": 472
+      },
+      {
+        "period_s": 0.426,
+        "frequency_hz": 2.347417840375587,
+        "rpm_if_one_repeat_per_rotation": 140.8450704225352,
+        "similarity": 0.050898233689421556,
+        "pairs": 287
+      },
+      {
+        "period_s": 0.184,
+        "frequency_hz": 5.434782608695652,
+        "rpm_if_one_repeat_per_rotation": 326.0869565217391,
+        "similarity": 0.05033523397388562,
+        "pairs": 408
+      },
+      {
+        "period_s": 0.298,
+        "frequency_hz": 3.3557046979865772,
+        "rpm_if_one_repeat_per_rotation": 201.34228187919464,
+        "similarity": 0.050215565149429334,
+        "pairs": 351
+      },
+      {
+        "period_s": 0.17400000000000002,
+        "frequency_hz": 5.747126436781609,
+        "rpm_if_one_repeat_per_rotation": 344.8275862068965,
+        "similarity": 0.04789058193816874,
+        "pairs": 413
+      },
+      {
+        "period_s": 0.066,
+        "frequency_hz": 15.15151515151515,
+        "rpm_if_one_repeat_per_rotation": 909.090909090909,
+        "similarity": 0.0461664532186106,
+        "pairs": 467
+      },
+      {
+        "period_s": 0.306,
+        "frequency_hz": 3.2679738562091503,
+        "rpm_if_one_repeat_per_rotation": 196.07843137254903,
+        "similarity": 0.045252144703404544,
+        "pairs": 347
+      },
+      {
+        "period_s": 0.434,
+        "frequency_hz": 2.3041474654377883,
+        "rpm_if_one_repeat_per_rotation": 138.24884792626727,
+        "similarity": 0.0426592942402275,
+        "pairs": 283
+      },
+      {
+        "period_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "rpm_if_one_repeat_per_rotation": 166.66666666666669,
+        "similarity": 0.034880334326830784,
+        "pairs": 320
+      },
+      {
+        "period_s": 0.12,
+        "frequency_hz": 8.333333333333334,
+        "rpm_if_one_repeat_per_rotation": 500.0,
+        "similarity": 0.034089634946051814,
+        "pairs": 440
+      },
+      {
+        "period_s": 0.444,
+        "frequency_hz": 2.2522522522522523,
+        "rpm_if_one_repeat_per_rotation": 135.13513513513513,
+        "similarity": 0.03285258072951266,
+        "pairs": 278
+      },
+      {
+        "period_s": 0.20400000000000001,
+        "frequency_hz": 4.901960784313725,
+        "rpm_if_one_repeat_per_rotation": 294.11764705882354,
+        "similarity": 0.03182993868284678,
+        "pairs": 398
+      },
+      {
+        "period_s": 0.278,
+        "frequency_hz": 3.597122302158273,
+        "rpm_if_one_repeat_per_rotation": 215.82733812949638,
+        "similarity": 0.030117835481248516,
+        "pairs": 361
+      },
+      {
+        "period_s": 0.038,
+        "frequency_hz": 26.315789473684212,
+        "rpm_if_one_repeat_per_rotation": 1578.9473684210527,
+        "similarity": 0.03006822365254952,
+        "pairs": 481
+      },
+      {
+        "period_s": 0.46,
+        "frequency_hz": 2.1739130434782608,
+        "rpm_if_one_repeat_per_rotation": 130.43478260869566,
+        "similarity": 0.026392011836222563,
+        "pairs": 270
+      },
+      {
+        "period_s": 0.22,
+        "frequency_hz": 4.545454545454546,
+        "rpm_if_one_repeat_per_rotation": 272.72727272727275,
+        "similarity": 0.02545726913386231,
+        "pairs": 390
+      },
+      {
+        "period_s": 0.262,
+        "frequency_hz": 3.8167938931297707,
+        "rpm_if_one_repeat_per_rotation": 229.00763358778624,
+        "similarity": 0.024411168982282832,
+        "pairs": 369
+      }
+    ],
+    "half_double_peak_pairs": [
+      {
+        "peak_indices": [
+          0,
+          1
+        ],
+        "period_ratio": 1.9917355371900827
+      },
+      {
+        "peak_indices": [
+          1,
+          23
+        ],
+        "period_ratio": 2.0166666666666666
+      },
+      {
+        "peak_indices": [
+          2,
+          18
+        ],
+        "period_ratio": 1.9772727272727275
+      },
+      {
+        "peak_indices": [
+          3,
+          7
+        ],
+        "period_ratio": 2.0121951219512195
+      },
+      {
+        "peak_indices": [
+          4,
+          8
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          4,
+          17
+        ],
+        "period_ratio": 1.9605263157894737
+      },
+      {
+        "peak_indices": [
+          4,
+          20
+        ],
+        "period_ratio": 2.013157894736842
+      },
+      {
+        "peak_indices": [
+          5,
+          25
+        ],
+        "period_ratio": 1.9313725490196079
+      },
+      {
+        "peak_indices": [
+          6,
+          25
+        ],
+        "period_ratio": 1.9901960784313726
+      },
+      {
+        "peak_indices": [
+          7,
+          9
+        ],
+        "period_ratio": 1.9390243902439024
+      },
+      {
+        "peak_indices": [
+          8,
+          27
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          10,
+          18
+        ],
+        "period_ratio": 2.0114942528735633
+      },
+      {
+        "peak_indices": [
+          11,
+          14
+        ],
+        "period_ratio": 1.9642857142857142
+      },
+      {
+        "peak_indices": [
+          11,
+          29
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          12,
+          19
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          12,
+          30
+        ],
+        "period_ratio": 1.9848484848484849
+      },
+      {
+        "peak_indices": [
+          13,
+          16
+        ],
+        "period_ratio": 2.0217391304347827
+      },
+      {
+        "peak_indices": [
+          15,
+          29
+        ],
+        "period_ratio": 1.9363636363636363
+      },
+      {
+        "peak_indices": [
+          16,
+          22
+        ],
+        "period_ratio": 1.9565217391304348
+      },
+      {
+        "peak_indices": [
+          18,
+          22
+        ],
+        "period_ratio": 2.068965517241379
+      },
+      {
+        "peak_indices": [
+          21,
+          29
+        ],
+        "period_ratio": 1.9727272727272727
+      },
+      {
+        "peak_indices": [
+          24,
+          29
+        ],
+        "period_ratio": 2.018181818181818
+      }
+    ],
+    "G_valid_windows": 3,
+    "G_window_ids": [
+      "run1_01425000",
+      "run1_01495000",
+      "run1_01565000"
+    ],
+    "G_candidate_rpm_median": 265.11607455126705,
+    "primary_peak_rpm_one_repeat_per_rotation": 124.48132780082987,
+    "primary_to_G_rpm_ratio": 0.4695351951462234,
+    "statement": "No closest-CMax peak selection. Half/double periods retained; no independent RPM accuracy validation."
+  },
+  {
+    "attempt": "run1_4.5_5.5",
+    "selected_peak_unchanged": {
+      "period_s": 0.482,
+      "frequency_hz": 2.074688796680498,
+      "rpm_if_one_repeat_per_rotation": 124.48132780082987,
+      "similarity": 0.9286439039193378,
+      "pairs": 259
+    },
+    "all_peaks": [
+      {
+        "period_s": 0.482,
+        "frequency_hz": 2.074688796680498,
+        "rpm_if_one_repeat_per_rotation": 124.48132780082987,
+        "similarity": 0.9286439039193378,
+        "pairs": 259
+      },
+      {
+        "period_s": 0.24,
+        "frequency_hz": 4.166666666666667,
+        "rpm_if_one_repeat_per_rotation": 250.0,
+        "similarity": 0.8887041196734912,
+        "pairs": 380
+      },
+      {
+        "period_s": 0.328,
+        "frequency_hz": 3.048780487804878,
+        "rpm_if_one_repeat_per_rotation": 182.92682926829266,
+        "similarity": 0.15237550265622612,
+        "pairs": 336
+      },
+      {
+        "period_s": 0.088,
+        "frequency_hz": 11.363636363636365,
+        "rpm_if_one_repeat_per_rotation": 681.8181818181819,
+        "similarity": 0.15026654039369367,
+        "pairs": 456
+      },
+      {
+        "period_s": 0.154,
+        "frequency_hz": 6.4935064935064934,
+        "rpm_if_one_repeat_per_rotation": 389.61038961038963,
+        "similarity": 0.14509992060241347,
+        "pairs": 423
+      },
+      {
+        "period_s": 0.394,
+        "frequency_hz": 2.5380710659898478,
+        "rpm_if_one_repeat_per_rotation": 152.28426395939087,
+        "similarity": 0.1438126228888015,
+        "pairs": 303
+      },
+      {
+        "period_s": 0.318,
+        "frequency_hz": 3.144654088050314,
+        "rpm_if_one_repeat_per_rotation": 188.67924528301887,
+        "similarity": 0.11068898124384238,
+        "pairs": 341
+      },
+      {
+        "period_s": 0.076,
+        "frequency_hz": 13.157894736842106,
+        "rpm_if_one_repeat_per_rotation": 789.4736842105264,
+        "similarity": 0.10960426235885759,
+        "pairs": 462
+      },
+      {
+        "period_s": 0.13,
+        "frequency_hz": 7.692307692307692,
+        "rpm_if_one_repeat_per_rotation": 461.53846153846155,
+        "similarity": 0.06782900356057192,
+        "pairs": 435
+      },
+      {
+        "period_s": 0.372,
+        "frequency_hz": 2.6881720430107525,
+        "rpm_if_one_repeat_per_rotation": 161.29032258064515,
+        "similarity": 0.06737532456216258,
+        "pairs": 314
+      },
+      {
+        "period_s": 0.11,
+        "frequency_hz": 9.090909090909092,
+        "rpm_if_one_repeat_per_rotation": 545.4545454545455,
+        "similarity": 0.06404816788654677,
+        "pairs": 445
+      },
+      {
+        "period_s": 0.35000000000000003,
+        "frequency_hz": 2.8571428571428568,
+        "rpm_if_one_repeat_per_rotation": 171.42857142857142,
+        "similarity": 0.06227557262909334,
+        "pairs": 325
+      },
+      {
+        "period_s": 0.184,
+        "frequency_hz": 5.434782608695652,
+        "rpm_if_one_repeat_per_rotation": 326.0869565217391,
+        "similarity": 0.055947438578932335,
+        "pairs": 408
+      },
+      {
+        "period_s": 0.424,
+        "frequency_hz": 2.358490566037736,
+        "rpm_if_one_repeat_per_rotation": 141.50943396226415,
+        "similarity": 0.05593472435127597,
+        "pairs": 288
+      },
+      {
+        "period_s": 0.056,
+        "frequency_hz": 17.857142857142858,
+        "rpm_if_one_repeat_per_rotation": 1071.4285714285713,
+        "similarity": 0.051880173430045036,
+        "pairs": 472
+      },
+      {
+        "period_s": 0.306,
+        "frequency_hz": 3.2679738562091503,
+        "rpm_if_one_repeat_per_rotation": 196.07843137254903,
+        "similarity": 0.05098786914328666,
+        "pairs": 347
+      },
+      {
+        "period_s": 0.298,
+        "frequency_hz": 3.3557046979865772,
+        "rpm_if_one_repeat_per_rotation": 201.34228187919464,
+        "similarity": 0.05096070697593988,
+        "pairs": 351
+      },
+      {
+        "period_s": 0.066,
+        "frequency_hz": 15.15151515151515,
+        "rpm_if_one_repeat_per_rotation": 909.090909090909,
+        "similarity": 0.050299031110127616,
+        "pairs": 467
+      },
+      {
+        "period_s": 0.176,
+        "frequency_hz": 5.6818181818181825,
+        "rpm_if_one_repeat_per_rotation": 340.90909090909093,
+        "similarity": 0.04996211320649929,
+        "pairs": 412
+      },
+      {
+        "period_s": 0.418,
+        "frequency_hz": 2.3923444976076556,
+        "rpm_if_one_repeat_per_rotation": 143.54066985645935,
+        "similarity": 0.04964607106480103,
+        "pairs": 291
+      },
+      {
+        "period_s": 0.432,
+        "frequency_hz": 2.314814814814815,
+        "rpm_if_one_repeat_per_rotation": 138.88888888888889,
+        "similarity": 0.04962436215915086,
+        "pairs": 284
+      },
+      {
+        "period_s": 0.05,
+        "frequency_hz": 20.0,
+        "rpm_if_one_repeat_per_rotation": 1200.0,
+        "similarity": 0.04420609310905043,
+        "pairs": 475
+      },
+      {
+        "period_s": 0.038,
+        "frequency_hz": 26.315789473684212,
+        "rpm_if_one_repeat_per_rotation": 1578.9473684210527,
+        "similarity": 0.030962535780544417,
+        "pairs": 481
+      },
+      {
+        "period_s": 0.12,
+        "frequency_hz": 8.333333333333334,
+        "rpm_if_one_repeat_per_rotation": 500.0,
+        "similarity": 0.030486701947379093,
+        "pairs": 440
+      },
+      {
+        "period_s": 0.278,
+        "frequency_hz": 3.597122302158273,
+        "rpm_if_one_repeat_per_rotation": 215.82733812949638,
+        "similarity": 0.03039552882744398,
+        "pairs": 361
+      },
+      {
+        "period_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "rpm_if_one_repeat_per_rotation": 166.66666666666669,
+        "similarity": 0.029783165282459296,
+        "pairs": 320
+      },
+      {
+        "period_s": 0.202,
+        "frequency_hz": 4.9504950495049505,
+        "rpm_if_one_repeat_per_rotation": 297.029702970297,
+        "similarity": 0.02892912482304147,
+        "pairs": 399
+      },
+      {
+        "period_s": 0.444,
+        "frequency_hz": 2.2522522522522523,
+        "rpm_if_one_repeat_per_rotation": 135.13513513513513,
+        "similarity": 0.02820151907303245,
+        "pairs": 278
+      },
+      {
+        "period_s": 0.262,
+        "frequency_hz": 3.8167938931297707,
+        "rpm_if_one_repeat_per_rotation": 229.00763358778624,
+        "similarity": 0.022872196572943215,
+        "pairs": 369
+      },
+      {
+        "period_s": 0.022,
+        "frequency_hz": 45.45454545454546,
+        "rpm_if_one_repeat_per_rotation": 2727.2727272727275,
+        "similarity": 0.02275688445744423,
+        "pairs": 489
+      },
+      {
+        "period_s": 0.22,
+        "frequency_hz": 4.545454545454546,
+        "rpm_if_one_repeat_per_rotation": 272.72727272727275,
+        "similarity": 0.022408518141456814,
+        "pairs": 390
+      },
+      {
+        "period_s": 0.46,
+        "frequency_hz": 2.1739130434782608,
+        "rpm_if_one_repeat_per_rotation": 130.43478260869566,
+        "similarity": 0.022270038146665175,
+        "pairs": 270
+      }
+    ],
+    "half_double_peak_pairs": [
+      {
+        "peak_indices": [
+          0,
+          1
+        ],
+        "period_ratio": 2.0083333333333333
+      },
+      {
+        "peak_indices": [
+          1,
+          23
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          3,
+          18
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          4,
+          6
+        ],
+        "period_ratio": 2.064935064935065
+      },
+      {
+        "peak_indices": [
+          4,
+          7
+        ],
+        "period_ratio": 2.026315789473684
+      },
+      {
+        "peak_indices": [
+          4,
+          15
+        ],
+        "period_ratio": 1.987012987012987
+      },
+      {
+        "peak_indices": [
+          4,
+          16
+        ],
+        "period_ratio": 1.935064935064935
+      },
+      {
+        "peak_indices": [
+          5,
+          26
+        ],
+        "period_ratio": 1.9504950495049505
+      },
+      {
+        "peak_indices": [
+          7,
+          22
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          8,
+          17
+        ],
+        "period_ratio": 1.9696969696969697
+      },
+      {
+        "peak_indices": [
+          8,
+          28
+        ],
+        "period_ratio": 2.0153846153846153
+      },
+      {
+        "peak_indices": [
+          9,
+          12
+        ],
+        "period_ratio": 2.0217391304347827
+      },
+      {
+        "peak_indices": [
+          10,
+          14
+        ],
+        "period_ratio": 1.9642857142857142
+      },
+      {
+        "peak_indices": [
+          10,
+          30
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          11,
+          18
+        ],
+        "period_ratio": 1.988636363636364
+      },
+      {
+        "peak_indices": [
+          12,
+          25
+        ],
+        "period_ratio": 1.9565217391304348
+      },
+      {
+        "peak_indices": [
+          13,
+          30
+        ],
+        "period_ratio": 1.9272727272727272
+      },
+      {
+        "peak_indices": [
+          18,
+          25
+        ],
+        "period_ratio": 2.0454545454545454
+      },
+      {
+        "peak_indices": [
+          19,
+          26
+        ],
+        "period_ratio": 2.069306930693069
+      },
+      {
+        "peak_indices": [
+          20,
+          30
+        ],
+        "period_ratio": 1.9636363636363636
+      },
+      {
+        "peak_indices": [
+          27,
+          30
+        ],
+        "period_ratio": 2.018181818181818
+      }
+    ],
+    "G_valid_windows": 0,
+    "G_window_ids": [],
+    "G_candidate_rpm_median": null,
+    "primary_peak_rpm_one_repeat_per_rotation": 124.48132780082987,
+    "primary_to_G_rpm_ratio": null,
+    "statement": "No closest-CMax peak selection. Half/double periods retained; no independent RPM accuracy validation."
+  },
+  {
+    "attempt": "run4_1_2",
+    "selected_peak_unchanged": {
+      "period_s": 0.494,
+      "frequency_hz": 2.0242914979757085,
+      "rpm_if_one_repeat_per_rotation": 121.45748987854252,
+      "similarity": 0.9150511744924285,
+      "pairs": 253
+    },
+    "all_peaks": [
+      {
+        "period_s": 0.494,
+        "frequency_hz": 2.0242914979757085,
+        "rpm_if_one_repeat_per_rotation": 121.45748987854252,
+        "similarity": 0.9150511744924285,
+        "pairs": 253
+      },
+      {
+        "period_s": 0.248,
+        "frequency_hz": 4.032258064516129,
+        "rpm_if_one_repeat_per_rotation": 241.93548387096774,
+        "similarity": 0.8614904680141472,
+        "pairs": 376
+      },
+      {
+        "period_s": 0.404,
+        "frequency_hz": 2.4752475247524752,
+        "rpm_if_one_repeat_per_rotation": 148.5148514851485,
+        "similarity": 0.15040866665824912,
+        "pairs": 298
+      },
+      {
+        "period_s": 0.158,
+        "frequency_hz": 6.329113924050633,
+        "rpm_if_one_repeat_per_rotation": 379.746835443038,
+        "similarity": 0.150062261978839,
+        "pairs": 421
+      },
+      {
+        "period_s": 0.088,
+        "frequency_hz": 11.363636363636365,
+        "rpm_if_one_repeat_per_rotation": 681.8181818181819,
+        "similarity": 0.13585660335303218,
+        "pairs": 456
+      },
+      {
+        "period_s": 0.336,
+        "frequency_hz": 2.976190476190476,
+        "rpm_if_one_repeat_per_rotation": 178.57142857142856,
+        "similarity": 0.13329707667228272,
+        "pairs": 332
+      },
+      {
+        "period_s": 0.41600000000000004,
+        "frequency_hz": 2.4038461538461537,
+        "rpm_if_one_repeat_per_rotation": 144.23076923076923,
+        "similarity": 0.1129195697897064,
+        "pairs": 292
+      },
+      {
+        "period_s": 0.17,
+        "frequency_hz": 5.88235294117647,
+        "rpm_if_one_repeat_per_rotation": 352.94117647058823,
+        "similarity": 0.11261913038850623,
+        "pairs": 415
+      },
+      {
+        "period_s": 0.078,
+        "frequency_hz": 12.820512820512821,
+        "rpm_if_one_repeat_per_rotation": 769.2307692307693,
+        "similarity": 0.1097950748302336,
+        "pairs": 461
+      },
+      {
+        "period_s": 0.326,
+        "frequency_hz": 3.067484662576687,
+        "rpm_if_one_repeat_per_rotation": 184.04907975460122,
+        "similarity": 0.10672972252504459,
+        "pairs": 337
+      },
+      {
+        "period_s": 0.112,
+        "frequency_hz": 8.928571428571429,
+        "rpm_if_one_repeat_per_rotation": 535.7142857142857,
+        "similarity": 0.06298317859394488,
+        "pairs": 444
+      },
+      {
+        "period_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "rpm_if_one_repeat_per_rotation": 166.66666666666669,
+        "similarity": 0.06260462263395057,
+        "pairs": 320
+      },
+      {
+        "period_s": 0.382,
+        "frequency_hz": 2.6178010471204187,
+        "rpm_if_one_repeat_per_rotation": 157.06806282722513,
+        "similarity": 0.0615489612364237,
+        "pairs": 309
+      },
+      {
+        "period_s": 0.136,
+        "frequency_hz": 7.352941176470588,
+        "rpm_if_one_repeat_per_rotation": 441.17647058823525,
+        "similarity": 0.06041172805090386,
+        "pairs": 432
+      },
+      {
+        "period_s": 0.304,
+        "frequency_hz": 3.2894736842105265,
+        "rpm_if_one_repeat_per_rotation": 197.3684210526316,
+        "similarity": 0.04704884099136043,
+        "pairs": 348
+      },
+      {
+        "period_s": 0.056,
+        "frequency_hz": 17.857142857142858,
+        "rpm_if_one_repeat_per_rotation": 1071.4285714285713,
+        "similarity": 0.046118811140287874,
+        "pairs": 472
+      },
+      {
+        "period_s": 0.294,
+        "frequency_hz": 3.4013605442176873,
+        "rpm_if_one_repeat_per_rotation": 204.08163265306123,
+        "similarity": 0.042683017652507156,
+        "pairs": 353
+      },
+      {
+        "period_s": 0.19,
+        "frequency_hz": 5.2631578947368425,
+        "rpm_if_one_repeat_per_rotation": 315.7894736842105,
+        "similarity": 0.04266341145646938,
+        "pairs": 405
+      },
+      {
+        "period_s": 0.048,
+        "frequency_hz": 20.833333333333332,
+        "rpm_if_one_repeat_per_rotation": 1250.0,
+        "similarity": 0.04247599818741322,
+        "pairs": 476
+      },
+      {
+        "period_s": 0.438,
+        "frequency_hz": 2.2831050228310503,
+        "rpm_if_one_repeat_per_rotation": 136.986301369863,
+        "similarity": 0.04209714654199098,
+        "pairs": 281
+      },
+      {
+        "period_s": 0.2,
+        "frequency_hz": 5.0,
+        "rpm_if_one_repeat_per_rotation": 300.0,
+        "similarity": 0.03931825185779579,
+        "pairs": 400
+      },
+      {
+        "period_s": 0.448,
+        "frequency_hz": 2.232142857142857,
+        "rpm_if_one_repeat_per_rotation": 133.92857142857142,
+        "similarity": 0.03807982649467476,
+        "pairs": 276
+      },
+      {
+        "period_s": 0.124,
+        "frequency_hz": 8.064516129032258,
+        "rpm_if_one_repeat_per_rotation": 483.8709677419355,
+        "similarity": 0.03193921770187567,
+        "pairs": 438
+      },
+      {
+        "period_s": 0.37,
+        "frequency_hz": 2.7027027027027026,
+        "rpm_if_one_repeat_per_rotation": 162.16216216216216,
+        "similarity": 0.03142092038937616,
+        "pairs": 315
+      },
+      {
+        "period_s": 0.266,
+        "frequency_hz": 3.7593984962406015,
+        "rpm_if_one_repeat_per_rotation": 225.56390977443607,
+        "similarity": 0.027060476592685793,
+        "pairs": 367
+      },
+      {
+        "period_s": 0.47600000000000003,
+        "frequency_hz": 2.1008403361344534,
+        "rpm_if_one_repeat_per_rotation": 126.05042016806722,
+        "similarity": 0.026462980744659047,
+        "pairs": 262
+      },
+      {
+        "period_s": 0.228,
+        "frequency_hz": 4.385964912280701,
+        "rpm_if_one_repeat_per_rotation": 263.1578947368421,
+        "similarity": 0.026276306371418784,
+        "pairs": 386
+      },
+      {
+        "period_s": 0.276,
+        "frequency_hz": 3.623188405797101,
+        "rpm_if_one_repeat_per_rotation": 217.39130434782606,
+        "similarity": 0.02310439653935749,
+        "pairs": 362
+      },
+      {
+        "period_s": 0.03,
+        "frequency_hz": 33.333333333333336,
+        "rpm_if_one_repeat_per_rotation": 2000.0,
+        "similarity": 0.022831953768912075,
+        "pairs": 485
+      },
+      {
+        "period_s": 0.216,
+        "frequency_hz": 4.62962962962963,
+        "rpm_if_one_repeat_per_rotation": 277.77777777777777,
+        "similarity": 0.021891608283773147,
+        "pairs": 392
+      },
+      {
+        "period_s": 0.464,
+        "frequency_hz": 2.155172413793103,
+        "rpm_if_one_repeat_per_rotation": 129.3103448275862,
+        "similarity": 0.021798573640806156,
+        "pairs": 268
+      }
+    ],
+    "half_double_peak_pairs": [
+      {
+        "peak_indices": [
+          0,
+          1
+        ],
+        "period_ratio": 1.9919354838709677
+      },
+      {
+        "peak_indices": [
+          1,
+          22
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          2,
+          20
+        ],
+        "period_ratio": 2.02
+      },
+      {
+        "peak_indices": [
+          3,
+          8
+        ],
+        "period_ratio": 2.0256410256410255
+      },
+      {
+        "peak_indices": [
+          3,
+          9
+        ],
+        "period_ratio": 2.0632911392405062
+      },
+      {
+        "peak_indices": [
+          3,
+          14
+        ],
+        "period_ratio": 1.9240506329113924
+      },
+      {
+        "peak_indices": [
+          4,
+          7
+        ],
+        "period_ratio": 1.931818181818182
+      },
+      {
+        "peak_indices": [
+          5,
+          7
+        ],
+        "period_ratio": 1.9764705882352942
+      },
+      {
+        "peak_indices": [
+          6,
+          29
+        ],
+        "period_ratio": 1.925925925925926
+      },
+      {
+        "peak_indices": [
+          10,
+          15
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          10,
+          26
+        ],
+        "period_ratio": 2.0357142857142856
+      },
+      {
+        "peak_indices": [
+          10,
+          29
+        ],
+        "period_ratio": 1.9285714285714286
+      },
+      {
+        "peak_indices": [
+          12,
+          17
+        ],
+        "period_ratio": 2.0105263157894737
+      },
+      {
+        "peak_indices": [
+          13,
+          24
+        ],
+        "period_ratio": 1.9558823529411764
+      },
+      {
+        "peak_indices": [
+          13,
+          27
+        ],
+        "period_ratio": 2.0294117647058822
+      },
+      {
+        "peak_indices": [
+          17,
+          23
+        ],
+        "period_ratio": 1.9473684210526316
+      },
+      {
+        "peak_indices": [
+          19,
+          26
+        ],
+        "period_ratio": 1.9210526315789473
+      },
+      {
+        "peak_indices": [
+          19,
+          29
+        ],
+        "period_ratio": 2.0277777777777777
+      },
+      {
+        "peak_indices": [
+          21,
+          26
+        ],
+        "period_ratio": 1.9649122807017543
+      },
+      {
+        "peak_indices": [
+          21,
+          29
+        ],
+        "period_ratio": 2.074074074074074
+      },
+      {
+        "peak_indices": [
+          26,
+          30
+        ],
+        "period_ratio": 2.0350877192982457
+      }
+    ],
+    "G_valid_windows": 2,
+    "G_window_ids": [
+      "run4_01625000",
+      "run4_01765000"
+    ],
+    "G_candidate_rpm_median": 245.29551531242996,
+    "primary_peak_rpm_one_repeat_per_rotation": 121.45748987854252,
+    "primary_to_G_rpm_ratio": 0.49514761704405225,
+    "statement": "No closest-CMax peak selection. Half/double periods retained; no independent RPM accuracy validation."
+  },
+  {
+    "attempt": "run4_2.5_3.5",
+    "selected_peak_unchanged": {
+      "period_s": 0.248,
+      "frequency_hz": 4.032258064516129,
+      "rpm_if_one_repeat_per_rotation": 241.93548387096774,
+      "similarity": 0.8642511446190848,
+      "pairs": 376
+    },
+    "all_peaks": [
+      {
+        "period_s": 0.248,
+        "frequency_hz": 4.032258064516129,
+        "rpm_if_one_repeat_per_rotation": 241.93548387096774,
+        "similarity": 0.8642511446190848,
+        "pairs": 376
+      },
+      {
+        "period_s": 0.494,
+        "frequency_hz": 2.0242914979757085,
+        "rpm_if_one_repeat_per_rotation": 121.45748987854252,
+        "similarity": 0.8422172138706958,
+        "pairs": 253
+      },
+      {
+        "period_s": 0.158,
+        "frequency_hz": 6.329113924050633,
+        "rpm_if_one_repeat_per_rotation": 379.746835443038,
+        "similarity": 0.144942442162956,
+        "pairs": 421
+      },
+      {
+        "period_s": 0.406,
+        "frequency_hz": 2.463054187192118,
+        "rpm_if_one_repeat_per_rotation": 147.7832512315271,
+        "similarity": 0.14471529042293657,
+        "pairs": 297
+      },
+      {
+        "period_s": 0.088,
+        "frequency_hz": 11.363636363636365,
+        "rpm_if_one_repeat_per_rotation": 681.8181818181819,
+        "similarity": 0.14242469600347843,
+        "pairs": 456
+      },
+      {
+        "period_s": 0.336,
+        "frequency_hz": 2.976190476190476,
+        "rpm_if_one_repeat_per_rotation": 178.57142857142856,
+        "similarity": 0.14128805110560355,
+        "pairs": 332
+      },
+      {
+        "period_s": 0.17,
+        "frequency_hz": 5.88235294117647,
+        "rpm_if_one_repeat_per_rotation": 352.94117647058823,
+        "similarity": 0.11567683316767204,
+        "pairs": 415
+      },
+      {
+        "period_s": 0.41600000000000004,
+        "frequency_hz": 2.4038461538461537,
+        "rpm_if_one_repeat_per_rotation": 144.23076923076923,
+        "similarity": 0.11124810894169491,
+        "pairs": 292
+      },
+      {
+        "period_s": 0.078,
+        "frequency_hz": 12.820512820512821,
+        "rpm_if_one_repeat_per_rotation": 769.2307692307693,
+        "similarity": 0.10855025295121695,
+        "pairs": 461
+      },
+      {
+        "period_s": 0.326,
+        "frequency_hz": 3.067484662576687,
+        "rpm_if_one_repeat_per_rotation": 184.04907975460122,
+        "similarity": 0.10535229033414413,
+        "pairs": 337
+      },
+      {
+        "period_s": 0.136,
+        "frequency_hz": 7.352941176470588,
+        "rpm_if_one_repeat_per_rotation": 441.17647058823525,
+        "similarity": 0.06286663463694918,
+        "pairs": 432
+      },
+      {
+        "period_s": 0.382,
+        "frequency_hz": 2.6178010471204187,
+        "rpm_if_one_repeat_per_rotation": 157.06806282722513,
+        "similarity": 0.06267131304272358,
+        "pairs": 309
+      },
+      {
+        "period_s": 0.112,
+        "frequency_hz": 8.928571428571429,
+        "rpm_if_one_repeat_per_rotation": 535.7142857142857,
+        "similarity": 0.06254554850966891,
+        "pairs": 444
+      },
+      {
+        "period_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "rpm_if_one_repeat_per_rotation": 166.66666666666669,
+        "similarity": 0.061758082683832205,
+        "pairs": 320
+      },
+      {
+        "period_s": 0.056,
+        "frequency_hz": 17.857142857142858,
+        "rpm_if_one_repeat_per_rotation": 1071.4285714285713,
+        "similarity": 0.04508946163138312,
+        "pairs": 472
+      },
+      {
+        "period_s": 0.19,
+        "frequency_hz": 5.2631578947368425,
+        "rpm_if_one_repeat_per_rotation": 315.7894736842105,
+        "similarity": 0.04462332459343085,
+        "pairs": 405
+      },
+      {
+        "period_s": 0.304,
+        "frequency_hz": 3.2894736842105265,
+        "rpm_if_one_repeat_per_rotation": 197.3684210526316,
+        "similarity": 0.044611146016502505,
+        "pairs": 348
+      },
+      {
+        "period_s": 0.438,
+        "frequency_hz": 2.2831050228310503,
+        "rpm_if_one_repeat_per_rotation": 136.986301369863,
+        "similarity": 0.04423259527889304,
+        "pairs": 281
+      },
+      {
+        "period_s": 0.048,
+        "frequency_hz": 20.833333333333332,
+        "rpm_if_one_repeat_per_rotation": 1250.0,
+        "similarity": 0.04253371061629755,
+        "pairs": 476
+      },
+      {
+        "period_s": 0.296,
+        "frequency_hz": 3.3783783783783785,
+        "rpm_if_one_repeat_per_rotation": 202.7027027027027,
+        "similarity": 0.04159335372942314,
+        "pairs": 352
+      },
+      {
+        "period_s": 0.2,
+        "frequency_hz": 5.0,
+        "rpm_if_one_repeat_per_rotation": 300.0,
+        "similarity": 0.04157986015095117,
+        "pairs": 400
+      },
+      {
+        "period_s": 0.446,
+        "frequency_hz": 2.242152466367713,
+        "rpm_if_one_repeat_per_rotation": 134.52914798206277,
+        "similarity": 0.04003371412837924,
+        "pairs": 277
+      },
+      {
+        "period_s": 0.124,
+        "frequency_hz": 8.064516129032258,
+        "rpm_if_one_repeat_per_rotation": 483.8709677419355,
+        "similarity": 0.03211953247215614,
+        "pairs": 438
+      },
+      {
+        "period_s": 0.37,
+        "frequency_hz": 2.7027027027027026,
+        "rpm_if_one_repeat_per_rotation": 162.16216216216216,
+        "similarity": 0.030916660615577046,
+        "pairs": 315
+      },
+      {
+        "period_s": 0.268,
+        "frequency_hz": 3.731343283582089,
+        "rpm_if_one_repeat_per_rotation": 223.88059701492537,
+        "similarity": 0.02589966553655315,
+        "pairs": 366
+      },
+      {
+        "period_s": 0.228,
+        "frequency_hz": 4.385964912280701,
+        "rpm_if_one_repeat_per_rotation": 263.1578947368421,
+        "similarity": 0.025280799811276976,
+        "pairs": 386
+      },
+      {
+        "period_s": 0.47400000000000003,
+        "frequency_hz": 2.109704641350211,
+        "rpm_if_one_repeat_per_rotation": 126.58227848101265,
+        "similarity": 0.024835792443582444,
+        "pairs": 263
+      },
+      {
+        "period_s": 0.03,
+        "frequency_hz": 33.333333333333336,
+        "rpm_if_one_repeat_per_rotation": 2000.0,
+        "similarity": 0.023324601610654565,
+        "pairs": 485
+      },
+      {
+        "period_s": 0.278,
+        "frequency_hz": 3.597122302158273,
+        "rpm_if_one_repeat_per_rotation": 215.82733812949638,
+        "similarity": 0.02326445313621094,
+        "pairs": 361
+      },
+      {
+        "period_s": 0.218,
+        "frequency_hz": 4.587155963302752,
+        "rpm_if_one_repeat_per_rotation": 275.22935779816515,
+        "similarity": 0.02231269093816161,
+        "pairs": 391
+      },
+      {
+        "period_s": 0.464,
+        "frequency_hz": 2.155172413793103,
+        "rpm_if_one_repeat_per_rotation": 129.3103448275862,
+        "similarity": 0.022055398843698486,
+        "pairs": 268
+      }
+    ],
+    "half_double_peak_pairs": [
+      {
+        "peak_indices": [
+          0,
+          1
+        ],
+        "period_ratio": 1.9919354838709677
+      },
+      {
+        "peak_indices": [
+          0,
+          22
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          2,
+          8
+        ],
+        "period_ratio": 2.0256410256410255
+      },
+      {
+        "peak_indices": [
+          2,
+          9
+        ],
+        "period_ratio": 2.0632911392405062
+      },
+      {
+        "peak_indices": [
+          2,
+          16
+        ],
+        "period_ratio": 1.9240506329113924
+      },
+      {
+        "peak_indices": [
+          3,
+          20
+        ],
+        "period_ratio": 2.03
+      },
+      {
+        "peak_indices": [
+          4,
+          6
+        ],
+        "period_ratio": 1.931818181818182
+      },
+      {
+        "peak_indices": [
+          5,
+          6
+        ],
+        "period_ratio": 1.9764705882352942
+      },
+      {
+        "peak_indices": [
+          10,
+          24
+        ],
+        "period_ratio": 1.9705882352941175
+      },
+      {
+        "peak_indices": [
+          10,
+          28
+        ],
+        "period_ratio": 2.0441176470588234
+      },
+      {
+        "peak_indices": [
+          11,
+          15
+        ],
+        "period_ratio": 2.0105263157894737
+      },
+      {
+        "peak_indices": [
+          12,
+          14
+        ],
+        "period_ratio": 2.0
+      },
+      {
+        "peak_indices": [
+          12,
+          25
+        ],
+        "period_ratio": 2.0357142857142856
+      },
+      {
+        "peak_indices": [
+          12,
+          29
+        ],
+        "period_ratio": 1.9464285714285714
+      },
+      {
+        "peak_indices": [
+          15,
+          23
+        ],
+        "period_ratio": 1.9473684210526316
+      },
+      {
+        "peak_indices": [
+          17,
+          25
+        ],
+        "period_ratio": 1.9210526315789473
+      },
+      {
+        "peak_indices": [
+          17,
+          29
+        ],
+        "period_ratio": 2.0091743119266057
+      },
+      {
+        "peak_indices": [
+          21,
+          25
+        ],
+        "period_ratio": 1.9561403508771928
+      },
+      {
+        "peak_indices": [
+          21,
+          29
+        ],
+        "period_ratio": 2.0458715596330275
+      },
+      {
+        "peak_indices": [
+          25,
+          26
+        ],
+        "period_ratio": 2.0789473684210527
+      },
+      {
+        "peak_indices": [
+          25,
+          30
+        ],
+        "period_ratio": 2.0350877192982457
+      }
+    ],
+    "G_valid_windows": 3,
+    "G_window_ids": [
+      "run4_03225000",
+      "run4_03295000",
+      "run4_03365000"
+    ],
+    "G_candidate_rpm_median": 258.7659624860314,
+    "primary_peak_rpm_one_repeat_per_rotation": 241.93548387096774,
+    "primary_to_G_rpm_ratio": 0.9349586844677371,
+    "statement": "No closest-CMax peak selection. Half/double periods retained; no independent RPM accuracy validation."
+  }
+]

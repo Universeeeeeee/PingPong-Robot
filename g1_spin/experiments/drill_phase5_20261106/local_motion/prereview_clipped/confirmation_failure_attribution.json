@@ -1,0 +1,522 @@
+[
+  {
+    "case": "run3_01495000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_qualified": 6,
+    "T_patches": 3,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 33,
+      "candidate_nonzero": 3
+    },
+    "marginal_passes": {
+      "model_algebra": 16,
+      "H_support": 14,
+      "future_support": 13,
+      "motion_resolution": 16,
+      "T_training_qualified": 6,
+      "permutation": 5,
+      "T_candidate_nonzero": 3,
+      "future_gain": 1
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 10,
+      "model_algebra": 20,
+      "T_candidate_nonzero": 3,
+      "H_P95": 2,
+      "H_support": 1
+    },
+    "H_P95_px": {
+      "n": 16,
+      "median": 9.2828204827424,
+      "p95": 28.146364734249268,
+      "max": 39.64471534744702
+    },
+    "future_P95_px": {
+      "n": 15,
+      "median": 18.988294836972226,
+      "p95": 54.2772514550485,
+      "max": 68.73486759437758
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_qualified": 13,
+    "T_patches": 5,
+    "global_T_sufficient": true,
+    "T_motion_classes": {
+      "unidentifiable": 32,
+      "candidate_nonzero": 4
+    },
+    "marginal_passes": {
+      "model_algebra": 16,
+      "T_training_qualified": 13,
+      "H_support": 14,
+      "future_support": 13,
+      "permutation": 6,
+      "T_candidate_nonzero": 4,
+      "future_gain": 9,
+      "motion_resolution": 11,
+      "H_gain": 1
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 9,
+      "model_algebra": 20,
+      "H_P95": 4,
+      "T_training_qualified": 3
+    },
+    "H_P95_px": {
+      "n": 16,
+      "median": 1.5674198684203535,
+      "p95": 5.35554552715921,
+      "max": 5.942312718313531
+    },
+    "future_P95_px": {
+      "n": 15,
+      "median": 2.4208832025903106,
+      "p95": 4.301467382117586,
+      "max": 5.315122067403463
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_qualified": 6,
+    "T_patches": 3,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 33,
+      "candidate_nonzero": 3
+    },
+    "marginal_passes": {
+      "model_algebra": 16,
+      "H_support": 14,
+      "future_support": 13,
+      "motion_resolution": 16,
+      "T_training_qualified": 6,
+      "permutation": 6,
+      "T_candidate_nonzero": 3
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 10,
+      "model_algebra": 20,
+      "T_candidate_nonzero": 3,
+      "H_P95": 2,
+      "H_support": 1
+    },
+    "H_P95_px": {
+      "n": 16,
+      "median": 8.175933779188568,
+      "p95": 20.759287700489537,
+      "max": 33.33149337321706
+    },
+    "future_P95_px": {
+      "n": 15,
+      "median": 9.941275171428755,
+      "p95": 34.39616800457699,
+      "max": 34.44630177906061
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_qualified": 10,
+    "T_patches": 5,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 30,
+      "candidate_nonzero": 6
+    },
+    "marginal_passes": {
+      "model_algebra": 16,
+      "H_support": 14,
+      "future_support": 13,
+      "T_training_qualified": 10,
+      "T_candidate_nonzero": 6,
+      "future_gain": 9,
+      "motion_resolution": 12,
+      "permutation": 2,
+      "H_gain": 1
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 6,
+      "model_algebra": 20,
+      "H_P95": 5,
+      "T_candidate_nonzero": 4,
+      "H_support": 1
+    },
+    "H_P95_px": {
+      "n": 16,
+      "median": 1.7931359117165475,
+      "p95": 5.437455728779648,
+      "max": 5.688412251475271
+    },
+    "future_P95_px": {
+      "n": 15,
+      "median": 2.4347010925705446,
+      "p95": 4.603472585921617,
+      "max": 5.315122067403463
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_qualified": 3,
+    "T_patches": 3,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "candidate_nonzero": 2,
+      "unidentifiable": 34
+    },
+    "marginal_passes": {
+      "model_algebra": 19,
+      "T_training_qualified": 3,
+      "T_candidate_nonzero": 2,
+      "H_support": 14,
+      "future_support": 12,
+      "permutation": 5,
+      "motion_resolution": 19
+    },
+    "serial_first_failure": {
+      "H_P95": 2,
+      "model_algebra": 17,
+      "T_training_qualified": 16,
+      "T_candidate_nonzero": 1
+    },
+    "H_P95_px": {
+      "n": 18,
+      "median": 9.083450674047528,
+      "p95": 62.85539251467838,
+      "max": 67.33090791903511
+    },
+    "future_P95_px": {
+      "n": 18,
+      "median": 17.46432285712183,
+      "p95": 85.28270861948101,
+      "max": 151.79513574503008
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_qualified": 8,
+    "T_patches": 5,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "candidate_nonzero": 4,
+      "unidentifiable": 32
+    },
+    "marginal_passes": {
+      "model_algebra": 19,
+      "T_training_qualified": 8,
+      "T_candidate_nonzero": 4,
+      "H_support": 14,
+      "future_support": 12,
+      "future_gain": 8,
+      "permutation": 6,
+      "motion_resolution": 13,
+      "H_gain": 2,
+      "H_P95": 1,
+      "future_P95": 1
+    },
+    "serial_first_failure": {
+      "H_P95": 4,
+      "model_algebra": 17,
+      "T_candidate_nonzero": 4,
+      "T_training_qualified": 11
+    },
+    "H_P95_px": {
+      "n": 18,
+      "median": 2.6286205141240266,
+      "p95": 4.699459764309647,
+      "max": 6.185601126256687
+    },
+    "future_P95_px": {
+      "n": 18,
+      "median": 3.252580171242885,
+      "p95": 7.23087018459577,
+      "max": 9.485774040838228
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_qualified": 3,
+    "T_patches": 2,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "candidate_nonzero": 2,
+      "unidentifiable": 34
+    },
+    "marginal_passes": {
+      "model_algebra": 19,
+      "T_training_qualified": 3,
+      "T_candidate_nonzero": 2,
+      "H_support": 14,
+      "future_support": 12,
+      "permutation": 6,
+      "motion_resolution": 19
+    },
+    "serial_first_failure": {
+      "H_P95": 2,
+      "model_algebra": 17,
+      "T_training_qualified": 16,
+      "T_candidate_nonzero": 1
+    },
+    "H_P95_px": {
+      "n": 18,
+      "median": 8.060602182861427,
+      "p95": 40.720462943366456,
+      "max": 41.17975584792923
+    },
+    "future_P95_px": {
+      "n": 18,
+      "median": 16.388352513151343,
+      "p95": 47.21005863040849,
+      "max": 74.51554324159083
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_qualified": 6,
+    "T_patches": 5,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "candidate_nonzero": 2,
+      "unidentifiable": 34
+    },
+    "marginal_passes": {
+      "model_algebra": 19,
+      "T_training_qualified": 6,
+      "T_candidate_nonzero": 2,
+      "H_support": 14,
+      "future_support": 12,
+      "future_gain": 8,
+      "motion_resolution": 16,
+      "permutation": 2,
+      "H_gain": 2,
+      "H_P95": 1,
+      "future_P95": 1
+    },
+    "serial_first_failure": {
+      "H_P95": 2,
+      "model_algebra": 17,
+      "T_training_qualified": 13,
+      "T_candidate_nonzero": 4
+    },
+    "H_P95_px": {
+      "n": 18,
+      "median": 3.1499557682787467,
+      "p95": 4.763927674551251,
+      "max": 5.8207694748407475
+    },
+    "future_P95_px": {
+      "n": 18,
+      "median": 3.6441768928797984,
+      "p95": 7.4390573468991885,
+      "max": 9.485774040838228
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 24,
+    "T_qualified": 0,
+    "T_patches": 0,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 24
+    },
+    "marginal_passes": {
+      "model_algebra": 12,
+      "H_support": 8,
+      "motion_resolution": 12,
+      "future_support": 5
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 12,
+      "model_algebra": 12
+    },
+    "H_P95_px": {
+      "n": 12,
+      "median": 10.674060537571656,
+      "p95": 35.19219713656379,
+      "max": 54.89366579074485
+    },
+    "future_P95_px": {
+      "n": 12,
+      "median": 14.353612010482387,
+      "p95": 76.46680620533522,
+      "max": 115.01892104136594
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 24,
+    "T_qualified": 7,
+    "T_patches": 3,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 23,
+      "static_compatible": 1
+    },
+    "marginal_passes": {
+      "model_algebra": 12,
+      "T_training_qualified": 7,
+      "H_support": 8,
+      "future_gain": 4,
+      "future_support": 5,
+      "future_P95": 2,
+      "motion_resolution": 5,
+      "H_gain": 1
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 7,
+      "model_algebra": 12,
+      "T_training_qualified": 5
+    },
+    "H_P95_px": {
+      "n": 12,
+      "median": 1.3948964196692555,
+      "p95": 2.5662950746519195,
+      "max": 3.0644471304152643
+    },
+    "future_P95_px": {
+      "n": 12,
+      "median": 1.7728193346777579,
+      "p95": 3.8270860516622234,
+      "max": 4.284629522881581
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 24,
+    "T_qualified": 0,
+    "T_patches": 0,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 24
+    },
+    "marginal_passes": {
+      "model_algebra": 12,
+      "H_support": 8,
+      "motion_resolution": 12,
+      "future_support": 5
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 12,
+      "model_algebra": 12
+    },
+    "H_P95_px": {
+      "n": 12,
+      "median": 8.200982232423227,
+      "p95": 32.155170463701666,
+      "max": 54.89366579074485
+    },
+    "future_P95_px": {
+      "n": 12,
+      "median": 12.57627799146452,
+      "p95": 68.32913961643598,
+      "max": 115.01892104136594
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 24,
+    "T_qualified": 7,
+    "T_patches": 3,
+    "global_T_sufficient": false,
+    "T_motion_classes": {
+      "unidentifiable": 23,
+      "static_compatible": 1
+    },
+    "marginal_passes": {
+      "model_algebra": 12,
+      "T_training_qualified": 7,
+      "H_support": 8,
+      "future_gain": 4,
+      "motion_resolution": 6,
+      "future_support": 5,
+      "future_P95": 2,
+      "H_gain": 1
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 7,
+      "model_algebra": 12,
+      "T_training_qualified": 5
+    },
+    "H_P95_px": {
+      "n": 12,
+      "median": 1.4819949705659878,
+      "p95": 2.5135019398667504,
+      "max": 2.9809975778743603
+    },
+    "future_P95_px": {
+      "n": 12,
+      "median": 1.5606725874072955,
+      "p95": 3.8270860516622234,
+      "max": 4.284629522881581
+    },
+    "nonzero": 0,
+    "stationary": 0,
+    "supported_nonzero_patches": 0
+  }
+]

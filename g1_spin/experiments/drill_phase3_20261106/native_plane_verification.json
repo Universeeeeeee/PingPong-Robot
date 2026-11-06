@@ -1,0 +1,3063 @@
+{
+  "status": "passed",
+  "representative_checks": [
+    {
+      "window": "run1_01495000",
+      "native_result": {
+        "valid": false,
+        "method": "local_plane_normal_flow",
+        "omega_rad_s": null,
+        "axis_camera": null,
+        "spin_rad_s": null,
+        "spin_rps": null,
+        "spin_rpm": null,
+        "quality": {
+          "accepted_planes": 0
+        },
+        "failure_reason": "insufficient_stable_local_planes"
+      },
+      "saved_accepted_planes": 0
+    },
+    {
+      "window": "run2_03425000",
+      "native_result": {
+        "valid": false,
+        "method": "local_plane_normal_flow",
+        "omega_rad_s": null,
+        "axis_camera": null,
+        "spin_rad_s": null,
+        "spin_rps": null,
+        "spin_rpm": null,
+        "quality": {
+          "accepted_planes": 0
+        },
+        "failure_reason": "insufficient_stable_local_planes"
+      },
+      "saved_accepted_planes": 0
+    },
+    {
+      "window": "run4_07495000",
+      "native_result": {
+        "valid": false,
+        "method": "local_plane_normal_flow",
+        "omega_rad_s": null,
+        "axis_camera": null,
+        "spin_rad_s": null,
+        "spin_rps": null,
+        "spin_rpm": null,
+        "quality": {
+          "accepted_planes": 0
+        },
+        "failure_reason": "insufficient_stable_local_planes"
+      },
+      "saved_accepted_planes": 0
+    }
+  ],
+  "independent_seed_audit": [
+    {
+      "seed": 0,
+      "neighbors": 27,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7683423863188357,
+      "std_s": 0.0005514854911179262,
+      "rms_s": 0.00038406649157610325,
+      "rms_over_std": 0.6964217513638575,
+      "threshold_s": 8.272282366768892e-05
+    },
+    {
+      "seed": 16,
+      "neighbors": 17,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7656522725004776,
+      "std_s": 0.0005277456986952612,
+      "rms_s": 0.0004263354074492905,
+      "rms_over_std": 0.8078425054023444,
+      "threshold_s": 7.916185480428917e-05
+    },
+    {
+      "seed": 33,
+      "neighbors": 58,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6097168580687363,
+      "std_s": 0.0005860828045634798,
+      "rms_s": 0.000496463141163751,
+      "rms_over_std": 0.8470870281436113,
+      "threshold_s": 8.791242068452196e-05
+    },
+    {
+      "seed": 50,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8452728921799851,
+      "std_s": 0.0006479924453137347,
+      "rms_s": 0.0005868460034904661,
+      "rms_over_std": 0.9056371069362333,
+      "threshold_s": 9.71988667970602e-05
+    },
+    {
+      "seed": 66,
+      "neighbors": 53,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7724758390226953,
+      "std_s": 0.0006127797625410375,
+      "rms_s": 0.0005543094557792959,
+      "rms_over_std": 0.9045818574045583,
+      "threshold_s": 9.191696438115563e-05
+    },
+    {
+      "seed": 83,
+      "neighbors": 17,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6648775137572318,
+      "std_s": 0.0005299427402639624,
+      "rms_s": 0.0004719144334104103,
+      "rms_over_std": 0.8905007985869409,
+      "threshold_s": 7.949141103959436e-05
+    },
+    {
+      "seed": 100,
+      "neighbors": 45,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5694418460288031,
+      "std_s": 0.0006208619671249175,
+      "rms_s": 0.0005375728673584536,
+      "rms_over_std": 0.865849248018592,
+      "threshold_s": 9.312929506873761e-05
+    },
+    {
+      "seed": 117,
+      "neighbors": 20,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8190907971409278,
+      "std_s": 0.0006122429644348721,
+      "rms_s": 0.00038967242807441666,
+      "rms_over_std": 0.6364669758746871,
+      "threshold_s": 9.18364446652308e-05
+    },
+    {
+      "seed": 133,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.780680369771803,
+      "std_s": 0.0006570875296536204,
+      "rms_s": 0.0006088311485079638,
+      "rms_over_std": 0.9265601933260024,
+      "threshold_s": 9.856312944804306e-05
+    },
+    {
+      "seed": 150,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 167,
+      "neighbors": 24,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7189632152462572,
+      "std_s": 0.0006949002613784865,
+      "rms_s": 0.0003985422109799626,
+      "rms_over_std": 0.5735243359807738,
+      "threshold_s": 0.00010423503920677297
+    },
+    {
+      "seed": 183,
+      "neighbors": 43,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6298334170004115,
+      "std_s": 0.0007114042132079608,
+      "rms_s": 0.0006705220724299171,
+      "rms_over_std": 0.942533175908964,
+      "threshold_s": 0.00010671063198119413
+    },
+    {
+      "seed": 200,
+      "neighbors": 8,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 217,
+      "neighbors": 36,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8138753085261973,
+      "std_s": 0.0007089182481511731,
+      "rms_s": 0.0006682556953153003,
+      "rms_over_std": 0.9426414076067038,
+      "threshold_s": 0.00010633773722267597
+    },
+    {
+      "seed": 234,
+      "neighbors": 15,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8744007033665615,
+      "std_s": 0.0007209410023635005,
+      "rms_s": 0.0006672281392482481,
+      "rms_over_std": 0.9254961738350814,
+      "threshold_s": 0.00010814115035452506
+    },
+    {
+      "seed": 250,
+      "neighbors": 17,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6484812026823256,
+      "std_s": 0.0007308163468833824,
+      "rms_s": 0.0006950109078533781,
+      "rms_over_std": 0.9510062422895997,
+      "threshold_s": 0.00010962245203250736
+    },
+    {
+      "seed": 267,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7656691091473083,
+      "std_s": 0.0006849148404038855,
+      "rms_s": 0.0006580305903873238,
+      "rms_over_std": 0.9607480398574684,
+      "threshold_s": 0.00010273722606058283
+    },
+    {
+      "seed": 284,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5506567538251995,
+      "std_s": 0.0006469534994494017,
+      "rms_s": 0.0005621793290031578,
+      "rms_over_std": 0.8689640437552436,
+      "threshold_s": 9.704302491741024e-05
+    },
+    {
+      "seed": 300,
+      "neighbors": 8,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 317,
+      "neighbors": 75,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7262501601122516,
+      "std_s": 0.0007356605739062002,
+      "rms_s": 0.0006326336111179265,
+      "rms_over_std": 0.8599531272401584,
+      "threshold_s": 0.00011034908608593002
+    },
+    {
+      "seed": 334,
+      "neighbors": 56,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5841908251803171,
+      "std_s": 0.0008088246604263346,
+      "rms_s": 0.0006699743744444385,
+      "rms_over_std": 0.828330795566115,
+      "threshold_s": 0.00012132369906395018
+    },
+    {
+      "seed": 351,
+      "neighbors": 20,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6308443485558799,
+      "std_s": 0.0007003347485310149,
+      "rms_s": 0.0005660819894817921,
+      "rms_over_std": 0.8083020165273475,
+      "threshold_s": 0.00010505021227965224
+    },
+    {
+      "seed": 367,
+      "neighbors": 26,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6498545305090702,
+      "std_s": 0.0007348102490241994,
+      "rms_s": 0.0005415185587075004,
+      "rms_over_std": 0.7369501982676708,
+      "threshold_s": 0.00011022153735362991
+    },
+    {
+      "seed": 384,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6823359434323913,
+      "std_s": 0.0006892746450669572,
+      "rms_s": 0.0005594351679749908,
+      "rms_over_std": 0.8116288216588127,
+      "threshold_s": 0.00010339119676004359
+    },
+    {
+      "seed": 401,
+      "neighbors": 75,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7386573350628963,
+      "std_s": 0.000781292763451846,
+      "rms_s": 0.0006672024592355173,
+      "rms_over_std": 0.8539724037475225,
+      "threshold_s": 0.00011719391451777688
+    },
+    {
+      "seed": 417,
+      "neighbors": 8,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 434,
+      "neighbors": 36,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6477409804409145,
+      "std_s": 0.0008798090820361729,
+      "rms_s": 0.0008170923169749249,
+      "rms_over_std": 0.9287154834590927,
+      "threshold_s": 0.00013197136230542594
+    },
+    {
+      "seed": 451,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4725444281548173,
+      "std_s": 0.000817662277154186,
+      "rms_s": 0.00047112452057635124,
+      "rms_over_std": 0.576184732669906,
+      "threshold_s": 0.0001226493415731279
+    },
+    {
+      "seed": 468,
+      "neighbors": 64,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7212193339201609,
+      "std_s": 0.0007244127679703315,
+      "rms_s": 0.000701076272907879,
+      "rms_over_std": 0.9677856381137,
+      "threshold_s": 0.00010866191519554972
+    },
+    {
+      "seed": 484,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6564583137505859,
+      "std_s": 0.0008767192844369877,
+      "rms_s": 0.0006434325141046409,
+      "rms_over_std": 0.7339093887022696,
+      "threshold_s": 0.00013150789266554814
+    },
+    {
+      "seed": 501,
+      "neighbors": 47,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5388449670965386,
+      "std_s": 0.0008893399651217176,
+      "rms_s": 0.0006499928845444372,
+      "rms_over_std": 0.7308711067038096,
+      "threshold_s": 0.00013340099476825764
+    },
+    {
+      "seed": 518,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6000586385839135,
+      "std_s": 0.0009154002919184832,
+      "rms_s": 0.0006451061870846658,
+      "rms_over_std": 0.704725782567385,
+      "threshold_s": 0.00013731004378777248
+    },
+    {
+      "seed": 535,
+      "neighbors": 66,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7255847039986187,
+      "std_s": 0.0008531437721238326,
+      "rms_s": 0.0007276286088940212,
+      "rms_over_std": 0.8528792363831578,
+      "threshold_s": 0.00012797156581857488
+    },
+    {
+      "seed": 551,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6504205785246007,
+      "std_s": 0.0008668006073707456,
+      "rms_s": 0.0006557061005429696,
+      "rms_over_std": 0.7564670524769403,
+      "threshold_s": 0.00013002009110561183
+    },
+    {
+      "seed": 568,
+      "neighbors": 78,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7100745403560199,
+      "std_s": 0.0008654266667845715,
+      "rms_s": 0.0006351209818611285,
+      "rms_over_std": 0.7338819177144995,
+      "threshold_s": 0.00012981400001768574
+    },
+    {
+      "seed": 585,
+      "neighbors": 81,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7178865834172503,
+      "std_s": 0.0008628239215775112,
+      "rms_s": 0.0006985446299478603,
+      "rms_over_std": 0.8096027619061638,
+      "threshold_s": 0.00012942358823662668
+    },
+    {
+      "seed": 601,
+      "neighbors": 84,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.756731769478405,
+      "std_s": 0.0008865357048538573,
+      "rms_s": 0.0007307811238312549,
+      "rms_over_std": 0.8243109892023153,
+      "threshold_s": 0.00013298035572807858
+    },
+    {
+      "seed": 618,
+      "neighbors": 44,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7096277507756389,
+      "std_s": 0.0008689373066406464,
+      "rms_s": 0.00029871600861337366,
+      "rms_over_std": 0.3437716465048833,
+      "threshold_s": 0.00013034059599609696
+    },
+    {
+      "seed": 635,
+      "neighbors": 82,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6911619512286996,
+      "std_s": 0.0008976365553412084,
+      "rms_s": 0.0007173615216150963,
+      "rms_over_std": 0.7991670095726147,
+      "threshold_s": 0.00013464548330118124
+    },
+    {
+      "seed": 652,
+      "neighbors": 20,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7668903996019564,
+      "std_s": 0.0007622287386342763,
+      "rms_s": 0.00045851884712106713,
+      "rms_over_std": 0.6015501959984065,
+      "threshold_s": 0.00011433431079514145
+    },
+    {
+      "seed": 668,
+      "neighbors": 72,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7450135349165022,
+      "std_s": 0.0008891516424804135,
+      "rms_s": 0.0006222131861673798,
+      "rms_over_std": 0.699782980135569,
+      "threshold_s": 0.000133372746372062
+    },
+    {
+      "seed": 685,
+      "neighbors": 43,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5964661824162361,
+      "std_s": 0.0009400431108717612,
+      "rms_s": 0.0008132094376109883,
+      "rms_over_std": 0.8650767482959882,
+      "threshold_s": 0.00014100646663076416
+    },
+    {
+      "seed": 702,
+      "neighbors": 59,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5750703695635845,
+      "std_s": 0.0008688124423834055,
+      "rms_s": 0.0005641590495082182,
+      "rms_over_std": 0.649345039259067,
+      "threshold_s": 0.00013032186635751082
+    },
+    {
+      "seed": 718,
+      "neighbors": 5,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 735,
+      "neighbors": 57,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7197556929385647,
+      "std_s": 0.001039800590241664,
+      "rms_s": 0.0007812772107708708,
+      "rms_over_std": 0.751372155491171,
+      "threshold_s": 0.00015597008853624958
+    },
+    {
+      "seed": 752,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.727532322615276,
+      "std_s": 0.0010592195286837996,
+      "rms_s": 0.0009008930131840438,
+      "rms_over_std": 0.8505253054609988,
+      "threshold_s": 0.00015888292930256993
+    },
+    {
+      "seed": 769,
+      "neighbors": 3,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 785,
+      "neighbors": 28,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9587573904188529,
+      "std_s": 0.0008908176019814606,
+      "rms_s": 0.0005581257294911898,
+      "rms_over_std": 0.6265319951578655,
+      "threshold_s": 0.00013362264029721907
+    },
+    {
+      "seed": 802,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7839843822952857,
+      "std_s": 0.0010204473668200165,
+      "rms_s": 0.00030275444239946946,
+      "rms_over_std": 0.2966879549534556,
+      "threshold_s": 0.00015306710502300248
+    },
+    {
+      "seed": 819,
+      "neighbors": 27,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.558284170415314,
+      "std_s": 0.000826117753840139,
+      "rms_s": 0.0008168002933711692,
+      "rms_over_std": 0.9887213893834645,
+      "threshold_s": 0.00012391766307602085
+    },
+    {
+      "seed": 835,
+      "neighbors": 50,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8251065121986604,
+      "std_s": 0.0010218054024128077,
+      "rms_s": 0.0003089542190662682,
+      "rms_over_std": 0.30236111331641913,
+      "threshold_s": 0.00015327081036192115
+    },
+    {
+      "seed": 852,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 869,
+      "neighbors": 23,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6411141227053918,
+      "std_s": 0.0007714381384869997,
+      "rms_s": 0.0004989978062515559,
+      "rms_over_std": 0.6468409861485802,
+      "threshold_s": 0.00011571572077304995
+    },
+    {
+      "seed": 886,
+      "neighbors": 13,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6828208885749384,
+      "std_s": 0.0007601353585471533,
+      "rms_s": 0.0007313827034339587,
+      "rms_over_std": 0.9621742959462515,
+      "threshold_s": 0.00011402030378207299
+    },
+    {
+      "seed": 902,
+      "neighbors": 63,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8455192840116893,
+      "std_s": 0.0010292400004780352,
+      "rms_s": 0.0007690694330014599,
+      "rms_over_std": 0.7472206993939821,
+      "threshold_s": 0.00015438600007170526
+    },
+    {
+      "seed": 919,
+      "neighbors": 48,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7567927099214062,
+      "std_s": 0.0010434130419166067,
+      "rms_s": 0.0005510635849895863,
+      "rms_over_std": 0.5281356115478085,
+      "threshold_s": 0.000156511956287491
+    },
+    {
+      "seed": 936,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7337383132835006,
+      "std_s": 0.0008617468612606384,
+      "rms_s": 0.000783805924785709,
+      "rms_over_std": 0.9095547196297175,
+      "threshold_s": 0.00012926202918909574
+    },
+    {
+      "seed": 952,
+      "neighbors": 40,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7534163995321543,
+      "std_s": 0.001101723581201292,
+      "rms_s": 0.00032248569189264107,
+      "rms_over_std": 0.29271016559435964,
+      "threshold_s": 0.0001652585371801938
+    },
+    {
+      "seed": 969,
+      "neighbors": 64,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6752068960385003,
+      "std_s": 0.001061071669420348,
+      "rms_s": 0.0007708569174429757,
+      "rms_over_std": 0.7264890201658919,
+      "threshold_s": 0.0001591607504130522
+    },
+    {
+      "seed": 986,
+      "neighbors": 55,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6611211056584576,
+      "std_s": 0.0010990081653190827,
+      "rms_s": 0.0007384304658533726,
+      "rms_over_std": 0.6719062598037921,
+      "threshold_s": 0.0001648512247978624
+    },
+    {
+      "seed": 1003,
+      "neighbors": 58,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6453765369977851,
+      "std_s": 0.001091342722598564,
+      "rms_s": 0.0008444863810534337,
+      "rms_over_std": 0.7738049318207318,
+      "threshold_s": 0.0001637014083897846
+    },
+    {
+      "seed": 1019,
+      "neighbors": 15,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7887221469357636,
+      "std_s": 0.0010535697962430184,
+      "rms_s": 0.0009957344227342995,
+      "rms_over_std": 0.945105323145218,
+      "threshold_s": 0.00015803546943645276
+    },
+    {
+      "seed": 1036,
+      "neighbors": 38,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7124560297158871,
+      "std_s": 0.0008232391470364468,
+      "rms_s": 0.0008079110173255286,
+      "rms_over_std": 0.9813807084295038,
+      "threshold_s": 0.000123485872055467
+    },
+    {
+      "seed": 1053,
+      "neighbors": 20,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6292955262344261,
+      "std_s": 0.0011125916636394503,
+      "rms_s": 0.0010986647337237851,
+      "rms_over_std": 0.9874824426869171,
+      "threshold_s": 0.00016688874954591754
+    },
+    {
+      "seed": 1070,
+      "neighbors": 63,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7987396139301979,
+      "std_s": 0.0010449246015997854,
+      "rms_s": 0.0006850241488567817,
+      "rms_over_std": 0.6555728019112632,
+      "threshold_s": 0.00015673869023996782
+    },
+    {
+      "seed": 1086,
+      "neighbors": 49,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.708406035312693,
+      "std_s": 0.000895268272344602,
+      "rms_s": 0.0008355282559451773,
+      "rms_over_std": 0.9332713799373537,
+      "threshold_s": 0.0001342902408516903
+    },
+    {
+      "seed": 1103,
+      "neighbors": 35,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8858270337557542,
+      "std_s": 0.0010407958516913676,
+      "rms_s": 0.0007315501878976222,
+      "rms_over_std": 0.7028757721399456,
+      "threshold_s": 0.00015611937775370513
+    },
+    {
+      "seed": 1120,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7987937260866675,
+      "std_s": 0.0011360511652210034,
+      "rms_s": 0.0010188436175588747,
+      "rms_over_std": 0.8968289886491797,
+      "threshold_s": 0.00017040767478315052
+    },
+    {
+      "seed": 1136,
+      "neighbors": 4,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 1153,
+      "neighbors": 87,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8540568910985219,
+      "std_s": 0.0010268807527301562,
+      "rms_s": 0.0008560363479375189,
+      "rms_over_std": 0.8336278050412229,
+      "threshold_s": 0.0001540321129095234
+    },
+    {
+      "seed": 1170,
+      "neighbors": 49,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9624766966504754,
+      "std_s": 0.001155845867811726,
+      "rms_s": 0.0006915348590353569,
+      "rms_over_std": 0.5982933177280692,
+      "threshold_s": 0.0001733768801717589
+    },
+    {
+      "seed": 1187,
+      "neighbors": 93,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7551126840434933,
+      "std_s": 0.001106732424421986,
+      "rms_s": 0.0007015462940016276,
+      "rms_over_std": 0.6338897085878953,
+      "threshold_s": 0.00016600986366329792
+    },
+    {
+      "seed": 1203,
+      "neighbors": 21,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7380573368912072,
+      "std_s": 0.0009888807182011042,
+      "rms_s": 0.00067968487877299,
+      "rms_over_std": 0.6873274665618119,
+      "threshold_s": 0.00014833210773016562
+    },
+    {
+      "seed": 1220,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9636371701755475,
+      "std_s": 0.001017454656379477,
+      "rms_s": 0.0006650632520989768,
+      "rms_over_std": 0.6536539470619221,
+      "threshold_s": 0.00015261819845692153
+    },
+    {
+      "seed": 1237,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8149056959762555,
+      "std_s": 0.0010511399062693722,
+      "rms_s": 0.000625184004778044,
+      "rms_over_std": 0.5947676432501747,
+      "threshold_s": 0.00015767098594040584
+    },
+    {
+      "seed": 1253,
+      "neighbors": 99,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8874871652812255,
+      "std_s": 0.0011017024703754198,
+      "rms_s": 0.0008148060686217778,
+      "rms_over_std": 0.7395881288567155,
+      "threshold_s": 0.00016525537055631296
+    },
+    {
+      "seed": 1270,
+      "neighbors": 102,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8412330058834232,
+      "std_s": 0.0010727233856992523,
+      "rms_s": 0.0007841787088099319,
+      "rms_over_std": 0.7310166994250497,
+      "threshold_s": 0.00016090850785488783
+    },
+    {
+      "seed": 1287,
+      "neighbors": 64,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8071980478820351,
+      "std_s": 0.000987069746063443,
+      "rms_s": 0.0009331621155020013,
+      "rms_over_std": 0.9453861991248015,
+      "threshold_s": 0.00014806046190951643
+    },
+    {
+      "seed": 1304,
+      "neighbors": 74,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7410649644652524,
+      "std_s": 0.0010772417671405846,
+      "rms_s": 0.0008701378617862944,
+      "rms_over_std": 0.8077461237842422,
+      "threshold_s": 0.0001615862650710877
+    },
+    {
+      "seed": 1320,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8520394477166381,
+      "std_s": 0.0011742378802658783,
+      "rms_s": 0.00033093298775285237,
+      "rms_over_std": 0.2818278930653476,
+      "threshold_s": 0.00017613568203988175
+    },
+    {
+      "seed": 1337,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6843009265785971,
+      "std_s": 0.001062111521997893,
+      "rms_s": 0.0006548444489627289,
+      "rms_over_std": 0.616549614047053,
+      "threshold_s": 0.00015931672829968394
+    },
+    {
+      "seed": 1354,
+      "neighbors": 78,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7097038547918935,
+      "std_s": 0.0009558752027271611,
+      "rms_s": 0.0006048168624477604,
+      "rms_over_std": 0.6327362198770162,
+      "threshold_s": 0.00014338128040907418
+    },
+    {
+      "seed": 1370,
+      "neighbors": 48,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5736913991819538,
+      "std_s": 0.0010589890226059945,
+      "rms_s": 0.0006983027609742678,
+      "rms_over_std": 0.659405098700515,
+      "threshold_s": 0.00015884835339089918
+    },
+    {
+      "seed": 1387,
+      "neighbors": 70,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7797267717211634,
+      "std_s": 0.0010255916943254695,
+      "rms_s": 0.0008659930427917768,
+      "rms_over_std": 0.8443838299230176,
+      "threshold_s": 0.0001538387541488204
+    },
+    {
+      "seed": 1404,
+      "neighbors": 9,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 1421,
+      "neighbors": 4,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 1437,
+      "neighbors": 68,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7349611038620569,
+      "std_s": 0.0011209254729346203,
+      "rms_s": 0.0007235036531802923,
+      "rms_over_std": 0.6454520578305135,
+      "threshold_s": 0.00016813882094019304
+    },
+    {
+      "seed": 1454,
+      "neighbors": 51,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4411843653580388,
+      "std_s": 0.0010960060157073697,
+      "rms_s": 0.0006087552255084384,
+      "rms_over_std": 0.5554305512780818,
+      "threshold_s": 0.00016440090235610546
+    },
+    {
+      "seed": 1471,
+      "neighbors": 53,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7286382284530738,
+      "std_s": 0.0010339747888650594,
+      "rms_s": 0.0008936391986565876,
+      "rms_over_std": 0.8642756170462232,
+      "threshold_s": 0.00015509621832975892
+    },
+    {
+      "seed": 1487,
+      "neighbors": 31,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8132494154848586,
+      "std_s": 0.001103574934381914,
+      "rms_s": 0.0006851724265365272,
+      "rms_over_std": 0.6208662458614792,
+      "threshold_s": 0.0001655362401572871
+    },
+    {
+      "seed": 1504,
+      "neighbors": 28,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9342797449242933,
+      "std_s": 0.0010731798449429791,
+      "rms_s": 0.0008031588775081263,
+      "rms_over_std": 0.7483916896993161,
+      "threshold_s": 0.00016097697674144688
+    },
+    {
+      "seed": 1521,
+      "neighbors": 68,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7637627929808588,
+      "std_s": 0.0011784823420920812,
+      "rms_s": 0.0006863594993148209,
+      "rms_over_std": 0.5824096592710695,
+      "threshold_s": 0.00017677235131381217
+    },
+    {
+      "seed": 1538,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9086757005990662,
+      "std_s": 0.0010178631902414206,
+      "rms_s": 0.0009980721342895903,
+      "rms_over_std": 0.9805562710769252,
+      "threshold_s": 0.0001526794785362131
+    },
+    {
+      "seed": 1554,
+      "neighbors": 89,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8238338403502323,
+      "std_s": 0.001106627535560999,
+      "rms_s": 0.0006321378683856615,
+      "rms_over_std": 0.5712291155535024,
+      "threshold_s": 0.00016599413033414984
+    },
+    {
+      "seed": 1571,
+      "neighbors": 95,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7985982542569718,
+      "std_s": 0.0010960011987174228,
+      "rms_s": 0.0007658997732184849,
+      "rms_over_std": 0.6988128973898627,
+      "threshold_s": 0.00016440017980761342
+    },
+    {
+      "seed": 1588,
+      "neighbors": 83,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7071019929192681,
+      "std_s": 0.0011072097139019608,
+      "rms_s": 0.0008792114369602191,
+      "rms_over_std": 0.7940785073694447,
+      "threshold_s": 0.00016608145708529412
+    },
+    {
+      "seed": 1605,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 1621,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7950206671699747,
+      "std_s": 0.0011243233915751176,
+      "rms_s": 0.0007085104701919704,
+      "rms_over_std": 0.6301660852216058,
+      "threshold_s": 0.00016864850873626763
+    },
+    {
+      "seed": 1638,
+      "neighbors": 26,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.80893643722679,
+      "std_s": 0.0009623233112241664,
+      "rms_s": 0.0006846160757227498,
+      "rms_over_std": 0.7114200266559617,
+      "threshold_s": 0.00014434849668362495
+    },
+    {
+      "seed": 1655,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6926213493457326,
+      "std_s": 0.001227108336570754,
+      "rms_s": 0.0008720140777138275,
+      "rms_over_std": 0.710625176054737,
+      "threshold_s": 0.0001840662504856131
+    },
+    {
+      "seed": 1671,
+      "neighbors": 39,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6857127605040315,
+      "std_s": 0.001052559522148752,
+      "rms_s": 0.0006846481554727506,
+      "rms_over_std": 0.6504602742798553,
+      "threshold_s": 0.00015788392832231279
+    },
+    {
+      "seed": 1688,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8191999171931135,
+      "std_s": 0.00105326015514512,
+      "rms_s": 0.0007577127954166973,
+      "rms_over_std": 0.7193975692665392,
+      "threshold_s": 0.00015798902327176798
+    },
+    {
+      "seed": 1705,
+      "neighbors": 69,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6888264306702763,
+      "std_s": 0.0010842552724816337,
+      "rms_s": 0.0006922673597673508,
+      "rms_over_std": 0.6384726709079269,
+      "threshold_s": 0.00016263829087224504
+    },
+    {
+      "seed": 1722,
+      "neighbors": 80,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7823342299795017,
+      "std_s": 0.0010814982113224922,
+      "rms_s": 0.0007781499438789435,
+      "rms_over_std": 0.7195110779955851,
+      "threshold_s": 0.00016222473169837383
+    },
+    {
+      "seed": 1738,
+      "neighbors": 26,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7371263767129255,
+      "std_s": 0.0009408724643025962,
+      "rms_s": 0.0006468427557720384,
+      "rms_over_std": 0.6874924926743374,
+      "threshold_s": 0.00014113086964538942
+    },
+    {
+      "seed": 1755,
+      "neighbors": 50,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8453131943051087,
+      "std_s": 0.0009635263981853325,
+      "rms_s": 0.0009195453537317725,
+      "rms_over_std": 0.9543540846038135,
+      "threshold_s": 0.00014452895972779986
+    },
+    {
+      "seed": 1772,
+      "neighbors": 31,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8827668855841652,
+      "std_s": 0.001113554746178531,
+      "rms_s": 0.0007346508269709301,
+      "rms_over_std": 0.6597348082724143,
+      "threshold_s": 0.00016703321192677964
+    },
+    {
+      "seed": 1788,
+      "neighbors": 60,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8603940240913865,
+      "std_s": 0.0010656417705099382,
+      "rms_s": 0.0010443056890540713,
+      "rms_over_std": 0.9799781858722965,
+      "threshold_s": 0.00015984626557649073
+    },
+    {
+      "seed": 1805,
+      "neighbors": 56,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8191087381262464,
+      "std_s": 0.0011274284649407577,
+      "rms_s": 0.00032818382033741536,
+      "rms_over_std": 0.2910905929225942,
+      "threshold_s": 0.00016911426974111366
+    },
+    {
+      "seed": 1822,
+      "neighbors": 91,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8098174826227731,
+      "std_s": 0.001051823346217582,
+      "rms_s": 0.000712808647268422,
+      "rms_over_std": 0.677688558474884,
+      "threshold_s": 0.0001577735019326373
+    },
+    {
+      "seed": 1839,
+      "neighbors": 29,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7939472355619893,
+      "std_s": 0.001265988552656693,
+      "rms_s": 0.0009261738628591205,
+      "rms_over_std": 0.7315815462276756,
+      "threshold_s": 0.00018989828289850394
+    },
+    {
+      "seed": 1855,
+      "neighbors": 96,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7870431668755621,
+      "std_s": 0.0010880629000963005,
+      "rms_s": 0.0006715195963282107,
+      "rms_over_std": 0.6171698311455863,
+      "threshold_s": 0.00016320943501444508
+    },
+    {
+      "seed": 1872,
+      "neighbors": 79,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8382371894156706,
+      "std_s": 0.0011529909319193655,
+      "rms_s": 0.0008776528070679324,
+      "rms_over_std": 0.7611966258979312,
+      "threshold_s": 0.0001729486397879048
+    },
+    {
+      "seed": 1889,
+      "neighbors": 60,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7149106630287525,
+      "std_s": 0.0010547029138050622,
+      "rms_s": 0.0008489759343735016,
+      "rms_over_std": 0.8049431960993098,
+      "threshold_s": 0.00015820543707075933
+    },
+    {
+      "seed": 1905,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7064521024889946,
+      "std_s": 0.0011265441791072854,
+      "rms_s": 0.0006768583970409409,
+      "rms_over_std": 0.6008272108576409,
+      "threshold_s": 0.0001689816268660928
+    },
+    {
+      "seed": 1922,
+      "neighbors": 1,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 1939,
+      "neighbors": 99,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7781160117875456,
+      "std_s": 0.001079917787383557,
+      "rms_s": 0.000704715581539651,
+      "rms_over_std": 0.6525641023536133,
+      "threshold_s": 0.00016198766810753354
+    },
+    {
+      "seed": 1956,
+      "neighbors": 69,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7229271907470514,
+      "std_s": 0.0012130823152753034,
+      "rms_s": 0.0009135542420758261,
+      "rms_over_std": 0.7530851209124249,
+      "threshold_s": 0.0001819623472912955
+    },
+    {
+      "seed": 1972,
+      "neighbors": 23,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5441708627214253,
+      "std_s": 0.001002432291506424,
+      "rms_s": 0.0006654579929559513,
+      "rms_over_std": 0.6638433324568205,
+      "threshold_s": 0.00015036484372596358
+    },
+    {
+      "seed": 1989,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8602843639579785,
+      "std_s": 0.0010283722621118139,
+      "rms_s": 0.0007120406707898688,
+      "rms_over_std": 0.6923958346831114,
+      "threshold_s": 0.00015425583931677207
+    },
+    {
+      "seed": 2006,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5913341762489315,
+      "std_s": 0.0010476283695172082,
+      "rms_s": 0.0006448372394243912,
+      "rms_over_std": 0.615520978800488,
+      "threshold_s": 0.00015714425542758122
+    },
+    {
+      "seed": 2023,
+      "neighbors": 49,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7315698657750284,
+      "std_s": 0.000996704550848762,
+      "rms_s": 0.0008105660099600513,
+      "rms_over_std": 0.8132460208692727,
+      "threshold_s": 0.0001495056826273143
+    },
+    {
+      "seed": 2039,
+      "neighbors": 32,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8344194468769136,
+      "std_s": 0.0011081314350489973,
+      "rms_s": 0.0006770801063655035,
+      "rms_over_std": 0.6110106481507454,
+      "threshold_s": 0.00016621971525734958
+    },
+    {
+      "seed": 2056,
+      "neighbors": 42,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8377816333068993,
+      "std_s": 0.0010423317324519054,
+      "rms_s": 0.0007434200453973372,
+      "rms_over_std": 0.7132278738636978,
+      "threshold_s": 0.00015634975986778582
+    },
+    {
+      "seed": 2073,
+      "neighbors": 89,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7763105549873763,
+      "std_s": 0.0011235364553022443,
+      "rms_s": 0.0007641121404195302,
+      "rms_over_std": 0.6800955472459282,
+      "threshold_s": 0.00016853046829533663
+    },
+    {
+      "seed": 2089,
+      "neighbors": 57,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5479611623343558,
+      "std_s": 0.0010818046346114962,
+      "rms_s": 0.0006492419111929766,
+      "rms_over_std": 0.600147097193881,
+      "threshold_s": 0.00016227069519172442
+    },
+    {
+      "seed": 2106,
+      "neighbors": 63,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7236521389860436,
+      "std_s": 0.0010513888416502652,
+      "rms_s": 0.0008012887368218873,
+      "rms_over_std": 0.7621240639801545,
+      "threshold_s": 0.00015770832624753978
+    },
+    {
+      "seed": 2123,
+      "neighbors": 1,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 2140,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7907040905019578,
+      "std_s": 0.0012000221233756105,
+      "rms_s": 0.000783595991857566,
+      "rms_over_std": 0.6529846213612664,
+      "threshold_s": 0.00018000331850634159
+    },
+    {
+      "seed": 2156,
+      "neighbors": 39,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7048827359836903,
+      "std_s": 0.0011464214819745292,
+      "rms_s": 0.0007780742956067705,
+      "rms_over_std": 0.6786982866603833,
+      "threshold_s": 0.00017196322229617937
+    },
+    {
+      "seed": 2173,
+      "neighbors": 101,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8258227871462958,
+      "std_s": 0.0010984795087992483,
+      "rms_s": 0.0007676049338748358,
+      "rms_over_std": 0.6987885779625579,
+      "threshold_s": 0.00016477192631988722
+    },
+    {
+      "seed": 2190,
+      "neighbors": 41,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8669681640827477,
+      "std_s": 0.0009756466633262916,
+      "rms_s": 0.0009574800088545709,
+      "rms_over_std": 0.9813798835638049,
+      "threshold_s": 0.00014634699949894373
+    },
+    {
+      "seed": 2206,
+      "neighbors": 102,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7971186259829851,
+      "std_s": 0.0010816762212049337,
+      "rms_s": 0.0008220116824625511,
+      "rms_over_std": 0.7599424544498823,
+      "threshold_s": 0.00016225143318074003
+    },
+    {
+      "seed": 2223,
+      "neighbors": 41,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6518583856306144,
+      "std_s": 0.0007367258281515289,
+      "rms_s": 0.0006813621885908808,
+      "rms_over_std": 0.9248517732851074,
+      "threshold_s": 0.00011050887422272933
+    },
+    {
+      "seed": 2240,
+      "neighbors": 71,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7329612868850064,
+      "std_s": 0.0011238844650653885,
+      "rms_s": 0.0007256774798639133,
+      "rms_over_std": 0.6456869032545022,
+      "threshold_s": 0.00016858266975980826
+    },
+    {
+      "seed": 2257,
+      "neighbors": 7,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 2273,
+      "neighbors": 59,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6495278755837789,
+      "std_s": 0.0010608414026002386,
+      "rms_s": 0.0007763744683970064,
+      "rms_over_std": 0.731847820507408,
+      "threshold_s": 0.0001591262103900358
+    },
+    {
+      "seed": 2290,
+      "neighbors": 32,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7485390495353679,
+      "std_s": 0.0009584975420343744,
+      "rms_s": 0.0006855741494167748,
+      "rms_over_std": 0.7152591627534797,
+      "threshold_s": 0.00014377463130515615
+    },
+    {
+      "seed": 2307,
+      "neighbors": 89,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8440856945345273,
+      "std_s": 0.001111502496180407,
+      "rms_s": 0.0007837333372973093,
+      "rms_over_std": 0.7051116304196786,
+      "threshold_s": 0.00016672537442706105
+    },
+    {
+      "seed": 2323,
+      "neighbors": 29,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8228890031573943,
+      "std_s": 0.0009738891314867733,
+      "rms_s": 0.0006596166546844437,
+      "rms_over_std": 0.677301587376224,
+      "threshold_s": 0.000146083369723016
+    },
+    {
+      "seed": 2340,
+      "neighbors": 49,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8495197835342048,
+      "std_s": 0.0010481267838873503,
+      "rms_s": 0.0007446659615787181,
+      "rms_over_std": 0.7104731727366607,
+      "threshold_s": 0.00015721901758310254
+    },
+    {
+      "seed": 2357,
+      "neighbors": 10,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6890006704370691,
+      "std_s": 0.0008810970945361244,
+      "rms_s": 0.0007176027212059843,
+      "rms_over_std": 0.814442273906015,
+      "threshold_s": 0.00013216456418041865
+    },
+    {
+      "seed": 2374,
+      "neighbors": 79,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.750739070868726,
+      "std_s": 0.001031916366882057,
+      "rms_s": 0.0007325227256721779,
+      "rms_over_std": 0.7098663701647652,
+      "threshold_s": 0.00015478745503230855
+    },
+    {
+      "seed": 2390,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7538376740881991,
+      "std_s": 0.001090370650926273,
+      "rms_s": 0.0007213479071522946,
+      "rms_over_std": 0.661562108755869,
+      "threshold_s": 0.00016355559763894093
+    },
+    {
+      "seed": 2407,
+      "neighbors": 33,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9421573581899952,
+      "std_s": 0.001153852835275327,
+      "rms_s": 0.0008397149278242018,
+      "rms_over_std": 0.7277487233662974,
+      "threshold_s": 0.00017307792529129904
+    },
+    {
+      "seed": 2424,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 2440,
+      "neighbors": 80,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7809317247830554,
+      "std_s": 0.0010629184634768558,
+      "rms_s": 0.0009072179023117874,
+      "rms_over_std": 0.853515987806097,
+      "threshold_s": 0.00015943776952152835
+    },
+    {
+      "seed": 2457,
+      "neighbors": 74,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7568167800411474,
+      "std_s": 0.0009731137402862865,
+      "rms_s": 0.0007039507503372247,
+      "rms_over_std": 0.7234002780909505,
+      "threshold_s": 0.00014596706104294296
+    },
+    {
+      "seed": 2474,
+      "neighbors": 62,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7675383753803121,
+      "std_s": 0.001011109175652387,
+      "rms_s": 0.0007213805500768445,
+      "rms_over_std": 0.7134546569725232,
+      "threshold_s": 0.00015166637634785805
+    },
+    {
+      "seed": 2491,
+      "neighbors": 36,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6166356315631126,
+      "std_s": 0.0011693264637636592,
+      "rms_s": 0.0008638037834835509,
+      "rms_over_std": 0.7387190919320034,
+      "threshold_s": 0.00017539896956454888
+    },
+    {
+      "seed": 2507,
+      "neighbors": 69,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6681392630593739,
+      "std_s": 0.0011559493823629005,
+      "rms_s": 0.0007239580535463761,
+      "rms_over_std": 0.6262887152260233,
+      "threshold_s": 0.00017339240735443506
+    },
+    {
+      "seed": 2524,
+      "neighbors": 30,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6208206316609033,
+      "std_s": 0.0011097569683894257,
+      "rms_s": 0.000675946265728774,
+      "rms_over_std": 0.6090939592925153,
+      "threshold_s": 0.00016646354525841385
+    },
+    {
+      "seed": 2541,
+      "neighbors": 23,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6278684471468006,
+      "std_s": 0.0011081196952401875,
+      "rms_s": 0.0009054926276257323,
+      "rms_over_std": 0.8171433388605774,
+      "threshold_s": 0.00016621795428602813
+    },
+    {
+      "seed": 2558,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7704461983861234,
+      "std_s": 0.0010983221002273198,
+      "rms_s": 0.0007067040505366972,
+      "rms_over_std": 0.6434397071591572,
+      "threshold_s": 0.00016474831503409797
+    },
+    {
+      "seed": 2574,
+      "neighbors": 73,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8262391523354347,
+      "std_s": 0.0011343202011045602,
+      "rms_s": 0.000943368284372771,
+      "rms_over_std": 0.8316595996916505,
+      "threshold_s": 0.000170148030165684
+    },
+    {
+      "seed": 2591,
+      "neighbors": 28,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.871281777153587,
+      "std_s": 0.0010185889518378463,
+      "rms_s": 0.0010153179173085182,
+      "rms_over_std": 0.9967886608985634,
+      "threshold_s": 0.00015278834277567696
+    },
+    {
+      "seed": 2608,
+      "neighbors": 96,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7966644310694037,
+      "std_s": 0.001045301222327471,
+      "rms_s": 0.0007288149898642888,
+      "rms_over_std": 0.697229635149098,
+      "threshold_s": 0.00015679518334912065
+    },
+    {
+      "seed": 2624,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7892945806030344,
+      "std_s": 0.0010947854246531866,
+      "rms_s": 0.0009109608806564726,
+      "rms_over_std": 0.8320908007567354,
+      "threshold_s": 0.00016421781369797798
+    },
+    {
+      "seed": 2641,
+      "neighbors": 65,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6842985079915803,
+      "std_s": 0.001119221484497571,
+      "rms_s": 0.0006815391483207712,
+      "rms_over_std": 0.6089403730725563,
+      "threshold_s": 0.00016788322267463567
+    },
+    {
+      "seed": 2658,
+      "neighbors": 86,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7812085696975952,
+      "std_s": 0.0010840294176167537,
+      "rms_s": 0.0009246308786340664,
+      "rms_over_std": 0.8529573677685555,
+      "threshold_s": 0.00016260441264251304
+    },
+    {
+      "seed": 2675,
+      "neighbors": 78,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.767352581411736,
+      "std_s": 0.0010325765919029718,
+      "rms_s": 0.0007507962180198354,
+      "rms_over_std": 0.7271094695611554,
+      "threshold_s": 0.00015488648878544576
+    },
+    {
+      "seed": 2691,
+      "neighbors": 21,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6374527879154585,
+      "std_s": 0.000940901285483734,
+      "rms_s": 0.0006034340139002373,
+      "rms_over_std": 0.6413361563110217,
+      "threshold_s": 0.0001411351928225601
+    },
+    {
+      "seed": 2708,
+      "neighbors": 91,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8212328524881953,
+      "std_s": 0.0011023314113797315,
+      "rms_s": 0.000847864889506626,
+      "rms_over_std": 0.769156063914932,
+      "threshold_s": 0.00016534971170695972
+    },
+    {
+      "seed": 2725,
+      "neighbors": 82,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8127681908837009,
+      "std_s": 0.0011129679527688752,
+      "rms_s": 0.0008643173054276522,
+      "rms_over_std": 0.7765877744074999,
+      "threshold_s": 0.00016694519291533127
+    },
+    {
+      "seed": 2741,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5246211387638562,
+      "std_s": 0.0010220731898312864,
+      "rms_s": 0.001006115860594863,
+      "rms_over_std": 0.9843872930087743,
+      "threshold_s": 0.00015331097847469296
+    },
+    {
+      "seed": 2758,
+      "neighbors": 84,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7887765153940729,
+      "std_s": 0.0010451384999735603,
+      "rms_s": 0.0007997695861802103,
+      "rms_over_std": 0.7652283273465121,
+      "threshold_s": 0.00015677077499603404
+    },
+    {
+      "seed": 2775,
+      "neighbors": 32,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7826877945888813,
+      "std_s": 0.0010424639602396033,
+      "rms_s": 0.0006372369966044571,
+      "rms_over_std": 0.6112796421834981,
+      "threshold_s": 0.00015636959403594048
+    },
+    {
+      "seed": 2792,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.80544215735714,
+      "std_s": 0.0011376518334775697,
+      "rms_s": 0.0009082143679809337,
+      "rms_over_std": 0.7983236533841004,
+      "threshold_s": 0.00017064777502163545
+    },
+    {
+      "seed": 2808,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.618139720777697,
+      "std_s": 0.0009162086029292851,
+      "rms_s": 0.0006346824367976996,
+      "rms_over_std": 0.6927269999086504,
+      "threshold_s": 0.00013743129043939276
+    },
+    {
+      "seed": 2825,
+      "neighbors": 7,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 2842,
+      "neighbors": 76,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6771018899349168,
+      "std_s": 0.0011099301476454968,
+      "rms_s": 0.0008385683983648229,
+      "rms_over_std": 0.7555145701228896,
+      "threshold_s": 0.00016648952214682453
+    },
+    {
+      "seed": 2858,
+      "neighbors": 50,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6467591542765248,
+      "std_s": 0.0009761989078051665,
+      "rms_s": 0.0009362044744665812,
+      "rms_over_std": 0.9590304465423889,
+      "threshold_s": 0.00014642983617077496
+    },
+    {
+      "seed": 2875,
+      "neighbors": 56,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.953947120396841,
+      "std_s": 0.0010540795354677163,
+      "rms_s": 0.0006782947014577726,
+      "rms_over_std": 0.6434948015159023,
+      "threshold_s": 0.00015811193032015742
+    },
+    {
+      "seed": 2892,
+      "neighbors": 26,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7884626127113663,
+      "std_s": 0.0011344821512387446,
+      "rms_s": 0.0010497776784822441,
+      "rms_over_std": 0.9253364430070482,
+      "threshold_s": 0.0001701723226858117
+    },
+    {
+      "seed": 2909,
+      "neighbors": 72,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8226752262352546,
+      "std_s": 0.0010299291349191199,
+      "rms_s": 0.0009849943607939651,
+      "rms_over_std": 0.9563710039830231,
+      "threshold_s": 0.00015448937023786798
+    },
+    {
+      "seed": 2925,
+      "neighbors": 28,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5557386104942231,
+      "std_s": 0.0011017358491841641,
+      "rms_s": 0.0008775667040984659,
+      "rms_over_std": 0.7965309513603506,
+      "threshold_s": 0.00016526037737762462
+    },
+    {
+      "seed": 2942,
+      "neighbors": 95,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7478542813064148,
+      "std_s": 0.0010679806997125221,
+      "rms_s": 0.0009467119347726857,
+      "rms_over_std": 0.8864504152814003,
+      "threshold_s": 0.0001601971049568783
+    },
+    {
+      "seed": 2959,
+      "neighbors": 52,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5661179202803548,
+      "std_s": 0.0010721658613505477,
+      "rms_s": 0.0005977114532278098,
+      "rms_over_std": 0.5574803999773934,
+      "threshold_s": 0.00016082487920258213
+    },
+    {
+      "seed": 2975,
+      "neighbors": 31,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9291257996521065,
+      "std_s": 0.001079598963002333,
+      "rms_s": 0.000602682083676468,
+      "rms_over_std": 0.5582462602598531,
+      "threshold_s": 0.00016193984445034995
+    },
+    {
+      "seed": 2992,
+      "neighbors": 77,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7221709589076977,
+      "std_s": 0.0010071732998823747,
+      "rms_s": 0.0007239394466933488,
+      "rms_over_std": 0.7187833978302403,
+      "threshold_s": 0.0001510759949823562
+    },
+    {
+      "seed": 3009,
+      "neighbors": 19,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4902363643483725,
+      "std_s": 0.0009523690245922378,
+      "rms_s": 0.00090132958362257,
+      "rms_over_std": 0.9464079157850387,
+      "threshold_s": 0.00014285535368883565
+    },
+    {
+      "seed": 3026,
+      "neighbors": 33,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.3784416431740788,
+      "std_s": 0.0010386896014470686,
+      "rms_s": 0.000753263115694013,
+      "rms_over_std": 0.7252052149598796,
+      "threshold_s": 0.00015580344021706027
+    },
+    {
+      "seed": 3042,
+      "neighbors": 74,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8000809115578674,
+      "std_s": 0.0009890403965224326,
+      "rms_s": 0.0007414468163164441,
+      "rms_over_std": 0.7496628236050288,
+      "threshold_s": 0.00014835605947836487
+    },
+    {
+      "seed": 3059,
+      "neighbors": 27,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8012888047120383,
+      "std_s": 0.0011665649314843124,
+      "rms_s": 0.0011467782064255104,
+      "rms_over_std": 0.9830384708773768,
+      "threshold_s": 0.00017498473972264684
+    },
+    {
+      "seed": 3076,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3093,
+      "neighbors": 71,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7205978939440826,
+      "std_s": 0.0010999252929492212,
+      "rms_s": 0.000563147544978266,
+      "rms_over_std": 0.5119870854758716,
+      "threshold_s": 0.00016498879394238316
+    },
+    {
+      "seed": 3109,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7570911018115452,
+      "std_s": 0.0006782012411293477,
+      "rms_s": 0.00035486870256633496,
+      "rms_over_std": 0.5232498571890017,
+      "threshold_s": 0.00010173018616940216
+    },
+    {
+      "seed": 3126,
+      "neighbors": 13,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7806555331846058,
+      "std_s": 0.0009033095035322044,
+      "rms_s": 0.0008287833169404089,
+      "rms_over_std": 0.917496509999755,
+      "threshold_s": 0.00013549642552983064
+    },
+    {
+      "seed": 3143,
+      "neighbors": 51,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5220741212415692,
+      "std_s": 0.0010660539665478782,
+      "rms_s": 0.0006986199238578736,
+      "rms_over_std": 0.6553326058343572,
+      "threshold_s": 0.0001599080949821817
+    },
+    {
+      "seed": 3159,
+      "neighbors": 57,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6106131528850407,
+      "std_s": 0.00093679571571854,
+      "rms_s": 0.0005714824814189244,
+      "rms_over_std": 0.6100395975664625,
+      "threshold_s": 0.000140519357357781
+    },
+    {
+      "seed": 3176,
+      "neighbors": 77,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7606143418867295,
+      "std_s": 0.0010438221391219384,
+      "rms_s": 0.000690016797081533,
+      "rms_over_std": 0.6610482487581401,
+      "threshold_s": 0.00015657332086829075
+    },
+    {
+      "seed": 3193,
+      "neighbors": 77,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.735827203667879,
+      "std_s": 0.0010416420556197588,
+      "rms_s": 0.0007325338441818206,
+      "rms_over_std": 0.7032491058034095,
+      "threshold_s": 0.00015624630834296381
+    },
+    {
+      "seed": 3210,
+      "neighbors": 93,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8581422893246031,
+      "std_s": 0.0011108842262515847,
+      "rms_s": 0.000844186700998428,
+      "rms_over_std": 0.7599232044611307,
+      "threshold_s": 0.0001666326339377377
+    },
+    {
+      "seed": 3226,
+      "neighbors": 38,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5099790638168332,
+      "std_s": 0.0010535388330359166,
+      "rms_s": 0.000896833052106594,
+      "rms_over_std": 0.8512577078172302,
+      "threshold_s": 0.00015803082495538748
+    },
+    {
+      "seed": 3243,
+      "neighbors": 4,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3260,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8057822475895077,
+      "std_s": 0.0010254996967816099,
+      "rms_s": 0.000699729902798289,
+      "rms_over_std": 0.6823306774193062,
+      "threshold_s": 0.00015382495451724147
+    },
+    {
+      "seed": 3276,
+      "neighbors": 43,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7266847353977924,
+      "std_s": 0.0010820974270073676,
+      "rms_s": 0.0009080088147992968,
+      "rms_over_std": 0.8391192808862621,
+      "threshold_s": 0.00016231461405110512
+    },
+    {
+      "seed": 3293,
+      "neighbors": 37,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8003816546361967,
+      "std_s": 0.0010200135893335578,
+      "rms_s": 0.0007231924926768484,
+      "rms_over_std": 0.7090028017659625,
+      "threshold_s": 0.00015300203840003368
+    },
+    {
+      "seed": 3310,
+      "neighbors": 6,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3327,
+      "neighbors": 66,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6730919224188571,
+      "std_s": 0.0011388408377061216,
+      "rms_s": 0.0009139817501032718,
+      "rms_over_std": 0.8025544218665657,
+      "threshold_s": 0.00017082612565591824
+    },
+    {
+      "seed": 3343,
+      "neighbors": 89,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.873969854000488,
+      "std_s": 0.001079838246126825,
+      "rms_s": 0.0008674949588549011,
+      "rms_over_std": 0.8033563933917335,
+      "threshold_s": 0.00016197573691902373
+    },
+    {
+      "seed": 3360,
+      "neighbors": 52,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8650314280919378,
+      "std_s": 0.001059420323383327,
+      "rms_s": 0.0010530448079864665,
+      "rms_over_std": 0.993982071840476,
+      "threshold_s": 0.00015891304850749904
+    },
+    {
+      "seed": 3377,
+      "neighbors": 78,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6941855303040143,
+      "std_s": 0.0010596720918016698,
+      "rms_s": 0.00084249883092002,
+      "rms_over_std": 0.795056166372742,
+      "threshold_s": 0.00015895081377025047
+    },
+    {
+      "seed": 3393,
+      "neighbors": 5,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3410,
+      "neighbors": 13,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4655772152060317,
+      "std_s": 0.001098351292679249,
+      "rms_s": 0.0009392841215541727,
+      "rms_over_std": 0.8551764156101116,
+      "threshold_s": 0.00016475269390188734
+    },
+    {
+      "seed": 3427,
+      "neighbors": 63,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.679478495993401,
+      "std_s": 0.0010279514455222198,
+      "rms_s": 0.000664115662102594,
+      "rms_over_std": 0.6460574232328745,
+      "threshold_s": 0.00015419271682833298
+    },
+    {
+      "seed": 3444,
+      "neighbors": 32,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8488641154135329,
+      "std_s": 0.0010837438396415168,
+      "rms_s": 0.0007551280035222924,
+      "rms_over_std": 0.696777205000838,
+      "threshold_s": 0.0001625615759462275
+    },
+    {
+      "seed": 3460,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3477,
+      "neighbors": 26,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.318306246047459,
+      "std_s": 0.0009489849326342667,
+      "rms_s": 0.000720157432714412,
+      "rms_over_std": 0.7588713033781712,
+      "threshold_s": 0.00014234773989514
+    },
+    {
+      "seed": 3494,
+      "neighbors": 21,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5272861461146524,
+      "std_s": 0.0009834660420077112,
+      "rms_s": 0.0008497228995427097,
+      "rms_over_std": 0.8640083777656729,
+      "threshold_s": 0.0001475199063011567
+    },
+    {
+      "seed": 3511,
+      "neighbors": 63,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6018146758451706,
+      "std_s": 0.00117168964570416,
+      "rms_s": 0.00070312013844922,
+      "rms_over_std": 0.6000907672327002,
+      "threshold_s": 0.000175753446855624
+    },
+    {
+      "seed": 3527,
+      "neighbors": 82,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8791498042880209,
+      "std_s": 0.0010798258656188452,
+      "rms_s": 0.0006667368699417247,
+      "rms_over_std": 0.6174485082922325,
+      "threshold_s": 0.00016197387984282679
+    },
+    {
+      "seed": 3544,
+      "neighbors": 90,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8836650086371072,
+      "std_s": 0.0011045888405495806,
+      "rms_s": 0.0006652378844060482,
+      "rms_over_std": 0.6022493257084361,
+      "threshold_s": 0.00016568832608243708
+    },
+    {
+      "seed": 3561,
+      "neighbors": 93,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8838040403491649,
+      "std_s": 0.00106888505106916,
+      "rms_s": 0.0007752724441173953,
+      "rms_over_std": 0.7253094646069972,
+      "threshold_s": 0.000160332757660374
+    },
+    {
+      "seed": 3577,
+      "neighbors": 59,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8470350763075503,
+      "std_s": 0.001138040417540754,
+      "rms_s": 0.0009502700001822871,
+      "rms_over_std": 0.835005493245812,
+      "threshold_s": 0.0001707060626311131
+    },
+    {
+      "seed": 3594,
+      "neighbors": 52,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6812487087151105,
+      "std_s": 0.0011579575961056165,
+      "rms_s": 0.0009715544718793978,
+      "rms_over_std": 0.8390242226026927,
+      "threshold_s": 0.00017369363941584248
+    },
+    {
+      "seed": 3611,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7084153375957971,
+      "std_s": 0.001153042690849049,
+      "rms_s": 0.0008353104736146269,
+      "rms_over_std": 0.7244401965720295,
+      "threshold_s": 0.00017295640362735733
+    },
+    {
+      "seed": 3628,
+      "neighbors": 79,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8823609976428671,
+      "std_s": 0.0011018648351978865,
+      "rms_s": 0.0008684918712058636,
+      "rms_over_std": 0.7882018224584589,
+      "threshold_s": 0.00016527972527968297
+    },
+    {
+      "seed": 3644,
+      "neighbors": 64,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6620445898020779,
+      "std_s": 0.001105155991424224,
+      "rms_s": 0.000627979138344001,
+      "rms_over_std": 0.5682266966989148,
+      "threshold_s": 0.0001657733987136336
+    },
+    {
+      "seed": 3661,
+      "neighbors": 77,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6897899447561364,
+      "std_s": 0.0009846072407065053,
+      "rms_s": 0.0007045019994877944,
+      "rms_over_std": 0.7155157613733154,
+      "threshold_s": 0.0001476910861059758
+    },
+    {
+      "seed": 3678,
+      "neighbors": 18,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5255210567766067,
+      "std_s": 0.0011113043790247142,
+      "rms_s": 0.0008266022720296994,
+      "rms_over_std": 0.7438126652170032,
+      "threshold_s": 0.00016669565685370713
+    },
+    {
+      "seed": 3694,
+      "neighbors": 16,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.82342019514417,
+      "std_s": 0.0010348087308169561,
+      "rms_s": 0.0009327370722880098,
+      "rms_over_std": 0.9013618116186909,
+      "threshold_s": 0.0001552213096225434
+    },
+    {
+      "seed": 3711,
+      "neighbors": 11,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7199892453982746,
+      "std_s": 0.0011864865209781398,
+      "rms_s": 0.0011257413628307168,
+      "rms_over_std": 0.9488024877877714,
+      "threshold_s": 0.00017797297814672097
+    },
+    {
+      "seed": 3728,
+      "neighbors": 29,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.38122143457330854,
+      "std_s": 0.0010552553449492662,
+      "rms_s": 0.001046962531414498,
+      "rms_over_std": 0.9921414152750234,
+      "threshold_s": 0.00015828830174238992
+    },
+    {
+      "seed": 3745,
+      "neighbors": 23,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6825363990341129,
+      "std_s": 0.0010580700946259546,
+      "rms_s": 0.0008673171369950439,
+      "rms_over_std": 0.8197161430043584,
+      "threshold_s": 0.00015871051419389317
+    },
+    {
+      "seed": 3761,
+      "neighbors": 55,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9849841580481414,
+      "std_s": 0.0008529392363037628,
+      "rms_s": 0.0008514324587200391,
+      "rms_over_std": 0.9982334291593228,
+      "threshold_s": 0.00012794088544556442
+    },
+    {
+      "seed": 3778,
+      "neighbors": 80,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7794815236355609,
+      "std_s": 0.001102939345567108,
+      "rms_s": 0.0009339869873838812,
+      "rms_over_std": 0.8468162742926221,
+      "threshold_s": 0.0001654409018350662
+    },
+    {
+      "seed": 3795,
+      "neighbors": 1,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3811,
+      "neighbors": 86,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.776818294565205,
+      "std_s": 0.0011041129812623814,
+      "rms_s": 0.0007214874232895377,
+      "rms_over_std": 0.653454343471833,
+      "threshold_s": 0.00016561694718935722
+    },
+    {
+      "seed": 3828,
+      "neighbors": 6,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3845,
+      "neighbors": 61,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6275550687023018,
+      "std_s": 0.001170996298726551,
+      "rms_s": 0.0006483926153950702,
+      "rms_over_std": 0.5537102176157106,
+      "threshold_s": 0.00017564944480898264
+    },
+    {
+      "seed": 3862,
+      "neighbors": 86,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8418376711043357,
+      "std_s": 0.001090108988006625,
+      "rms_s": 0.0008506288730843361,
+      "rms_over_std": 0.7803154385872897,
+      "threshold_s": 0.00016351634820099375
+    },
+    {
+      "seed": 3878,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4807101806558254,
+      "std_s": 0.0013324253595766535,
+      "rms_s": 0.000824432830537341,
+      "rms_over_std": 0.6187459767347004,
+      "threshold_s": 0.00019986380393649801
+    },
+    {
+      "seed": 3895,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5874806214399149,
+      "std_s": 0.0009172358335752389,
+      "rms_s": 0.0006759901882889501,
+      "rms_over_std": 0.7369862401189106,
+      "threshold_s": 0.00013758537503628582
+    },
+    {
+      "seed": 3912,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 3928,
+      "neighbors": 58,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7955658408793412,
+      "std_s": 0.0011987700330556312,
+      "rms_s": 0.0009749436595993434,
+      "rms_over_std": 0.8132866460752605,
+      "threshold_s": 0.00017981550495834467
+    },
+    {
+      "seed": 3945,
+      "neighbors": 10,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.528935721598823,
+      "std_s": 0.0012094944439723565,
+      "rms_s": 0.0012007761512883514,
+      "rms_over_std": 0.9927917877362284,
+      "threshold_s": 0.00018142416659585348
+    },
+    {
+      "seed": 3962,
+      "neighbors": 83,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7211460511468125,
+      "std_s": 0.0010400423588914907,
+      "rms_s": 0.0008628796191128807,
+      "rms_over_std": 0.8296581497243676,
+      "threshold_s": 0.0001560063538337236
+    },
+    {
+      "seed": 3979,
+      "neighbors": 93,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7601917589932472,
+      "std_s": 0.001137379773624801,
+      "rms_s": 0.0007753867504005623,
+      "rms_over_std": 0.6817307361897461,
+      "threshold_s": 0.00017060696604372013
+    },
+    {
+      "seed": 3995,
+      "neighbors": 12,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4365405873470949,
+      "std_s": 0.0009953505628950818,
+      "rms_s": 0.0008756157126044731,
+      "rms_over_std": 0.8797058496231245,
+      "threshold_s": 0.00014930258443426227
+    },
+    {
+      "seed": 4012,
+      "neighbors": 2,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 4029,
+      "neighbors": 91,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7029966541701758,
+      "std_s": 0.001150701095204996,
+      "rms_s": 0.0007702134845995267,
+      "rms_over_std": 0.6693427926757244,
+      "threshold_s": 0.0001726051642807494
+    },
+    {
+      "seed": 4046,
+      "neighbors": 89,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9514872732910873,
+      "std_s": 0.0010889021605094862,
+      "rms_s": 0.00083255608534371,
+      "rms_over_std": 0.7645830043666784,
+      "threshold_s": 0.00016333532407642292
+    },
+    {
+      "seed": 4062,
+      "neighbors": 1,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 4079,
+      "neighbors": 60,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8547409918266644,
+      "std_s": 0.0010681100103297723,
+      "rms_s": 0.0007052416974804772,
+      "rms_over_std": 0.6602706562620252,
+      "threshold_s": 0.00016021650154946586
+    },
+    {
+      "seed": 4096,
+      "neighbors": 98,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8021219632896425,
+      "std_s": 0.0010890487737333801,
+      "rms_s": 0.0007334301024696681,
+      "rms_over_std": 0.6734593712964648,
+      "threshold_s": 0.000163357316060007
+    },
+    {
+      "seed": 4112,
+      "neighbors": 86,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8489407087691171,
+      "std_s": 0.0010592515462773554,
+      "rms_s": 0.0007377627129930146,
+      "rms_over_std": 0.696494346018012,
+      "threshold_s": 0.0001588877319416033
+    },
+    {
+      "seed": 4129,
+      "neighbors": 64,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7520518436895671,
+      "std_s": 0.001004773737429345,
+      "rms_s": 0.0008699023438049947,
+      "rms_over_std": 0.8657693880719743,
+      "threshold_s": 0.00015071606061440175
+    },
+    {
+      "seed": 4146,
+      "neighbors": 21,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.35042929669788453,
+      "std_s": 0.001185304949424093,
+      "rms_s": 0.0010454460610823206,
+      "rms_over_std": 0.8820059863837353,
+      "threshold_s": 0.00017779574241361394
+    },
+    {
+      "seed": 4163,
+      "neighbors": 27,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.3420373566729794,
+      "std_s": 0.001175874504562502,
+      "rms_s": 0.0010840681393772921,
+      "rms_over_std": 0.9219250312605702,
+      "threshold_s": 0.00017638117568437528
+    },
+    {
+      "seed": 4179,
+      "neighbors": 88,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8226473782707481,
+      "std_s": 0.001043399668714017,
+      "rms_s": 0.0007637649625165594,
+      "rms_over_std": 0.7319965545493171,
+      "threshold_s": 0.00015650995030710256
+    },
+    {
+      "seed": 4196,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6340393536703121,
+      "std_s": 0.0008429865033901546,
+      "rms_s": 0.0007556050047014366,
+      "rms_over_std": 0.8963429445936506,
+      "threshold_s": 0.00012644797550852318
+    },
+    {
+      "seed": 4213,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5203538761390214,
+      "std_s": 0.0010069165694278149,
+      "rms_s": 0.000760325663452706,
+      "rms_over_std": 0.7551029415324496,
+      "threshold_s": 0.00015103748541417223
+    },
+    {
+      "seed": 4229,
+      "neighbors": 83,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7958445966832776,
+      "std_s": 0.0010380714333654223,
+      "rms_s": 0.0007926648085905057,
+      "rms_over_std": 0.7635937018521841,
+      "threshold_s": 0.00015571071500481334
+    },
+    {
+      "seed": 4246,
+      "neighbors": 56,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6192968573759802,
+      "std_s": 0.0010391879402952585,
+      "rms_s": 0.0005747480295479335,
+      "rms_over_std": 0.5530741911656842,
+      "threshold_s": 0.0001558781910442888
+    },
+    {
+      "seed": 4263,
+      "neighbors": 72,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8510653945328596,
+      "std_s": 0.0009010258529976049,
+      "rms_s": 0.0008292331521050516,
+      "rms_over_std": 0.9203211532125215,
+      "threshold_s": 0.00013515387794964072
+    },
+    {
+      "seed": 4280,
+      "neighbors": 71,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7513412906905211,
+      "std_s": 0.0009245666949968087,
+      "rms_s": 0.0008230890744073009,
+      "rms_over_std": 0.8902430499187968,
+      "threshold_s": 0.0001386850042495213
+    },
+    {
+      "seed": 4296,
+      "neighbors": 85,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6143532191037573,
+      "std_s": 0.0010082213703479497,
+      "rms_s": 0.000698035979920818,
+      "rms_over_std": 0.6923439637863629,
+      "threshold_s": 0.00015123320555219245
+    },
+    {
+      "seed": 4313,
+      "neighbors": 61,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8745803097050157,
+      "std_s": 0.0009674158631621509,
+      "rms_s": 0.0006503720295431548,
+      "rms_over_std": 0.6722776153549018,
+      "threshold_s": 0.00014511237947432263
+    },
+    {
+      "seed": 4330,
+      "neighbors": 6,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    },
+    {
+      "seed": 4346,
+      "neighbors": 84,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7499400764623503,
+      "std_s": 0.0009485827442281418,
+      "rms_s": 0.0007503428016341579,
+      "rms_over_std": 0.7910146017306156,
+      "threshold_s": 0.00014228741163422126
+    },
+    {
+      "seed": 4363,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5058380160499857,
+      "std_s": 0.000980486410479113,
+      "rms_s": 0.0007447961949164976,
+      "rms_over_std": 0.759619090031604,
+      "threshold_s": 0.00014707296157186693
+    },
+    {
+      "seed": 4380,
+      "neighbors": 17,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5708896275468107,
+      "std_s": 0.0009537573411219146,
+      "rms_s": 0.0008477053365154048,
+      "rms_over_std": 0.8888060935061745,
+      "threshold_s": 0.00014306360116828718
+    },
+    {
+      "seed": 4397,
+      "neighbors": 76,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7942781571975549,
+      "std_s": 0.0009487679124875209,
+      "rms_s": 0.000721293357686811,
+      "rms_over_std": 0.7602421500487856,
+      "threshold_s": 0.00014231518687312812
+    },
+    {
+      "seed": 4413,
+      "neighbors": 54,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8507768073911157,
+      "std_s": 0.0008963334779554448,
+      "rms_s": 0.0005517792782496764,
+      "rms_over_std": 0.6155959716112539,
+      "threshold_s": 0.0001344500216933167
+    },
+    {
+      "seed": 4430,
+      "neighbors": 78,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6415675711868917,
+      "std_s": 0.0009053959766804168,
+      "rms_s": 0.000787785789680414,
+      "rms_over_std": 0.8701008287763615,
+      "threshold_s": 0.00013580939650206252
+    },
+    {
+      "seed": 4447,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7138885382366642,
+      "std_s": 0.0007651175313209688,
+      "rms_s": 0.0006567222411991852,
+      "rms_over_std": 0.8583285760886434,
+      "threshold_s": 0.00011476762969814532
+    },
+    {
+      "seed": 4463,
+      "neighbors": 69,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6095033744051018,
+      "std_s": 0.0008523192890885461,
+      "rms_s": 0.0006970406072536181,
+      "rms_over_std": 0.8178162998035864,
+      "threshold_s": 0.00012784789336328192
+    },
+    {
+      "seed": 4480,
+      "neighbors": 57,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.8791904276466738,
+      "std_s": 0.0007578600186979815,
+      "rms_s": 0.0007449083429723814,
+      "rms_over_std": 0.982910200556758,
+      "threshold_s": 0.00011367900280469722
+    },
+    {
+      "seed": 4497,
+      "neighbors": 45,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.9220572173028226,
+      "std_s": 0.0008354631048144333,
+      "rms_s": 0.0005678882371846615,
+      "rms_over_std": 0.6797286845010306,
+      "threshold_s": 0.000125319465722165
+    },
+    {
+      "seed": 4514,
+      "neighbors": 66,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6882253757965088,
+      "std_s": 0.0008257397612757294,
+      "rms_s": 0.0006217495348891651,
+      "rms_over_std": 0.7529606348719251,
+      "threshold_s": 0.0001238609641913594
+    },
+    {
+      "seed": 4530,
+      "neighbors": 39,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6417424769701311,
+      "std_s": 0.0008082299431632319,
+      "rms_s": 0.0005910574022278594,
+      "rms_over_std": 0.7312985706946125,
+      "threshold_s": 0.00012123449147448478
+    },
+    {
+      "seed": 4547,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7585405786446591,
+      "std_s": 0.0008074585331092999,
+      "rms_s": 0.0005481382334454369,
+      "rms_over_std": 0.678843817941595,
+      "threshold_s": 0.00012111877996639498
+    },
+    {
+      "seed": 4564,
+      "neighbors": 23,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6313433882733698,
+      "std_s": 0.000707926360272732,
+      "rms_s": 0.0005636290356762991,
+      "rms_over_std": 0.7961690188498679,
+      "threshold_s": 0.0001061889540409098
+    },
+    {
+      "seed": 4581,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5821652672740548,
+      "std_s": 0.0008404512810747053,
+      "rms_s": 0.0005659079118931459,
+      "rms_over_std": 0.6733381513435328,
+      "threshold_s": 0.0001260676921612058
+    },
+    {
+      "seed": 4597,
+      "neighbors": 35,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7872988930760704,
+      "std_s": 0.0009103334639077068,
+      "rms_s": 0.00041029124911113885,
+      "rms_over_std": 0.45070434667964243,
+      "threshold_s": 0.000136550019586156
+    },
+    {
+      "seed": 4614,
+      "neighbors": 41,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5353268064986334,
+      "std_s": 0.0008045614706309241,
+      "rms_s": 0.0005291614547776947,
+      "rms_over_std": 0.6577017096813433,
+      "threshold_s": 0.00012068422059463861
+    },
+    {
+      "seed": 4631,
+      "neighbors": 16,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5304473078036699,
+      "std_s": 0.000592215935992734,
+      "rms_s": 0.0004393471312725752,
+      "rms_over_std": 0.7418698224256592,
+      "threshold_s": 8.88323903989101e-05
+    },
+    {
+      "seed": 4647,
+      "neighbors": 58,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6962215969716671,
+      "std_s": 0.0007784682437199224,
+      "rms_s": 0.0005548647789147989,
+      "rms_over_std": 0.7127648216751515,
+      "threshold_s": 0.00011677023655798836
+    },
+    {
+      "seed": 4664,
+      "neighbors": 39,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.689743509884915,
+      "std_s": 0.0007071561607130711,
+      "rms_s": 0.0006583999116025436,
+      "rms_over_std": 0.9310530660422113,
+      "threshold_s": 0.00010607342410696066
+    },
+    {
+      "seed": 4681,
+      "neighbors": 62,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.653650654548976,
+      "std_s": 0.0007619977392555657,
+      "rms_s": 0.0005963594338277273,
+      "rms_over_std": 0.7826262508473334,
+      "threshold_s": 0.00011429966088833485
+    },
+    {
+      "seed": 4698,
+      "neighbors": 25,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.82023876904057,
+      "std_s": 0.0007308659587092559,
+      "rms_s": 0.0005300783255881396,
+      "rms_over_std": 0.725274339667267,
+      "threshold_s": 0.00010962989380638838
+    },
+    {
+      "seed": 4714,
+      "neighbors": 61,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6692914881677569,
+      "std_s": 0.0006940922682619788,
+      "rms_s": 0.0005712310997334015,
+      "rms_over_std": 0.8229901496580214,
+      "threshold_s": 0.00010411384023929682
+    },
+    {
+      "seed": 4731,
+      "neighbors": 67,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6723353960658272,
+      "std_s": 0.0007427258736059222,
+      "rms_s": 0.0006150213881879763,
+      "rms_over_std": 0.828059732458299,
+      "threshold_s": 0.00011140888104088832
+    },
+    {
+      "seed": 4748,
+      "neighbors": 14,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.44824790880598914,
+      "std_s": 0.0005088736662112367,
+      "rms_s": 0.00045152435067821826,
+      "rms_over_std": 0.8873014672580593,
+      "threshold_s": 7.633104993168551e-05
+    },
+    {
+      "seed": 4764,
+      "neighbors": 20,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5207172520701232,
+      "std_s": 0.0005282720321955345,
+      "rms_s": 0.00046362740212832097,
+      "rms_over_std": 0.8776300350436004,
+      "threshold_s": 7.924080482933018e-05
+    },
+    {
+      "seed": 4781,
+      "neighbors": 35,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.47381736079053927,
+      "std_s": 0.0007518047423448757,
+      "rms_s": 0.0006248827616842058,
+      "rms_over_std": 0.8311769352973211,
+      "threshold_s": 0.00011277071135173135
+    },
+    {
+      "seed": 4798,
+      "neighbors": 51,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7018614164643123,
+      "std_s": 0.0006238070864023201,
+      "rms_s": 0.0005640602268354567,
+      "rms_over_std": 0.904222217302081,
+      "threshold_s": 9.357106296034801e-05
+    },
+    {
+      "seed": 4815,
+      "neighbors": 50,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5641564423698758,
+      "std_s": 0.0006743900429276815,
+      "rms_s": 0.0005247471286356079,
+      "rms_over_std": 0.7781062815778842,
+      "threshold_s": 0.00010115850643915222
+    },
+    {
+      "seed": 4831,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4401047420595517,
+      "std_s": 0.0006732965928200693,
+      "rms_s": 0.0005442873147844977,
+      "rms_over_std": 0.8083916071887092,
+      "threshold_s": 0.00010099448892301038
+    },
+    {
+      "seed": 4848,
+      "neighbors": 34,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6579947341289599,
+      "std_s": 0.000729175348902009,
+      "rms_s": 0.000583010523969346,
+      "rms_over_std": 0.7995477697473484,
+      "threshold_s": 0.00010937630233530136
+    },
+    {
+      "seed": 4865,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5697034736148789,
+      "std_s": 0.0006502446662857433,
+      "rms_s": 0.0006069062604913771,
+      "rms_over_std": 0.9333506170194074,
+      "threshold_s": 9.753669994286149e-05
+    },
+    {
+      "seed": 4881,
+      "neighbors": 38,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5628018320494783,
+      "std_s": 0.0006417261051603879,
+      "rms_s": 0.00048457013869513185,
+      "rms_over_std": 0.7551042957400373,
+      "threshold_s": 9.625891577405819e-05
+    },
+    {
+      "seed": 4898,
+      "neighbors": 43,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.6602460633237783,
+      "std_s": 0.0006213522596813672,
+      "rms_s": 0.0005059386532094284,
+      "rms_over_std": 0.8142541454164447,
+      "threshold_s": 9.320283895220508e-05
+    },
+    {
+      "seed": 4915,
+      "neighbors": 37,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.619010492761458,
+      "std_s": 0.000650368985565081,
+      "rms_s": 0.0005150719308503485,
+      "rms_over_std": 0.7919687781587894,
+      "threshold_s": 9.755534783476214e-05
+    },
+    {
+      "seed": 4932,
+      "neighbors": 47,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.5970069359058562,
+      "std_s": 0.0005976475590166427,
+      "rms_s": 0.0004714094886504716,
+      "rms_over_std": 0.7887750590433588,
+      "threshold_s": 8.96471338524964e-05
+    },
+    {
+      "seed": 4948,
+      "neighbors": 22,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.4957273585092961,
+      "std_s": 0.0006139128535350412,
+      "rms_s": 0.00047786048348891983,
+      "rms_over_std": 0.778384881074402,
+      "threshold_s": 9.208692803025618e-05
+    },
+    {
+      "seed": 4965,
+      "neighbors": 46,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7050333246682451,
+      "std_s": 0.0005732434883022285,
+      "rms_s": 0.0005623858510386573,
+      "rms_over_std": 0.9810592924557622,
+      "threshold_s": 8.598652324533427e-05
+    },
+    {
+      "seed": 4982,
+      "neighbors": 19,
+      "status": "plane_residual_or_rank",
+      "spatial_ratio": 0.7484536008894577,
+      "std_s": 0.0005919132554175978,
+      "rms_s": 0.00042361287778402507,
+      "rms_over_std": 0.7156671588392864,
+      "threshold_s": 8.878698831263967e-05
+    },
+    {
+      "seed": 4999,
+      "neighbors": 6,
+      "status": "too_few_neighbors",
+      "spatial_ratio": null,
+      "std_s": null,
+      "rms_s": null,
+      "rms_over_std": null,
+      "threshold_s": null
+    }
+  ],
+  "seed_failures": {
+    "plane_residual_or_rank": 272,
+    "too_few_neighbors": 28
+  },
+  "interpretation": "Zero accepted planes agrees with the unmodified production optical-flow interface on three selected input batches; no thresholds were changed. This does not isolate downsampling from scene/model effects."
+}

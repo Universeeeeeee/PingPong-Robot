@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "date": "2026-11-07",
+  "confirmation_windows": 3,
+  "selected_patches": [
+    6,
+    6,
+    4
+  ],
+  "confirmation_local_model_records": 384,
+  "development_records": 360,
+  "total_real_model_records": 744,
+  "same_representation_2fits_same_support": true,
+  "T_H_V_ids_disjoint": true,
+  "independent_equal_unit_mean_P95_checks": 752,
+  "bootstrap_draws": 32,
+  "timepermutation_draws": 19,
+  "global_constraints_T_only": true,
+  "prior_dev_freezes_and_selection_none_unchanged": true,
+  "code_hash_plumbing_amendment": "confirmation_evaluator_hash_amendment.json",
+  "complete_decoded_raw_patch_correction": "confirmation_input_correction.json",
+  "clipped_confirmation_preserved": "prereview_clipped/",
+  "corrected_run3_run5_rerun_only": true,
+  "run4_training_and_evaluation_reused_exactly": true,
+  "nonzero_motion_evidence": 0,
+  "stationary_evidence": 0,
+  "no_CMax_run": true,
+  "no108_run": true,
+  "source_geometry_hashes_preserved": true,
+  "stopping_reason": "No>=3patch heldout-supported nonzero motion in any confirmation combination; frozen development none remains, no new fit or combination selection."
+}

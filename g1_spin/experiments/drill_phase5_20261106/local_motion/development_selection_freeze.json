@@ -1,0 +1,14 @@
+{
+  "stage": "Completed development evaluation, selectionnone, confirmation not run",
+  "files": {
+    "real/selection_development.json": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+    "real/verification_development.json": "e248e4fdd412001e2a82bd77a74d691144553e579155fbb9cc76682eecca1c50",
+    "real/development_failure_attribution.json": "890cd647cb8b7998fc08b7435f45612f33788c149ca611708dba5359512f58e1",
+    "real/development_global_LOPO_predictions.json": "00d9e60eb21bed6a1b1dc3dab1b75042a7834682fc50eac8d55f4384f8719e2e",
+    "report_development.md": "0f721214a3bff97edb724174140107b12c63339b4a712931e0fad43889b0ab56",
+    "protocol_real.md": "a0edc420641d7ae3804d9fc908d58235abb2bb9141850e579da4a3a94ca3bab8",
+    "geometry_path_amendment.json": "22da147f86850be7f76c8da07d815ebd4eace9c5fd7f08efcfe45a9513103549",
+    "qualify_training.py": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7"
+  },
+  "selected_combination": null
+}

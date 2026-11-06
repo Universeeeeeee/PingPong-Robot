@@ -1,0 +1,10 @@
+segment,feature,identical_when_called_independently,n_rows
+early_turn,F1,True,10
+early_turn,F2,True,10
+early_turn,F3,True,10
+middle,F1,True,10
+middle,F2,True,10
+middle,F3,True,10
+late,F1,True,10
+late,F2,True,10
+late,F3,True,10

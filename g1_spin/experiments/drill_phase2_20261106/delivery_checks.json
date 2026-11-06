@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "results_jsonl_and_csv_rows": 110,
+  "window_audit_and_geometry_support_rows": 46,
+  "input_npz_files": 38,
+  "raw_context_npz_files": 8,
+  "report_relative_links_exist": 24,
+  "png_files_redecoded": [
+    {
+      "file": "diagnostics/run1_01425000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run1_01495000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run1_03595000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run1_03665000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run1_04365000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run1_05695000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run5_04095000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "diagnostics/run5_05095000_ablation.png",
+      "height": 910,
+      "width": 3780
+    },
+    {
+      "file": "extension_results.png",
+      "height": 1500,
+      "width": 2250
+    },
+    {
+      "file": "geometry_anchors.png",
+      "height": 2250,
+      "width": 1800
+    },
+    {
+      "file": "run2_geometry_evidence.png",
+      "height": 1650,
+      "width": 2250
+    },
+    {
+      "file": "run3_geometry_evidence.png",
+      "height": 1650,
+      "width": 2250
+    },
+    {
+      "file": "run4_geometry_evidence.png",
+      "height": 1650,
+      "width": 2250
+    },
+    {
+      "file": "velocity_ablation.png",
+      "height": 1200,
+      "width": 2400
+    }
+  ],
+  "frozen_files_still_match": true,
+  "note": "Delivery checks add to verification.json; no additional optimization or changed parameters."
+}

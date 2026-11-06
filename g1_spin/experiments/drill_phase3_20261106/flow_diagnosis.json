@@ -1,0 +1,17 @@
+{
+  "planned": 108,
+  "input_eligible": 76,
+  "flow_seeds": 22633,
+  "seed_exit_reasons": {
+    "plane_residual_or_rank": 17063,
+    "too_few_neighbors": 5570,
+    "insufficient_events": 12
+  },
+  "eligible_not_downsampled": 65,
+  "eligible_downsampled": 11,
+  "A_init_available": 0,
+  "S_init_available": 0,
+  "real_A_searches": 0,
+  "real_S_searches": 0,
+  "caveat": "All local-plane sets were empty. Real-data A/S direction, RPM, final accuracy and successful-pipeline speed are not identifiable."
+}

@@ -1,0 +1,67 @@
+{
+  "experiment_id": "G1_YYYYMMDD_run001",
+  "recorded_at_iso8601": null,
+  "timezone": "Asia/Shanghai",
+  "operator": null,
+  "data_origin": "REAL_CAMERA_PENDING",
+  "raw_files": [],
+  "raw_sha256": {},
+  "software": {
+    "insight_version": "1.3.0",
+    "cpp_sdk_version": "1.3.0",
+    "python_sdk_version": "1.3.0",
+    "python_environment": "/home/pingpong1/g1_spin/.venv",
+    "dependency_lock": "requirements-lock.txt"
+  },
+  "camera": {
+    "model": "DVSLume-G1",
+    "serial": null,
+    "firmware_version": null,
+    "interface": "Gigabit Ethernet",
+    "host_nic": null,
+    "negotiated_link_mbps": null,
+    "camera_ip": null,
+    "host_camera_nic_ip": null,
+    "resolution_width": null,
+    "resolution_height": null,
+    "timestamp_unit": "microseconds",
+    "roi": {"enabled": null, "x": null, "y": null, "width": null, "height": null},
+    "bias": {"source": "copy actual Insight values or exported SDK config", "values": {}},
+    "filters": {
+      "anti_flicker": {"enabled": null, "parameters": {}},
+      "event_rate_control": {"enabled": null, "parameters": {}},
+      "event_trail_filter": {"enabled": null, "parameters": {}},
+      "other": {}
+    },
+    "trigger_in_enabled": null,
+    "exported_camera_config": null
+  },
+  "optics": {"lens_model": null, "focal_length_mm": null, "aperture_f_number": null, "focus_distance_m": null},
+  "scene": {
+    "illumination_type": null,
+    "illumination_lux": null,
+    "flicker_or_pwm_hz": null,
+    "ball_diameter_mm": 40,
+    "ball_marking_description": null,
+    "marking_photo": null,
+    "camera_to_ball_distance_m": null,
+    "background": null,
+    "ball_motion": null,
+    "rotation_direction_visual_observation": null,
+    "viewpoint": "camera image: x right, y down"
+  },
+  "recording": {
+    "requested_duration_s": null,
+    "actual_duration_us": null,
+    "insight_display_accumulation_ms": null,
+    "notes": "Display accumulation does not replace RAW events; enabled sensor ROI/filters affect recorded events."
+  },
+  "analysis": {
+    "window_ms": [1, 2, 5],
+    "measured_ball_circle_xy_radius": null,
+    "scope": "apparent image-plane angular velocity only",
+    "three_dimensional_spin_axis": "next phase",
+    "optitrack_ground_truth_alignment": "next phase"
+  },
+  "notes": "null means not measured; fill actual settings before recording. No guessed camera geometry or defaults."
+}

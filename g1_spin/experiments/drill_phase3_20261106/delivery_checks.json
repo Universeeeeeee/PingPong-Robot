@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "real_windows": 108,
+  "real_method_states": 324,
+  "G_valid_nonzero": 53,
+  "A_real_searches": 0,
+  "S_real_searches": 0,
+  "period_attempts": 4,
+  "real_input_sphere_and_plane_files_each": 88,
+  "seed_diagnostic_rows": 1800,
+  "positive_extract_fixture_accepted_planes": 169,
+  "analytic_actual_NM_calls": {
+    "A": 1,
+    "S": 1
+  },
+  "protected_files_unchanged": 324,
+  "frozen_files_unchanged": true,
+  "report_local_links_exist": 34,
+  "png_files_redecoded": [
+    {
+      "file": "G_components.png",
+      "height": 1350,
+      "width": 1950
+    },
+    {
+      "file": "coverage.png",
+      "height": 750,
+      "width": 1800
+    },
+    {
+      "file": "new_blocks_raw_detail.png",
+      "height": 1530,
+      "width": 2720
+    },
+    {
+      "file": "new_geometry_review.png",
+      "height": 1500,
+      "width": 2550
+    },
+    {
+      "file": "periodicity_raw_peaks.png",
+      "height": 2100,
+      "width": 1950
+    },
+    {
+      "file": "plane_residual_diagnostics.png",
+      "height": 1200,
+      "width": 2250
+    },
+    {
+      "file": "run4_new_windows.png",
+      "height": 2660,
+      "width": 1680
+    },
+    {
+      "file": "run4_raw_scout.png",
+      "height": 3225,
+      "width": 2550
+    },
+    {
+      "file": "run5_8p1_raw_full.png",
+      "height": 720,
+      "width": 1280
+    },
+    {
+      "file": "run5_new_windows.png",
+      "height": 1595,
+      "width": 1680
+    },
+    {
+      "file": "run5_raw_scout.png",
+      "height": 1934,
+      "width": 2550
+    }
+  ],
+  "limitation": "All A/S real-data initialization failed; successful optimization checks use analytic coordinate fixtures only. No new real windows or thresholds."
+}

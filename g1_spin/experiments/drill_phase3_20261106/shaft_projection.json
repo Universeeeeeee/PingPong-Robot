@@ -1,0 +1,818 @@
+[
+  {
+    "window": "run1_00725000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 141.5,
+    "rms_px": 3.018365103189235,
+    "direction": [
+      -0.04241428709006964,
+      0.9991001092236158
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_00795000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 148.0,
+    "rms_px": 3.2565935779805035,
+    "direction": [
+      -0.027281590960316317,
+      0.9996277881264977
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_00865000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run1_01425000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 145.0,
+    "rms_px": 5.163956072917281,
+    "direction": [
+      0.07676529460799475,
+      0.9970491911353961
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_01495000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 142.0,
+    "rms_px": 3.0663833374700245,
+    "direction": [
+      -0.007267847129890412,
+      0.9999735888502738
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_01565000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 141.0,
+    "rms_px": 4.552077977107221,
+    "direction": [
+      -0.04198385473223021,
+      0.9991182892640005
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_02125000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run1_02195000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 149.0,
+    "rms_px": 2.1700992559092183,
+    "direction": [
+      -0.020503778175368685,
+      0.9997897754430854
+    ],
+    "G_projection_angle_deg": 5.653375711076879,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_02265000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 145.0,
+    "rms_px": 2.2240022144788774,
+    "direction": [
+      0.052975357264543166,
+      0.9985958199004711
+    ],
+    "G_projection_angle_deg": 1.72130947022501,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_03525000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run1_03595000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 148.5,
+    "rms_px": 2.313578435080828,
+    "direction": [
+      0.049942921620740384,
+      0.9987520736298796
+    ],
+    "G_projection_angle_deg": 3.0333082501762982,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_03665000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 147.0,
+    "rms_px": 3.211762153667106,
+    "direction": [
+      0.014193436987644902,
+      0.999899268099781
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_04225000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run1_04295000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 146.0,
+    "rms_px": 4.090009076858728,
+    "direction": [
+      -0.05109966357727361,
+      0.9986935587968361
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_04365000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 148.5,
+    "rms_px": 2.0033020305486025,
+    "direction": [
+      -0.043568706611895276,
+      0.9990504330633998
+    ],
+    "G_projection_angle_deg": 4.402443395676067,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_05625000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 143.0,
+    "rms_px": 3.1946011350066876,
+    "direction": [
+      -0.019625702899305535,
+      0.9998073973449627
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_05695000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 143.0,
+    "rms_px": 2.3309010763744524,
+    "direction": [
+      -0.09152325817305651,
+      0.9958029389459483
+    ],
+    "G_projection_angle_deg": 4.911799964961291,
+    "measurement_valid": true
+  },
+  {
+    "window": "run1_05765000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "status": "large_shaft_line_residual",
+    "points": 12,
+    "span_px": 129.0,
+    "rms_px": 3.746122212444129,
+    "direction": [
+      -0.03857392503264148,
+      0.9992557491991608
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_01425000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 144.39127330069437,
+    "rms_px": 2.1363280955234734,
+    "direction": [
+      0.8178084245119539,
+      0.575490556653431
+    ],
+    "G_projection_angle_deg": 1.7440310731614737,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_01495000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 148.567758689127,
+    "rms_px": 1.1816442142573602,
+    "direction": [
+      0.8234436095957877,
+      0.5673981158021761
+    ],
+    "G_projection_angle_deg": 7.3692541941315115,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_01565000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 144.01865975506865,
+    "rms_px": 1.9030903325981543,
+    "direction": [
+      0.8318955752546857,
+      0.5549322047526848
+    ],
+    "G_projection_angle_deg": 5.1641497542356385,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_02625000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 144.1036350557751,
+    "rms_px": 1.6740780836747708,
+    "direction": [
+      0.8034586281636915,
+      0.5953605905913815
+    ],
+    "G_projection_angle_deg": 5.71446996475564,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_02695000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 146.23139030674145,
+    "rms_px": 0.8554821152491427,
+    "direction": [
+      0.8218639477304679,
+      0.5696838170607365
+    ],
+    "G_projection_angle_deg": 10.569214526836577,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_02765000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run3_04225000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run3_04295000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 145.57708870340275,
+    "rms_px": 2.096157447946542,
+    "direction": [
+      0.7992280739973183,
+      0.601027857702567
+    ],
+    "G_projection_angle_deg": 5.230105833145559,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_04365000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 146.60400385236716,
+    "rms_px": 1.4182175901548035,
+    "direction": [
+      0.8013166673062458,
+      0.5982404188093708
+    ],
+    "G_projection_angle_deg": 10.938693297732408,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_06225000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 142.87575701608534,
+    "rms_px": 1.9785940515315805,
+    "direction": [
+      0.7997584362178999,
+      0.6003219500387265
+    ],
+    "G_projection_angle_deg": 0.8417818791621225,
+    "measurement_valid": true
+  },
+  {
+    "window": "run3_06295000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run3_06365000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_00825000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_00895000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 142.0,
+    "rms_px": 3.258248060363229,
+    "direction": [
+      -0.010409811366463477,
+      0.9999458164457286
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_00965000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_01625000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 146.0,
+    "rms_px": 3.1218280408590386,
+    "direction": [
+      -0.025022035789641,
+      0.9996868998466181
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_01695000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_01765000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 144.0,
+    "rms_px": 2.6179092096663865,
+    "direction": [
+      0.024979647223009112,
+      0.9996879599278037
+    ],
+    "G_projection_angle_deg": 2.1877327379658045,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_02425000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 143.5,
+    "rms_px": 2.8607450509519694,
+    "direction": [
+      -0.020132429268179527,
+      0.9997973221067166
+    ],
+    "G_projection_angle_deg": 1.2823241279733515,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_02495000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 143.0,
+    "rms_px": 2.59731452267571,
+    "direction": [
+      0.028509972259367723,
+      0.999593508123062
+    ],
+    "G_projection_angle_deg": 0.5032132673227006,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_02565000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_03225000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 145.0,
+    "rms_px": 2.8161803707269755,
+    "direction": [
+      -0.03930408565004207,
+      0.9992272958897862
+    ],
+    "G_projection_angle_deg": 4.588517658011584,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_03295000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 147.0,
+    "rms_px": 2.9121655133191746,
+    "direction": [
+      -0.04870894218805384,
+      0.9988130150087756
+    ],
+    "G_projection_angle_deg": 2.8956649045312854,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_03365000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 143.0,
+    "rms_px": 4.024356511424552,
+    "direction": [
+      -0.01399984194339343,
+      0.9999019974105263
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_04425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 146.35125168440817,
+    "rms_px": 1.8405570341363515,
+    "direction": [
+      0.4474827039923936,
+      0.894292586141502
+    ],
+    "G_projection_angle_deg": 3.105176045393126,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_04495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 145.53426438630035,
+    "rms_px": 3.7980434535951484,
+    "direction": [
+      0.49367891553103216,
+      0.8696442539108185
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_04565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "geometry_unavailable",
+    "points": 0,
+    "span_px": null,
+    "rms_px": null,
+    "direction": null,
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_05425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 143.45176595531996,
+    "rms_px": 2.0806828000124393,
+    "direction": [
+      0.3132618839304155,
+      0.94966677949498
+    ],
+    "G_projection_angle_deg": 0.7794762634747158,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_05495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 141.27038644333007,
+    "rms_px": 1.4899272640371681,
+    "direction": [
+      0.2585641130040485,
+      0.9659940990846836
+    ],
+    "G_projection_angle_deg": 10.350570225916327,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_05565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 140.9744026554645,
+    "rms_px": 2.0902644705736693,
+    "direction": [
+      0.13083385448951335,
+      0.9914043083018232
+    ],
+    "G_projection_angle_deg": 0.6050566756753234,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_06425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 142.42534088203956,
+    "rms_px": 2.9509244450813887,
+    "direction": [
+      -0.8491490523225368,
+      0.528153279777507
+    ],
+    "G_projection_angle_deg": 9.165262818646351,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_06495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 143.58273381958537,
+    "rms_px": 3.3146231821905303,
+    "direction": [
+      -0.8681446413783596,
+      0.49631127495357136
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_06565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "accepted_projection_candidate",
+    "points": 13,
+    "span_px": 141.13462823252456,
+    "rms_px": 1.329543133214873,
+    "direction": [
+      -0.8619939752673287,
+      0.5069185206745045
+    ],
+    "G_projection_angle_deg": 2.5060335797681734,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_07425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 148.0,
+    "rms_px": 6.143474680692642,
+    "direction": [
+      0.05478437629230045,
+      0.998498208368079
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_07495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 147.0,
+    "rms_px": 9.587077044081568,
+    "direction": [
+      0.10698435070174449,
+      0.9942607045965993
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_07565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 147.0,
+    "rms_px": 7.011484635482917,
+    "direction": [
+      0.013985922958293524,
+      0.999902192196319
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_08425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 140.87394230381955,
+    "rms_px": 8.547016716803183,
+    "direction": [
+      -0.15762614108856418,
+      0.987498860579357
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": false
+  },
+  {
+    "window": "run4_08495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 144.79640246087897,
+    "rms_px": 8.178174073150068,
+    "direction": [
+      -0.14458756043036125,
+      0.9894920097549028
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  },
+  {
+    "window": "run4_08565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "status": "large_shaft_line_residual",
+    "points": 13,
+    "span_px": 142.51161238550608,
+    "rms_px": 3.2356492155398895,
+    "direction": [
+      -0.04799483232523857,
+      0.9988475840037218
+    ],
+    "G_projection_angle_deg": null,
+    "measurement_valid": true
+  }
+]

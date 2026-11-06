@@ -1,0 +1,11 @@
+{
+  "accepted_planes": 0,
+  "seeds_attempted": 0,
+  "failures": {
+    "insufficient_events": 1
+  },
+  "extraction_s": 7.845798972994089e-05,
+  "input_hash": "2d8f0800008cb08f8800e3e32d757121c703227f179fa7b310663888c9675d1f",
+  "sphere_hash": "be06502bc8dffb5e72f962566d611ca1358171a7c2079212dfa71111ece4a063",
+  "plane_hash": "98d891d041d12397fc06e68e6edafd8c803231e9afe241630833bb4a70162aec"
+}

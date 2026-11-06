@@ -1,0 +1,2918 @@
+{
+  "morphology_rows": 630,
+  "card_panels": 90,
+  "unique_keys": true,
+  "old_B0_files_unchanged": true,
+  "valid_morphology_rows_independently_checked": 363,
+  "invalid_positions_not_filled": true,
+  "descriptor_validation": "Absolute timestamp mask; xy tuple sets; explicit 8-neighbor flood fill; border coordinates",
+  "semantics_validated": false,
+  "semantics_note": "Morphology descriptor implementation checks do not validate logo/Marker identity",
+  "script_sha256": "049597b0f2067faa268a07e1cfa76760e07c039b2a17acf5dbc9a33ba2fdcbb5",
+  "checks": [
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 29,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 30,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 31,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 32,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 33,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 34,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 35,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 36,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 37,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 38,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 29,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 30,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 31,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 32,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 33,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 34,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 35,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 36,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 37,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 38,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 39,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 40,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 41,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 42,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 43,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 44,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 45,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 46,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 47,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 48,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 49,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "early_turn",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 29,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 30,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 31,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 32,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 33,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 34,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 35,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 36,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 37,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 38,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 39,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 40,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 41,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 42,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 43,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 44,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 45,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 46,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 47,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 48,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 49,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "middle",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 20,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 21,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 22,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 23,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 24,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 25,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 26,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 27,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 28,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 29,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 30,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 31,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 32,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 33,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 34,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 35,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 36,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 37,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 38,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 2,
+      "frame": 39,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F1",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F2",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 0,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 1,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 2,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 3,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 4,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 5,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 6,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 7,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 8,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 9,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 10,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 11,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 12,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 13,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 14,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 15,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 16,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 17,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 18,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    },
+    {
+      "segment": "late",
+      "feature": "F3",
+      "duration_ms": 5,
+      "frame": 19,
+      "event_payload_and_unique_pixels_match": true,
+      "independent_boundary_and_floodfill_match": true
+    }
+  ]
+}

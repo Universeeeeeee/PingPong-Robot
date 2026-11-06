@@ -1,0 +1,20 @@
+{
+  "files": {
+    "protocol.md": "c329026c78221df7e3b996359660183d8908d0e1daf59a81048e935b3036aa1f",
+    "run.py": "6d3ca80293e2696103e4102de1116137e073ec4fe5fd994ee7db983b8bdaa373",
+    "config.json": "2ab802da262f65f225dd4cbf4d60f64ed40ec8d58cf0212b7a94ebb2a0b63dff",
+    "geometry.json": "67597937bf466c6df885e48d237fabd7cac9bddfa40d04dba1c5ea25bc278c1f",
+    "geometry.csv": "3ab1fc5568ff6df565dba0025b7dbaa9b10ea750f49aef251b5cf2178987b37d",
+    "geometry_anchors.json": "3ae74d25578a94357953922c01bf190492ea5879110f263abd81b91e8ef15f02",
+    "geometry_review.json": "68ccb100e24a67791d25e475cf5568d5a07b76077b8599ee37637bfe596a3fbf",
+    "source_hashes.json": "7de36bf9d31f69b16366649c7c791d1afe843a073b38330d0b4cf59e9e4a09b7"
+  },
+  "python": "3.12.16",
+  "estimator_sha256": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+  "max_rpm": 3500,
+  "initial": null,
+  "planned_extension_windows": 36,
+  "planned_ablation_windows": 8,
+  "planned_recovered_windows": 2,
+  "planned_result_rows": 110
+}

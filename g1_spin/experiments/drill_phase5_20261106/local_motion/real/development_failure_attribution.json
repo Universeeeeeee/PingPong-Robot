@@ -1,0 +1,847 @@
+[
+  {
+    "case": "run1_01495000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 32,
+      "candidate_nonzero": 4
+    },
+    "marginal_passes": {
+      "model_algebra": 21,
+      "T_training_qualified": 8,
+      "T_candidate_nonzero": 4,
+      "H_support": 21,
+      "future_support": 20,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 1,
+      "future_gain": 0,
+      "permutation": 13,
+      "displacement_resolution": 21
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 13,
+      "T_candidate_nonzero": 4,
+      "model_algebra": 15,
+      "H_distance_P95": 4
+    },
+    "H_P95_px": {
+      "n": 21,
+      "median": 6.5226031312820085,
+      "p95": 22.44905352513897,
+      "max": 85.40198364177947
+    },
+    "future_P95_px": {
+      "n": 21,
+      "median": 14.260230402940499,
+      "p95": 49.53161637172799,
+      "max": 180.56829355870622
+    },
+    "H_gain": {
+      "n": 21,
+      "median": -1.722878916293035,
+      "p95": -0.5017535512636211,
+      "max": 0.2970706865944838
+    },
+    "future_gain": {
+      "n": 21,
+      "median": -3.2008367890868388,
+      "p95": -0.41400253834302786,
+      "max": -0.0049427435223403865
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run1_01495000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 30,
+      "candidate_nonzero": 6
+    },
+    "marginal_passes": {
+      "model_algebra": 21,
+      "T_training_qualified": 14,
+      "T_candidate_nonzero": 6,
+      "H_support": 21,
+      "future_support": 20,
+      "H_distance_P95": 0,
+      "future_distance_P95": 1,
+      "H_gain": 3,
+      "future_gain": 13,
+      "permutation": 8,
+      "displacement_resolution": 20
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 8,
+      "T_training_qualified": 7,
+      "model_algebra": 15,
+      "H_distance_P95": 6
+    },
+    "H_P95_px": {
+      "n": 21,
+      "median": 2.1574046353759617,
+      "p95": 4.19337258170764,
+      "max": 4.994516377639615
+    },
+    "future_P95_px": {
+      "n": 21,
+      "median": 3.5894063898626047,
+      "p95": 6.411152707641438,
+      "max": 8.05966669929046
+    },
+    "H_gain": {
+      "n": 21,
+      "median": 0.04839564201497663,
+      "p95": 0.4252872747089169,
+      "max": 0.48015075520427714
+    },
+    "future_gain": {
+      "n": 21,
+      "median": 0.32615465157284934,
+      "p95": 0.7531535348981869,
+      "max": 0.856630328689038
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run1_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 32,
+      "candidate_nonzero": 4
+    },
+    "marginal_passes": {
+      "model_algebra": 21,
+      "T_training_qualified": 5,
+      "T_candidate_nonzero": 4,
+      "H_support": 21,
+      "future_support": 20,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 12,
+      "displacement_resolution": 21
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 16,
+      "model_algebra": 15,
+      "H_distance_P95": 4,
+      "T_candidate_nonzero": 1
+    },
+    "H_P95_px": {
+      "n": 21,
+      "median": 6.869302188642672,
+      "p95": 26.095457202040873,
+      "max": 42.617081212642
+    },
+    "future_P95_px": {
+      "n": 21,
+      "median": 11.71997947550204,
+      "p95": 49.53161637172799,
+      "max": 62.25312121290265
+    },
+    "H_gain": {
+      "n": 21,
+      "median": -1.4968719265771537,
+      "p95": -0.31026550334730346,
+      "max": -0.0035640629344562305
+    },
+    "future_gain": {
+      "n": 21,
+      "median": -2.212579944003258,
+      "p95": -0.8325761636636081,
+      "max": -0.1990115151124852
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run1_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 30,
+      "candidate_nonzero": 6
+    },
+    "marginal_passes": {
+      "model_algebra": 21,
+      "T_training_qualified": 13,
+      "T_candidate_nonzero": 6,
+      "H_support": 21,
+      "future_support": 20,
+      "H_distance_P95": 0,
+      "future_distance_P95": 1,
+      "H_gain": 3,
+      "future_gain": 12,
+      "permutation": 3,
+      "displacement_resolution": 19
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 7,
+      "T_training_qualified": 8,
+      "model_algebra": 15,
+      "H_distance_P95": 6
+    },
+    "H_P95_px": {
+      "n": 21,
+      "median": 2.619166058550349,
+      "p95": 4.215485673591267,
+      "max": 5.12672500359319
+    },
+    "future_P95_px": {
+      "n": 21,
+      "median": 3.695816239438272,
+      "p95": 6.878883981275694,
+      "max": 8.05966669929046
+    },
+    "H_gain": {
+      "n": 21,
+      "median": -0.00591920766958081,
+      "p95": 0.30120234022211656,
+      "max": 0.44832260603891455
+    },
+    "future_gain": {
+      "n": 21,
+      "median": 0.3364874905819292,
+      "p95": 0.731565207852012,
+      "max": 0.8163755269856122
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run2_02095000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 36
+    },
+    "marginal_passes": {
+      "model_algebra": 28,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 17,
+      "future_support": 16,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 1,
+      "displacement_resolution": 28
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 28,
+      "model_algebra": 8
+    },
+    "H_P95_px": {
+      "n": 27,
+      "median": 11.869506535615754,
+      "p95": 62.162571456981084,
+      "max": 73.38628820250345
+    },
+    "future_P95_px": {
+      "n": 26,
+      "median": 25.012731836899718,
+      "p95": 139.13373625681956,
+      "max": 161.7484634138546
+    },
+    "H_gain": {
+      "n": 27,
+      "median": -3.418593673066319,
+      "p95": -0.1507429827947525,
+      "max": 0.010014402004254075
+    },
+    "future_gain": {
+      "n": 26,
+      "median": -9.567724231858506,
+      "p95": -1.3064651741237596,
+      "max": -1.0632019248096354
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run2_02095000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 36
+    },
+    "marginal_passes": {
+      "model_algebra": 28,
+      "T_training_qualified": 8,
+      "T_candidate_nonzero": 0,
+      "H_support": 17,
+      "future_support": 16,
+      "H_distance_P95": 3,
+      "future_distance_P95": 1,
+      "H_gain": 5,
+      "future_gain": 5,
+      "permutation": 0,
+      "displacement_resolution": 16
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 20,
+      "T_candidate_nonzero": 8,
+      "model_algebra": 8
+    },
+    "H_P95_px": {
+      "n": 27,
+      "median": 2.8798469519425516,
+      "p95": 5.352241353347381,
+      "max": 5.626957161259262
+    },
+    "future_P95_px": {
+      "n": 26,
+      "median": 3.3680474973944046,
+      "p95": 7.084665844255704,
+      "max": 9.571763109003301
+    },
+    "H_gain": {
+      "n": 27,
+      "median": 0.0064934416342990265,
+      "p95": 0.3688312372590216,
+      "max": 0.8185112672032588
+    },
+    "future_gain": {
+      "n": 26,
+      "median": 0.026050488642975,
+      "p95": 0.29201170205206545,
+      "max": 0.38159586290633435
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run2_02095000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 36
+    },
+    "marginal_passes": {
+      "model_algebra": 28,
+      "T_training_qualified": 1,
+      "T_candidate_nonzero": 0,
+      "H_support": 17,
+      "future_support": 16,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 1,
+      "displacement_resolution": 28
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 27,
+      "T_candidate_nonzero": 1,
+      "model_algebra": 8
+    },
+    "H_P95_px": {
+      "n": 27,
+      "median": 11.869506535615754,
+      "p95": 72.29388296356392,
+      "max": 95.53381829529228
+    },
+    "future_P95_px": {
+      "n": 26,
+      "median": 23.64606645119245,
+      "p95": 146.27661191772143,
+      "max": 197.86147482861813
+    },
+    "H_gain": {
+      "n": 27,
+      "median": -2.9458629814178843,
+      "p95": -0.2247613707946567,
+      "max": -0.17108662818424666
+    },
+    "future_gain": {
+      "n": 26,
+      "median": -8.591524927165839,
+      "p95": -1.4591814245862207,
+      "max": -0.7629540577054179
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run2_02095000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 36,
+    "T_motion_classes": {
+      "unidentifiable": 36
+    },
+    "marginal_passes": {
+      "model_algebra": 28,
+      "T_training_qualified": 6,
+      "T_candidate_nonzero": 0,
+      "H_support": 17,
+      "future_support": 16,
+      "H_distance_P95": 3,
+      "future_distance_P95": 2,
+      "H_gain": 4,
+      "future_gain": 8,
+      "permutation": 0,
+      "displacement_resolution": 15
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 22,
+      "T_candidate_nonzero": 6,
+      "model_algebra": 8
+    },
+    "H_P95_px": {
+      "n": 27,
+      "median": 2.8396773075545445,
+      "p95": 5.531327851259934,
+      "max": 5.7510023352897095
+    },
+    "future_P95_px": {
+      "n": 26,
+      "median": 3.292681955502202,
+      "p95": 6.823886762780863,
+      "max": 9.800610198125142
+    },
+    "H_gain": {
+      "n": 27,
+      "median": 0.011632851861845903,
+      "p95": 0.33162490918058535,
+      "max": 0.8751367203954219
+    },
+    "future_gain": {
+      "n": 26,
+      "median": 0.04710982340645933,
+      "p95": 0.34119091042012095,
+      "max": 0.38159586290633435
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_04095000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 18,
+    "T_motion_classes": {
+      "unidentifiable": 18
+    },
+    "marginal_passes": {
+      "model_algebra": 8,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 4,
+      "future_support": 4,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 1,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 8
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 8,
+      "model_algebra": 10
+    },
+    "H_P95_px": {
+      "n": 7,
+      "median": 8.071243671363792,
+      "p95": 35.21600819727994,
+      "max": 43.13470384340017
+    },
+    "future_P95_px": {
+      "n": 7,
+      "median": 13.735509886765543,
+      "p95": 105.0622405642326,
+      "max": 132.17253002599193
+    },
+    "H_gain": {
+      "n": 7,
+      "median": -4.259907213532397,
+      "p95": -0.14192681789110384,
+      "max": 0.42952372215512535
+    },
+    "future_gain": {
+      "n": 7,
+      "median": -15.659957427106058,
+      "p95": -2.605517376376099,
+      "max": -1.1902212285347986
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_04095000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 18,
+    "T_motion_classes": {
+      "unidentifiable": 18
+    },
+    "marginal_passes": {
+      "model_algebra": 8,
+      "T_training_qualified": 4,
+      "T_candidate_nonzero": 0,
+      "H_support": 4,
+      "future_support": 4,
+      "H_distance_P95": 0,
+      "future_distance_P95": 1,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 1,
+      "displacement_resolution": 2
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 4,
+      "model_algebra": 10,
+      "T_training_qualified": 4
+    },
+    "H_P95_px": {
+      "n": 7,
+      "median": 1.8483160537039802,
+      "p95": 2.730546332890687,
+      "max": 2.7698888267184563
+    },
+    "future_P95_px": {
+      "n": 7,
+      "median": 2.331933961584649,
+      "p95": 4.310613121335728,
+      "max": 4.658392554219794
+    },
+    "H_gain": {
+      "n": 7,
+      "median": -0.007091096046211736,
+      "p95": 0.09077574631048962,
+      "max": 0.11373538199907407
+    },
+    "future_gain": {
+      "n": 7,
+      "median": -0.08488922868257423,
+      "p95": 0.13803429124803765,
+      "max": 0.1574140266868044
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_04095000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 18,
+    "T_motion_classes": {
+      "unidentifiable": 18
+    },
+    "marginal_passes": {
+      "model_algebra": 8,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 4,
+      "future_support": 4,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 1,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 8
+    },
+    "serial_first_failure": {
+      "T_training_qualified": 8,
+      "model_algebra": 10
+    },
+    "H_P95_px": {
+      "n": 7,
+      "median": 8.314548114621807,
+      "p95": 35.21600819727994,
+      "max": 43.13470384340017
+    },
+    "future_P95_px": {
+      "n": 7,
+      "median": 13.735509886765543,
+      "p95": 105.0622405642326,
+      "max": 132.17253002599193
+    },
+    "H_gain": {
+      "n": 7,
+      "median": -4.281728293239091,
+      "p95": -0.14192681789110384,
+      "max": 0.42952372215512535
+    },
+    "future_gain": {
+      "n": 7,
+      "median": -15.659957427106058,
+      "p95": -2.5146335137681515,
+      "max": -1.0603871390948736
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_04095000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 18,
+    "T_motion_classes": {
+      "unidentifiable": 18
+    },
+    "marginal_passes": {
+      "model_algebra": 8,
+      "T_training_qualified": 3,
+      "T_candidate_nonzero": 0,
+      "H_support": 4,
+      "future_support": 4,
+      "H_distance_P95": 0,
+      "future_distance_P95": 1,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 2
+    },
+    "serial_first_failure": {
+      "T_candidate_nonzero": 3,
+      "model_algebra": 10,
+      "T_training_qualified": 5
+    },
+    "H_P95_px": {
+      "n": 7,
+      "median": 1.8618106708272053,
+      "p95": 2.730546332890687,
+      "max": 2.7698888267184563
+    },
+    "future_P95_px": {
+      "n": 7,
+      "median": 2.331933961584649,
+      "p95": 4.30703557008349,
+      "max": 4.658392554219794
+    },
+    "H_gain": {
+      "n": 7,
+      "median": -0.007091096046211736,
+      "p95": 0.09077574631048962,
+      "max": 0.11373538199907407
+    },
+    "future_gain": {
+      "n": 7,
+      "median": -0.08488922868257423,
+      "p95": 0.13803429124803765,
+      "max": 0.1574140266868044
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_01525000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "records": 0,
+    "T_motion_classes": {},
+    "marginal_passes": {
+      "model_algebra": 0,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 0,
+      "future_support": 0,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 0
+    },
+    "serial_first_failure": {},
+    "H_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "H_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_01525000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "records": 0,
+    "T_motion_classes": {},
+    "marginal_passes": {
+      "model_algebra": 0,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 0,
+      "future_support": 0,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 0
+    },
+    "serial_first_failure": {},
+    "H_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "H_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_01525000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "records": 0,
+    "T_motion_classes": {},
+    "marginal_passes": {
+      "model_algebra": 0,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 0,
+      "future_support": 0,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 0
+    },
+    "serial_first_failure": {},
+    "H_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "H_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  },
+  {
+    "case": "run5_01525000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "records": 0,
+    "T_motion_classes": {},
+    "marginal_passes": {
+      "model_algebra": 0,
+      "T_training_qualified": 0,
+      "T_candidate_nonzero": 0,
+      "H_support": 0,
+      "future_support": 0,
+      "H_distance_P95": 0,
+      "future_distance_P95": 0,
+      "H_gain": 0,
+      "future_gain": 0,
+      "permutation": 0,
+      "displacement_resolution": 0
+    },
+    "serial_first_failure": {},
+    "H_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_P95_px": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "H_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "future_gain": {
+      "n": 0,
+      "median": null,
+      "p95": null,
+      "max": null
+    },
+    "supported_nonzero": 0,
+    "supported_spatial_patches": 0,
+    "stationary": 0
+  }
+]

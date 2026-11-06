@@ -1,0 +1,22 @@
+{
+  "phase": "before synthetic front-end controls and any real front-end development",
+  "files": {
+    "protocol.md": "e583b5394798e84e70b101f0fba04535c3511df6d70b8c339550058c900c27ab",
+    "helpers.py": "47fac69080425ddb6e3cb711878d3747278fbe241b5f1b503031bcd050add08c",
+    "frontends.py": "8de7066da4926c35b8497d0466c904d4f0a25e677fc37e16b085a98769ee48e2",
+    "prediction.py": "8e7c69a44a060fae19ca6ac7f9209a8a3e7b42594e6ab11428b7082f2fd59d9f",
+    "pipeline.py": "49a7b6f3247bd6fb1d2f5bfb4e2ba082d8f0d46f76ab3a034eb057955ba1c2c9",
+    "prepare.py": "ed5ecc4be4d29e762b8879640451e34927717903c3b2d4fa1e2663b7b1612f85",
+    "run.py": "770a44530419b6b9fc3db97cf9b9b693b3d5d27dcdb4e14dfa6db16300709410",
+    "input_manifest.json": "ac883501cd4dbfe9e3c54db9daca0810c46089f38763f21b7c410d12b888d140",
+    "input_source_hashes.json": "c32b435ed70eb1ff0e8b12da705db5191234bdfecce9156d8cee8091b61219d6"
+  },
+  "frontends": [
+    "F0",
+    "F1",
+    "F2"
+  ],
+  "development_windows": 4,
+  "confirmation_windows": 4,
+  "change_policy": "Do not tune using real results; report failed layers and checkpoint."
+}

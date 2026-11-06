@@ -1,0 +1,74 @@
+{
+  "status": "passed",
+  "tests": [
+    "raw_gradient_translation_RHS",
+    "covector_tangent_scalar_per_constraint",
+    "projection_stack_equals_explicit_weighted_not_unweighted_LS",
+    "zero_RHS_keeps_projector_without_dividing_by_b",
+    "normal_flow_minus_translation_is_not_full_flow",
+    "coordinate_then_refit_exact_plane_identity",
+    "stage3_A_literal_counterexample_retained"
+  ],
+  "raw_RHS_true_omega": [
+    1.0,
+    2.0,
+    3.0
+  ],
+  "raw_scalar_recovery": [
+    0.9999999999999986,
+    2.000000000000002,
+    3.000000000000002
+  ],
+  "dual_LS": [
+    0.9372139048934804,
+    1.9569243874733324,
+    3.072498445872166
+  ],
+  "weighted_scalar_LS": [
+    0.9372139048934796,
+    1.9569243874733306,
+    3.0724984458721667
+  ],
+  "unweighted_scalar_LS": [
+    0.9351818838762685,
+    1.9636831852958987,
+    3.094529383656854
+  ],
+  "zero_RHS": [
+    0.0
+  ],
+  "zero_RHS_h": [
+    [
+      0.15360000000000001,
+      -0.08,
+      0.1152
+    ]
+  ],
+  "zero_RHS_P": [
+    [
+      [
+        0.5453254437869822,
+        -0.28402366863905326,
+        0.40899408284023664
+      ],
+      [
+        -0.28402366863905326,
+        0.14792899408284024,
+        -0.21301775147928992
+      ],
+      [
+        0.40899408284023664,
+        -0.21301775147928992,
+        0.30674556213017745
+      ]
+    ]
+  ],
+  "bad_normal_subtraction": [
+    [
+      50.00000000000006,
+      150.0
+    ]
+  ],
+  "preserved_A_literal_mismatch_norm": 0.24597367497455452,
+  "scope": "Analytic semantics only; no fourth real-data algorithm or changes to stage3 A_literal."
+}

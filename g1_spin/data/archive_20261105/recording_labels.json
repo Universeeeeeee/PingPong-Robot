@@ -1,0 +1,13 @@
+{
+  "source_host": "pingpong1@172.16.20.156",
+  "raw_source_directory": "/home/pingpong1/g1_spin/data/raw",
+  "labels_source": "用户实验说明，不是轴或速度真值",
+  "recordings": {
+    "DSP03F100025_20261105_201058": "钻轴大致平行画面竖直方向",
+    "DSP03F100025_20261105_201123": "钻轴大致朝向相机",
+    "DSP03F100025_20261105_201143": "钻轴斜向相机",
+    "DSP03F100025_20261105_203829": "用户确认与第一段电钻转向相反；前约4秒竖直轴，之后随机改变装置方向",
+    "DSP03F100025_20261105_215030": "用户说明前三秒完全静止，之后电钻不自转、保持姿态、小幅平移；动作边界尚待事件数据核实"
+  },
+  "offline_entry": "各 decoded/<recording>/manifest.json 和其中 parts 列出的 NPY；本地 g1_spin.io.source 可读取，不需要 Linux SDK 或 SSH"
+}

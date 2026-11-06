@@ -1,0 +1,23 @@
+{
+  "checked_date": "2026-11-06",
+  "limited_scope": true,
+  "checks": [
+    {
+      "url": "https://arxiv.org/html/2606.26780v2#S3.SS3",
+      "section": "3.3.1",
+      "finding": "Plane fit 2D flow, radius normalization, tangential lift, P, LS; no explicit g-to-v mapping"
+    },
+    {
+      "url": "https://sonyresearch.github.io/ace_public/pseudo_code/",
+      "finding": "Recent timestamp per pixel/polarity time surface plus CNN/CMax; no optical-flow offline P derivation"
+    },
+    {
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-026-10338-5/MediaObjects/41586_2026_10338_MOESM1_ESM.pdf",
+      "finding": "23-page available Nature supplementary; no optical/contrast search match; cannot resolve offline normal-flow semantics"
+    }
+  ],
+  "reviewer_provided": {
+    "source": "GPT-6 Astra xhigh read-only review relayed by parent",
+    "finding": "19-page v2 PDF does not contain referenced Appendix A; not executor PDF extraction"
+  }
+}

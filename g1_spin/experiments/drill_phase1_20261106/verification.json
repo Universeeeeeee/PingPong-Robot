@@ -1,0 +1,169 @@
+{
+  "status": "passed",
+  "paired_windows_verified": 39,
+  "max_center_reconstruction_error_px": 1.1368683772161603e-13,
+  "recorder_replay_window": "rotation_00795000",
+  "recorder_replay_exact_match": true,
+  "synthetic_coordinate_shift_recovery_px": 0.0,
+  "protected_files": 101,
+  "result_rows": 216,
+  "checks": [
+    {
+      "window": "rotation_00795000",
+      "matched_events": 4857
+    },
+    {
+      "window": "rotation_01425000",
+      "matched_events": 2690
+    },
+    {
+      "window": "rotation_01495000",
+      "matched_events": 5000
+    },
+    {
+      "window": "rotation_01565000",
+      "matched_events": 2411
+    },
+    {
+      "window": "rotation_02195000",
+      "matched_events": 3371
+    },
+    {
+      "window": "rotation_02265000",
+      "matched_events": 3569
+    },
+    {
+      "window": "rotation_03595000",
+      "matched_events": 2446
+    },
+    {
+      "window": "rotation_03665000",
+      "matched_events": 4839
+    },
+    {
+      "window": "rotation_04295000",
+      "matched_events": 3264
+    },
+    {
+      "window": "rotation_04365000",
+      "matched_events": 2973
+    },
+    {
+      "window": "rotation_05625000",
+      "matched_events": 5000
+    },
+    {
+      "window": "rotation_05695000",
+      "matched_events": 3322
+    },
+    {
+      "window": "static_00525000",
+      "matched_events": 10
+    },
+    {
+      "window": "static_00595000",
+      "matched_events": 17
+    },
+    {
+      "window": "static_00665000",
+      "matched_events": 10
+    },
+    {
+      "window": "static_01525000",
+      "matched_events": 18
+    },
+    {
+      "window": "static_01595000",
+      "matched_events": 9
+    },
+    {
+      "window": "static_01665000",
+      "matched_events": 6
+    },
+    {
+      "window": "static_02525000",
+      "matched_events": 10
+    },
+    {
+      "window": "static_02595000",
+      "matched_events": 17
+    },
+    {
+      "window": "static_02665000",
+      "matched_events": 15
+    },
+    {
+      "window": "static_03225000",
+      "matched_events": 12
+    },
+    {
+      "window": "static_03295000",
+      "matched_events": 9
+    },
+    {
+      "window": "static_03365000",
+      "matched_events": 11
+    },
+    {
+      "window": "translation_04025000",
+      "matched_events": 417
+    },
+    {
+      "window": "translation_04095000",
+      "matched_events": 762
+    },
+    {
+      "window": "translation_04165000",
+      "matched_events": 890
+    },
+    {
+      "window": "translation_04425000",
+      "matched_events": 632
+    },
+    {
+      "window": "translation_04495000",
+      "matched_events": 476
+    },
+    {
+      "window": "translation_04565000",
+      "matched_events": 144
+    },
+    {
+      "window": "translation_05025000",
+      "matched_events": 289
+    },
+    {
+      "window": "translation_05095000",
+      "matched_events": 823
+    },
+    {
+      "window": "translation_05165000",
+      "matched_events": 810
+    },
+    {
+      "window": "translation_05625000",
+      "matched_events": 650
+    },
+    {
+      "window": "translation_05695000",
+      "matched_events": 771
+    },
+    {
+      "window": "translation_05765000",
+      "matched_events": 609
+    },
+    {
+      "window": "translation_06425000",
+      "matched_events": 696
+    },
+    {
+      "window": "translation_06495000",
+      "matched_events": 1001
+    },
+    {
+      "window": "translation_06565000",
+      "matched_events": 398
+    }
+  ],
+  "caveat": "Verifies computation, event identity and immutability, not physical center or spin accuracy."
+}

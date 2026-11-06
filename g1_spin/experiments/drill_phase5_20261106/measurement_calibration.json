@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "completed_date": "2026-11-07",
+  "tests": [
+    "exact_plane_gradient_RMS_and_R2_positive",
+    "repeated_pixel_irreducible_variance_exact",
+    "mean_predictor_attains_lower_bound",
+    "polarity_groups_not_silently_merged",
+    "R2_gate_and20us_floor_branches"
+  ],
+  "exact_plane": {
+    "events": 169,
+    "gradient": [
+      0.0001,
+      0.00015
+    ],
+    "fitted_gradient": [
+      0.00010000000000000011,
+      0.00014999999999999996
+    ],
+    "plane_RMS_us": 5.517032947122492e-13,
+    "lower_bound_us": 0.0
+  },
+  "repeated_pixel": {
+    "events": 507,
+    "expected_lower_us": 163.29931618554522,
+    "measured_lower_us": 163.29931618554528,
+    "gate_us": 104.10331406828506,
+    "impossible": true
+  },
+  "separate_polarity_lower_us": 0.0,
+  "merged_polarity_lower_us": 500.0,
+  "floor_case": {
+    "events": 3,
+    "groups": 1,
+    "single_event_groups": 0,
+    "multiple_event_groups": 1,
+    "event_fraction_in_multiple_groups": 1.0,
+    "total_variance_s2": 6.666666666666667e-13,
+    "within_variance_s2": 6.666666666666667e-13,
+    "between_variance_s2": 0.0,
+    "variance_identity_error": 0.0,
+    "irreducible_RMS_us": 0.8164965809277261,
+    "old_gate_us": 20.0,
+    "lower_over_gate": 0.040824829046386304,
+    "impossible_under_old_gate": false,
+    "maximum_single_value_R2": 0.0,
+    "gate_branch": "20us_floor",
+    "group_mean_times_s": [
+      1e-06
+    ],
+    "group_keys": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "group_counts": [
+      3
+    ]
+  },
+  "caveat": "Calibrates measurement algebra, not DVS or physical spin accuracy."
+}

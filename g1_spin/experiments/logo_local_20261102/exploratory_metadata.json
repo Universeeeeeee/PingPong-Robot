@@ -1,0 +1,36 @@
+{
+  "selection": "Post-survey exploratory addition; does not replace the nine B0 primary samples or provide an independent test",
+  "normal_forward_evaluation_ms": 50,
+  "seeds": {
+    "L": [
+      582,
+      212
+    ],
+    "A1": [
+      533,
+      192
+    ],
+    "A2": [
+      523,
+      238
+    ]
+  },
+  "durations_ms": [
+    2,
+    5
+  ],
+  "seed_windows": {
+    "5ms": [
+      11.75,
+      11.755
+    ],
+    "2ms": [
+      11.75,
+      11.752
+    ]
+  },
+  "gates": "Exact unmodified B0 matching/rejection gates; geometry diagnostic only",
+  "configuration_sha256": "58ab6bea7561db506e0be7666f4fff86f18f6a85ab7c79bab60f325c3ae84f99",
+  "script_sha256": "49292468b666817df829496fb2dda3c8afa2842048e6ceebc824894f81e96c1d",
+  "B0_run_sha256": "cb3a09f9664aa5f8d878eed4719d4aeeb2c454cb13d00ac6ef562c15dc377ead"
+}

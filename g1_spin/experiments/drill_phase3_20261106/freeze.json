@@ -1,0 +1,31 @@
+{
+  "files": {
+    "protocol.md": "b0dcd35dd6d7bfcb8a3974bbf66e85652b1fd6089da4601ebf598d80b7952705",
+    "config.json": "6f3e3af3f25024b69639ccf34605f410d6936ac54475354c38f898906867c906",
+    "geometry_prior_review.json": "49d503037d33eb0fd86aee5dfc5cea70efaa594ac65fdf3a7bf7973b6ecb4f5e",
+    "geometry_final_review.json": "60f16473c4a230a2c3b8cd321308ea315fe6cae7fddb0367587ccb20ad403acf",
+    "geometry.json": "81b7c882581f36fead3d1c13e452b097696ddbae8e6c5a0a92d9d83cf9b24620",
+    "window_audit.json": "d9ea5b19093e6b4c02eb0054cb444725c84b636dbc3e4e9d01bcae5d9bfb351b",
+    "source_hashes.json": "85c21700189b1aa8d136e8869b4f4544dbe864aaf697a8f62535a6b2638f81a0",
+    "geometry.py": "656ebde8945115902d172076eaba661f220adbdb3b7cbdd77fa4ab1e59d83811",
+    "common.py": "ee0ba8d63f3e256d79af9e028c93fc46d66ce1f9fa20ae4d604a03abaf6cabbd",
+    "flow.py": "3fd81056dd12e41e93b276f854deae323058e5dddad7cee2481fe68532f3c914",
+    "methods.py": "00541b97b6fc6112d250ec813ebcb560797f8042dc635d1eec4928370dcfd1e9",
+    "run.py": "24769516637f3a640c241796033475f06a777241991c0735f42c3664e393eec3",
+    "test_math.py": "2c08aa0d37712e2338386b34d9cc4b4ad1f3906c2cdac78d4d607f31437139dd",
+    "periodicity.py": "f6eee08ecf058e5bd57f46dd125096ae56f3a1c50c35c9591c5e5ce4af9e39d4",
+    "math_verification.json": "b1a0ac035efc2e38d627fc874a293f515865f6b0d06d9291c34fc45fcaae829c",
+    "periodicity.json": "b31686aef4d4393c8ffe61ea56f9075d4e2f72a4f7731500f1b2d2ba32adf139",
+    "frozen/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+    "frozen/optical_flow.py": "26f9d2267eee8adf449f7286fea05c5ab7148c5ab38dbedbbe6a666d59994f5e"
+  },
+  "windows": 108,
+  "routes": [
+    "G",
+    "A",
+    "S"
+  ],
+  "result_rows": 324,
+  "period_attempts": 4,
+  "caveat": "No independent physical truth; candidate/default distinctions retained."
+}

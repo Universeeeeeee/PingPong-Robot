@@ -1,0 +1,125 @@
+{
+  "status": "passed",
+  "completed_date": "2026-11-07",
+  "patches_verified": 15,
+  "selection_counts": {
+    "run1_01495000": 6,
+    "run2_02095000": 6,
+    "run5_04095000": 3,
+    "run5_01525000": 0
+  },
+  "max_independent_within_variance_difference_s2": 6.352747104407253e-22,
+  "all_raw_IDs_pixels_times_polarities_match": true,
+  "selection_uses_first6ms_counts_only": true,
+  "calibration_passed": true,
+  "source_hashes_unchanged": 109,
+  "old_F0_reviewer_counts_reproduced": true,
+  "checks": [
+    {
+      "case": "run1_01495000",
+      "patch": 0,
+      "physical_events": 464,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run1_01495000",
+      "patch": 1,
+      "physical_events": 419,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run1_01495000",
+      "patch": 2,
+      "physical_events": 251,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run1_01495000",
+      "patch": 3,
+      "physical_events": 402,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run1_01495000",
+      "patch": 4,
+      "physical_events": 217,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run1_01495000",
+      "patch": 5,
+      "physical_events": 272,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 0,
+      "physical_events": 257,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 1,
+      "physical_events": 336,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 2,
+      "physical_events": 227,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 3,
+      "physical_events": 289,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 4,
+      "physical_events": 76,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run2_02095000",
+      "patch": 5,
+      "physical_events": 79,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run5_04095000",
+      "patch": 0,
+      "physical_events": 109,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run5_04095000",
+      "patch": 1,
+      "physical_events": 94,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    },
+    {
+      "case": "run5_04095000",
+      "patch": 2,
+      "physical_events": 26,
+      "selection_first6ms_only": true,
+      "full10ms_raw_IDs_match": true
+    }
+  ],
+  "scope": "Raw/math checkpoint only; no CMax, new model threshold or108 rerun. Confirmation windows not analyzed."
+}

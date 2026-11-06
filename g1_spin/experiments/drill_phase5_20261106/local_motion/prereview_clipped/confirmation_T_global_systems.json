@@ -1,0 +1,1680 @@
+[
+  {
+    "case": "run3_01495000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "T_qualified_count": 6,
+    "independent_spatial_patches": 3,
+    "observation_ids": [
+      8,
+      16,
+      52,
+      60,
+      76,
+      92
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 15.961920295592323,
+      "omega_or_velocity": [
+        -4.783178516454168,
+        -101.14971823010441,
+        247.8384687875753
+      ],
+      "RMS": 1202.2126701143677,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 2.4587585480168066,
+      "omega_or_velocity": [
+        1431.4387962290582,
+        -6110.369126238042
+      ],
+      "RMS": 1305.5122624673436,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          52,
+          60,
+          76,
+          92
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 13.322676640405152,
+          "omega_or_velocity": [
+            -138.52661946097234,
+            -36.516674588802836,
+            239.76291851546978
+          ],
+          "RMS": 1177.8264664597166,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 8.582800400464423,
+          "omega_or_velocity": [
+            -476.51306271844396,
+            -10064.654993274578
+          ],
+          "RMS": 1361.919558475263,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          8,
+          16,
+          76,
+          92
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 20.972811660522954,
+          "omega_or_velocity": [
+            -220.25137629482992,
+            20.93170715539074,
+            -203.44097772153654
+          ],
+          "RMS": 666.7685246532055,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.0403342127175432,
+          "omega_or_velocity": [
+            464.9976366785657,
+            -6272.325511433692
+          ],
+          "RMS": 738.7911205724902,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 3,
+        "training_observation_ids": [
+          8,
+          16,
+          52,
+          60
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 22.620542152276307,
+          "omega_or_velocity": [
+            142.3856767661074,
+            -166.82870784403156,
+            554.1941982138842
+          ],
+          "RMS": 466.8888194180544,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.6919650456018913,
+          "omega_or_velocity": [
+            3101.728650975199,
+            -5304.451431794728
+          ],
+          "RMS": 1251.0729506355906,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 13,
+    "independent_spatial_patches": 5,
+    "observation_ids": [
+      1,
+      9,
+      17,
+      25,
+      33,
+      41,
+      53,
+      61,
+      69,
+      77,
+      85,
+      93,
+      101
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 7.000488385040034,
+      "omega_or_velocity": [
+        5.989910335426416,
+        -29.61713916023413,
+        33.66665033291873
+      ],
+      "RMS": 516.9340529712888,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 2.1013384698669126,
+      "omega_or_velocity": [
+        579.43323237509,
+        -603.5312308197603
+      ],
+      "RMS": 588.4918179119264,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          25,
+          33,
+          41,
+          53,
+          61,
+          69,
+          77,
+          85,
+          93,
+          101
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 7.440019395763379,
+          "omega_or_velocity": [
+            24.878118900919024,
+            -36.9265228719934,
+            43.73074933567775
+          ],
+          "RMS": 465.1397604230306,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.892195754488653,
+          "omega_or_velocity": [
+            700.5867954445423,
+            -143.49607222042042
+          ],
+          "RMS": 566.1617712078889,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          1,
+          9,
+          17,
+          53,
+          61,
+          69,
+          77,
+          85,
+          93,
+          101
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 12.280259533391321,
+          "omega_or_velocity": [
+            31.24849857450814,
+            -36.737150665145236,
+            106.4693054762856
+          ],
+          "RMS": 511.0407881204558,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.744351702157506,
+          "omega_or_velocity": [
+            616.8865084702444,
+            -586.3065895247436
+          ],
+          "RMS": 666.5540213891857,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          1,
+          9,
+          17,
+          25,
+          33,
+          41,
+          77,
+          85,
+          93,
+          101
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 6.658866782244225,
+          "omega_or_velocity": [
+            -6.796467462367004,
+            -19.005481256965755,
+            13.397910298041104
+          ],
+          "RMS": 362.4943757184047,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.7905311447044578,
+          "omega_or_velocity": [
+            529.7176682484901,
+            -638.5233646723688
+          ],
+          "RMS": 406.1055870760989,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 3,
+        "training_observation_ids": [
+          1,
+          9,
+          17,
+          25,
+          33,
+          41,
+          53,
+          61,
+          69,
+          101
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 10.777973765803756,
+          "omega_or_velocity": [
+            34.93675438705968,
+            -57.74713801205549,
+            78.34032216161552
+          ],
+          "RMS": 522.266783488416,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.9136718292421693,
+          "omega_or_velocity": [
+            570.7730970919677,
+            -613.1100110006438
+          ],
+          "RMS": 664.3407826674215,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 4,
+        "training_observation_ids": [
+          1,
+          9,
+          17,
+          25,
+          33,
+          41,
+          53,
+          61,
+          69,
+          77,
+          85,
+          93
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 6.886474890973456,
+          "omega_or_velocity": [
+            2.06996465997603,
+            -28.184990212429398,
+            30.405689436174363
+          ],
+          "RMS": 513.5316589662235,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.079606854694989,
+          "omega_or_velocity": [
+            573.7618993117853,
+            -745.090887511166
+          ],
+          "RMS": 572.6580785509109,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": true,
+    "rotation_chain_allowed": true,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "T_qualified_count": 6,
+    "independent_spatial_patches": 3,
+    "observation_ids": [
+      10,
+      18,
+      54,
+      62,
+      78,
+      94
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 17.68663718818392,
+      "omega_or_velocity": [
+        -114.03597611895997,
+        -43.98709353568945,
+        -11.69421509496643
+      ],
+      "RMS": 1016.5318867783096,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 2.5557625322562942,
+      "omega_or_velocity": [
+        1127.0101582529905,
+        -5618.1870948832875
+      ],
+      "RMS": 940.7088115880307,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          54,
+          62,
+          78,
+          94
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 19.314355640486173,
+          "omega_or_velocity": [
+            -162.68733232240828,
+            -13.822337707052316,
+            312.10287096868035
+          ],
+          "RMS": 817.4705436955562,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 6.429154756841388,
+          "omega_or_velocity": [
+            -144.15610173298884,
+            -8209.103022072582
+          ],
+          "RMS": 1014.7089525176177,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          10,
+          18,
+          78,
+          94
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 17.93768641493511,
+          "omega_or_velocity": [
+            -81.26830664886897,
+            -36.42421948502775,
+            67.28158022355002
+          ],
+          "RMS": 210.40940511679946,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.0562259389466693,
+          "omega_or_velocity": [
+            498.5168946413442,
+            -5583.712601043296
+          ],
+          "RMS": 362.61940742123596,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 3,
+        "training_observation_ids": [
+          10,
+          18,
+          54,
+          62
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 50.261192353241434,
+          "omega_or_velocity": [
+            339.65796008555066,
+            -342.0169018023204,
+            884.9415811608288
+          ],
+          "RMS": 83.15054110152057,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 3.151123199200606,
+          "omega_or_velocity": [
+            2695.411335011508,
+            -4812.851821452131
+          ],
+          "RMS": 854.5705963245508,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run3_01495000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 10,
+    "independent_spatial_patches": 5,
+    "observation_ids": [
+      11,
+      19,
+      43,
+      55,
+      63,
+      71,
+      79,
+      87,
+      95,
+      103
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 6.7216009854203,
+      "omega_or_velocity": [
+        -5.8396228764326255,
+        -34.22854943956681,
+        38.17310565932359
+      ],
+      "RMS": 650.6634890431413,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 2.4629381300695545,
+      "omega_or_velocity": [
+        796.928898608909,
+        -1099.9941495805394
+      ],
+      "RMS": 761.854274814313,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          43,
+          55,
+          63,
+          71,
+          79,
+          87,
+          95,
+          103
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 6.380082836977398,
+          "omega_or_velocity": [
+            17.314989311513344,
+            -42.74689710070137,
+            43.65145181104722
+          ],
+          "RMS": 621.5847533447355,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 3.2478528830620466,
+          "omega_or_velocity": [
+            1184.7587442593378,
+            -69.72569469699754
+          ],
+          "RMS": 704.8571236262164,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          11,
+          19,
+          55,
+          63,
+          71,
+          79,
+          87,
+          95,
+          103
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 10.658092750041698,
+          "omega_or_velocity": [
+            16.985756086796776,
+            -38.83017570407833,
+            121.85308933797918
+          ],
+          "RMS": 563.7424218356562,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.9026798186222824,
+          "omega_or_velocity": [
+            717.3869842461736,
+            -1177.0821982142706
+          ],
+          "RMS": 800.6255767191137,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          11,
+          19,
+          43,
+          79,
+          87,
+          95,
+          103
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 5.7330219952671975,
+          "omega_or_velocity": [
+            -17.706187205052924,
+            -27.27026150624858,
+            18.739538475231498
+          ],
+          "RMS": 407.87356871616083,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.9943573350362391,
+          "omega_or_velocity": [
+            804.3811168264914,
+            -1224.04693638718
+          ],
+          "RMS": 525.1724485361965,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 3,
+        "training_observation_ids": [
+          11,
+          19,
+          43,
+          55,
+          63,
+          71,
+          103
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 13.209378001540761,
+          "omega_or_velocity": [
+            40.78088278030341,
+            -77.87307256521082,
+            111.21024402425098
+          ],
+          "RMS": 692.5581417380213,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.4501408300085807,
+          "omega_or_velocity": [
+            697.1524082787851,
+            -1170.6105349258128
+          ],
+          "RMS": 886.8603842280027,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 4,
+        "training_observation_ids": [
+          11,
+          19,
+          43,
+          55,
+          63,
+          71,
+          79,
+          87,
+          95
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 6.705781572616199,
+          "omega_or_velocity": [
+            -13.946702826933985,
+            -30.94530112440711,
+            29.717994776885778
+          ],
+          "RMS": 646.5879193830182,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.451788907627466,
+          "omega_or_velocity": [
+            744.465158281961,
+            -1381.6924354151772
+          ],
+          "RMS": 733.6577929599468,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "T_qualified_count": 3,
+    "independent_spatial_patches": 3,
+    "observation_ids": [
+      144,
+      256,
+      276
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 7.291142930377501,
+      "omega_or_velocity": [
+        9.282456827323676,
+        89.17500594093883,
+        -41.55999769321481
+      ],
+      "RMS": 8.405653493665505e-13,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.3997589756143927,
+      "omega_or_velocity": [
+        -5380.155263623973,
+        358.2824215281628
+      ],
+      "RMS": 285.1365459825139,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          256,
+          276
+        ],
+        "rotation": {
+          "rank": 2,
+          "condition": null,
+          "omega_or_velocity": [
+            10.496382603189574,
+            86.45826269947223,
+            4.792475095648759
+          ],
+          "RMS": 2.651609927327309e-12,
+          "available": false
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.0375897234986435,
+          "omega_or_velocity": [
+            -5028.019078205165,
+            391.175987421519
+          ],
+          "RMS": 1.2962293852742026e-12,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 4,
+        "training_observation_ids": [
+          144,
+          276
+        ],
+        "rotation": {
+          "rank": 2,
+          "condition": null,
+          "omega_or_velocity": [
+            7.9062870175466315,
+            93.8635253052465,
+            -19.165133660237622
+          ],
+          "RMS": 2.157056083093525e-12,
+          "available": false
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.210300758827969,
+          "omega_or_velocity": [
+            -5706.734487254301,
+            169.20082121178794
+          ],
+          "RMS": 6.431098710768743e-13,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 5,
+        "training_observation_ids": [
+          144,
+          256
+        ],
+        "rotation": {
+          "rank": 2,
+          "condition": null,
+          "omega_or_velocity": [
+            8.265114651759632,
+            88.85893249706213,
+            -42.42030269381958
+          ],
+          "RMS": 9.094947017729282e-13,
+          "available": false
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 8.787837716152167,
+          "omega_or_velocity": [
+            -6107.022764071941,
+            3320.005505834776
+          ],
+          "RMS": 1.4380373887290168e-12,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 8,
+    "independent_spatial_patches": 5,
+    "observation_ids": [
+      145,
+      153,
+      169,
+      177,
+      185,
+      193,
+      257,
+      277
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 3.290499899796032,
+      "omega_or_velocity": [
+        4.189034801029151,
+        22.992898644035456,
+        -1.9282606096420811
+      ],
+      "RMS": 81.66061787217797,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.7696924362554514,
+      "omega_or_velocity": [
+        -1241.8291096732669,
+        129.40708576121716
+      ],
+      "RMS": 114.38441098245809,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          169,
+          177,
+          185,
+          193,
+          257,
+          277
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 5.015334580220506,
+          "omega_or_velocity": [
+            3.87191098931136,
+            21.755347171786863,
+            0.5763836071934887
+          ],
+          "RMS": 63.58411536835829,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.4638585498486785,
+          "omega_or_velocity": [
+            -1185.8825107872988,
+            150.87579601968957
+          ],
+          "RMS": 78.14948999709328,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          145,
+          153,
+          193,
+          257,
+          277
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 4.932636357758593,
+          "omega_or_velocity": [
+            5.790000161807446,
+            22.301831002206086,
+            -7.496944289498841
+          ],
+          "RMS": 71.59241695039172,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.2725524065099663,
+          "omega_or_velocity": [
+            -1292.469961269498,
+            108.24484325465464
+          ],
+          "RMS": 120.73834387501968,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          145,
+          153,
+          169,
+          177,
+          185,
+          257,
+          277
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 3.305507072763865,
+          "omega_or_velocity": [
+            5.059036916684206,
+            23.133333190592843,
+            -1.3303371289656236
+          ],
+          "RMS": 81.87642589622342,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.4268069246883757,
+          "omega_or_velocity": [
+            -1272.0526875998037,
+            240.4254881405618
+          ],
+          "RMS": 104.53886420241626,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 4,
+        "training_observation_ids": [
+          145,
+          153,
+          169,
+          177,
+          185,
+          193,
+          277
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 3.0400037964682127,
+          "omega_or_velocity": [
+            4.102985763268932,
+            23.534876979457064,
+            -2.408888979065051
+          ],
+          "RMS": 71.13171800817125,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.6224055366884562,
+          "omega_or_velocity": [
+            -1249.9420399391033,
+            125.83006241664471
+          ],
+          "RMS": 120.94861487262465,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 5,
+        "training_observation_ids": [
+          145,
+          153,
+          169,
+          177,
+          185,
+          193,
+          257
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 4.278790298432123,
+          "omega_or_velocity": [
+            3.2116910528618177,
+            22.721015453013763,
+            -1.4676199583217662
+          ],
+          "RMS": 85.23053152995492,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.539953111001809,
+          "omega_or_velocity": [
+            -1221.3463984996006,
+            17.727283947620172
+          ],
+          "RMS": 107.66939019009273,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "T_qualified_count": 3,
+    "independent_spatial_patches": 2,
+    "observation_ids": [
+      146,
+      154,
+      278
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 64.3090081599452,
+      "omega_or_velocity": [
+        -73.62352347356976,
+        372.37438321795156,
+        1342.265665421858
+      ],
+      "RMS": 9.546987155416452e-12,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.3915839504007248,
+      "omega_or_velocity": [
+        -7312.425985564821,
+        -627.4816971667339
+      ],
+      "RMS": 1009.2332327101908,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          278
+        ],
+        "rotation": {
+          "rank": 1,
+          "condition": null,
+          "omega_or_velocity": [
+            34.99426299195502,
+            11.444940309972989,
+            -0.24567132953462872
+          ],
+          "RMS": 6.821210263296962e-13,
+          "available": false
+        },
+        "translation": {
+          "rank": 1,
+          "condition": null,
+          "omega_or_velocity": [
+            -601.4172313706197,
+            1838.904545805061
+          ],
+          "RMS": 0.0,
+          "available": false
+        }
+      },
+      {
+        "heldout_patch": 5,
+        "training_observation_ids": [
+          146,
+          154
+        ],
+        "rotation": {
+          "rank": 2,
+          "condition": null,
+          "omega_or_velocity": [
+            -199.9917383278515,
+            67.21710235998505,
+            3.5562690361508396
+          ],
+          "RMS": 1.8189894035458565e-12,
+          "available": false
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 9.422229175811514,
+          "omega_or_velocity": [
+            -3907.0578768187065,
+            -11699.017978355208
+          ],
+          "RMS": 4.547473508864641e-12,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": false,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run4_02495000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 6,
+    "independent_spatial_patches": 5,
+    "observation_ids": [
+      147,
+      155,
+      171,
+      195,
+      259,
+      279
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 3.889679736089281,
+      "omega_or_velocity": [
+        5.315658075730441,
+        38.59964753214949,
+        -15.656848649986454
+      ],
+      "RMS": 159.90012936098307,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.4337990798853313,
+      "omega_or_velocity": [
+        -2086.514384770682,
+        -73.21470207238504
+      ],
+      "RMS": 306.33195675630543,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          171,
+          195,
+          259,
+          279
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 4.634569983853778,
+          "omega_or_velocity": [
+            4.562484821354427,
+            36.127533546803456,
+            -9.975811261337988
+          ],
+          "RMS": 180.94533516775198,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.193656906737224,
+          "omega_or_velocity": [
+            -1828.5824935096516,
+            53.10323163829431
+          ],
+          "RMS": 249.21973048830552,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          147,
+          155,
+          195,
+          259,
+          279
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 4.865778335262957,
+          "omega_or_velocity": [
+            2.3512748177496183,
+            39.878127790885785,
+            -4.250985543953634
+          ],
+          "RMS": 78.3511258487834,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.2489377739173677,
+          "omega_or_velocity": [
+            -2293.131858855952,
+            -68.4816179243612
+          ],
+          "RMS": 99.3538438154568,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          147,
+          155,
+          171,
+          259,
+          279
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 4.135524589344791,
+          "omega_or_velocity": [
+            2.267834749441705,
+            37.65948980402395,
+            -21.65969782173082
+          ],
+          "RMS": 43.054396392720626,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.9346984022788647,
+          "omega_or_velocity": [
+            -2079.0059078015584,
+            -96.4107944841063
+          ],
+          "RMS": 335.17154419698505,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 4,
+        "training_observation_ids": [
+          147,
+          155,
+          171,
+          195,
+          279
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 3.3828280422769064,
+          "omega_or_velocity": [
+            5.53234200960189,
+            38.333114635479106,
+            -15.880625487115719
+          ],
+          "RMS": 173.09375562325363,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.273379322328218,
+          "omega_or_velocity": [
+            -2068.39919168324,
+            -63.851882783990014
+          ],
+          "RMS": 334.19942484690375,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 5,
+        "training_observation_ids": [
+          147,
+          155,
+          171,
+          195,
+          259
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 6.00223366854616,
+          "omega_or_velocity": [
+            15.669916238152284,
+            41.119939887806176,
+            -25.815387172614766
+          ],
+          "RMS": 71.9060730867601,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.038397147214468,
+          "omega_or_velocity": [
+            -2065.7450711844945,
+            -191.06247906012598
+          ],
+          "RMS": 327.294827995335,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_all",
+    "model_kind": "M_time",
+    "T_qualified_count": 0,
+    "independent_spatial_patches": 0,
+    "observation_ids": [],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 0,
+      "condition": null,
+      "omega_or_velocity": null,
+      "RMS": null,
+      "available": false
+    },
+    "translation": {
+      "rank": 0,
+      "condition": null,
+      "omega_or_velocity": null,
+      "RMS": null,
+      "available": false
+    },
+    "leave_patch_out": [],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": false,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_all",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 7,
+    "independent_spatial_patches": 3,
+    "observation_ids": [
+      289,
+      313,
+      321,
+      329,
+      337,
+      345,
+      353
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 10.323068609916065,
+      "omega_or_velocity": [
+        -47.67974412824705,
+        5.107669772134031,
+        59.10916881971859
+      ],
+      "RMS": 371.76928904285506,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.6776862803400159,
+      "omega_or_velocity": [
+        -314.2415275524783,
+        451.9732297896733
+      ],
+      "RMS": 510.05978993228035,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          313,
+          321,
+          329,
+          337,
+          345,
+          353
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 63.685265633112536,
+          "omega_or_velocity": [
+            -273.8101447252141,
+            -18.38717545860669,
+            299.1272902269421
+          ],
+          "RMS": 326.7825945598598,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.553772790302905,
+          "omega_or_velocity": [
+            -512.1983938290434,
+            370.3468657452136
+          ],
+          "RMS": 433.64703874904365,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          289,
+          337,
+          345,
+          353
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 18.669655017292694,
+          "omega_or_velocity": [
+            -99.01477087571236,
+            -28.627019950249377,
+            -54.3504336090826
+          ],
+          "RMS": 214.59069541406555,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 8.809386102553102,
+          "omega_or_velocity": [
+            652.6560233798705,
+            -3891.9741213991533
+          ],
+          "RMS": 270.9431557484222,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          289,
+          313,
+          321,
+          329
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 43.51889864495211,
+          "omega_or_velocity": [
+            -220.72005716696128,
+            43.73498246712339,
+            197.0116836357047
+          ],
+          "RMS": 55.00457459585158,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.5337086592465217,
+          "omega_or_velocity": [
+            327.1464280740368,
+            1092.4108427945166
+          ],
+          "RMS": 386.3991003080421,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_latest",
+    "model_kind": "M_time",
+    "T_qualified_count": 0,
+    "independent_spatial_patches": 0,
+    "observation_ids": [],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 0,
+      "condition": null,
+      "omega_or_velocity": null,
+      "RMS": null,
+      "available": false
+    },
+    "translation": {
+      "rank": 0,
+      "condition": null,
+      "omega_or_velocity": null,
+      "RMS": null,
+      "available": false
+    },
+    "leave_patch_out": [],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": false,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  },
+  {
+    "case": "run5_05095000",
+    "representation": "R_latest",
+    "model_kind": "M_spatial",
+    "T_qualified_count": 7,
+    "independent_spatial_patches": 3,
+    "observation_ids": [
+      291,
+      315,
+      323,
+      331,
+      339,
+      347,
+      355
+    ],
+    "spherical_geometry_invalid": [],
+    "rotation": {
+      "rank": 3,
+      "condition": 10.356089599003989,
+      "omega_or_velocity": [
+        -45.89799442730831,
+        6.247208723068333,
+        57.64109036313565
+      ],
+      "RMS": 389.19653102392414,
+      "available": true
+    },
+    "translation": {
+      "rank": 2,
+      "condition": 1.6797547179749714,
+      "omega_or_velocity": [
+        -370.1246118053316,
+        470.39291895133744
+      ],
+      "RMS": 517.2873112719808,
+      "available": true
+    },
+    "leave_patch_out": [
+      {
+        "heldout_patch": 0,
+        "training_observation_ids": [
+          315,
+          323,
+          331,
+          339,
+          347,
+          355
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 60.602662957610626,
+          "omega_or_velocity": [
+            -307.8427072585662,
+            -21.08441928933138,
+            335.2537222513945
+          ],
+          "RMS": 309.7223448345353,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 1.5554046743080627,
+          "omega_or_velocity": [
+            -556.9183180870608,
+            393.44173546127445
+          ],
+          "RMS": 457.3155767705671,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 1,
+        "training_observation_ids": [
+          291,
+          339,
+          347,
+          355
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 18.701264053961985,
+          "omega_or_velocity": [
+            -95.47259416867861,
+            -27.944179488053546,
+            -59.69656839285422
+          ],
+          "RMS": 180.39723239347506,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 8.774640632516071,
+          "omega_or_velocity": [
+            561.5417795980354,
+            -3688.227324318289
+          ],
+          "RMS": 254.39266212666612,
+          "available": true
+        }
+      },
+      {
+        "heldout_patch": 2,
+        "training_observation_ids": [
+          291,
+          315,
+          323,
+          331
+        ],
+        "rotation": {
+          "rank": 3,
+          "condition": 41.24034083735459,
+          "omega_or_velocity": [
+            -239.49211596143567,
+            49.39827970736283,
+            211.4713963712366
+          ],
+          "RMS": 73.67138031719476,
+          "available": true
+        },
+        "translation": {
+          "rank": 2,
+          "condition": 2.5375988400981466,
+          "omega_or_velocity": [
+            217.13538448488572,
+            1062.1273401114504
+          ],
+          "RMS": 439.76034104140354,
+          "available": true
+        }
+      }
+    ],
+    "global_training_sufficient": false,
+    "rotation_chain_allowed": false,
+    "translation_LOPO_rank2": true,
+    "equations": "r*(s cross [nx,ny,0]) dot omega = vn; n dot u = vn; fixed B1 cdot0",
+    "fit_boundary": "All and only T-qualified rows; no H/future/permutation filtering; diagnostic LS may be reported below gate, no rotation claim or CMax."
+  }
+]

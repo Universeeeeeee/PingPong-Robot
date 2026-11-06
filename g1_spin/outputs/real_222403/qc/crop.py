@@ -1,0 +1,11 @@
+exec(open('/Users/vae/Projects/PingPongRobot/g1_spin/outputs/real_222403/qc/survey.py').read().split('counts=np.bincount')[0])
+fig,axs=plt.subplots(3,4,figsize=(14,10))
+for ax,t in zip(axs.flat,[.1,1,2,3,4,6,8,10,12,14,15,16.5]):
+ a,b=np.searchsorted(ts,[int(t*1e6),int((t+.05)*1e6)])
+ s=e[a:b];c=np.bincount(s['y'].astype(int)*w+s['x'],minlength=h*w).reshape(h,w)
+ ax.imshow(np.log1p(c),cmap='magma',vmin=0,vmax=3,extent=[0,w,h,0]);ax.set_xlim(475,640);ax.set_ylim(280,150);ax.set_title(f'{t:.2f}–{t+.05:.2f} s');ax.grid(alpha=.2)
+fig.tight_layout();fig.savefig(out/'ball_crops.png',dpi=150)
+mask=(e['x']>=490)&(e['x']<625)&(e['y']>=165)&(e['y']<250)
+rates=np.bincount(ts[mask]//100000,minlength=int(ts[-1]//100000)+1)
+print('ball rectangle fraction',mask.mean());print('ball per-second',np.bincount(ts[mask]//1000000).tolist())
+np.savetxt(out/'ball_rectangle_rate_100ms.csv',np.column_stack((np.arange(len(rates))*.1,rates)),delimiter=',',header='relative_s,events',comments='')

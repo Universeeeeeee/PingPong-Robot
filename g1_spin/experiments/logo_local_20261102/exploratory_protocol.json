@@ -1,0 +1,29 @@
+{
+  "selection": "Post-survey exploratory addition; does not replace the nine B0 primary samples or provide an independent test",
+  "segment_s": [11.70, 11.80],
+  "durations_ms": [5, 2],
+  "seeds": {"L": [582, 212], "A1": [533, 192], "A2": [523, 238]},
+  "semantics": {
+    "L": "Human irregular-logo CANDIDATE under user appearance hint; overlap and projection alternatives not excluded",
+    "A1": "Human round/ellipse candidate, not a verified physical Marker identity",
+    "A2": "Human round/partial-arc candidate near lower truncation, not a verified physical Marker identity"
+  },
+  "seeds_frozen_before_tracking": true,
+  "matching": "Unmodified B0 patch, appearance-template updates, matching and rejection gates",
+  "normal_tracking": "Only frame10 reference to last frame, forward in time; 5ms frame10 means reference 11.750-11.755s, 2ms frame25 means 11.750-11.752s",
+  "reference_windows_differ": true,
+  "joint_comparison": {
+    "groups": [["L"], ["L", "A1"], ["L", "A1", "A2"]],
+    "availability_gate": "All specified independent patch anchors valid; no averaging, common 2D displacement assumption, or filling L from auxiliaries",
+    "auxiliary_geometry_gate": "L patch anchor valid and every specified auxiliary anchor valid AND at least one of its original B0 circle/ellipse gates valid",
+    "primary_geometry_gate": "Not required for L: noncircular candidate shape is not a circle/ellipse center model",
+    "interpretation": "Additional joint observations and possible coverage loss only; no automatic improvement in L matching or semantic/axis accuracy"
+  },
+  "primary_conditional_comparisons": [
+    {"segment": "early_turn", "primary": "F2", "primary_level": "ambiguous assumed-irregular candidate, NOT confirmed logo", "auxiliaries": ["F1", "F3"]},
+    {"segment": "middle", "primary": "F3", "primary_level": "ambiguous thin-arc assumed-irregular candidate, NOT confirmed logo", "auxiliaries": ["F1", "F2"]}
+  ],
+  "fixed_template_or_subpixel_changes": false,
+  "retry_after_loss": false,
+  "no_parameter_or_seed_retuning_after_outcome": true
+}
