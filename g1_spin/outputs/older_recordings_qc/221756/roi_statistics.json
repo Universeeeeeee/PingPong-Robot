@@ -1,0 +1,74 @@
+[
+  {
+    "time_s": 0.3,
+    "ball_box_events": 12487,
+    "global_events": 41321,
+    "ball_box_fraction": 0.3021950098013117
+  },
+  {
+    "time_s": 3.4899365454545457,
+    "ball_box_events": 10122,
+    "global_events": 42178,
+    "ball_box_fraction": 0.23998292948930722
+  },
+  {
+    "time_s": 6.6798730909090915,
+    "ball_box_events": 9929,
+    "global_events": 40049,
+    "ball_box_fraction": 0.24792129641189542
+  },
+  {
+    "time_s": 9.869809636363637,
+    "ball_box_events": 8371,
+    "global_events": 69225,
+    "ball_box_fraction": 0.12092452148790177
+  },
+  {
+    "time_s": 13.059746181818184,
+    "ball_box_events": 8145,
+    "global_events": 40235,
+    "ball_box_fraction": 0.20243569031937367
+  },
+  {
+    "time_s": 16.24968272727273,
+    "ball_box_events": 9274,
+    "global_events": 43577,
+    "ball_box_fraction": 0.21281868875783097
+  },
+  {
+    "time_s": 19.439619272727274,
+    "ball_box_events": 3744,
+    "global_events": 12036,
+    "ball_box_fraction": 0.31106679960119643
+  },
+  {
+    "time_s": 22.62955581818182,
+    "ball_box_events": 5515,
+    "global_events": 12599,
+    "ball_box_fraction": 0.437733153424875
+  },
+  {
+    "time_s": 25.819492363636368,
+    "ball_box_events": 3298,
+    "global_events": 10397,
+    "ball_box_fraction": 0.3172068866019044
+  },
+  {
+    "time_s": 29.009428909090914,
+    "ball_box_events": 2095,
+    "global_events": 8769,
+    "ball_box_fraction": 0.23890979587182118
+  },
+  {
+    "time_s": 32.19936545454546,
+    "ball_box_events": 1469,
+    "global_events": 8192,
+    "ball_box_fraction": 0.1793212890625
+  },
+  {
+    "time_s": 35.389302,
+    "ball_box_events": 115,
+    "global_events": 6274,
+    "ball_box_fraction": 0.018329614281160343
+  }
+]

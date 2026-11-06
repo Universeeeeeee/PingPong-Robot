@@ -1,0 +1,16 @@
+{
+  "rotation": {
+    "observations": 707,
+    "accepted": 377,
+    "first_accepted_s": 0.06499999999999999,
+    "radius_px": 60.0,
+    "note": "candidate geometry only, no independent center truth"
+  },
+  "control": {
+    "observations": 1169,
+    "accepted": 651,
+    "first_accepted_s": 3.7149999999999994,
+    "radius_px": 60.0,
+    "note": "candidate geometry only, no independent center truth"
+  }
+}

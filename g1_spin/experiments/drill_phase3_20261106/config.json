@@ -1,0 +1,106 @@
+[
+  {
+    "run": 4,
+    "block_s": 4.4,
+    "seed": [
+      620,
+      308
+    ],
+    "radius_px": 65,
+    "sector_deg": [
+      30,
+      90
+    ]
+  },
+  {
+    "run": 4,
+    "block_s": 5.4,
+    "seed": [
+      708,
+      286
+    ],
+    "radius_px": 63,
+    "sector_deg": [
+      45,
+      105
+    ]
+  },
+  {
+    "run": 4,
+    "block_s": 6.4,
+    "seed": [
+      800,
+      387
+    ],
+    "radius_px": 61,
+    "sector_deg": [
+      116,
+      176
+    ]
+  },
+  {
+    "run": 4,
+    "block_s": 7.4,
+    "seed": [
+      697,
+      399
+    ],
+    "radius_px": 80,
+    "sector_deg": [
+      60,
+      120
+    ]
+  },
+  {
+    "run": 4,
+    "block_s": 8.4,
+    "seed": [
+      667,
+      242
+    ],
+    "radius_px": 77,
+    "sector_deg": [
+      65,
+      125
+    ]
+  },
+  {
+    "run": 5,
+    "block_s": 8.0,
+    "seed": [
+      1005,
+      283
+    ],
+    "radius_px": 60,
+    "sector_deg": [
+      60,
+      120
+    ]
+  },
+  {
+    "run": 5,
+    "block_s": 9.5,
+    "seed": [
+      383,
+      295
+    ],
+    "radius_px": 60,
+    "sector_deg": [
+      60,
+      120
+    ]
+  },
+  {
+    "run": 5,
+    "block_s": 11.0,
+    "seed": [
+      995,
+      293
+    ],
+    "radius_px": 60,
+    "sector_deg": [
+      60,
+      120
+    ]
+  }
+]

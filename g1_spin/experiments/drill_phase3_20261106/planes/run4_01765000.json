@@ -1,0 +1,12 @@
+{
+  "accepted_planes": 0,
+  "seeds_attempted": 300,
+  "failures": {
+    "too_few_neighbors": 21,
+    "plane_residual_or_rank": 279
+  },
+  "extraction_s": 0.01437079207971692,
+  "input_hash": "3e11a8f846bfba203f8237a18e49f46408ed0f1ba7b6bb1717a844023f15c285",
+  "sphere_hash": "5b0238069dfa41db96fa2f1ee36d4ed6422a52812ec20959d9ff5b6d51710456",
+  "plane_hash": "98d891d041d12397fc06e68e6edafd8c803231e9afe241630833bb4a70162aec"
+}

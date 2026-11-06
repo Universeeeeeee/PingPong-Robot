@@ -1,0 +1,34 @@
+{
+  "python": "3.12.16 (main, Oct 26 2026, 13:59:40) [Clang 23.1.3 ]",
+  "executable": "/Users/vae/Projects/PingPongRobot/g1_spin/.venv/bin/python",
+  "platform": "macOS-26.4-arm64-arm-64bit",
+  "numpy": "1.26.4",
+  "scipy": "1.15.3",
+  "matplotlib": "3.10.8",
+  "git_head": "6590a30a39931ca0bdbbe1152de520deb15af8d9",
+  "source_sha256": {
+    "g1_spin/experiments/translation_compensation_20261102/run.py": "71d0d7ce41ed1217e0c0d4d9fc5e855b31095763af27a9a98f5ad7e6db680b93",
+    "g1_spin/experiments/translation_compensation_20261102/translation.py": "ea13caff91210457331d3d47a165229d0b219eed10ae73930fc941bc70bdce9c",
+    "g1_spin/experiments/translation_compensation_20261102/test_translation.py": "9870ff26c866d422b8b9192b79dce29fb184b3fd7aa55186af37baf24afe3635",
+    "g1_spin/src/g1_spin/synthetic.py": "a800f7b4d7cbf474c4bef6a098321856c1481b3e92925a42c671582d311d23d6",
+    "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+    "g1_spin/src/g1_spin/events.py": "68f2997783e819d6b2b2c0701d9c625877edb26d9de02e8283300ecb48179cd5"
+  },
+  "synthetic_input_sha256": "7816ae30076b023c0d4f3f6c872aa9caaef9b9bcae6a5917bfccc6f4fb79c667",
+  "synthetic_parameters": {
+    "rpm": 1000.0,
+    "axis": [
+      0.30942637387763805,
+      0.7219948723811553,
+      0.6188527477552761
+    ],
+    "duration_s": 0.04,
+    "sample_hz": 3000,
+    "seed": 0,
+    "radius_px": 100.0,
+    "center_px": [
+      128.0,
+      128.0
+    ]
+  }
+}

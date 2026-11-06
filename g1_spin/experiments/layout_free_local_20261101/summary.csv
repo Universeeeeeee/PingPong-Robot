@@ -1,0 +1,10 @@
+segment,variant,evaluation_ms,frames,valid_including_manual_seed,first_rejected_frame,rejection_reason,not_attempted_after_loss,max_accepted_deviation_from_baseline,min_accepted_distance_to_copy_anchor,copy_anchor_attraction_count,total_added_events,total_removed_events,changed_occupancy_min,changed_occupancy_max
+early_turn,occlusion,50,10,3,13.0,rejected_forward_backward,6,0.0,nan,0,0.0,791.0,225.0,264.0
+early_turn,clone_plus8,50,10,10,nan,none,0,1.4142135623730951,7.0,0,791.0,0.0,201.0,227.0
+early_turn,outside_context_delete,50,10,10,nan,none,0,0.0,nan,0,0.0,13016.0,345.0,646.0
+middle,occlusion,50,10,3,13.0,rejected_insufficient_pixels+score+ambiguous_peak+forward_backward,6,0.0,nan,0,0.0,418.0,111.0,151.0
+middle,clone_plus8,50,10,6,16.0,rejected_ambiguous_peak,3,1.4142135623730951,7.0710678118654755,0,418.0,0.0,110.0,147.0
+middle,outside_context_delete,50,10,10,nan,none,0,0.0,nan,0,0.0,16068.0,453.0,529.0
+late,occlusion,50,10,3,13.0,rejected_insufficient_pixels,6,0.0,nan,0,0.0,323.0,96.0,116.0
+late,clone_plus8,50,10,10,nan,none,0,1.4142135623730951,8.0,0,323.0,0.0,94.0,114.0
+late,outside_context_delete,50,10,10,nan,none,0,0.0,nan,0,0.0,14146.0,258.0,283.0

@@ -1,0 +1,319 @@
+{
+  "expected_rows": 630,
+  "actual_rows": 630,
+  "all_unique": true,
+  "run_and_protocol_hash_match": true,
+  "nonreconnection_verified_all_36_directions": true,
+  "independently_rescored_pairs": 29,
+  "valid_geometry_gate_rows_checked": 332,
+  "semantic_checks": {
+    "integer_translation_recovered": [
+      4,
+      3
+    ],
+    "duplicated_patch_rejected_by_margin": true,
+    "empty_patch_rejected": true,
+    "reappearance_after_loss_not_reconnected": true
+  },
+  "status_counts": {
+    "not_attempted_after_loss": 250,
+    "rejected_ambiguous_peak+forward_backward": 3,
+    "accepted": 345,
+    "manual_seed": 18,
+    "rejected_forward_backward": 6,
+    "rejected_ambiguous_peak": 8
+  },
+  "independent_score_checks": [
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "rejected_forward_backward",
+      "frame": 39.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "rejected_forward_backward",
+      "frame": 7.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "rejected_ambiguous_peak",
+      "frame": 26.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 5,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 5,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 5,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 5,
+      "feature": "F3",
+      "status": "rejected_ambiguous_peak",
+      "frame": 13.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "rejected_ambiguous_peak",
+      "frame": 29.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "rejected_ambiguous_peak",
+      "frame": 15.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "rejected_ambiguous_peak",
+      "frame": 21.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 5,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 5,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 5,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 5,
+      "feature": "F3",
+      "status": "rejected_ambiguous_peak",
+      "frame": 19.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F1",
+      "status": "rejected_forward_backward",
+      "frame": 27.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F2",
+      "status": "rejected_ambiguous_peak",
+      "frame": 27.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 26.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 2,
+      "feature": "F3",
+      "status": "rejected_forward_backward",
+      "frame": 24.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 5,
+      "feature": "F1",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 5,
+      "feature": "F2",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 5,
+      "feature": "F3",
+      "status": "accepted",
+      "frame": 9.0,
+      "absolute_time_mask": true,
+      "direct_cosine_matches": true,
+      "all_displacements_and_second_peak_match": true
+    }
+  ],
+  "summarize_sha256": "c124dfa16aa8de58270a49ec4de053419f68ec4136ced1a39a1be159c877ddfa"
+}

@@ -1,0 +1,1895 @@
+[
+  {
+    "center_s": 1.0,
+    "start_s": 0,
+    "end_s": 2.0,
+    "recurrence": [
+      {
+        "lag_s": 0.314,
+        "frequency_hz": 3.1847133757961785,
+        "correlation": 0.2954355562961691
+      },
+      {
+        "lag_s": 0.63,
+        "frequency_hz": 1.5873015873015872,
+        "correlation": 0.19720271244431206
+      },
+      {
+        "lag_s": 0.27,
+        "frequency_hz": 3.7037037037037033,
+        "correlation": 0.15607889977027728
+      },
+      {
+        "lag_s": 0.07200000000000001,
+        "frequency_hz": 13.888888888888888,
+        "correlation": 0.12412161981282634
+      },
+      {
+        "lag_s": 0.546,
+        "frequency_hz": 1.8315018315018314,
+        "correlation": 0.1087668135795983
+      },
+      {
+        "lag_s": 0.178,
+        "frequency_hz": 5.617977528089888,
+        "correlation": 0.04712618557364214
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 16.0,
+        "power": 209.22259439928575
+      },
+      {
+        "frequency_hz": 10.0,
+        "power": 191.60239703340235
+      },
+      {
+        "frequency_hz": 3.5,
+        "power": 173.41692202328005
+      },
+      {
+        "frequency_hz": 13.0,
+        "power": 164.6084703751784
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 105.38660184547291
+      },
+      {
+        "frequency_hz": 18.5,
+        "power": 98.39712373622285
+      }
+    ],
+    "mean_roi_rate": 196692.5,
+    "mean_bg_rate": 2458.0
+  },
+  {
+    "center_s": 1.5,
+    "start_s": 0.5,
+    "end_s": 2.5,
+    "recurrence": [
+      {
+        "lag_s": 0.31,
+        "frequency_hz": 3.2258064516129035,
+        "correlation": 0.43545596433327777
+      },
+      {
+        "lag_s": 0.624,
+        "frequency_hz": 1.6025641025641026,
+        "correlation": 0.21951630855296062
+      },
+      {
+        "lag_s": 0.934,
+        "frequency_hz": 1.070663811563169,
+        "correlation": 0.20937780946277101
+      },
+      {
+        "lag_s": 0.074,
+        "frequency_hz": 13.513513513513514,
+        "correlation": 0.1469409339866022
+      },
+      {
+        "lag_s": 0.23800000000000002,
+        "frequency_hz": 4.201680672268907,
+        "correlation": 0.09741780385977733
+      },
+      {
+        "lag_s": 0.17400000000000002,
+        "frequency_hz": 5.747126436781609,
+        "correlation": 0.0809428227602324
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 16.0,
+        "power": 408.9641118644941
+      },
+      {
+        "frequency_hz": 13.0,
+        "power": 322.9934187062329
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 308.01716739636504
+      },
+      {
+        "frequency_hz": 22.5,
+        "power": 169.52882133525762
+      },
+      {
+        "frequency_hz": 3.0,
+        "power": 166.42357339372035
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 150.28359156959993
+      }
+    ],
+    "mean_roi_rate": 195028.0,
+    "mean_bg_rate": 2509.5
+  },
+  {
+    "center_s": 2.0,
+    "start_s": 1.0,
+    "end_s": 3.0,
+    "recurrence": [
+      {
+        "lag_s": 0.31,
+        "frequency_hz": 3.2258064516129035,
+        "correlation": 0.46965918813830526
+      },
+      {
+        "lag_s": 0.616,
+        "frequency_hz": 1.6233766233766234,
+        "correlation": 0.22992420930293198
+      },
+      {
+        "lag_s": 0.926,
+        "frequency_hz": 1.079913606911447,
+        "correlation": 0.2048398658124056
+      },
+      {
+        "lag_s": 0.076,
+        "frequency_hz": 13.157894736842106,
+        "correlation": 0.1366462573665428
+      },
+      {
+        "lag_s": 0.23800000000000002,
+        "frequency_hz": 4.201680672268907,
+        "correlation": 0.13479537219200263
+      },
+      {
+        "lag_s": 0.134,
+        "frequency_hz": 7.462686567164178,
+        "correlation": 0.12617712644601134
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 13.0,
+        "power": 436.89308554864175
+      },
+      {
+        "frequency_hz": 16.5,
+        "power": 371.6005222189973
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 198.01633078747687
+      },
+      {
+        "frequency_hz": 23.0,
+        "power": 174.9430417971759
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 171.33921909215834
+      },
+      {
+        "frequency_hz": 29.5,
+        "power": 125.35477346410467
+      }
+    ],
+    "mean_roi_rate": 187870.0,
+    "mean_bg_rate": 2570.0
+  },
+  {
+    "center_s": 2.5,
+    "start_s": 1.5,
+    "end_s": 3.5,
+    "recurrence": [
+      {
+        "lag_s": 0.306,
+        "frequency_hz": 3.2679738562091503,
+        "correlation": 0.35452734396372265
+      },
+      {
+        "lag_s": 0.612,
+        "frequency_hz": 1.6339869281045751,
+        "correlation": 0.2350707400260468
+      },
+      {
+        "lag_s": 0.132,
+        "frequency_hz": 7.575757575757575,
+        "correlation": 0.1519927438328378
+      },
+      {
+        "lag_s": 0.232,
+        "frequency_hz": 4.310344827586206,
+        "correlation": 0.1170244339203751
+      },
+      {
+        "lag_s": 0.918,
+        "frequency_hz": 1.0893246187363834,
+        "correlation": 0.1016507797367609
+      },
+      {
+        "lag_s": 0.076,
+        "frequency_hz": 13.157894736842106,
+        "correlation": 0.09198611030733864
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 13.0,
+        "power": 290.8259253804898
+      },
+      {
+        "frequency_hz": 16.5,
+        "power": 268.32165399527685
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 178.424481559246
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 130.24122143250437
+      },
+      {
+        "frequency_hz": 23.0,
+        "power": 124.43044764424697
+      },
+      {
+        "frequency_hz": 29.5,
+        "power": 88.34954515949178
+      }
+    ],
+    "mean_roi_rate": 186019.0,
+    "mean_bg_rate": 2656.5
+  },
+  {
+    "center_s": 3.0,
+    "start_s": 2.0,
+    "end_s": 4.0,
+    "recurrence": [
+      {
+        "lag_s": 0.356,
+        "frequency_hz": 2.808988764044944,
+        "correlation": 0.25233786889366433
+      },
+      {
+        "lag_s": 0.23600000000000002,
+        "frequency_hz": 4.23728813559322,
+        "correlation": 0.142368040658984
+      },
+      {
+        "lag_s": 0.126,
+        "frequency_hz": 7.936507936507937,
+        "correlation": 0.13703647727520388
+      },
+      {
+        "lag_s": 0.47200000000000003,
+        "frequency_hz": 2.11864406779661,
+        "correlation": 0.10948462206366043
+      },
+      {
+        "lag_s": 0.8300000000000001,
+        "frequency_hz": 1.2048192771084336,
+        "correlation": 0.10005836138948382
+      },
+      {
+        "lag_s": 0.304,
+        "frequency_hz": 3.2894736842105265,
+        "correlation": 0.08900702392635643
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 8.5,
+        "power": 264.4550545873567
+      },
+      {
+        "frequency_hz": 14.5,
+        "power": 195.11544931170664
+      },
+      {
+        "frequency_hz": 17.0,
+        "power": 167.23504126543241
+      },
+      {
+        "frequency_hz": 6.0,
+        "power": 144.98891573711302
+      },
+      {
+        "frequency_hz": 12.0,
+        "power": 127.42761481985244
+      },
+      {
+        "frequency_hz": 19.5,
+        "power": 99.09196680872412
+      }
+    ],
+    "mean_roi_rate": 182471.5,
+    "mean_bg_rate": 2700.5
+  },
+  {
+    "center_s": 3.5,
+    "start_s": 2.5,
+    "end_s": 4.5,
+    "recurrence": [
+      {
+        "lag_s": 0.358,
+        "frequency_hz": 2.793296089385475,
+        "correlation": 0.37797025816912844
+      },
+      {
+        "lag_s": 0.12,
+        "frequency_hz": 8.333333333333334,
+        "correlation": 0.1429227156902824
+      },
+      {
+        "lag_s": 0.834,
+        "frequency_hz": 1.1990407673860912,
+        "correlation": 0.14241446342340386
+      },
+      {
+        "lag_s": 0.72,
+        "frequency_hz": 1.3888888888888888,
+        "correlation": 0.13621615358223968
+      },
+      {
+        "lag_s": 0.47800000000000004,
+        "frequency_hz": 2.092050209205021,
+        "correlation": 0.10336226376116153
+      },
+      {
+        "lag_s": 0.24,
+        "frequency_hz": 4.166666666666667,
+        "correlation": 0.09764953290184
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 8.5,
+        "power": 414.8444013907241
+      },
+      {
+        "frequency_hz": 17.0,
+        "power": 281.8865845616214
+      },
+      {
+        "frequency_hz": 11.0,
+        "power": 176.4696689400155
+      },
+      {
+        "frequency_hz": 14.0,
+        "power": 152.36316758746554
+      },
+      {
+        "frequency_hz": 19.5,
+        "power": 137.45488349690686
+      },
+      {
+        "frequency_hz": 25.0,
+        "power": 100.66284166063409
+      }
+    ],
+    "mean_roi_rate": 174298.0,
+    "mean_bg_rate": 2796.0
+  },
+  {
+    "center_s": 4.0,
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "recurrence": [
+      {
+        "lag_s": 0.358,
+        "frequency_hz": 2.793296089385475,
+        "correlation": 0.5091131719265398
+      },
+      {
+        "lag_s": 0.722,
+        "frequency_hz": 1.3850415512465375,
+        "correlation": 0.24530330403644846
+      },
+      {
+        "lag_s": 0.902,
+        "frequency_hz": 1.1086474501108647,
+        "correlation": 0.15161646370758733
+      },
+      {
+        "lag_s": 0.12,
+        "frequency_hz": 8.333333333333334,
+        "correlation": 0.14745009523809063
+      },
+      {
+        "lag_s": 0.178,
+        "frequency_hz": 5.617977528089888,
+        "correlation": 0.14608395883851127
+      },
+      {
+        "lag_s": 0.838,
+        "frequency_hz": 1.1933174224343677,
+        "correlation": 0.1413662292218929
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 16.5,
+        "power": 402.6315881742756
+      },
+      {
+        "frequency_hz": 11.0,
+        "power": 271.25718812753564
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 262.510782755407
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 245.3519687800558
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 111.03825857552759
+      },
+      {
+        "frequency_hz": 14.0,
+        "power": 105.75436015042428
+      }
+    ],
+    "mean_roi_rate": 180294.5,
+    "mean_bg_rate": 2864.0
+  },
+  {
+    "center_s": 4.5,
+    "start_s": 3.5,
+    "end_s": 5.5,
+    "recurrence": [
+      {
+        "lag_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "correlation": 0.39457920095465315
+      },
+      {
+        "lag_s": 0.724,
+        "frequency_hz": 1.3812154696132597,
+        "correlation": 0.22252228745359018
+      },
+      {
+        "lag_s": 0.902,
+        "frequency_hz": 1.1086474501108647,
+        "correlation": 0.22169203469015014
+      },
+      {
+        "lag_s": 0.18,
+        "frequency_hz": 5.555555555555555,
+        "correlation": 0.17999833909439755
+      },
+      {
+        "lag_s": 0.542,
+        "frequency_hz": 1.8450184501845017,
+        "correlation": 0.1630071849587807
+      },
+      {
+        "lag_s": 0.12,
+        "frequency_hz": 8.333333333333334,
+        "correlation": 0.14563290389479747
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 16.5,
+        "power": 439.2826587505025
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 371.3366678800978
+      },
+      {
+        "frequency_hz": 11.0,
+        "power": 279.4494121132401
+      },
+      {
+        "frequency_hz": 14.0,
+        "power": 141.1680417800733
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 129.72975937100097
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 98.75515741512828
+      }
+    ],
+    "mean_roi_rate": 174840.5,
+    "mean_bg_rate": 2922.5
+  },
+  {
+    "center_s": 5.0,
+    "start_s": 4.0,
+    "end_s": 6.0,
+    "recurrence": [
+      {
+        "lag_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "correlation": 0.2945142581685191
+      },
+      {
+        "lag_s": 0.9,
+        "frequency_hz": 1.1111111111111112,
+        "correlation": 0.14228208866643183
+      },
+      {
+        "lag_s": 0.178,
+        "frequency_hz": 5.617977528089888,
+        "correlation": 0.13978781847222563
+      },
+      {
+        "lag_s": 0.538,
+        "frequency_hz": 1.858736059479554,
+        "correlation": 0.13377776763467414
+      },
+      {
+        "lag_s": 0.068,
+        "frequency_hz": 14.705882352941176,
+        "correlation": 0.11922745464079762
+      },
+      {
+        "lag_s": 0.424,
+        "frequency_hz": 2.358490566037736,
+        "correlation": 0.10725094078649199
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 16.5,
+        "power": 300.09656366395143
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 178.78351242164263
+      },
+      {
+        "frequency_hz": 14.5,
+        "power": 172.2993843689364
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 164.849320448227
+      },
+      {
+        "frequency_hz": 11.0,
+        "power": 136.59390612446424
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 130.34086322390962
+      }
+    ],
+    "mean_roi_rate": 174294.5,
+    "mean_bg_rate": 2933.0
+  },
+  {
+    "center_s": 5.5,
+    "start_s": 4.5,
+    "end_s": 6.5,
+    "recurrence": [
+      {
+        "lag_s": 0.432,
+        "frequency_hz": 2.314814814814815,
+        "correlation": 0.29361249121956456
+      },
+      {
+        "lag_s": 0.07200000000000001,
+        "frequency_hz": 13.888888888888888,
+        "correlation": 0.17010644323480784
+      },
+      {
+        "lag_s": 0.36,
+        "frequency_hz": 2.7777777777777777,
+        "correlation": 0.16608855434602818
+      },
+      {
+        "lag_s": 0.14400000000000002,
+        "frequency_hz": 6.944444444444444,
+        "correlation": 0.13927305916519783
+      },
+      {
+        "lag_s": 0.29,
+        "frequency_hz": 3.4482758620689657,
+        "correlation": 0.09617697767732988
+      },
+      {
+        "lag_s": 0.87,
+        "frequency_hz": 1.1494252873563218,
+        "correlation": 0.07882343830633953
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 13.5,
+        "power": 295.6077112900053
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 241.19357935138808
+      },
+      {
+        "frequency_hz": 11.5,
+        "power": 132.0227747168692
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 125.40642870501671
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 107.73956173625078
+      },
+      {
+        "frequency_hz": 4.5,
+        "power": 85.65679746777154
+      }
+    ],
+    "mean_roi_rate": 175468.5,
+    "mean_bg_rate": 2925.0
+  },
+  {
+    "center_s": 6.0,
+    "start_s": 5.0,
+    "end_s": 7.0,
+    "recurrence": [
+      {
+        "lag_s": 0.43,
+        "frequency_hz": 2.3255813953488373,
+        "correlation": 0.4210423660679267
+      },
+      {
+        "lag_s": 0.858,
+        "frequency_hz": 1.1655011655011656,
+        "correlation": 0.28657573961375293
+      },
+      {
+        "lag_s": 0.146,
+        "frequency_hz": 6.849315068493151,
+        "correlation": 0.21602418622047562
+      },
+      {
+        "lag_s": 0.074,
+        "frequency_hz": 13.513513513513514,
+        "correlation": 0.2067675477266446
+      },
+      {
+        "lag_s": 0.28400000000000003,
+        "frequency_hz": 3.52112676056338,
+        "correlation": 0.15429043863140787
+      },
+      {
+        "lag_s": 0.5760000000000001,
+        "frequency_hz": 1.736111111111111,
+        "correlation": 0.07012978223275648
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 14.0,
+        "power": 489.755852880362
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 289.3175498561497
+      },
+      {
+        "frequency_hz": 11.5,
+        "power": 226.33287936023862
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 149.75249632678435
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 123.28769050708418
+      },
+      {
+        "frequency_hz": 4.5,
+        "power": 106.81364892669775
+      }
+    ],
+    "mean_roi_rate": 174320.5,
+    "mean_bg_rate": 2881.0
+  },
+  {
+    "center_s": 6.5,
+    "start_s": 5.5,
+    "end_s": 7.5,
+    "recurrence": [
+      {
+        "lag_s": 0.43,
+        "frequency_hz": 2.3255813953488373,
+        "correlation": 0.35526027454221765
+      },
+      {
+        "lag_s": 0.858,
+        "frequency_hz": 1.1655011655011656,
+        "correlation": 0.2782847162270072
+      },
+      {
+        "lag_s": 0.148,
+        "frequency_hz": 6.756756756756757,
+        "correlation": 0.18023359654726173
+      },
+      {
+        "lag_s": 0.078,
+        "frequency_hz": 12.820512820512821,
+        "correlation": 0.15584378335207935
+      },
+      {
+        "lag_s": 0.28600000000000003,
+        "frequency_hz": 3.4965034965034962,
+        "correlation": 0.1136686615424563
+      },
+      {
+        "lag_s": 0.71,
+        "frequency_hz": 1.4084507042253522,
+        "correlation": 0.08328040815158058
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 14.0,
+        "power": 478.0025812284117
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 280.0578721918887
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 187.2901164097642
+      },
+      {
+        "frequency_hz": 11.5,
+        "power": 186.50433268054783
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 112.92060477106173
+      },
+      {
+        "frequency_hz": 4.5,
+        "power": 106.09560005147094
+      }
+    ],
+    "mean_roi_rate": 173136.0,
+    "mean_bg_rate": 2878.0
+  },
+  {
+    "center_s": 7.0,
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "recurrence": [
+      {
+        "lag_s": 0.496,
+        "frequency_hz": 2.0161290322580645,
+        "correlation": 0.36135070860507285
+      },
+      {
+        "lag_s": 0.422,
+        "frequency_hz": 2.3696682464454977,
+        "correlation": 0.20339779919377823
+      },
+      {
+        "lag_s": 0.082,
+        "frequency_hz": 12.195121951219512,
+        "correlation": 0.15108857742330473
+      },
+      {
+        "lag_s": 0.15,
+        "frequency_hz": 6.666666666666667,
+        "correlation": 0.1427520749762605
+      },
+      {
+        "lag_s": 0.96,
+        "frequency_hz": 1.0416666666666667,
+        "correlation": 0.09592423089504867
+      },
+      {
+        "lag_s": 0.872,
+        "frequency_hz": 1.146788990825688,
+        "correlation": 0.07033894463805643
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 6.5,
+        "power": 209.80207371224037
+      },
+      {
+        "frequency_hz": 12.5,
+        "power": 208.2858238792425
+      },
+      {
+        "frequency_hz": 11.5,
+        "power": 186.19529814496022
+      },
+      {
+        "frequency_hz": 10.0,
+        "power": 141.3788160598886
+      },
+      {
+        "frequency_hz": 8.5,
+        "power": 113.0714282583827
+      },
+      {
+        "frequency_hz": 2.0,
+        "power": 111.45426876862467
+      }
+    ],
+    "mean_roi_rate": 171106.0,
+    "mean_bg_rate": 2846.5
+  },
+  {
+    "center_s": 7.5,
+    "start_s": 6.5,
+    "end_s": 8.5,
+    "recurrence": [
+      {
+        "lag_s": 0.498,
+        "frequency_hz": 2.0080321285140563,
+        "correlation": 0.367704200703861
+      },
+      {
+        "lag_s": 0.088,
+        "frequency_hz": 11.363636363636365,
+        "correlation": 0.13271886435623975
+      },
+      {
+        "lag_s": 0.17200000000000001,
+        "frequency_hz": 5.813953488372093,
+        "correlation": 0.1300521714394657
+      },
+      {
+        "lag_s": 0.676,
+        "frequency_hz": 1.4792899408284024,
+        "correlation": 0.09818921625042047
+      },
+      {
+        "lag_s": 0.926,
+        "frequency_hz": 1.079913606911447,
+        "correlation": 0.08698244584857046
+      },
+      {
+        "lag_s": 0.334,
+        "frequency_hz": 2.994011976047904,
+        "correlation": 0.08537318940127836
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 12.0,
+        "power": 574.8895194029232
+      },
+      {
+        "frequency_hz": 6.0,
+        "power": 329.99159401883037
+      },
+      {
+        "frequency_hz": 10.0,
+        "power": 229.54268334405833
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 223.5197081155673
+      },
+      {
+        "frequency_hz": 2.0,
+        "power": 150.93875813479954
+      },
+      {
+        "frequency_hz": 4.0,
+        "power": 140.21955814807419
+      }
+    ],
+    "mean_roi_rate": 161557.5,
+    "mean_bg_rate": 2807.5
+  },
+  {
+    "center_s": 8.0,
+    "start_s": 7.0,
+    "end_s": 9.0,
+    "recurrence": [
+      {
+        "lag_s": 0.498,
+        "frequency_hz": 2.0080321285140563,
+        "correlation": 0.28070242452337
+      },
+      {
+        "lag_s": 0.5760000000000001,
+        "frequency_hz": 1.736111111111111,
+        "correlation": 0.16602693407141847
+      },
+      {
+        "lag_s": 0.176,
+        "frequency_hz": 5.6818181818181825,
+        "correlation": 0.14154181998981494
+      },
+      {
+        "lag_s": 0.092,
+        "frequency_hz": 10.869565217391305,
+        "correlation": 0.13961611031743867
+      },
+      {
+        "lag_s": 0.674,
+        "frequency_hz": 1.4836795252225519,
+        "correlation": 0.1071267900007083
+      },
+      {
+        "lag_s": 0.33,
+        "frequency_hz": 3.0303030303030303,
+        "correlation": 0.05851433044252305
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 11.5,
+        "power": 405.0370438367492
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 232.43617385817873
+      },
+      {
+        "frequency_hz": 10.0,
+        "power": 182.42765476515933
+      },
+      {
+        "frequency_hz": 7.5,
+        "power": 176.904132219218
+      },
+      {
+        "frequency_hz": 2.0,
+        "power": 138.916235714685
+      },
+      {
+        "frequency_hz": 4.0,
+        "power": 131.26380223407637
+      }
+    ],
+    "mean_roi_rate": 146639.0,
+    "mean_bg_rate": 2838.5
+  },
+  {
+    "center_s": 8.5,
+    "start_s": 7.5,
+    "end_s": 9.5,
+    "recurrence": [
+      {
+        "lag_s": 0.59,
+        "frequency_hz": 1.6949152542372883,
+        "correlation": 0.25576208246427673
+      },
+      {
+        "lag_s": 0.098,
+        "frequency_hz": 10.204081632653061,
+        "correlation": 0.13247226099889356
+      },
+      {
+        "lag_s": 0.188,
+        "frequency_hz": 5.319148936170213,
+        "correlation": 0.12527542214714618
+      },
+      {
+        "lag_s": 0.976,
+        "frequency_hz": 1.0245901639344261,
+        "correlation": 0.08145991242370698
+      },
+      {
+        "lag_s": 0.868,
+        "frequency_hz": 1.1520737327188941,
+        "correlation": 0.0704067195064651
+      },
+      {
+        "lag_s": 0.782,
+        "frequency_hz": 1.278772378516624,
+        "correlation": 0.07005800437361172
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 10.5,
+        "power": 461.98024053244416
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 253.90516893035533
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 242.01379038020195
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 183.24288052223392
+      },
+      {
+        "frequency_hz": 3.5,
+        "power": 157.14564503218037
+      },
+      {
+        "frequency_hz": 2.0,
+        "power": 110.5009685188731
+      }
+    ],
+    "mean_roi_rate": 140752.0,
+    "mean_bg_rate": 2848.0
+  },
+  {
+    "center_s": 9.0,
+    "start_s": 8.0,
+    "end_s": 10.0,
+    "recurrence": [
+      {
+        "lag_s": 0.59,
+        "frequency_hz": 1.6949152542372883,
+        "correlation": 0.533257920157433
+      },
+      {
+        "lag_s": 0.106,
+        "frequency_hz": 9.433962264150944,
+        "correlation": 0.1604347145591074
+      },
+      {
+        "lag_s": 0.98,
+        "frequency_hz": 1.0204081632653061,
+        "correlation": 0.1256777208922501
+      },
+      {
+        "lag_s": 0.196,
+        "frequency_hz": 5.1020408163265305,
+        "correlation": 0.12385667903643585
+      },
+      {
+        "lag_s": 0.29,
+        "frequency_hz": 3.4482758620689657,
+        "correlation": 0.11452400066061749
+      },
+      {
+        "lag_s": 0.39,
+        "frequency_hz": 2.564102564102564,
+        "correlation": 0.1070328948697195
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 10.0,
+        "power": 563.8875026172842
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 264.897543834476
+      },
+      {
+        "frequency_hz": 5.0,
+        "power": 250.78849913816964
+      },
+      {
+        "frequency_hz": 8.5,
+        "power": 225.99550204423338
+      },
+      {
+        "frequency_hz": 3.5,
+        "power": 167.7831598328493
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 101.74216597629328
+      }
+    ],
+    "mean_roi_rate": 136959.0,
+    "mean_bg_rate": 2917.5
+  },
+  {
+    "center_s": 9.5,
+    "start_s": 8.5,
+    "end_s": 10.5,
+    "recurrence": [
+      {
+        "lag_s": 0.596,
+        "frequency_hz": 1.6778523489932886,
+        "correlation": 0.44060516605091565
+      },
+      {
+        "lag_s": 0.112,
+        "frequency_hz": 8.928571428571429,
+        "correlation": 0.149483907861311
+      },
+      {
+        "lag_s": 0.302,
+        "frequency_hz": 3.3112582781456954,
+        "correlation": 0.10880835396921622
+      },
+      {
+        "lag_s": 0.798,
+        "frequency_hz": 1.2531328320802004,
+        "correlation": 0.10011059477840091
+      },
+      {
+        "lag_s": 0.20400000000000001,
+        "frequency_hz": 4.901960784313725,
+        "correlation": 0.096452910219554
+      },
+      {
+        "lag_s": 0.492,
+        "frequency_hz": 2.032520325203252,
+        "correlation": 0.057572958395631396
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 10.0,
+        "power": 479.50510683185144
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 265.38303677839224
+      },
+      {
+        "frequency_hz": 8.5,
+        "power": 244.517533503787
+      },
+      {
+        "frequency_hz": 5.0,
+        "power": 226.61043110473557
+      },
+      {
+        "frequency_hz": 3.5,
+        "power": 138.00458398824523
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 134.3139788761026
+      }
+    ],
+    "mean_roi_rate": 135539.0,
+    "mean_bg_rate": 2935.0
+  },
+  {
+    "center_s": 10.0,
+    "start_s": 9.0,
+    "end_s": 11.0,
+    "recurrence": [
+      {
+        "lag_s": 0.678,
+        "frequency_hz": 1.4749262536873156,
+        "correlation": 0.2912531999671285
+      },
+      {
+        "lag_s": 0.11800000000000001,
+        "frequency_hz": 8.47457627118644,
+        "correlation": 0.1213905904243263
+      },
+      {
+        "lag_s": 0.808,
+        "frequency_hz": 1.2376237623762376,
+        "correlation": 0.10111289352555139
+      },
+      {
+        "lag_s": 0.212,
+        "frequency_hz": 4.716981132075472,
+        "correlation": 0.0549047177621266
+      },
+      {
+        "lag_s": 0.924,
+        "frequency_hz": 1.0822510822510822,
+        "correlation": 0.04034229955978696
+      },
+      {
+        "lag_s": 0.308,
+        "frequency_hz": 3.2467532467532467,
+        "correlation": 0.008703194260690847
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 9.0,
+        "power": 338.8778720638536
+      },
+      {
+        "frequency_hz": 7.5,
+        "power": 226.90680740443702
+      },
+      {
+        "frequency_hz": 6.0,
+        "power": 221.1024062631577
+      },
+      {
+        "frequency_hz": 4.5,
+        "power": 214.03355447351876
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 160.05195361005323
+      },
+      {
+        "frequency_hz": 3.0,
+        "power": 140.29755179667984
+      }
+    ],
+    "mean_roi_rate": 130491.00000000001,
+    "mean_bg_rate": 2883.5
+  },
+  {
+    "center_s": 10.5,
+    "start_s": 9.5,
+    "end_s": 11.5,
+    "recurrence": [
+      {
+        "lag_s": 0.676,
+        "frequency_hz": 1.4792899408284024,
+        "correlation": 0.2673490870083805
+      },
+      {
+        "lag_s": 0.128,
+        "frequency_hz": 7.8125,
+        "correlation": 0.12864923583539986
+      },
+      {
+        "lag_s": 0.748,
+        "frequency_hz": 1.3368983957219251,
+        "correlation": 0.0748293604352598
+      },
+      {
+        "lag_s": 0.55,
+        "frequency_hz": 1.8181818181818181,
+        "correlation": 0.04720035694402826
+      },
+      {
+        "lag_s": 0.228,
+        "frequency_hz": 4.385964912280701,
+        "correlation": 0.03140709394336859
+      },
+      {
+        "lag_s": 0.876,
+        "frequency_hz": 1.1415525114155252,
+        "correlation": 0.031292257220006676
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 9.0,
+        "power": 321.60459773070653
+      },
+      {
+        "frequency_hz": 6.0,
+        "power": 311.25023224373746
+      },
+      {
+        "frequency_hz": 7.5,
+        "power": 261.11558369570844
+      },
+      {
+        "frequency_hz": 4.5,
+        "power": 229.0997974316895
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 180.73448382461777
+      },
+      {
+        "frequency_hz": 3.0,
+        "power": 121.93503984004442
+      }
+    ],
+    "mean_roi_rate": 121634.5,
+    "mean_bg_rate": 2837.0
+  },
+  {
+    "center_s": 11.0,
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "recurrence": [
+      {
+        "lag_s": 0.842,
+        "frequency_hz": 1.187648456057007,
+        "correlation": 0.12071473036715727
+      },
+      {
+        "lag_s": 0.736,
+        "frequency_hz": 1.358695652173913,
+        "correlation": 0.1084566321324039
+      },
+      {
+        "lag_s": 0.686,
+        "frequency_hz": 1.4577259475218658,
+        "correlation": 0.0998017557554146
+      },
+      {
+        "lag_s": 0.138,
+        "frequency_hz": 7.246376811594202,
+        "correlation": 0.07796321073495183
+      },
+      {
+        "lag_s": 0.552,
+        "frequency_hz": 1.8115942028985506,
+        "correlation": 0.03703222616853026
+      },
+      {
+        "lag_s": 0.242,
+        "frequency_hz": 4.132231404958678,
+        "correlation": 0.017338435920551596
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 6.5,
+        "power": 345.19767390606836
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 309.01141884079993
+      },
+      {
+        "frequency_hz": 5.0,
+        "power": 248.54432906875965
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 210.98402625838722
+      },
+      {
+        "frequency_hz": 4.0,
+        "power": 205.53943958701046
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 121.67494258331739
+      }
+    ],
+    "mean_roi_rate": 114289.5,
+    "mean_bg_rate": 2866.0
+  },
+  {
+    "center_s": 11.5,
+    "start_s": 10.5,
+    "end_s": 12.5,
+    "recurrence": [
+      {
+        "lag_s": 0.91,
+        "frequency_hz": 1.0989010989010988,
+        "correlation": 0.21315828913927098
+      },
+      {
+        "lag_s": 0.746,
+        "frequency_hz": 1.3404825737265416,
+        "correlation": 0.18593282486967233
+      },
+      {
+        "lag_s": 0.162,
+        "frequency_hz": 6.172839506172839,
+        "correlation": 0.10200575648902209
+      },
+      {
+        "lag_s": 0.61,
+        "frequency_hz": 1.639344262295082,
+        "correlation": 0.014919917299041154
+      },
+      {
+        "lag_s": 0.47000000000000003,
+        "frequency_hz": 2.127659574468085,
+        "correlation": -0.021783910078389045
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 5.0,
+        "power": 358.86097916326355
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 329.7503078022854
+      },
+      {
+        "frequency_hz": 1.0,
+        "power": 252.73734167904104
+      },
+      {
+        "frequency_hz": 3.5,
+        "power": 202.955716129657
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 135.12475667247196
+      },
+      {
+        "frequency_hz": 2.5,
+        "power": 126.88806994369878
+      }
+    ],
+    "mean_roi_rate": 99072.0,
+    "mean_bg_rate": 2913.0
+  },
+  {
+    "center_s": 12.0,
+    "start_s": 11.0,
+    "end_s": 13.0,
+    "recurrence": [
+      {
+        "lag_s": 0.9,
+        "frequency_hz": 1.1111111111111112,
+        "correlation": 0.21649811627302937
+      },
+      {
+        "lag_s": 0.742,
+        "frequency_hz": 1.3477088948787062,
+        "correlation": 0.10424256047312816
+      },
+      {
+        "lag_s": 0.17,
+        "frequency_hz": 5.88235294117647,
+        "correlation": 0.04878839839019011
+      },
+      {
+        "lag_s": 0.554,
+        "frequency_hz": 1.8050541516245486,
+        "correlation": -0.009671107399484312
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 5.5,
+        "power": 427.2372922025877
+      },
+      {
+        "frequency_hz": 1.0,
+        "power": 303.8098916099791
+      },
+      {
+        "frequency_hz": 6.5,
+        "power": 299.9790710580422
+      },
+      {
+        "frequency_hz": 4.0,
+        "power": 279.5940849966282
+      },
+      {
+        "frequency_hz": 3.0,
+        "power": 176.98182726522725
+      },
+      {
+        "frequency_hz": 2.0,
+        "power": 146.14898626196316
+      }
+    ],
+    "mean_roi_rate": 95200.5,
+    "mean_bg_rate": 2973.0
+  },
+  {
+    "center_s": 12.5,
+    "start_s": 11.5,
+    "end_s": 13.5,
+    "recurrence": [
+      {
+        "lag_s": 0.9580000000000001,
+        "frequency_hz": 1.04384133611691,
+        "correlation": 0.23084060715223811
+      },
+      {
+        "lag_s": 0.212,
+        "frequency_hz": 4.716981132075472,
+        "correlation": 0.1036654757130896
+      },
+      {
+        "lag_s": 0.754,
+        "frequency_hz": 1.3262599469496021,
+        "correlation": 0.07665937333562511
+      },
+      {
+        "lag_s": 0.54,
+        "frequency_hz": 1.8518518518518516,
+        "correlation": -0.01630331831582754
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 4.0,
+        "power": 443.77274004079976
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 338.0723623887478
+      },
+      {
+        "frequency_hz": 1.0,
+        "power": 305.46993609725064
+      },
+      {
+        "frequency_hz": 7.5,
+        "power": 186.90733727208652
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 109.37468608658506
+      },
+      {
+        "frequency_hz": 10.5,
+        "power": 94.76368001667736
+      }
+    ],
+    "mean_roi_rate": 85920.5,
+    "mean_bg_rate": 3022.0
+  },
+  {
+    "center_s": 13.0,
+    "start_s": 12.0,
+    "end_s": 14.0,
+    "recurrence": [
+      {
+        "lag_s": 0.232,
+        "frequency_hz": 4.310344827586206,
+        "correlation": 0.07460828850811412
+      },
+      {
+        "lag_s": 0.926,
+        "frequency_hz": 1.079913606911447,
+        "correlation": 0.05509122250186398
+      },
+      {
+        "lag_s": 0.74,
+        "frequency_hz": 1.3513513513513513,
+        "correlation": 0.011102453969655288
+      },
+      {
+        "lag_s": 0.392,
+        "frequency_hz": 2.5510204081632653,
+        "correlation": -0.018785630103955994
+      },
+      {
+        "lag_s": 0.53,
+        "frequency_hz": 1.8867924528301885,
+        "correlation": -0.029614830660846928
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 4.0,
+        "power": 430.2457402543652
+      },
+      {
+        "frequency_hz": 1.0,
+        "power": 296.81359593354784
+      },
+      {
+        "frequency_hz": 8.0,
+        "power": 147.63686900256747
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 122.83173535124324
+      },
+      {
+        "frequency_hz": 13.5,
+        "power": 32.66283527109093
+      },
+      {
+        "frequency_hz": 18.5,
+        "power": 10.001493898076639
+      }
+    ],
+    "mean_roi_rate": 69743.5,
+    "mean_bg_rate": 2993.5
+  },
+  {
+    "center_s": 13.5,
+    "start_s": 12.5,
+    "end_s": 14.5,
+    "recurrence": [
+      {
+        "lag_s": 0.386,
+        "frequency_hz": 2.5906735751295336,
+        "correlation": 0.04548300525382603
+      },
+      {
+        "lag_s": 0.23600000000000002,
+        "frequency_hz": 4.23728813559322,
+        "correlation": 0.025725399063642095
+      },
+      {
+        "lag_s": 0.736,
+        "frequency_hz": 1.358695652173913,
+        "correlation": 0.008879454914506245
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 3.0,
+        "power": 486.3857970074762
+      },
+      {
+        "frequency_hz": 4.0,
+        "power": 439.55317322886714
+      },
+      {
+        "frequency_hz": 7.0,
+        "power": 151.87310032088908
+      },
+      {
+        "frequency_hz": 9.5,
+        "power": 106.6460413120185
+      },
+      {
+        "frequency_hz": 13.5,
+        "power": 26.056114743847616
+      },
+      {
+        "frequency_hz": 18.0,
+        "power": 5.724236813173995
+      }
+    ],
+    "mean_roi_rate": 72046.0,
+    "mean_bg_rate": 3010.5
+  },
+  {
+    "center_s": 14.0,
+    "start_s": 13.0,
+    "end_s": 15.0,
+    "recurrence": [
+      {
+        "lag_s": 0.338,
+        "frequency_hz": 2.9585798816568047,
+        "correlation": 0.10736288175364248
+      },
+      {
+        "lag_s": 0.75,
+        "frequency_hz": 1.3333333333333333,
+        "correlation": -0.005540506462657708
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 2.5,
+        "power": 590.0278018406483
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 201.24241035005974
+      },
+      {
+        "frequency_hz": 9.0,
+        "power": 51.527294494103856
+      },
+      {
+        "frequency_hz": 21.5,
+        "power": 4.382089197091559
+      },
+      {
+        "frequency_hz": 23.5,
+        "power": 3.4634141994660417
+      },
+      {
+        "frequency_hz": 18.0,
+        "power": 3.2629490205505487
+      }
+    ],
+    "mean_roi_rate": 59656.5,
+    "mean_bg_rate": 2987.0
+  },
+  {
+    "center_s": 14.5,
+    "start_s": 13.5,
+    "end_s": 15.5,
+    "recurrence": [
+      {
+        "lag_s": 0.34800000000000003,
+        "frequency_hz": 2.8735632183908044,
+        "correlation": 0.166233172599722
+      },
+      {
+        "lag_s": 0.73,
+        "frequency_hz": 1.36986301369863,
+        "correlation": -0.0015691323029545996
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 3.0,
+        "power": 553.8200634703453
+      },
+      {
+        "frequency_hz": 1.5,
+        "power": 284.68542060365235
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 178.1530336517966
+      },
+      {
+        "frequency_hz": 8.5,
+        "power": 50.56112677585518
+      },
+      {
+        "frequency_hz": 12.0,
+        "power": 14.854400520912966
+      },
+      {
+        "frequency_hz": 20.5,
+        "power": 4.042131752339539
+      }
+    ],
+    "mean_roi_rate": 51504.0,
+    "mean_bg_rate": 2927.0
+  },
+  {
+    "center_s": 15.0,
+    "start_s": 14.0,
+    "end_s": 16.0,
+    "recurrence": [
+      {
+        "lag_s": 0.342,
+        "frequency_hz": 2.923976608187134,
+        "correlation": 0.05428541142642214
+      },
+      {
+        "lag_s": 0.64,
+        "frequency_hz": 1.5625,
+        "correlation": 0.04390038310357885
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 2.5,
+        "power": 613.8087055282458
+      },
+      {
+        "frequency_hz": 5.5,
+        "power": 211.6778608231992
+      },
+      {
+        "frequency_hz": 8.5,
+        "power": 44.94614084181313
+      },
+      {
+        "frequency_hz": 11.5,
+        "power": 9.95313253667225
+      },
+      {
+        "frequency_hz": 17.0,
+        "power": 5.329740558188983
+      },
+      {
+        "frequency_hz": 13.5,
+        "power": 4.872083585185537
+      }
+    ],
+    "mean_roi_rate": 45326.5,
+    "mean_bg_rate": 2922.0
+  },
+  {
+    "center_s": 15.5,
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "recurrence": [
+      {
+        "lag_s": 0.892,
+        "frequency_hz": 1.1210762331838564,
+        "correlation": -0.007742745036271743
+      },
+      {
+        "lag_s": 0.34800000000000003,
+        "frequency_hz": 2.8735632183908044,
+        "correlation": -0.025322355362325053
+      }
+    ],
+    "spectral": [
+      {
+        "frequency_hz": 1.5,
+        "power": 793.5078953692616
+      },
+      {
+        "frequency_hz": 32.5,
+        "power": 6.8402564662586345
+      },
+      {
+        "frequency_hz": 36.5,
+        "power": 6.530508921174517
+      },
+      {
+        "frequency_hz": 29.5,
+        "power": 6.119468337260042
+      },
+      {
+        "frequency_hz": 23.5,
+        "power": 6.096327171516652
+      },
+      {
+        "frequency_hz": 38.5,
+        "power": 6.076710609574096
+      }
+    ],
+    "mean_roi_rate": 28136.0,
+    "mean_bg_rate": 2860.5
+  },
+  {
+    "center_s": 16.0,
+    "start_s": 15.0,
+    "end_s": 17.0,
+    "recurrence": [],
+    "spectral": [
+      {
+        "frequency_hz": 1.0,
+        "power": 962.9150850213177
+      },
+      {
+        "frequency_hz": 37.5,
+        "power": 13.102487624705642
+      },
+      {
+        "frequency_hz": 7.5,
+        "power": 12.591697042712966
+      },
+      {
+        "frequency_hz": 36.0,
+        "power": 12.421213665172436
+      },
+      {
+        "frequency_hz": 39.5,
+        "power": 12.079384157326256
+      },
+      {
+        "frequency_hz": 30.5,
+        "power": 11.999271793385066
+      }
+    ],
+    "mean_roi_rate": 18228.5,
+    "mean_bg_rate": 2806.5
+  },
+  {
+    "center_s": 16.5,
+    "start_s": 15.5,
+    "end_s": 17.5,
+    "recurrence": [],
+    "spectral": [
+      {
+        "frequency_hz": 21.0,
+        "power": 27.466840952055833
+      },
+      {
+        "frequency_hz": 34.0,
+        "power": 27.02843330475313
+      },
+      {
+        "frequency_hz": 24.0,
+        "power": 26.85690184601041
+      },
+      {
+        "frequency_hz": 27.0,
+        "power": 26.557725880062222
+      },
+      {
+        "frequency_hz": 30.5,
+        "power": 26.321191126363555
+      },
+      {
+        "frequency_hz": 35.0,
+        "power": 26.212282320524523
+      }
+    ],
+    "mean_roi_rate": 10855.0,
+    "mean_bg_rate": 2849.5
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "original_B0_files_unchanged": true,
+  "original_L_A1_A2_observations_unchanged": true,
+  "generalized_forward_loop_matches_original_B0_rows": 315,
+  "new_observation_rows_complete": 175,
+  "independent_direct_score_maps": 15,
+  "score_checks": [
+    {
+      "duration_ms": 5,
+      "feature": "L",
+      "frame": 11.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "A1",
+      "frame": 11.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "A1",
+      "frame": 18.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "A2",
+      "frame": 11.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "A2",
+      "frame": 16.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "N1",
+      "frame": 11.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 5,
+      "feature": "N2",
+      "frame": 11.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "L",
+      "frame": 26.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "A1",
+      "frame": 26.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "A1",
+      "frame": 37.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "A2",
+      "frame": 26.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "A2",
+      "frame": 29.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "N1",
+      "frame": 26.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "N2",
+      "frame": 26.0,
+      "score_map_and_second_match": true
+    },
+    {
+      "duration_ms": 2,
+      "feature": "N2",
+      "frame": 32.0,
+      "score_map_and_second_match": true
+    }
+  ],
+  "no_reconnection_all_10_paths": true,
+  "joint_conditions_never_modify_primary": true,
+  "candidate_semantics_validated": false,
+  "post_survey_selection_not_independent_test": true
+}

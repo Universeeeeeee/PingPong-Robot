@@ -1,0 +1,16 @@
+segment,frame,neighbor_local_feature,original_patch_events,after_target_patch_removal_events,retained_fraction,meaning
+early_turn,13,F2,417,417,1.0,patch support only; no physical identity annotation
+early_turn,14,F2,419,419,1.0,patch support only; no physical identity annotation
+early_turn,15,F2,400,400,1.0,patch support only; no physical identity annotation
+middle,13,F2,207,207,1.0,patch support only; no physical identity annotation
+middle,13,F3,51,51,1.0,patch support only; no physical identity annotation
+middle,14,F2,195,195,1.0,patch support only; no physical identity annotation
+middle,14,F3,48,48,1.0,patch support only; no physical identity annotation
+middle,15,F2,191,191,1.0,patch support only; no physical identity annotation
+middle,15,F3,29,29,1.0,patch support only; no physical identity annotation
+late,13,F2,117,117,1.0,patch support only; no physical identity annotation
+late,13,F3,85,85,1.0,patch support only; no physical identity annotation
+late,14,F2,100,100,1.0,patch support only; no physical identity annotation
+late,14,F3,75,75,1.0,patch support only; no physical identity annotation
+late,15,F2,85,85,1.0,patch support only; no physical identity annotation
+late,15,F3,80,80,1.0,patch support only; no physical identity annotation

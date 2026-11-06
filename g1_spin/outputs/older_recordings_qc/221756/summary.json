@@ -1,0 +1,16 @@
+{
+  "events": 34272883,
+  "on": 11680634,
+  "off": 22592249,
+  "first_timestamp_us": 152192400,
+  "last_timestamp_us": 187881702,
+  "duration_us": 35689302,
+  "mean_events_per_second": 960312.5048508934,
+  "timestamp_regressions": 0,
+  "equal_adjacent_timestamps": 16236745,
+  "max_forward_gap_us": 72,
+  "gaps_over_threshold": 0,
+  "gap_threshold_us": 100000,
+  "invalid_events": 0,
+  "note": "Equal timestamps are valid. Gaps do not alone prove packet loss. CD events only; triggers are separate."
+}

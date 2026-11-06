@@ -1,0 +1,74 @@
+{
+  "engineering_parameters": {
+    "smooth_sigma_ms": 50,
+    "peak_prominence_events_per_s": 16000,
+    "min_peak_distance_ms": 180
+  },
+  "peak_times_s": [
+    0.306,
+    0.586,
+    0.874,
+    1.172,
+    1.476,
+    1.792,
+    2.102,
+    2.416,
+    2.736,
+    3.0700000000000003,
+    3.406,
+    3.7680000000000002,
+    4.118,
+    4.498,
+    4.874,
+    5.258,
+    5.662,
+    6.08,
+    6.5120000000000005,
+    6.956,
+    7.456,
+    7.96,
+    8.502,
+    9.074,
+    9.66,
+    10.294,
+    11.006,
+    11.826,
+    12.894,
+    14.280000000000001
+  ],
+  "background_comparisons": [
+    {
+      "start_s": 0,
+      "end_s": 4,
+      "strongest_roi_rate_hz": 3.25,
+      "roi_spectral_power": 8073.013074498716,
+      "background_spectral_power": 0.008838553325819488,
+      "smoothed_rate_correlation": -0.5087639660792296
+    },
+    {
+      "start_s": 4,
+      "end_s": 8,
+      "strongest_roi_rate_hz": 2.0,
+      "roi_spectral_power": 3576.9665269189313,
+      "background_spectral_power": 0.002154336299427592,
+      "smoothed_rate_correlation": 0.12675556435374258
+    },
+    {
+      "start_s": 8,
+      "end_s": 12,
+      "strongest_roi_rate_hz": 1.5,
+      "roi_spectral_power": 4236.8790938717775,
+      "background_spectral_power": 0.015517240677349097,
+      "smoothed_rate_correlation": 0.21811465755802942
+    },
+    {
+      "start_s": 12,
+      "end_s": 16,
+      "strongest_roi_rate_hz": 1.5,
+      "roi_spectral_power": 928.7959095543283,
+      "background_spectral_power": 0.086313704033409,
+      "smoothed_rate_correlation": 0.5649296993573333
+    }
+  ],
+  "caveat": "Peak repetition may be one revolution or harmonics. No independent RPM truth; no 3D axis."
+}

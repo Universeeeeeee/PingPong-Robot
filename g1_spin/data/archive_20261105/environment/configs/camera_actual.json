@@ -1,0 +1,42 @@
+{
+    "AntiFlicker": {
+        "duty_cycle": 50.0,
+        "enable": false,
+        "fliter_mode": "Band cut",
+        "high_frequency": 520,
+        "low_frequency": 50,
+        "start_threshold": 6,
+        "stop_threshold": 4
+    },
+    "Biases": {
+        "bias_diff": 0,
+        "bias_diff_off": 0,
+        "bias_diff_on": 0,
+        "bias_fo": 0,
+        "bias_hpf": 0,
+        "bias_refr": 0
+    },
+    "EventRateControl": {
+        "enable": false,
+        "max_event_rate": 20
+    },
+    "EventTrailFilter": {
+        "enable": false,
+        "threshold": 10,
+        "type": "TRAIL"
+    },
+    "ROI": {
+        "enable": false,
+        "height": 720,
+        "mode": "ROI",
+        "width": 1280,
+        "x": 0,
+        "y": 0
+    },
+    "Sync": {
+        "mode": "STANDALONE"
+    },
+    "TriggerIn": {
+        "enable": true
+    }
+}

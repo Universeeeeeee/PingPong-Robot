@@ -1,0 +1,80 @@
+{
+  "source": "outputs/demo_final/empty/synthetic.npz",
+  "synthetic_truth": {
+    "rpm": 0,
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "model": "idealized_surface_landmarks"
+  },
+  "window_count": 3,
+  "valid_fraction": 0.0,
+  "median_rpm": null,
+  "rpm_std": null,
+  "runtime_s": 0.0005481030002556508,
+  "caveat": "Research demo; idealized synthetic accuracy is not physical G1 accuracy.",
+  "windows": [
+    {
+      "valid": false,
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 0,
+        "outside_roi_fraction": null,
+        "feature_visibility": "not_independently_identified"
+      },
+      "failure_reason": "insufficient_events",
+      "start_us": 0,
+      "end_us": 10000,
+      "raw_events": 0,
+      "effective_events": 0,
+      "runtime_s": 7.811999239493161e-06
+    },
+    {
+      "valid": false,
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 0,
+        "outside_roi_fraction": null,
+        "feature_visibility": "not_independently_identified"
+      },
+      "failure_reason": "insufficient_events",
+      "start_us": 10000,
+      "end_us": 20000,
+      "raw_events": 0,
+      "effective_events": 0,
+      "runtime_s": 5.329000487108715e-06
+    },
+    {
+      "valid": false,
+      "omega_rad_s": null,
+      "axis_camera": null,
+      "spin_rad_s": null,
+      "spin_rps": null,
+      "spin_rpm": null,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 0,
+        "outside_roi_fraction": null,
+        "feature_visibility": "not_independently_identified"
+      },
+      "failure_reason": "insufficient_events",
+      "start_us": 20000,
+      "end_us": 30000,
+      "raw_events": 0,
+      "effective_events": 0,
+      "runtime_s": 4.940999133395962e-06
+    }
+  ]
+}

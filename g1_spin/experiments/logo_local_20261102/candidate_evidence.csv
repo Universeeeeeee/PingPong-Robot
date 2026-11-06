@@ -1,0 +1,15 @@
+segment,feature,human_candidate_level,human_basis,physical_identity_verified,selection,morphology_scope_ms,total_5ms_frames,valid_5ms,circle_gate_valid,ellipse_gate_valid,circle_or_ellipse_gate_valid,median_border_2px_fraction,descriptor_is_not_classifier
+early_turn,F1,round_candidate,双极性圆样边缘可见；27px框截断/内部填充使圆模型支持随时间变化,False,old manually conditioned B0 sample,100,20,20,3,6,6,0.2136777367773678,True
+early_turn,F2,ambiguous,混合多弧、初始主要位于框外；不可由不圆或拟合失败推商标,False,old manually conditioned B0 sample,100,20,20,0,1,1,0.2810953695504974,True
+early_turn,F3,round_partial_candidate,起始圆/椭圆边缘，随后变窄和离开ROI；丢失后不作同一结构解释,False,old manually conditioned B0 sample,100,20,13,5,8,8,0.125,True
+middle,F1,round_candidate,原始圆样边缘连续，部分窗口圆/椭圆模型支持,False,old manually conditioned B0 sample,100,20,20,11,16,16,0.09402286902286902,True
+middle,F2,round_candidate,圆样双极性结构，锚点框常截去一侧；模型少不代表logo,False,old manually conditioned B0 sample,100,20,20,3,3,5,0.129406580493537,True
+middle,F3,ambiguous,薄弧/稀疏极性结构，不能排除斜视圆点或单一边缘,False,old manually conditioned B0 sample,100,20,19,1,5,5,0.1,True
+late,F1,round_candidate,分散的双极性圆/椭圆边缘，多数局部模型gate有效,False,old manually conditioned B0 sample,100,20,20,18,18,19,0.1261148272017837,True
+late,F2,round_candidate,分散圆/椭圆边缘，多数模型gate有效,False,old manually conditioned B0 sample,100,20,20,18,19,19,0.10127442650807136,True
+late,F3,round_partial_candidate,近下方截断的圆/窄弧候选，边界/遮挡风险保留,False,old manually conditioned B0 sample,100,20,20,16,19,19,0.15943200184714845,True
+post_survey_11_75,L,irregular_logo_candidate_UNCONFIRMED,全片survey后选取；多个连续原始块有非单薄弧的多方向细节，符合用户形态提示；邻近圆弧/重叠尚未排除,False,post-survey exploratory; NOT independent test,50,10,10,0,0,0,0.2117344398340249,True
+post_survey_11_75,A1,round_candidate,与L约53px的较远圆弧对照，不称附近,False,post-survey exploratory; NOT independent test,50,10,8,3,7,7,0.08525345622119815,True
+post_survey_11_75,A2,round_partial_candidate,与L约64px的较远窄弧/下方截断对照,False,post-survey exploratory; NOT independent test,50,10,6,0,2,2,0.11838624338624337,True
+post_survey_11_75,N1,round_candidate,与L约23px的附近圆/椭圆候选，27px支持可混入L,False,post-survey exploratory; NOT independent test,50,10,10,0,0,0,0.28441768511861965,True
+post_survey_11_75,N2,round_partial_candidate,与L约26px的附近窄弧候选，可能共享局部事件,False,post-survey exploratory; NOT independent test,50,10,10,0,0,0,0.33739837398373984,True

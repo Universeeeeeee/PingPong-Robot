@@ -1,0 +1,8 @@
+{
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+  "g1_spin/src/g1_spin/optical_flow.py": "26f9d2267eee8adf449f7286fea05c5ab7148c5ab38dbedbbe6a666d59994f5e",
+  "g1_spin/src/g1_spin/events.py": "68f2997783e819d6b2b2c0701d9c625877edb26d9de02e8283300ecb48179cd5",
+  "g1_spin/src/g1_spin/io.py": "e75e5a49af886eae9535d85a2ac5d4cae83f0a0a4476925d54eb077a86dea1a2",
+  "g1_spin/src/g1_spin/cli.py": "e1303b821dc1c8b083e477095a120d2bfb0ba693e0e5430ee3dab1d67543d9d3",
+  "g1_spin/experiments/translation_compensation_20261102/translation.py": "ea13caff91210457331d3d47a165229d0b219eed10ae73930fc941bc70bdce9c"
+}

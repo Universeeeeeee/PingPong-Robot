@@ -1,0 +1,4 @@
+start_us,end_us,raw_events,effective_events,valid,spin_rpm,spin_rps,spin_rad_s,omega_rad_s,axis_camera,failure_reason,runtime_s
+0,10000,0,0,False,,,,,,insufficient_events,7.811999239493161e-06
+10000,20000,0,0,False,,,,,,insufficient_events,5.329000487108715e-06
+20000,30000,0,0,False,,,,,,insufficient_events,4.940999133395962e-06

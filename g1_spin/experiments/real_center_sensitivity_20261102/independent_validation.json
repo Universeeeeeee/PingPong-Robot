@@ -1,0 +1,54 @@
+{
+  "independent_ols_coefficient_max_difference": 5.329070518200751e-13,
+  "windows": [
+    {
+      "window": "early_turn_1.65_1.70",
+      "raw_events": 15389,
+      "common_events": 4533,
+      "optimizer_events": 4533,
+      "reconstructed_ids_exact": true
+    },
+    {
+      "window": "early_turn_1.80_1.85",
+      "raw_events": 18744,
+      "common_events": 6456,
+      "optimizer_events": 5000,
+      "reconstructed_ids_exact": true
+    },
+    {
+      "window": "middle_6.25_6.30",
+      "raw_events": 17969,
+      "common_events": 4520,
+      "optimizer_events": 4520,
+      "reconstructed_ids_exact": true
+    },
+    {
+      "window": "middle_6.40_6.45",
+      "raw_events": 19747,
+      "common_events": 5184,
+      "optimizer_events": 5000,
+      "reconstructed_ids_exact": true
+    },
+    {
+      "window": "late_11.25_11.30",
+      "raw_events": 15487,
+      "common_events": 2525,
+      "optimizer_events": 2525,
+      "reconstructed_ids_exact": true
+    },
+    {
+      "window": "late_11.40_11.45",
+      "raw_events": 15497,
+      "common_events": 1944,
+      "optimizer_events": 1944,
+      "reconstructed_ids_exact": true
+    }
+  ],
+  "absolute_boolean_vs_searchsorted_exact": true,
+  "independently_reconstructed_common_mask_exact": true,
+  "timestamps_polarity_pixels_exact": true,
+  "directed_angle_atan2_vs_arccos_passed": true,
+  "protected_inputs_unchanged": true,
+  "physics_validated": false,
+  "verification_source_sha256": "34ad05bdf97aa61e47a63cee6c815d80da8d5414972c33b939328faf331d9ee0"
+}

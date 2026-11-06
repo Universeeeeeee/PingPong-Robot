@@ -1,0 +1,25 @@
+contourpy==1.3.2
+cycler==0.12.1
+dvsense_driver @ file:///home/pingpong1/g1_spin/wheels/dvsense_driver-1.3.0-cp310-cp310-manylinux_2_28_x86_64.whl
+exceptiongroup==1.3.1
+fonttools==4.65.0
+# Editable install with no version control (g1-spin==0.1.0)
+-e /home/pingpong1/g1_spin/phase1_demo
+iniconfig==2.3.1
+kiwisolver==1.5.1
+matplotlib==3.10.8
+numpy @ file:///home/pingpong1/g1_spin/wheels/numpy-1.26.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+opencv-python-headless @ file:///home/pingpong1/g1_spin/wheels/opencv_python_headless-4.11.0.86-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+packaging==24.2
+pillow==12.3.0
+pluggy==1.7.0
+Pygments==2.21.0
+pyparsing==3.3.3
+pytest==8.4.2
+python-dateutil==3.0.0
+PyYAML==6.0.3
+scipy==1.15.3
+six==1.17.0
+tomli==2.5.0
+typing_extensions==4.16.0
+tzdata==2026.6

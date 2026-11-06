@@ -1,0 +1,114 @@
+{
+  "reviewed_before_spin": true,
+  "selection_basis": "One pre-spin raw survey pass using 1ms/5ms full frames and crops; raw Hough candidates only assisted locating crop priors, not accepted geometry. No spin output consulted.",
+  "raw_hough_scout": "Full-frame r45..95,param2=25; sparse run5 8.1s located with r50..70,param2=12. Final geometry fitter remains phase2 param2=20 and all original gates.",
+  "radii_note": "Run4 observed size changes across dynamic blocks: approximate image radii65,63,61,80,77, fixed within each200ms block. Run5 r60 retained from similar outer contour scale.",
+  "rod_note": "Run4 4.4/5.4 down-right,6.4 down-left,7.4 partly hand-occluded downward,8.4 downward; uncertain/no accepted contour remains missing. Run5 rods downward.",
+  "candidates": [
+    {
+      "run": 4,
+      "block_s": 4.4,
+      "seed": [
+        620,
+        308
+      ],
+      "radius_px": 65,
+      "sector_deg": [
+        30,
+        90
+      ]
+    },
+    {
+      "run": 4,
+      "block_s": 5.4,
+      "seed": [
+        708,
+        286
+      ],
+      "radius_px": 63,
+      "sector_deg": [
+        45,
+        105
+      ]
+    },
+    {
+      "run": 4,
+      "block_s": 6.4,
+      "seed": [
+        800,
+        387
+      ],
+      "radius_px": 61,
+      "sector_deg": [
+        116,
+        176
+      ]
+    },
+    {
+      "run": 4,
+      "block_s": 7.4,
+      "seed": [
+        697,
+        399
+      ],
+      "radius_px": 80,
+      "sector_deg": [
+        60,
+        120
+      ]
+    },
+    {
+      "run": 4,
+      "block_s": 8.4,
+      "seed": [
+        667,
+        242
+      ],
+      "radius_px": 77,
+      "sector_deg": [
+        65,
+        125
+      ]
+    },
+    {
+      "run": 5,
+      "block_s": 8.0,
+      "seed": [
+        1005,
+        283
+      ],
+      "radius_px": 60,
+      "sector_deg": [
+        60,
+        120
+      ]
+    },
+    {
+      "run": 5,
+      "block_s": 9.5,
+      "seed": [
+        383,
+        295
+      ],
+      "radius_px": 60,
+      "sector_deg": [
+        60,
+        120
+      ]
+    },
+    {
+      "run": 5,
+      "block_s": 11.0,
+      "seed": [
+        995,
+        293
+      ],
+      "radius_px": 60,
+      "sector_deg": [
+        60,
+        120
+      ]
+    }
+  ],
+  "decision": "Freeze once now; no geometry change after estimates; all dynamic outputs are total angular motion hypotheses."
+}
