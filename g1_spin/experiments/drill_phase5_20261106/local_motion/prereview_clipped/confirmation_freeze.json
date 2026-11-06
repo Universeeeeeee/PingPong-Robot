@@ -1,0 +1,25 @@
+{
+  "stage": "Astra approved fixed confirmation before opening inputs",
+  "cases": [
+    "run3_01495000",
+    "run4_02495000",
+    "run5_05095000"
+  ],
+  "files": {
+    "confirm_real.py": "2fd6ff3e4996b95b6bd60be538c071069f8b9dcb3fffc2c7e454b26e8c22d271",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "train_real.py": "d55a08f394e66b6f3982055f44e834def0aa6b58c8eb0ca7135311abbe743708",
+    "qualify_training.py": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7",
+    "geometry_path_amendment.json": "22da147f86850be7f76c8da07d815ebd4eace9c5fd7f08efcfe45a9513103549",
+    "evaluate_real.py": "2d365af6890f49afdcee0f4cdde078c1d3d07a75f722ee35a0abd01ab3f2c29d",
+    "real_evaluation_freeze.json": "a20a683c59bf177c319aace1a4b2537974f5886399f7ab7da1991b7eca8a6e15",
+    "real/selection_development.json": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+    "development_selection_freeze.json": "70714285b2ef34013befbc50880f53773ed27aa8995d094adb067927a6ffe708"
+  },
+  "tau_px": 0.5,
+  "bootstrap32": true,
+  "permutation19": true,
+  "selection_cannot_change": true,
+  "no108": true,
+  "stop": "If no>=3patch supported local nonzero or inadequate12obs/4patch/rank3 system, noCMax; old global3px template only diagnostic."
+}

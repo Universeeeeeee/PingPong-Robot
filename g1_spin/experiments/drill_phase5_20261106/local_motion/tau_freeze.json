@@ -1,0 +1,19 @@
+{
+  "stage": "Synthetic metric gate before any new real model results",
+  "tau_px": 0.5,
+  "real_execution_authorized": false,
+  "files": {
+    "protocol_synthetic.md": "26321cea292fecc2b17d5659593596d88f4f6f19fc6a6de0f191d62f4820a414",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "synthetic.py": "7a15dbbf486b3a49286f7dddcd10746eefefd06aee45810cf4e643a9725581d3",
+    "test_models.py": "7588549a05b3fb43d580ae7584119937e290d2bb1656a0a0995dabfc4f600e10",
+    "verify_synthetic.py": "51d52935936d5f936d766f3a2dd3f20eae10589ec0cce6500210afa6ff0a2a1d",
+    "model_verification.json": "790a60a79e6d1748d400f2dddf0277943ebda74ad0d84e08e18dea89f2e6c322",
+    "verification_synthetic.json": "60a84da5ccc3b8240edd2a09fa7af10d3441244c12f0eb9e0264353a7e659ba5",
+    "input_manifest.json": "7380c9b200cdeb2ceb4c346ab11d955c4c1fb687346844fedaecb7f4443aaa3b",
+    "oracle_calibration.json": "c6dba07e5edb3aafc1c87f57e60c329749e1776c42b1ffe7920209ee95989bc4",
+    "oracle_observations.json": "cba7df58bd01eb946844d36a8f0b4e707c2284c8af03fb1c2b99bbbe688f980f",
+    "model_observations.json": "d831f1451c7559c98805c10bf22b863628a1fb72674a78c9e29ae1738cd7673e"
+  },
+  "note": "Final support criteria require distinct pixels; only clean eligible oracle scores set tau. T-only bootstrap/permutation real protocol still separate."
+}

@@ -1,0 +1,703 @@
+[
+  {
+    "scene": "base",
+    "events": 3325,
+    "positive_oracle_calibration": true,
+    "extra_control": false,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          53,
+          35
+        ],
+        "center": [
+          642,
+          426
+        ],
+        "box": [
+          636,
+          420,
+          648,
+          432
+        ],
+        "selection_T_events": 116
+      },
+      {
+        "patch": 1,
+        "cell": [
+          57,
+          34
+        ],
+        "center": [
+          690,
+          414
+        ],
+        "box": [
+          684,
+          408,
+          696,
+          420
+        ],
+        "selection_T_events": 105
+      },
+      {
+        "patch": 2,
+        "cell": [
+          54,
+          36
+        ],
+        "center": [
+          654,
+          438
+        ],
+        "box": [
+          648,
+          432,
+          660,
+          444
+        ],
+        "selection_T_events": 97
+      },
+      {
+        "patch": 3,
+        "cell": [
+          58,
+          33
+        ],
+        "center": [
+          702,
+          402
+        ],
+        "box": [
+          696,
+          396,
+          708,
+          408
+        ],
+        "selection_T_events": 76
+      },
+      {
+        "patch": 4,
+        "cell": [
+          55,
+          24
+        ],
+        "center": [
+          666,
+          294
+        ],
+        "box": [
+          660,
+          288,
+          672,
+          300
+        ],
+        "selection_T_events": 71
+      },
+      {
+        "patch": 5,
+        "cell": [
+          48,
+          32
+        ],
+        "center": [
+          582,
+          390
+        ],
+        "box": [
+          576,
+          384,
+          588,
+          396
+        ],
+        "selection_T_events": 69
+      }
+    ],
+    "events_sha256": "c47c64aeca60b5f7ff9b42c2262e8c73f1b2639f742de2bac7e195dacaa503a6"
+  },
+  {
+    "scene": "reverse",
+    "events": 3325,
+    "positive_oracle_calibration": true,
+    "extra_control": false,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          52,
+          36
+        ],
+        "center": [
+          630,
+          438
+        ],
+        "box": [
+          624,
+          432,
+          636,
+          444
+        ],
+        "selection_T_events": 115
+      },
+      {
+        "patch": 1,
+        "cell": [
+          56,
+          34
+        ],
+        "center": [
+          678,
+          414
+        ],
+        "box": [
+          672,
+          408,
+          684,
+          420
+        ],
+        "selection_T_events": 114
+      },
+      {
+        "patch": 2,
+        "cell": [
+          55,
+          25
+        ],
+        "center": [
+          666,
+          306
+        ],
+        "box": [
+          660,
+          300,
+          672,
+          312
+        ],
+        "selection_T_events": 95
+      },
+      {
+        "patch": 3,
+        "cell": [
+          57,
+          33
+        ],
+        "center": [
+          690,
+          402
+        ],
+        "box": [
+          684,
+          396,
+          696,
+          408
+        ],
+        "selection_T_events": 76
+      },
+      {
+        "patch": 4,
+        "cell": [
+          53,
+          35
+        ],
+        "center": [
+          642,
+          426
+        ],
+        "box": [
+          636,
+          420,
+          648,
+          432
+        ],
+        "selection_T_events": 67
+      },
+      {
+        "patch": 5,
+        "cell": [
+          47,
+          31
+        ],
+        "center": [
+          570,
+          378
+        ],
+        "box": [
+          564,
+          372,
+          576,
+          384
+        ],
+        "selection_T_events": 48
+      }
+    ],
+    "events_sha256": "16ecdab7b903a2b87a6cc7349b18da4c705e8b8c1ae11880fc59476c02eec877"
+  },
+  {
+    "scene": "second",
+    "events": 4755,
+    "positive_oracle_calibration": true,
+    "extra_control": false,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          49,
+          32
+        ],
+        "center": [
+          594,
+          390
+        ],
+        "box": [
+          588,
+          384,
+          600,
+          396
+        ],
+        "selection_T_events": 115
+      },
+      {
+        "patch": 1,
+        "cell": [
+          50,
+          26
+        ],
+        "center": [
+          606,
+          318
+        ],
+        "box": [
+          600,
+          312,
+          612,
+          324
+        ],
+        "selection_T_events": 115
+      },
+      {
+        "patch": 2,
+        "cell": [
+          59,
+          30
+        ],
+        "center": [
+          714,
+          366
+        ],
+        "box": [
+          708,
+          360,
+          720,
+          372
+        ],
+        "selection_T_events": 115
+      },
+      {
+        "patch": 3,
+        "cell": [
+          57,
+          34
+        ],
+        "center": [
+          690,
+          414
+        ],
+        "box": [
+          684,
+          408,
+          696,
+          420
+        ],
+        "selection_T_events": 112
+      },
+      {
+        "patch": 4,
+        "cell": [
+          53,
+          35
+        ],
+        "center": [
+          642,
+          426
+        ],
+        "box": [
+          636,
+          420,
+          648,
+          432
+        ],
+        "selection_T_events": 94
+      },
+      {
+        "patch": 5,
+        "cell": [
+          54,
+          36
+        ],
+        "center": [
+          654,
+          438
+        ],
+        "box": [
+          648,
+          432,
+          660,
+          444
+        ],
+        "selection_T_events": 89
+      }
+    ],
+    "events_sha256": "7d083f0d2e97a8833cb3ebbde6e3c89810c14ce0bc3faa1ec2f14f34a83299df"
+  },
+  {
+    "scene": "translation",
+    "events": 524,
+    "positive_oracle_calibration": true,
+    "extra_control": false,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          53,
+          36
+        ],
+        "center": [
+          642,
+          438
+        ],
+        "box": [
+          636,
+          432,
+          648,
+          444
+        ],
+        "selection_T_events": 29
+      },
+      {
+        "patch": 1,
+        "cell": [
+          55,
+          25
+        ],
+        "center": [
+          666,
+          306
+        ],
+        "box": [
+          660,
+          300,
+          672,
+          312
+        ],
+        "selection_T_events": 29
+      },
+      {
+        "patch": 2,
+        "cell": [
+          54,
+          24
+        ],
+        "center": [
+          654,
+          294
+        ],
+        "box": [
+          648,
+          288,
+          660,
+          300
+        ],
+        "selection_T_events": 25
+      },
+      {
+        "patch": 3,
+        "cell": [
+          57,
+          33
+        ],
+        "center": [
+          690,
+          402
+        ],
+        "box": [
+          684,
+          396,
+          696,
+          408
+        ],
+        "selection_T_events": 23
+      }
+    ],
+    "events_sha256": "85df9777318fbdafee537b2331f65bcabbdf50341e6acfafaa2ae4cf169538cd"
+  },
+  {
+    "scene": "mixed",
+    "events": 3027,
+    "positive_oracle_calibration": true,
+    "extra_control": false,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          53,
+          35
+        ],
+        "center": [
+          642,
+          426
+        ],
+        "box": [
+          636,
+          420,
+          648,
+          432
+        ],
+        "selection_T_events": 116
+      },
+      {
+        "patch": 1,
+        "cell": [
+          54,
+          36
+        ],
+        "center": [
+          654,
+          438
+        ],
+        "box": [
+          648,
+          432,
+          660,
+          444
+        ],
+        "selection_T_events": 103
+      },
+      {
+        "patch": 2,
+        "cell": [
+          57,
+          34
+        ],
+        "center": [
+          690,
+          414
+        ],
+        "box": [
+          684,
+          408,
+          696,
+          420
+        ],
+        "selection_T_events": 101
+      },
+      {
+        "patch": 3,
+        "cell": [
+          48,
+          32
+        ],
+        "center": [
+          582,
+          390
+        ],
+        "box": [
+          576,
+          384,
+          588,
+          396
+        ],
+        "selection_T_events": 79
+      },
+      {
+        "patch": 4,
+        "cell": [
+          59,
+          29
+        ],
+        "center": [
+          714,
+          354
+        ],
+        "box": [
+          708,
+          348,
+          720,
+          360
+        ],
+        "selection_T_events": 58
+      },
+      {
+        "patch": 5,
+        "cell": [
+          58,
+          33
+        ],
+        "center": [
+          702,
+          402
+        ],
+        "box": [
+          696,
+          396,
+          708,
+          408
+        ],
+        "selection_T_events": 57
+      }
+    ],
+    "events_sha256": "22580e965d02bf00fbbd53c6c9c8a1c7b9353fb8476a654b03fe2d41f4408713"
+  },
+  {
+    "scene": "zero",
+    "events": 0,
+    "positive_oracle_calibration": false,
+    "extra_control": false,
+    "patches": [],
+    "events_sha256": "e07bedb7f6ae4765e45a09fabdbd36606bc8ae0ca34c669f7aeacde08f804442"
+  },
+  {
+    "scene": "tail",
+    "events": 9467,
+    "positive_oracle_calibration": false,
+    "extra_control": true,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          54,
+          35
+        ],
+        "center": [
+          654,
+          426
+        ],
+        "box": [
+          648,
+          420,
+          660,
+          432
+        ],
+        "selection_T_events": 333
+      },
+      {
+        "patch": 1,
+        "cell": [
+          57,
+          34
+        ],
+        "center": [
+          690,
+          414
+        ],
+        "box": [
+          684,
+          408,
+          696,
+          420
+        ],
+        "selection_T_events": 266
+      },
+      {
+        "patch": 2,
+        "cell": [
+          53,
+          36
+        ],
+        "center": [
+          642,
+          438
+        ],
+        "box": [
+          636,
+          432,
+          648,
+          444
+        ],
+        "selection_T_events": 230
+      },
+      {
+        "patch": 3,
+        "cell": [
+          58,
+          33
+        ],
+        "center": [
+          702,
+          402
+        ],
+        "box": [
+          696,
+          396,
+          708,
+          408
+        ],
+        "selection_T_events": 228
+      },
+      {
+        "patch": 4,
+        "cell": [
+          55,
+          24
+        ],
+        "center": [
+          666,
+          294
+        ],
+        "box": [
+          660,
+          288,
+          672,
+          300
+        ],
+        "selection_T_events": 209
+      },
+      {
+        "patch": 5,
+        "cell": [
+          48,
+          32
+        ],
+        "center": [
+          582,
+          390
+        ],
+        "box": [
+          576,
+          384,
+          588,
+          396
+        ],
+        "selection_T_events": 202
+      }
+    ],
+    "events_sha256": "a7a73b1396caf0cc9ab51b07e7eaf82f4e4f0969b56160e59843129cdbfa21ce"
+  },
+  {
+    "scene": "flicker_shuffle",
+    "events": 1200,
+    "positive_oracle_calibration": false,
+    "extra_control": true,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          53,
+          30
+        ],
+        "center": [
+          642,
+          366
+        ],
+        "box": [
+          636,
+          360,
+          648,
+          372
+        ],
+        "selection_T_events": 350
+      }
+    ],
+    "events_sha256": "5ae74ed4e51a575a214b61173f14f0ad50a6e37350f217c919e599c90cfff6bd"
+  }
+]

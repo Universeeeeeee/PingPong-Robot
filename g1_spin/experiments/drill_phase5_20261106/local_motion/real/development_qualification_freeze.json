@@ -1,0 +1,14 @@
+{
+  "stage": "T-only fit/qualification/global systems before H/future evaluation",
+  "files": {
+    "real/development_training.json": "1e7948a29f879f18842e85b3ba89cbca416b50840276e5dc8f0dd1e3dd3a6b8e",
+    "real/development_training_freeze.json": "2233d60aa79df501d9b0c9f475a5f492d636ba33a360a9b36df455a8b1d073f7",
+    "qualify_training.py": "182093b0f1859541987ec5f7e195e85525523c9075f3f119a70fcd67a71d9a12",
+    "real/development_training_qualification.json": "102a05554342e03f43df3d0b03dbbfb982c7802965e060bdd253e5469a4c4f8f",
+    "real/development_T_global_systems.json": "fc4f4e99f8d67149eedfe32fdf08b82854952b210a28b35fd049770e63799326"
+  },
+  "local_rows": 360,
+  "systems": 16,
+  "all_constraints_selected_from_T_only": true,
+  "H_future_never_read": true
+}

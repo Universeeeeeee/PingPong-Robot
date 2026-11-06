@@ -1,0 +1,25 @@
+{
+  "source": "GPT-6 Astra xhigh independent low-level read-only audit relayed by parent",
+  "not_executor_claim": true,
+  "expected": [
+    {
+      "case": "run1_01495000",
+      "exceeds": 256,
+      "total": 269,
+      "median_ratio": 3.91
+    },
+    {
+      "case": "run2_02095000",
+      "exceeds": 173,
+      "total": 186,
+      "median_ratio": 3.34
+    },
+    {
+      "case": "run5_04095000",
+      "exceeds": 71,
+      "total": 95,
+      "median_ratio": 3.53
+    }
+  ],
+  "executor_reconstruction": "old_F0_neighbor_lower_bounds.csv and old_F0_neighbor_lower_bound_summary.json independently reconstruct raw saved neighbor IDs"
+}

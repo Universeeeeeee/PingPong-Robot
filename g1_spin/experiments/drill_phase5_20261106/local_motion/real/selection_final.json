@@ -1,0 +1,14 @@
+{
+  "status": "none",
+  "selected_combination": null,
+  "original_selection_file": "selection_development.json",
+  "original_selection_sha256": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+  "confirmation_result_source": "Corrected full official decoded raw patches; clipped prereview not final evidence",
+  "confirmation_input_correction_sha256": "24d879ba204a73e1352d27c3aabf817c363b8259a38fe60b0b7c26a642e20c2f",
+  "confirmation_local_nonzero_support": 0,
+  "confirmation_stationary_support": 0,
+  "CMax_executed": false,
+  "regression108_executed": false,
+  "run4_exact_results_reused": true,
+  "stop": "Fixed corrected confirmation necessary conditions failed; no reselection or new experiment."
+}

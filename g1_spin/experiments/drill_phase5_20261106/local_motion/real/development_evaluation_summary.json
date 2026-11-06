@@ -1,0 +1,7 @@
+{
+  "records": 360,
+  "nonzero": 0,
+  "stationary": 0,
+  "all_constraints_frozen_before_evaluation": true,
+  "note": "H/future/permutation evaluate evidence only; never remove or refit T constraints before global systems."
+}

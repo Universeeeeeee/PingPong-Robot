@@ -1,0 +1,10 @@
+{
+  "reason": "Correct full-decoded-patch input bug. Rerun run3/run5 only; run4 T and evaluation rows remain byte-equivalent by content.",
+  "old_evaluator_source": "prereview_clipped/evaluate_real.py",
+  "old_source_sha256": "692a58e0fa3c5b165a81d10874ceb755e782573988fb56aa4aff9a1702e094a2",
+  "new_source_sha256": "1b1a1b96cada00a8fc2a5f5dc2c97f64507147b8487ac24b8a16e51d7a33c627",
+  "code_change": "Optional case_filter/configuration parameters only. Same fit/score/threshold/seed code; no run4 re-evaluation.",
+  "correction_sha256": "24d879ba204a73e1352d27c3aabf817c363b8259a38fe60b0b7c26a642e20c2f",
+  "old_confirm_results": "prereview_clipped/",
+  "selection_none_sha256": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422"
+}
