@@ -1,0 +1,572 @@
+[
+  {
+    "scene": "base",
+    "events": 3325,
+    "root_residual_max": 7.216582785565884e-14,
+    "integer_time_rounding_max_s": 4.997429720755148e-07,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 250,
+        "pixel_box": [
+          [
+            685,
+            330
+          ],
+          [
+            730,
+            386
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 1129,
+        "pixel_box": [
+          [
+            614,
+            410
+          ],
+          [
+            667,
+            450
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 374,
+        "pixel_box": [
+          [
+            552,
+            376
+          ],
+          [
+            611,
+            394
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 508,
+        "pixel_box": [
+          [
+            646,
+            282
+          ],
+          [
+            681,
+            323
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 952,
+        "pixel_box": [
+          [
+            664,
+            376
+          ],
+          [
+            706,
+            435
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 112,
+        "pixel_box": [
+          [
+            583,
+            301
+          ],
+          [
+            625,
+            323
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/base.npz",
+    "events_file": "inputs/base.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  },
+  {
+    "scene": "reverse",
+    "events": 3325,
+    "root_residual_max": 7.352433684684714e-14,
+    "integer_time_rounding_max_s": 4.997429720757316e-07,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 250,
+        "pixel_box": [
+          [
+            685,
+            330
+          ],
+          [
+            730,
+            386
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 1129,
+        "pixel_box": [
+          [
+            614,
+            410
+          ],
+          [
+            667,
+            450
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 374,
+        "pixel_box": [
+          [
+            552,
+            376
+          ],
+          [
+            611,
+            394
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 508,
+        "pixel_box": [
+          [
+            646,
+            282
+          ],
+          [
+            681,
+            323
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 952,
+        "pixel_box": [
+          [
+            664,
+            376
+          ],
+          [
+            706,
+            435
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 112,
+        "pixel_box": [
+          [
+            583,
+            301
+          ],
+          [
+            625,
+            323
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/reverse.npz",
+    "events_file": "inputs/reverse.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  },
+  {
+    "scene": "second",
+    "events": 4755,
+    "root_residual_max": 8.192376139940978e-14,
+    "integer_time_rounding_max_s": 4.99934145461664e-07,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 848,
+        "pixel_box": [
+          [
+            682,
+            342
+          ],
+          [
+            736,
+            379
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 781,
+        "pixel_box": [
+          [
+            615,
+            404
+          ],
+          [
+            663,
+            454
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 904,
+        "pixel_box": [
+          [
+            550,
+            365
+          ],
+          [
+            615,
+            402
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 70,
+        "pixel_box": [
+          [
+            637,
+            279
+          ],
+          [
+            693,
+            321
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 1091,
+        "pixel_box": [
+          [
+            666,
+            381
+          ],
+          [
+            708,
+            431
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 1061,
+        "pixel_box": [
+          [
+            575,
+            292
+          ],
+          [
+            636,
+            334
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/second.npz",
+    "events_file": "inputs/second.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  },
+  {
+    "scene": "zero",
+    "events": 0,
+    "root_residual_max": 0.0,
+    "integer_time_rounding_max_s": 0.0,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 0,
+        "pixel_box": [
+          [
+            698,
+            347
+          ],
+          [
+            724,
+            373
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 0,
+        "pixel_box": [
+          [
+            634,
+            416
+          ],
+          [
+            646,
+            447
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 0,
+        "pixel_box": [
+          [
+            564,
+            378
+          ],
+          [
+            597,
+            389
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 0,
+        "pixel_box": [
+          [
+            648,
+            289
+          ],
+          [
+            680,
+            313
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 0,
+        "pixel_box": [
+          [
+            684,
+            390
+          ],
+          [
+            692,
+            425
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 0,
+        "pixel_box": [
+          [
+            586,
+            304
+          ],
+          [
+            622,
+            321
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/zero.npz",
+    "events_file": "inputs/zero.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  },
+  {
+    "scene": "translation",
+    "events": 524,
+    "root_residual_max": 1.158949053723862e-14,
+    "integer_time_rounding_max_s": 4.991933979089577e-07,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 21,
+        "pixel_box": [
+          [
+            696,
+            346
+          ],
+          [
+            726,
+            374
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 128,
+        "pixel_box": [
+          [
+            632,
+            414
+          ],
+          [
+            648,
+            448
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 61,
+        "pixel_box": [
+          [
+            562,
+            377
+          ],
+          [
+            599,
+            391
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 158,
+        "pixel_box": [
+          [
+            646,
+            287
+          ],
+          [
+            682,
+            314
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 113,
+        "pixel_box": [
+          [
+            682,
+            388
+          ],
+          [
+            694,
+            427
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 43,
+        "pixel_box": [
+          [
+            584,
+            302
+          ],
+          [
+            624,
+            323
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/translation.npz",
+    "events_file": "inputs/translation.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  },
+  {
+    "scene": "mixed",
+    "events": 3027,
+    "root_residual_max": 6.53594511861591e-14,
+    "integer_time_rounding_max_s": 4.998598800388596e-07,
+    "edges": [
+      {
+        "edge_id": 0,
+        "events": 265,
+        "pixel_box": [
+          [
+            687,
+            332
+          ],
+          [
+            728,
+            385
+          ]
+        ]
+      },
+      {
+        "edge_id": 1,
+        "events": 999,
+        "pixel_box": [
+          [
+            616,
+            411
+          ],
+          [
+            665,
+            448
+          ]
+        ]
+      },
+      {
+        "edge_id": 2,
+        "events": 423,
+        "pixel_box": [
+          [
+            554,
+            374
+          ],
+          [
+            609,
+            396
+          ]
+        ]
+      },
+      {
+        "edge_id": 3,
+        "events": 358,
+        "pixel_box": [
+          [
+            644,
+            284
+          ],
+          [
+            680,
+            322
+          ]
+        ]
+      },
+      {
+        "edge_id": 4,
+        "events": 844,
+        "pixel_box": [
+          [
+            666,
+            378
+          ],
+          [
+            704,
+            434
+          ]
+        ]
+      },
+      {
+        "edge_id": 5,
+        "events": 138,
+        "pixel_box": [
+          [
+            585,
+            303
+          ],
+          [
+            623,
+            325
+          ]
+        ]
+      }
+    ],
+    "truth_file": "truth/mixed.npz",
+    "events_file": "inputs/mixed.npz",
+    "note": "Geometric material edge crossings only; edge IDs and omega are evaluator truth, never runner inputs."
+  }
+]

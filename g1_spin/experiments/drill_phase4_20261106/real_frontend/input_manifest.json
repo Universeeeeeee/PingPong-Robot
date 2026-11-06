@@ -1,0 +1,417 @@
+[
+  {
+    "case": "run1_01495000",
+    "run": 1,
+    "start_us": 1495000,
+    "partition": "development",
+    "condition": "fixed_vertical",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run1_01495000.npz",
+    "source_input_sha256": "b5887cc147dc40399721a5ed2b225514de3f54f89b262c496523d27adaf0e187",
+    "source_mask": "phase1_B0B1B2_intersection44.4px",
+    "physical_events": 5460,
+    "prior_selected_events": 5000,
+    "input_file": "inputs/run1_01495000.npz",
+    "input_sha256": "d4111bfbd44dcf8c7d0c05ab7e6568dce6364a3313977839acf47fead1f42204",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -44.643539184698966,
+          -73.12327463669703
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase1_20261106/rotation_geometry.csv",
+        "geometry_source_sha256": "b96438500f6c3728e29425e00b276086c7792e018867d43e4b0ae7a0be02e94d",
+        "start_center": [
+          638.7215651022668,
+          356.22272072874
+        ],
+        "end_center": [
+          638.2751297104198,
+          355.49148798237303
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      638.4983474063433,
+      355.85710435555654
+    ],
+    "radius_px": 60.0,
+    "input_hash": "e3b3605e825a0a30ad086ab37338b56b571f2f8bc777be1df94e8bfb6db92edc"
+  },
+  {
+    "case": "run1_01425000",
+    "run": 1,
+    "start_us": 1425000,
+    "partition": "confirmation",
+    "condition": "fixed_vertical",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run1_01425000.npz",
+    "source_input_sha256": "2ee6437cabaa71b6f4f62444f12f487a97eb8d9e3bdfa9a9c969838945bcfc01",
+    "source_mask": "phase1_B0B1B2_intersection44.4px",
+    "physical_events": 2690,
+    "prior_selected_events": 2690,
+    "input_file": "inputs/run1_01425000.npz",
+    "input_sha256": "08c6bfe1326964ff5e8b0dff88e8244291ae36706cecf0f4931517e0cd5ec28b",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -166.03534512370288,
+          343.90036297427287
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase1_20261106/rotation_geometry.csv",
+        "geometry_source_sha256": "b96438500f6c3728e29425e00b276086c7792e018867d43e4b0ae7a0be02e94d",
+        "start_center": [
+          640.5340195730794,
+          354.9701887851264
+        ],
+        "end_center": [
+          638.8736661218423,
+          358.40919241486915
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      639.7038428474609,
+      356.6896905999978
+    ],
+    "radius_px": 60.0,
+    "input_hash": "e96d4aa8209d31c2e0e030bcf2c9b90f6f9a02fc58a1d2506de5c17df687f572"
+  },
+  {
+    "case": "run2_02095000",
+    "run": 2,
+    "start_us": 2095000,
+    "partition": "development",
+    "condition": "camera_facing",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run2_02095000.npz",
+    "source_input_sha256": "c55d6e9e4901a4e2ac220d2a961206efc29b75f2489f423aa5554511b8afd8e5",
+    "source_mask": "phase2_B1B2_intersection0.8r",
+    "physical_events": 2809,
+    "prior_selected_events": 2809,
+    "input_file": "inputs/run2_02095000.npz",
+    "input_sha256": "3fdddf51b5fc105001e3742579a1620498ff7e2eaaa4a20e330f93ad90c5b1cc",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -59.17049688185898,
+          -56.34597370190022
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase2_20261106/geometry.json",
+        "geometry_source_sha256": "67597937bf466c6df885e48d237fabd7cac9bddfa40d04dba1c5ea25bc278c1f",
+        "start_center": [
+          623.3302899789036,
+          487.4276444844603
+        ],
+        "end_center": [
+          622.738585010085,
+          486.8641847474413
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      623.0344374944943,
+      487.1459146159508
+    ],
+    "radius_px": 63.0,
+    "input_hash": "665de374ca8410ec24cdd25b35d37600152c0ad2196bdae47db99b235fd05d14"
+  },
+  {
+    "case": "run3_01495000",
+    "run": 3,
+    "start_us": 1495000,
+    "partition": "confirmation",
+    "condition": "oblique_fixed",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run3_01495000.npz",
+    "source_input_sha256": "5253dc65849171fc1d46e7a95d253328e06124094088ad1256d58c6d288ff8f5",
+    "source_mask": "phase2_B1B2_intersection0.8r",
+    "physical_events": 2627,
+    "prior_selected_events": 2627,
+    "input_file": "inputs/run3_01495000.npz",
+    "input_sha256": "1bf9b75af4a3e9e075b35d9d1882eb437749292693bc919f90d61e094a302f78",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          7.798868616760046,
+          -113.43469193845976
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase2_20261106/geometry.json",
+        "geometry_source_sha256": "67597937bf466c6df885e48d237fabd7cac9bddfa40d04dba1c5ea25bc278c1f",
+        "start_center": [
+          547.3725281037769,
+          429.7391213758064
+        ],
+        "end_center": [
+          547.4505167899445,
+          428.6047744564218
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      547.4115224468607,
+      429.1719479161141
+    ],
+    "radius_px": 59.0,
+    "input_hash": "0dd2013fa02f63d0696fbb5273be5011cb6ac09f9543356f0c7e892f119d2929"
+  },
+  {
+    "case": "run4_02495000",
+    "run": 4,
+    "start_us": 2495000,
+    "partition": "confirmation",
+    "condition": "reverse_fixed",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run4_02495000.npz",
+    "source_input_sha256": "b4d68fbc30ca0e52351361e798555de21987b051530381c9711905b950bc64c2",
+    "source_mask": "phase2_B1B2_intersection0.8r",
+    "physical_events": 4713,
+    "prior_selected_events": 4713,
+    "input_file": "inputs/run4_02495000.npz",
+    "input_sha256": "ef109d5e9c2e3475e0c61351bd6033056c355cf27d7768a3ece22336ab3e7b42",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -150.0714342957508,
+          75.42227427239823
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase2_20261106/geometry.json",
+        "geometry_source_sha256": "67597937bf466c6df885e48d237fabd7cac9bddfa40d04dba1c5ea25bc278c1f",
+        "start_center": [
+          597.4381666744637,
+          353.8297672500654
+        ],
+        "end_center": [
+          595.9374523315062,
+          354.5839899927894
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      596.6878095029849,
+      354.2068786214274
+    ],
+    "radius_px": 60.0,
+    "input_hash": "3051dfabd6a17465ba7d4641c9e14eadf6c679fddd4fa06ac57c61db0b4091f5"
+  },
+  {
+    "case": "run5_04095000",
+    "run": 5,
+    "start_us": 4095000,
+    "partition": "development",
+    "condition": "translation_early",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run5_04095000.npz",
+    "source_input_sha256": "b6c045b373d990b18d7312897178826a893138ea68964ca1f92ba40d569c74a5",
+    "source_mask": "phase1_B0B1B2_intersection44.4px",
+    "physical_events": 762,
+    "prior_selected_events": 762,
+    "input_file": "inputs/run5_04095000.npz",
+    "input_sha256": "8a407517ce2e2a7961902fa55366f4b4b7fa601b888311a5e045f0d425397eea",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -258.06028082257626,
+          -37.23605012561961
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase1_20261106/control_geometry.csv",
+        "geometry_source_sha256": "80c81afe207bebc13c89a554348cedf1ab198cf982b4f2883eedb2cdd1408c81",
+        "start_center": [
+          639.8655177926302,
+          355.3774336028351
+        ],
+        "end_center": [
+          637.2849149844044,
+          355.0050731015789
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      638.5752163885172,
+      355.191253352207
+    ],
+    "radius_px": 60.0,
+    "input_hash": "82e8987c128210a6d4256556cfc6fc1abe35e9ee03d833d61a6e0832faf7d2a7"
+  },
+  {
+    "case": "run5_01525000",
+    "run": 5,
+    "start_us": 1525000,
+    "partition": "development",
+    "condition": "static_prior",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run5_01525000.npz",
+    "source_input_sha256": "8f7d2bbc3a76dbf8424c1978307203ec1c30f5fd5fa9b97ac66d6183fa6a169c",
+    "source_mask": "phase1_B0B1B2_intersection44.4px",
+    "physical_events": 18,
+    "prior_selected_events": 18,
+    "input_file": "inputs/run5_01525000.npz",
+    "input_sha256": "edb2fa1b7302a89e87267da9760d216dc1e97e98125b30df80211f2b96c3f972",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": false,
+        "velocity": null,
+        "failure_reason": "manual_static_prior_has_no_observed_secant",
+        "source": null,
+        "geometry_source_sha256": null,
+        "start_center": null,
+        "end_center": null,
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      714.0,
+      355.0
+    ],
+    "radius_px": 60.0,
+    "input_hash": "5db4eda644d8157c05ce0e5817f349aef1738b069c1312df3f0dfbca5ccee7f5"
+  },
+  {
+    "case": "run5_05095000",
+    "run": 5,
+    "start_us": 5095000,
+    "partition": "confirmation",
+    "condition": "translation_early",
+    "source": "complete_stage3_common_ids",
+    "source_window_input": "g1_spin/experiments/drill_phase3_20261106/windows/run5_05095000.npz",
+    "source_input_sha256": "d113fc4200fc266cab3d6a5ae334e8062c97e23092fff6bada6ad9db98a5b20b",
+    "source_mask": "phase1_B0B1B2_intersection44.4px",
+    "physical_events": 823,
+    "prior_selected_events": 823,
+    "input_file": "inputs/run5_05095000.npz",
+    "input_sha256": "f811659be5aa4f9c5d5ea818ae865169d95a3fb5303fd71237e8fb65e48a4a79",
+    "lanes": [
+      {
+        "name": "B1",
+        "velocity": [
+          0.0,
+          0.0
+        ],
+        "available": true,
+        "source": "stage3 fixed B1",
+        "reference_time_s": 0.005
+      },
+      {
+        "name": "secant",
+        "available": true,
+        "velocity": [
+          -339.6683340624918,
+          65.23986229483398
+        ],
+        "failure_reason": null,
+        "source": "g1_spin/experiments/drill_phase1_20261106/control_geometry.csv",
+        "geometry_source_sha256": "80c81afe207bebc13c89a554348cedf1ab198cf982b4f2883eedb2cdd1408c81",
+        "start_center": [
+          541.8967797991585,
+          269.0904540473138
+        ],
+        "end_center": [
+          538.5000964585336,
+          269.74285267026215
+        ],
+        "reference_time_s": 0.005
+      }
+    ],
+    "center": [
+      540.198438128846,
+      269.416653358788
+    ],
+    "radius_px": 60.0,
+    "input_hash": "de7ee2ba84ed896428d1c73ef46c57fe96aebfd68f5484d923b03a4e84965f73"
+  }
+]

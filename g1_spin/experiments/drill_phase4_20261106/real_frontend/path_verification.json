@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "tests": [
+    "surface_latest_global_then_lane_radius_no_old_fallback",
+    "invalid_source_not_clamped_to_sphere",
+    "backface_predictions_remain_three_pixel_penalties",
+    "two_directions_separate_despite_pooled_zero_median",
+    "translation_only_tie_cannot_support_nonzero_spin",
+    "rejected_LOO_candidate_cannot_count_as_success"
+  ],
+  "scope": "Small deterministic cause-order/prediction path controls; no extra real window or tuned threshold."
+}

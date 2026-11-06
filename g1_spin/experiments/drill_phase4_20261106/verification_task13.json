@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "scenes": 6,
+  "existing_frozen_algorithms_unchanged": true,
+  "stage3_manifest_files_unchanged": 422,
+  "prior_protected_sources_unchanged": 324,
+  "same_integer_events_to_plane_LS_and_search_verified": true,
+  "runner_truth_access": "AST imports and paths checked; evaluator truth never opened by runner",
+  "accepted_local_planes_independently_rebuilt": true,
+  "max_local_coefficient_error": 8.998878031629687e-18,
+  "independent_IWE_score_checks": 101,
+  "max_IWE_score_difference": 4.235164736271502e-22,
+  "three_S_full_chain_gates_passed": true,
+  "checks": [
+    {
+      "scene": "base",
+      "integer_events": 3325,
+      "training_events": 2655,
+      "holdout_events": 670,
+      "planes": 293,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    },
+    {
+      "scene": "reverse",
+      "integer_events": 3325,
+      "training_events": 2655,
+      "holdout_events": 670,
+      "planes": 288,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    },
+    {
+      "scene": "second",
+      "integer_events": 4755,
+      "training_events": 3809,
+      "holdout_events": 946,
+      "planes": 297,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    },
+    {
+      "scene": "zero",
+      "integer_events": 0,
+      "training_events": 0,
+      "holdout_events": 0,
+      "planes": 0,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    },
+    {
+      "scene": "translation",
+      "integer_events": 524,
+      "training_events": 425,
+      "holdout_events": 99,
+      "planes": 0,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    },
+    {
+      "scene": "mixed",
+      "integer_events": 3027,
+      "training_events": 2412,
+      "holdout_events": 615,
+      "planes": 291,
+      "truth_not_read_by_verifier_runner_input_reconstruction": true
+    }
+  ],
+  "scope": "Task1+3 synthetic checkpoint; no real front-end experiments or new real-data accuracy claims."
+}

@@ -1,0 +1,48 @@
+{
+  "status": "no_qualified_frontend",
+  "selected_frontend": null,
+  "retained_baseline": "F0",
+  "diagnostic_frontends": [
+    "F1",
+    "F2"
+  ],
+  "selection_basis": "Both fixed development rotation windows had zero accepted planes for F0/F1/F2 in both geometry lanes. No LS/search/H/V/leave-region rotation qualification could be reached.",
+  "frontend_eligibility": {
+    "F0": {
+      "qualified": false,
+      "development_rotation_searches_available": 0,
+      "accepted_planes_on_rotation_windows": 0
+    },
+    "F1": {
+      "qualified": false,
+      "development_rotation_searches_available": 0,
+      "accepted_planes_on_rotation_windows": 0
+    },
+    "F2": {
+      "qualified": false,
+      "development_rotation_searches_available": 0,
+      "accepted_planes_on_rotation_windows": 0
+    }
+  },
+  "development_windows": [
+    "run1_01495000",
+    "run2_02095000",
+    "run5_04095000",
+    "run5_01525000"
+  ],
+  "confirmation_estimates_executed": false,
+  "regression108_executed": false,
+  "required_next_step": "Astra checkpoint determines fixed confirmation and108 regression scope; do not tune or select by plane count.",
+  "actual_rules": "Protocol top pre-real-review amendment: per-direction thresholds, both zero and translation controls, strict geometry, causal latest, H total coverage.",
+  "source_hashes": {
+    "parameter_freeze.json": "ddcd6b3aca9a4419199e9e7560799f5d6d6439aaf532543481b331304c2d1326",
+    "path_verification.json": "e6a3323294927000b3ab3b0695382da7e1be80c88d50de2a206f0b1fa0db1249",
+    "synthetic/summary.json": "0695dc7afabb78da8e4fc4e60d48b09a3654e7b2805c85dbdd8bdee033e03a88",
+    "synthetic/verification.json": "b420e051fb3ae9fc41bbea2b4f730a65ff773295475866821fd4bccb75e3a62b",
+    "development/summary.json": "2f48de4edd26f2b71a84f8aa5cd843febe9482efdfeed18e06788f84c9fc3d20",
+    "development/verification.json": "1c34036479a2c00e186380d7df8db99052c483c27481e1ffcad23a9751af209d",
+    "development/seed_diagnostics.csv": "97334cb6e06cf3d5766a3febcabaef7395be2e4ec574500adb1b6f9538e5e13e",
+    "development/seed_diagnostics_summary.json": "2e0ecd23d61658d89db7d22966c946d30ea08e2597c6aa500acd58c7b3aa8564",
+    "report_development.md": "d8b071e786f0b7a03881324a4bf5327025609c2eb0469c0fcb5953db572302d2"
+  }
+}

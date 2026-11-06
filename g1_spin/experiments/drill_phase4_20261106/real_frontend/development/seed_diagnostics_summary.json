@@ -1,0 +1,1274 @@
+[
+  {
+    "case": "run1_01495000",
+    "lane": "B1",
+    "frontend": "F0",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "plane_residual_or_rank": 269,
+      "too_few_neighbors": 31
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 28.0,
+      "max": 65.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 28.0,
+      "max": 65.0
+    },
+    "latest_at_least10": 269,
+    "clusters_at_least10": 269,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 28.0,
+      "max": 65.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 290,
+      "2": 4,
+      "None": 6
+    },
+    "final_spatial_ratio": {
+      "n": 294,
+      "min": 0.0,
+      "median": 0.680373886736851,
+      "max": 0.9817818093288071
+    },
+    "final_RMS_us": {
+      "n": 290,
+      "min": 9.124920996000206e-14,
+      "median": 665.9720197653234,
+      "max": 1155.139061150339
+    },
+    "residual_over_gate": {
+      "n": 290,
+      "min": 1.730430549962248e-15,
+      "median": 5.005297734625158,
+      "max": 6.655659421720579
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "lane": "B1",
+    "frontend": "F1",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 124,
+      "plane_residual_or_rank": 176
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 28.0,
+      "max": 65.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 23.0
+    },
+    "latest_at_least10": 176,
+    "clusters_at_least10": 176,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 23.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 18,
+      "3": 277,
+      "2": 5
+    },
+    "final_spatial_ratio": {
+      "n": 282,
+      "min": 0.0,
+      "median": 0.5810550734613436,
+      "max": 1.0
+    },
+    "final_RMS_us": {
+      "n": 277,
+      "min": 1.9166167708542178e-14,
+      "median": 329.11537000175275,
+      "max": 755.5824269539153
+    },
+    "residual_over_gate": {
+      "n": 277,
+      "min": 8.516026121764264e-16,
+      "median": 4.763712855316733,
+      "max": 6.636465062621971
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "lane": "B1",
+    "frontend": "F2",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 227,
+      "plane_residual_or_rank": 73
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 28.0,
+      "max": 65.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 23.0
+    },
+    "latest_at_least10": 176,
+    "clusters_at_least10": 73,
+    "cluster_size": {
+      "n": 300,
+      "min": 0.0,
+      "median": 7.0,
+      "max": 13.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 278,
+      "min": 0.0,
+      "median": 27.5,
+      "max": 50.0
+    },
+    "final_ranks": {
+      "None": 39,
+      "3": 261
+    },
+    "final_spatial_ratio": {
+      "n": 261,
+      "min": 0.12850340241736694,
+      "median": 0.44877297099915026,
+      "max": 0.9710083124552242
+    },
+    "final_RMS_us": {
+      "n": 261,
+      "min": 1.7496237324826084e-14,
+      "median": 145.13781426444714,
+      "max": 670.171530992164
+    },
+    "residual_over_gate": {
+      "n": 261,
+      "min": 8.516026121764264e-16,
+      "median": 2.0559930397609087,
+      "max": 6.589398033341819
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "lane": "secant",
+    "frontend": "F0",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "plane_residual_or_rank": 265,
+      "too_few_neighbors": 35
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 26.0,
+      "max": 61.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 26.0,
+      "max": 61.0
+    },
+    "latest_at_least10": 265,
+    "clusters_at_least10": 265,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 26.0,
+      "max": 61.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 289,
+      "2": 4,
+      "None": 7
+    },
+    "final_spatial_ratio": {
+      "n": 293,
+      "min": 5.9782484710073315e-18,
+      "median": 0.6764907621004455,
+      "max": 0.9971649227113103
+    },
+    "final_RMS_us": {
+      "n": 289,
+      "min": 2.25694679901039e-13,
+      "median": 657.5020656022988,
+      "max": 1152.032942412287
+    },
+    "residual_over_gate": {
+      "n": 289,
+      "min": 2.4624487640171324e-15,
+      "median": 4.981250244472265,
+      "max": 6.664889531046798
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "lane": "secant",
+    "frontend": "F1",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 129,
+      "plane_residual_or_rank": 171
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 26.0,
+      "max": 61.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 22.0
+    },
+    "latest_at_least10": 171,
+    "clusters_at_least10": 171,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 22.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 18,
+      "3": 278,
+      "2": 4
+    },
+    "final_spatial_ratio": {
+      "n": 282,
+      "min": 5.9782484710073315e-18,
+      "median": 0.5521504402951779,
+      "max": 0.9613484835471688
+    },
+    "final_RMS_us": {
+      "n": 278,
+      "min": 2.3473665605268114e-14,
+      "median": 305.58869336061434,
+      "max": 767.9894191966291
+    },
+    "residual_over_gate": {
+      "n": 278,
+      "min": 9.658518691496765e-16,
+      "median": 4.799165980618202,
+      "max": 6.664719297550885
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "lane": "secant",
+    "frontend": "F2",
+    "T": 1709,
+    "H": 1714,
+    "V": 2037,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 252,
+      "plane_residual_or_rank": 48
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 26.0,
+      "max": 61.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 11.0,
+      "max": 22.0
+    },
+    "latest_at_least10": 171,
+    "clusters_at_least10": 48,
+    "cluster_size": {
+      "n": 300,
+      "min": 0.0,
+      "median": 7.0,
+      "max": 12.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 278,
+      "min": 0.0,
+      "median": 20.0,
+      "max": 43.0
+    },
+    "final_ranks": {
+      "None": 44,
+      "3": 256
+    },
+    "final_spatial_ratio": {
+      "n": 256,
+      "min": 0.142777125218083,
+      "median": 0.4462861783570583,
+      "max": 0.9717190732639391
+    },
+    "final_RMS_us": {
+      "n": 256,
+      "min": 2.4743416115267406e-14,
+      "median": 137.55117821277253,
+      "max": 430.41090657507607
+    },
+    "residual_over_gate": {
+      "n": 256,
+      "min": 9.658518691496765e-16,
+      "median": 2.1012712139768848,
+      "max": 6.21827099934099
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "B1",
+    "frontend": "F0",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 114,
+      "plane_residual_or_rank": 186
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 13.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 13.0,
+      "max": 32.0
+    },
+    "latest_at_least10": 186,
+    "clusters_at_least10": 186,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 13.0,
+      "max": 32.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 268,
+      "None": 28,
+      "2": 4
+    },
+    "final_spatial_ratio": {
+      "n": 272,
+      "min": 0.0,
+      "median": 0.5740208976853454,
+      "max": 0.9290123192851663
+    },
+    "final_RMS_us": {
+      "n": 268,
+      "min": 6.25964416140483e-14,
+      "median": 757.6147537966046,
+      "max": 1286.2631170408333
+    },
+    "residual_over_gate": {
+      "n": 268,
+      "min": 9.925230321203122e-16,
+      "median": 5.630183748027784,
+      "max": 6.659758273356744
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "B1",
+    "frontend": "F1",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 254,
+      "plane_residual_or_rank": 46
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 13.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 14.0
+    },
+    "latest_at_least10": 46,
+    "clusters_at_least10": 46,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 14.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 45,
+      "2": 26,
+      "3": 229
+    },
+    "final_spatial_ratio": {
+      "n": 255,
+      "min": 0.0,
+      "median": 0.47636837493599415,
+      "max": 0.9465701394766893
+    },
+    "final_RMS_us": {
+      "n": 229,
+      "min": 0.0,
+      "median": 437.87477458882427,
+      "max": 768.113843653136
+    },
+    "residual_over_gate": {
+      "n": 229,
+      "min": 0.0,
+      "median": 5.459209343328092,
+      "max": 6.626107244347963
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "B1",
+    "frontend": "F2",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 299,
+      "plane_residual_or_rank": 1
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 13.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 14.0
+    },
+    "latest_at_least10": 46,
+    "clusters_at_least10": 1,
+    "cluster_size": {
+      "n": 300,
+      "min": 0.0,
+      "median": 4.0,
+      "max": 10.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 234,
+      "min": 0.0,
+      "median": 7.0,
+      "max": 44.0
+    },
+    "final_ranks": {
+      "None": 96,
+      "3": 204
+    },
+    "final_spatial_ratio": {
+      "n": 204,
+      "min": 0.09193099484696604,
+      "median": 0.3522438416784167,
+      "max": 0.8993192465315433
+    },
+    "final_RMS_us": {
+      "n": 204,
+      "min": 3.2896445006250223e-15,
+      "median": 132.04622114882147,
+      "max": 582.0733947748873
+    },
+    "residual_over_gate": {
+      "n": 204,
+      "min": 1.644822250312511e-16,
+      "median": 1.6441270628416287,
+      "max": 5.58550607435116
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "secant",
+    "frontend": "F0",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 123,
+      "plane_residual_or_rank": 177
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 12.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 12.0,
+      "max": 32.0
+    },
+    "latest_at_least10": 177,
+    "clusters_at_least10": 177,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 12.0,
+      "max": 32.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 265,
+      "None": 28,
+      "2": 7
+    },
+    "final_spatial_ratio": {
+      "n": 272,
+      "min": 3.3192050578108775e-18,
+      "median": 0.5743809819889836,
+      "max": 0.9683564315147413
+    },
+    "final_RMS_us": {
+      "n": 265,
+      "min": 6.639355251516203e-14,
+      "median": 748.4239582317517,
+      "max": 1281.2062325122408
+    },
+    "residual_over_gate": {
+      "n": 265,
+      "min": 2.1435405739428483e-15,
+      "median": 5.611572159150401,
+      "max": 6.65384323442845
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "secant",
+    "frontend": "F1",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 260,
+      "plane_residual_or_rank": 40
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 12.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 13.0
+    },
+    "latest_at_least10": 40,
+    "clusters_at_least10": 40,
+    "cluster_size": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 13.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 47,
+      "2": 23,
+      "3": 230
+    },
+    "final_spatial_ratio": {
+      "n": 253,
+      "min": 2.575586001523761e-18,
+      "median": 0.46410265825642644,
+      "max": 0.9458191106690127
+    },
+    "final_RMS_us": {
+      "n": 230,
+      "min": 4.948683223053481e-14,
+      "median": 416.81084794248886,
+      "max": 735.6537305058828
+    },
+    "residual_over_gate": {
+      "n": 230,
+      "min": 1.555411212974013e-15,
+      "median": 5.316238682649273,
+      "max": 6.636527963754878
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "lane": "secant",
+    "frontend": "F2",
+    "T": 849,
+    "H": 824,
+    "V": 1136,
+    "seeds": 300,
+    "exit_reasons": {
+      "too_few_neighbors": 300
+    },
+    "raw_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 12.0,
+      "max": 32.0
+    },
+    "latest_neighbors": {
+      "n": 300,
+      "min": 1.0,
+      "median": 6.0,
+      "max": 13.0
+    },
+    "latest_at_least10": 40,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 300,
+      "min": 0.0,
+      "median": 4.0,
+      "max": 9.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 230,
+      "min": 0.0,
+      "median": 5.0,
+      "max": 36.0
+    },
+    "final_ranks": {
+      "None": 105,
+      "3": 195
+    },
+    "final_spatial_ratio": {
+      "n": 195,
+      "min": 0.11877228377810363,
+      "median": 0.38071106553892126,
+      "max": 0.9084795219816488
+    },
+    "final_RMS_us": {
+      "n": 195,
+      "min": 0.0,
+      "median": 115.65489348446444,
+      "max": 550.7451708464754
+    },
+    "residual_over_gate": {
+      "n": 195,
+      "min": 0.0,
+      "median": 1.4893902697026087,
+      "max": 5.790349823862783
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "B1",
+    "frontend": "F0",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 146,
+      "plane_residual_or_rank": 95
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_at_least10": 95,
+    "clusters_at_least10": 95,
+    "cluster_size": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 165,
+      "None": 52,
+      "2": 24
+    },
+    "final_spatial_ratio": {
+      "n": 189,
+      "min": 0.0,
+      "median": 0.40851650415555824,
+      "max": 0.8954306749149068
+    },
+    "final_RMS_us": {
+      "n": 165,
+      "min": 9.389466242107245e-14,
+      "median": 756.7492953373593,
+      "max": 1372.8009815210576
+    },
+    "residual_over_gate": {
+      "n": 165,
+      "min": 1.0596204426692327e-15,
+      "median": 5.976457356304662,
+      "max": 6.651168660421917
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "B1",
+    "frontend": "F1",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 234,
+      "plane_residual_or_rank": 7
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 11.0
+    },
+    "latest_at_least10": 7,
+    "clusters_at_least10": 7,
+    "cluster_size": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 11.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 77,
+      "2": 23,
+      "3": 141
+    },
+    "final_spatial_ratio": {
+      "n": 164,
+      "min": 0.0,
+      "median": 0.36352828219354866,
+      "max": 0.9770084209183946
+    },
+    "final_RMS_us": {
+      "n": 141,
+      "min": 0.0,
+      "median": 407.44905307149907,
+      "max": 765.5684557647058
+    },
+    "residual_over_gate": {
+      "n": 141,
+      "min": 0.0,
+      "median": 4.8871391302798175,
+      "max": 6.662736686419112
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "B1",
+    "frontend": "F2",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 241
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 11.0
+    },
+    "latest_at_least10": 7,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 241,
+      "min": 0.0,
+      "median": 3.0,
+      "max": 8.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 141,
+      "min": 0.0,
+      "median": 4.0,
+      "max": 36.0
+    },
+    "final_ranks": {
+      "None": 116,
+      "3": 125
+    },
+    "final_spatial_ratio": {
+      "n": 125,
+      "min": 0.09895888394226275,
+      "median": 0.29403016837599666,
+      "max": 0.918558653543692
+    },
+    "final_RMS_us": {
+      "n": 125,
+      "min": 0.0,
+      "median": 111.31217363792692,
+      "max": 569.7891996168407
+    },
+    "residual_over_gate": {
+      "n": 125,
+      "min": 0.0,
+      "median": 1.3197849659306904,
+      "max": 6.194140526944356
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "secant",
+    "frontend": "F0",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 152,
+      "plane_residual_or_rank": 89
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_at_least10": 89,
+    "clusters_at_least10": 89,
+    "cluster_size": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "3": 167,
+      "None": 55,
+      "2": 19
+    },
+    "final_spatial_ratio": {
+      "n": 186,
+      "min": 1.837652309080432e-18,
+      "median": 0.41286154977565453,
+      "max": 0.9215231303110777
+    },
+    "final_RMS_us": {
+      "n": 167,
+      "min": 1.29045870281265e-13,
+      "median": 770.8968877707393,
+      "max": 1242.8094172223362
+    },
+    "residual_over_gate": {
+      "n": 167,
+      "min": 1.0727481276587264e-15,
+      "median": 5.996884954406783,
+      "max": 6.666591759454188
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "secant",
+    "frontend": "F1",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 237,
+      "plane_residual_or_rank": 4
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 10.0
+    },
+    "latest_at_least10": 4,
+    "clusters_at_least10": 4,
+    "cluster_size": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 10.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {
+      "None": 78,
+      "2": 27,
+      "3": 136
+    },
+    "final_spatial_ratio": {
+      "n": 163,
+      "min": 1.3704330083363078e-18,
+      "median": 0.3581530830486541,
+      "max": 0.9457326958637836
+    },
+    "final_RMS_us": {
+      "n": 136,
+      "min": 1.5649110403512076e-14,
+      "median": 421.12814723136455,
+      "max": 724.6670235792132
+    },
+    "residual_over_gate": {
+      "n": 136,
+      "min": 7.824555201756037e-16,
+      "median": 4.9723881122385185,
+      "max": 6.663395073786419
+    }
+  },
+  {
+    "case": "run5_04095000",
+    "lane": "secant",
+    "frontend": "F2",
+    "T": 241,
+    "H": 229,
+    "V": 292,
+    "seeds": 241,
+    "exit_reasons": {
+      "too_few_neighbors": 241
+    },
+    "raw_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 7.0,
+      "max": 18.0
+    },
+    "latest_neighbors": {
+      "n": 241,
+      "min": 1.0,
+      "median": 3.0,
+      "max": 10.0
+    },
+    "latest_at_least10": 4,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 241,
+      "min": 0.0,
+      "median": 0.0,
+      "max": 8.0
+    },
+    "valid_triplet_hypotheses": {
+      "n": 136,
+      "min": 0.0,
+      "median": 3.0,
+      "max": 26.0
+    },
+    "final_ranks": {
+      "None": 126,
+      "3": 115
+    },
+    "final_spatial_ratio": {
+      "n": 115,
+      "min": 0.10761318663082346,
+      "median": 0.31944161596947895,
+      "max": 0.8619848798977631
+    },
+    "final_RMS_us": {
+      "n": 115,
+      "min": 1.5649110403512076e-14,
+      "median": 55.09608983012472,
+      "max": 511.7875361978808
+    },
+    "residual_over_gate": {
+      "n": 115,
+      "min": 7.824555201756037e-16,
+      "median": 0.8542275802291021,
+      "max": 5.127038448083599
+    }
+  },
+  {
+    "case": "run5_01525000",
+    "lane": "B1",
+    "frontend": "F0",
+    "T": 3,
+    "H": 5,
+    "V": 10,
+    "seeds": 0,
+    "exit_reasons": {},
+    "raw_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_at_least10": 0,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {},
+    "final_spatial_ratio": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_RMS_us": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "residual_over_gate": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    }
+  },
+  {
+    "case": "run5_01525000",
+    "lane": "B1",
+    "frontend": "F1",
+    "T": 3,
+    "H": 5,
+    "V": 10,
+    "seeds": 0,
+    "exit_reasons": {},
+    "raw_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_at_least10": 0,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {},
+    "final_spatial_ratio": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_RMS_us": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "residual_over_gate": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    }
+  },
+  {
+    "case": "run5_01525000",
+    "lane": "B1",
+    "frontend": "F2",
+    "T": 3,
+    "H": 5,
+    "V": 10,
+    "seeds": 0,
+    "exit_reasons": {},
+    "raw_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_neighbors": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "latest_at_least10": 0,
+    "clusters_at_least10": 0,
+    "cluster_size": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "valid_triplet_hypotheses": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_ranks": {},
+    "final_spatial_ratio": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "final_RMS_us": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    },
+    "residual_over_gate": {
+      "n": 0,
+      "min": null,
+      "median": null,
+      "max": null
+    }
+  }
+]
