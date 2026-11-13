@@ -1,0 +1,58 @@
+[
+  {
+    "scene": "base",
+    "method": "A_literal",
+    "initial_score": 9.011416668163683e-07,
+    "final_score": 9.22727992242288e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "base",
+    "method": "S",
+    "initial_score": 9.226943461727783e-07,
+    "final_score": 9.227280787194495e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "reverse",
+    "method": "A_literal",
+    "initial_score": 9.077388621302109e-07,
+    "final_score": 9.227274671887787e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "reverse",
+    "method": "S",
+    "initial_score": 9.226698990820733e-07,
+    "final_score": 9.227281120481684e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "second",
+    "method": "A_literal",
+    "initial_score": 6.854636835796887e-07,
+    "final_score": 6.929967738204551e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "second",
+    "method": "S",
+    "initial_score": 6.929949594764643e-07,
+    "final_score": 6.929967248915786e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "mixed",
+    "method": "A_literal",
+    "initial_score": 8.728820112691124e-07,
+    "final_score": 8.970089902871541e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  },
+  {
+    "scene": "mixed",
+    "method": "S",
+    "initial_score": 8.969642824726228e-07,
+    "final_score": 8.970086103840406e-07,
+    "note": "Score improvement is separate from truth error; S initial truth error is smaller in all three rotation positives."
+  }
+]

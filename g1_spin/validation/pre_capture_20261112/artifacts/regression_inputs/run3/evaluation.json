@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "events": "../../../../../data/archive_20261105/decoded/DSP03F100025_20261105_201143/manifest.json",
+  "event_origin_us": 1046932150,
+  "geometry_csv": "geometry.csv",
+  "geometry_frame": "event_camera_pixels",
+  "geometry_clock": "event_relative_us",
+  "windows": [
+    {
+      "id": "run3_01605000",
+      "end_us": 1605000,
+      "condition": "rotation",
+      "radius_px": 59,
+      "anchor_px": [
+        547.0043929140855,
+        430.86738053093273
+      ],
+      "shaft_direction_xy": [
+        0.8191520442889918,
+        0.573576436351046
+      ],
+      "fixed_center_prior": false
+    }
+  ]
+}

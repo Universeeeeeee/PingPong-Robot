@@ -1,0 +1,11 @@
+{
+  "frame_number": 18873,
+  "db_ns": 210006120858,
+  "sdk_shape": [
+    360,
+    640
+  ],
+  "pixel_equal": true,
+  "sdk_sha256": "5b5f3fa6f72c060238b0b52899e2b9279753e74bcfeafeaa59ee3054858ad777",
+  "db_pixel_sha256": "5b5f3fa6f72c060238b0b52899e2b9279753e74bcfeafeaa59ee3054858ad777"
+}

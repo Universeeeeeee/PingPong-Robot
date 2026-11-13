@@ -1,0 +1,95 @@
+{
+  "status": "passed",
+  "tests": [
+    "fixed_single_point_counterexample_preserved",
+    "six_point_full_rank_S_exact_A_differs_as_specified",
+    "full_tangential_velocity_projection_recovers_true_omega",
+    "P_symmetric_and_idempotent",
+    "sphere_lift_finite_difference_tangent_and_JtJ_not_identity",
+    "units_sign_count_rank_and_empty_degeneracy",
+    "zero_candidate_is_no_evidence_not_valid_measurement"
+  ],
+  "single_point": {
+    "sphere": [
+      [
+        0.6,
+        0.0,
+        -0.8
+      ]
+    ],
+    "trueomega": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "truev": [
+      [
+        -0.8,
+        0.6,
+        -0.6
+      ]
+    ],
+    "g": [
+      [
+        -5.0,
+        -5.0
+      ]
+    ],
+    "lifted_normal_velocity": [
+      [
+        -0.1,
+        -0.1,
+        -0.075
+      ]
+    ],
+    "scalar_lhs": [
+      1.0
+    ],
+    "projection_mismatch": [
+      [
+        -0.15365853658536585,
+        -0.15365853658536585,
+        -0.11524390243902437
+      ]
+    ],
+    "mismatch_norm": 0.24597367497455452
+  },
+  "six_point": {
+    "trueomega": [
+      1.0,
+      2.0,
+      3.0
+    ],
+    "A_omega": [
+      1.1092683057548525,
+      1.8127896830487704,
+      3.7570669931954686
+    ],
+    "S_omega": [
+      0.9999999999999993,
+      1.9999999999999987,
+      2.9999999999999987
+    ],
+    "ranks": {
+      "A": 3,
+      "S": 3
+    },
+    "full_velocity_P_recovery": [
+      1.0000000000000018,
+      2.0000000000000004,
+      2.9999999999999982
+    ]
+  },
+  "finite_difference_max_error": 4.976001832801558e-10,
+  "JtJ": [
+    [
+      1.5999999999999999,
+      0.2
+    ],
+    [
+      0.2,
+      1.0666666666666667
+    ]
+  ],
+  "interpretation": "The literal normal-flow Euclidean 3D P interpretation differs from the scalar image-plane aperture system because J transpose J is not identity. This does not establish an error in undisclosed Sony implementation."
+}

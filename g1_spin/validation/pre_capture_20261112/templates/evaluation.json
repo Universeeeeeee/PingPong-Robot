@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "events": "events.npz",
+  "event_origin_us": 0,
+  "geometry_csv": "geometry.csv",
+  "geometry_frame": "event_camera_pixels",
+  "geometry_clock": "event_relative_us",
+  "windows": [
+    {
+      "id": "trial_001",
+      "end_us": 100000,
+      "condition": "rotation",
+      "radius_px": 60,
+      "anchor_px": [128, 128],
+      "shaft_direction_xy": [0, 1],
+      "fixed_center_prior": false
+    }
+  ]
+}

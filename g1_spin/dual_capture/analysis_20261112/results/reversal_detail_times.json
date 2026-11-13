@@ -1,0 +1,178 @@
+[
+  {
+    "event_coarse_s": 25.0,
+    "db_s": 230.447293818
+  },
+  {
+    "event_coarse_s": 25.25,
+    "db_s": 230.702942324
+  },
+  {
+    "event_coarse_s": 25.5,
+    "db_s": 230.947869104
+  },
+  {
+    "event_coarse_s": 25.75,
+    "db_s": 231.203702452
+  },
+  {
+    "event_coarse_s": 26.0,
+    "db_s": 231.448488908
+  },
+  {
+    "event_coarse_s": 26.25,
+    "db_s": 231.704819023
+  },
+  {
+    "event_coarse_s": 26.5,
+    "db_s": 231.949204111
+  },
+  {
+    "event_coarse_s": 26.75,
+    "db_s": 232.193970776
+  },
+  {
+    "event_coarse_s": 27.0,
+    "db_s": 232.45008504
+  },
+  {
+    "event_coarse_s": 27.25,
+    "db_s": 232.694783694
+  },
+  {
+    "event_coarse_s": 27.5,
+    "db_s": 232.95090454
+  },
+  {
+    "event_coarse_s": 27.75,
+    "db_s": 233.195646571
+  },
+  {
+    "event_coarse_s": 28.0,
+    "db_s": 233.452910595
+  },
+  {
+    "event_coarse_s": 28.25,
+    "db_s": 233.696281833
+  },
+  {
+    "event_coarse_s": 28.5,
+    "db_s": 233.952309369
+  },
+  {
+    "event_coarse_s": 28.75,
+    "db_s": 234.197160787
+  },
+  {
+    "event_coarse_s": 29.0,
+    "db_s": 234.454094648
+  },
+  {
+    "event_coarse_s": 29.25,
+    "db_s": 234.698474992
+  },
+  {
+    "event_coarse_s": 29.5,
+    "db_s": 234.953617292
+  },
+  {
+    "event_coarse_s": 29.75,
+    "db_s": 235.199265571
+  },
+  {
+    "event_coarse_s": 30.0,
+    "db_s": 235.455920764
+  },
+  {
+    "event_coarse_s": 30.25,
+    "db_s": 235.699260556
+  },
+  {
+    "event_coarse_s": 30.5,
+    "db_s": 235.943876775
+  },
+  {
+    "event_coarse_s": 30.75,
+    "db_s": 236.199882861
+  },
+  {
+    "event_coarse_s": 31.0,
+    "db_s": 236.444639125
+  },
+  {
+    "event_coarse_s": 31.25,
+    "db_s": 236.700759684
+  },
+  {
+    "event_coarse_s": 31.5,
+    "db_s": 236.945561554
+  },
+  {
+    "event_coarse_s": 31.75,
+    "db_s": 237.202564471
+  },
+  {
+    "event_coarse_s": 32.0,
+    "db_s": 237.446186622
+  },
+  {
+    "event_coarse_s": 32.25,
+    "db_s": 237.702228628
+  },
+  {
+    "event_coarse_s": 32.5,
+    "db_s": 237.946845799
+  },
+  {
+    "event_coarse_s": 32.75,
+    "db_s": 238.202887812
+  },
+  {
+    "event_coarse_s": 33.0,
+    "db_s": 238.447597259
+  },
+  {
+    "event_coarse_s": 33.25,
+    "db_s": 238.703560595
+  },
+  {
+    "event_coarse_s": 33.5,
+    "db_s": 238.948362872
+  },
+  {
+    "event_coarse_s": 33.75,
+    "db_s": 239.204359141
+  },
+  {
+    "event_coarse_s": 34.0,
+    "db_s": 239.449067301
+  },
+  {
+    "event_coarse_s": 34.25,
+    "db_s": 239.69387886
+  },
+  {
+    "event_coarse_s": 34.5,
+    "db_s": 239.949980834
+  },
+  {
+    "event_coarse_s": 34.75,
+    "db_s": 240.194661134
+  },
+  {
+    "event_coarse_s": 35.0,
+    "db_s": 240.450553291
+  },
+  {
+    "event_coarse_s": 35.25,
+    "db_s": 240.695387241
+  },
+  {
+    "event_coarse_s": 35.5,
+    "db_s": 240.953214596
+  },
+  {
+    "event_coarse_s": 35.75,
+    "db_s": 241.196136822
+  }
+]

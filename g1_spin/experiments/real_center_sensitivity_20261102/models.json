@@ -1,0 +1,170 @@
+{
+  "translation": {
+    "50": {
+      "anchor_s": 0.44999999999999996,
+      "center_anchor_px": [
+        555.427716580645,
+        222.38479577419352
+      ],
+      "velocity_px_s": [
+        -46.20319524193493,
+        5.521513064516112
+      ],
+      "coverage_s": [
+        0.3,
+        0.6
+      ],
+      "duration_ms": 50,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    },
+    "100": {
+      "anchor_s": 0.44999999999999996,
+      "center_anchor_px": [
+        555.4810273548388,
+        221.12853216129037
+      ],
+      "velocity_px_s": [
+        -43.956010645161754,
+        5.761572862903115
+      ],
+      "coverage_s": [
+        0.3,
+        0.6
+      ],
+      "duration_ms": 100,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    }
+  },
+  "early_turn": {
+    "50": {
+      "anchor_s": 1.75,
+      "center_anchor_px": [
+        570.4613219032258,
+        220.41849312903233
+      ],
+      "velocity_px_s": [
+        10.019715282258217,
+        -9.0527212096776
+      ],
+      "coverage_s": [
+        1.6,
+        1.9
+      ],
+      "duration_ms": 50,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    },
+    "100": {
+      "anchor_s": 1.75,
+      "center_anchor_px": [
+        570.3541767096773,
+        218.59262767741936
+      ],
+      "velocity_px_s": [
+        8.635889314516312,
+        0.4546129435483788
+      ],
+      "coverage_s": [
+        1.6,
+        1.9
+      ],
+      "duration_ms": 100,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    }
+  },
+  "middle": {
+    "50": {
+      "anchor_s": 6.35,
+      "center_anchor_px": [
+        571.021571064516,
+        220.8041325483871
+      ],
+      "velocity_px_s": [
+        -21.515498790322525,
+        -4.5420924596774155
+      ],
+      "coverage_s": [
+        6.2,
+        6.5
+      ],
+      "duration_ms": 50,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    },
+    "100": {
+      "anchor_s": 6.35,
+      "center_anchor_px": [
+        571.1262998387095,
+        219.76251954838716
+      ],
+      "velocity_px_s": [
+        -24.526169758064487,
+        -5.497787500000185
+      ],
+      "coverage_s": [
+        6.2,
+        6.5
+      ],
+      "duration_ms": 100,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    }
+  },
+  "late": {
+    "50": {
+      "anchor_s": 11.35,
+      "center_anchor_px": [
+        560.5632246451612,
+        226.13908516129027
+      ],
+      "velocity_px_s": [
+        5.875348024193605,
+        25.606304516129114
+      ],
+      "coverage_s": [
+        11.2,
+        11.5
+      ],
+      "duration_ms": 50,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    },
+    "100": {
+      "anchor_s": 11.35,
+      "center_anchor_px": [
+        559.7162363870968,
+        223.87326187096775
+      ],
+      "velocity_px_s": [
+        3.6985124999996195,
+        25.898972499999832
+      ],
+      "coverage_s": [
+        11.2,
+        11.5
+      ],
+      "duration_ms": 100,
+      "threshold_policy": "fixed_0.6",
+      "radius_px": 48.0,
+      "hypothesis_only": true,
+      "physics_validated": false
+    }
+  }
+}

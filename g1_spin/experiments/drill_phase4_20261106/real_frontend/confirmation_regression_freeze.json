@@ -1,0 +1,21 @@
+{
+  "stage": "After27 split diagnostics and no-winner decision; before confirmation/108",
+  "files": {
+    "protocol_confirmation_regression.md": "f2c35b137c8ef82a56737bcd20e73e43056e87f9f1f1e5aa62c93b83777ad7c4",
+    "parameter_freeze.json": "ddcd6b3aca9a4419199e9e7560799f5d6d6439aaf532543481b331304c2d1326",
+    "selection_development.json": "c6f32effa9d4b8e1c6ebd942a2c14d9146c92a342c51791fdb7744939c2002ef",
+    "split_diagnostic.py": "4c340d59eb1de0cc7cb683a7ed8cda9302c9b37f63c0f5d244c121d74cc79c54",
+    "split_diagnostic/summary.json": "10bbf90d3bd668b6f3100d14dcb258b0a150fe0b588d93760d949bc1e3fb3082",
+    "split_diagnostic/verification.json": "0fbd1af10f333c9ab4590fb8a20e2bc6325135d2e673524d5e65e6a85940d9f2",
+    "run_confirmation.py": "84acc3c2416ad7e70f5507a4637d442499840f404d6d62023a490f1c0b4870a5",
+    "regression108.py": "3bf8155aadaa06bb2963be6336a6b4408cfadf6ba5eb2e79ab846a2904fc0262",
+    "verify.py": "2d881b5a4a6c7c7d1b0ab47b355003a67995c24ff94430630532db0635499bac"
+  },
+  "planned_confirmation": 4,
+  "planned_regression": 108,
+  "planned_regression_method_states": 648,
+  "shared_G_references": 108,
+  "reuse_existing8_B1": true,
+  "regression_LOO": "not_evaluated",
+  "secant_only_fixed8": true
+}

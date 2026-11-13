@@ -1,0 +1,9 @@
+{
+  "frames_decoded": 109,
+  "fps": 2,
+  "sampled_event_exposure_ms": 2,
+  "frame_step_s": 0.5,
+  "dvs_temporal_coverage_fraction": 0.004,
+  "interpolated": false,
+  "alignment": "coarse only"
+}

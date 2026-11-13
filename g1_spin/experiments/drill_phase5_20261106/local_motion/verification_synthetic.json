@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "completed_date": "2026-11-07",
+  "synthetic_scenes": 8,
+  "model_records": 840,
+  "oracle_records": 89,
+  "same_representation_model_support_equal": true,
+  "all_training_T_only": true,
+  "latest_same_segment_causal": true,
+  "equal_pixel_polarity_bin_P95_recomputed": true,
+  "max_metric_difference": 0.0,
+  "max_oracle_normal_finite_difference_error": 1.0291573149245892e-10,
+  "max_oracle_speed_finite_difference_error_px_s": 1.3107382983434945e-06,
+  "tau_px": 0.5,
+  "clean_positive_calibration_scores": 74,
+  "raw_structure_manifest_unchanged": true,
+  "stage4_task13_manifest_unchanged": true,
+  "no_real_model_execution": true,
+  "limitation": "Intermediate synthetic measurement gate; final T-only training qualification/bootstrap/permutation and real protocol are separate."
+}

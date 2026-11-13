@@ -1,0 +1,214 @@
+{
+  "status": "completed",
+  "frozen_flow_sha256": "26f9d2267eee8adf449f7286fea05c5ab7148c5ab38dbedbbe6a666d59994f5e",
+  "representative_windows": [
+    {
+      "window": "run1_01495000",
+      "radius_px": 60.0,
+      "center": [
+        638.4983474063433,
+        355.85710435555654
+      ],
+      "native_and_independent": [
+        {
+          "support": "selected_max5000",
+          "events": 5000,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "plane_residual_or_rank": 272,
+            "too_few_neighbors": 28
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 49.0,
+          "median_rms_over_std": 0.7505174895480999,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9992,
+          "seconds_span": 0.009992,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        },
+        {
+          "support": "full_same_inner_support",
+          "events": 5460,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "plane_residual_or_rank": 273,
+            "too_few_neighbors": 27
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 55.0,
+          "median_rms_over_std": 0.747450244917339,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9992,
+          "seconds_span": 0.009992,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        }
+      ]
+    },
+    {
+      "window": "run2_03425000",
+      "radius_px": 63.0,
+      "center": [
+        629.0451809941917,
+        483.8628479110008
+      ],
+      "native_and_independent": [
+        {
+          "support": "selected_max5000",
+          "events": 5000,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "plane_residual_or_rank": 275,
+            "too_few_neighbors": 25
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 37.0,
+          "median_rms_over_std": 0.8851524603071766,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9994,
+          "seconds_span": 0.009994,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        },
+        {
+          "support": "full_same_inner_support",
+          "events": 5582,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "plane_residual_or_rank": 279,
+            "too_few_neighbors": 21
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 42.0,
+          "median_rms_over_std": 0.8917905819570742,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9994,
+          "seconds_span": 0.009994,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        }
+      ]
+    },
+    {
+      "window": "run4_07495000",
+      "radius_px": 80.0,
+      "center": [
+        698.127911487506,
+        396.3991342872372
+      ],
+      "native_and_independent": [
+        {
+          "support": "selected_max5000",
+          "events": 5000,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "too_few_neighbors": 53,
+            "plane_residual_or_rank": 247
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 22.0,
+          "median_rms_over_std": 0.786797467082135,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9997,
+          "seconds_span": 0.009996999999999999,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        },
+        {
+          "support": "full_same_inner_support",
+          "events": 9256,
+          "same_physical_seeds": 300,
+          "exit_reasons": {
+            "too_few_neighbors": 41,
+            "plane_residual_or_rank": 259
+          },
+          "independent_accepted": 0,
+          "native_result": {
+            "valid": false,
+            "method": "local_plane_normal_flow",
+            "omega_rad_s": null,
+            "axis_camera": null,
+            "spin_rad_s": null,
+            "spin_rps": null,
+            "spin_rpm": null,
+            "quality": {
+              "accepted_planes": 0
+            },
+            "failure_reason": "insufficient_stable_local_planes"
+          },
+          "median_neighbors": 41.0,
+          "median_rms_over_std": 0.8254528009320558,
+          "timestamp_dtype": "int64",
+          "timestamp_span_us": 9997,
+          "seconds_span": 0.009996999999999999,
+          "note": "Native full-support interface uses its own 300 uniform seeds; independent comparison reuses exact physical seed IDs from selected input."
+        }
+      ]
+    }
+  ],
+  "seed_rows": 1800,
+  "same_thresholds": true,
+  "main_324_results_unchanged": true,
+  "caveat": "Diagnostic only, no replacement inputs or threshold changes. Three windows cannot establish a general cause of missing plane support."
+}

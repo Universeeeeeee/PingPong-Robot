@@ -1,0 +1,79 @@
+{
+  "result_rows": 48,
+  "prepared_windows": 14,
+  "routes": 44,
+  "route_tests": 5,
+  "checks": [
+    {
+      "window": "run1_03565000_10ms",
+      "events": 4434,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_01465000_10ms",
+      "events": 3991,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_01465000_20ms",
+      "events": 5000,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_02665000_10ms",
+      "events": 4948,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_02665000_20ms",
+      "events": 5000,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_04335000_10ms",
+      "events": 5000,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_04335000_20ms",
+      "events": 5000,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_06265000_10ms",
+      "events": 3055,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run3_06265000_20ms",
+      "events": 5000,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run4_00865000_10ms",
+      "events": 3601,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run5_04135000_10ms",
+      "events": 986,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run5_04135000_20ms",
+      "events": 1960,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run5_06535000_10ms",
+      "events": 1328,
+      "raw_common_mask_geometry_verified": true
+    },
+    {
+      "window": "run5_06535000_20ms",
+      "events": 2572,
+      "raw_common_mask_geometry_verified": true
+    }
+  ],
+  "protected_hashes_unchanged": true
+}

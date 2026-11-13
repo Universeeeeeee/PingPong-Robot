@@ -1,0 +1,10 @@
+{
+  "g1_spin/experiments/drill_center_evidence_20261110/run.py": "4eaab26c387f72698d4cb8e270aab990ddf4dd0217652f52d2c55631c3e61baa",
+  "g1_spin/experiments/drill_center_evidence_20261110/protocol.md": "ae6d12b8fd7d7e39030ca3cbaddf0db79773ba50c9d59ff7bb7d37f7b4850cf5",
+  "g1_spin/experiments/drill_phase2_20261106/geometry.json": "67597937bf466c6df885e48d237fabd7cac9bddfa40d04dba1c5ea25bc278c1f",
+  "g1_spin/experiments/drill_phase1_20261106/rotation_geometry.csv": "b96438500f6c3728e29425e00b276086c7792e018867d43e4b0ae7a0be02e94d",
+  "g1_spin/experiments/drill_phase1_20261106/control_geometry.csv": "80c81afe207bebc13c89a554348cedf1ab198cf982b4f2883eedb2cdd1408c81",
+  "g1_spin/experiments/drill_phase2_20261106/run.py": "6d3ca80293e2696103e4102de1116137e073ec4fe5fd994ee7db983b8bdaa373",
+  "g1_spin/experiments/drill_window_geometry_20261110/run.py": "a9c922bf1fb69fcef77e1ac301f7a7f15d3191fd49fd1d12245c0500a2e098f3",
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192"
+}

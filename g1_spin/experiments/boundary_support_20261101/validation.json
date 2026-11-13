@@ -1,0 +1,133 @@
+{
+  "expected_grid_rows": 2232,
+  "actual_grid_rows": 2232,
+  "all_grid_keys_unique": true,
+  "previous_directory_files_unchanged": true,
+  "script_hash_matches": true,
+  "all_grid_M0_matches_previous_rows": 744,
+  "representative_independent_checks": 12,
+  "not_fitted_rows": 180,
+  "numerically_invalid_rows": 204,
+  "checks": [
+    {
+      "segment": "translation",
+      "duration_ms": 20,
+      "event_count": 8463,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.3715107267416897e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "translation",
+      "duration_ms": 50,
+      "event_count": 21325,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.405083799952081e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "translation",
+      "duration_ms": 100,
+      "event_count": 42719,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.076756911468692e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 20,
+      "event_count": 7770,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.786203362527885e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 50,
+      "event_count": 19384,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.860183142023743e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "early_turn",
+      "duration_ms": 100,
+      "event_count": 37534,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.5190159763942575e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 20,
+      "event_count": 7295,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.163139237789437e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 50,
+      "event_count": 18067,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.5056253838993143e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "middle",
+      "duration_ms": 100,
+      "event_count": 36255,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.7423377818868175e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 20,
+      "event_count": 6279,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 4.873172656516545e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 50,
+      "event_count": 15873,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.449454482051806e-07,
+      "heldout_disjoint": true
+    },
+    {
+      "segment": "late",
+      "duration_ms": 100,
+      "event_count": 31669,
+      "full_sensor_matches_crop": true,
+      "direct_support_matches": true,
+      "independent_M2_matches": true,
+      "previous_baseline_max_fit_difference": 3.7799063079546613e-07,
+      "heldout_disjoint": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "mapping": "event_us = event_anchor_us + offset_us + slope*(reference_us-reference_anchor_us)",
+  "reference_anchor_us": 1000000000000000,
+  "event_anchor_us": 1000000000050000,
+  "slope": 1.0000982857142857,
+  "offset_us": 4.285714285913855,
+  "drift_ppm": 98.28571428571742,
+  "train_pulses": 6,
+  "holdout_pulses": 3,
+  "train_max_abs_residual_us": 20.857142857275903,
+  "holdout_max_abs_residual_us": 21.0,
+  "holdout_rms_us": 13.940105114894134,
+  "budget_us": 1000.0,
+  "residual_pass": true,
+  "residuals_us": [
+    -4.285714285913855,
+    17.42857142840512,
+    -20.857142857275903,
+    10.857142856810242,
+    -7.428571428637952,
+    4.2857142854481936,
+    21.0,
+    -7.2857142854481936,
+    9.428571429103613
+  ],
+  "reference_valid_interval_us": [
+    1000000000000000,
+    1000000008000000
+  ],
+  "source_sha256": "e4bb6ea43729352ec6c24ee2fc142c22ce5edfa13781de0027902905bfaa3820",
+  "limitation": "Matched-pulse residual only. Does not certify exposure latency, rolling shutter, marker labeling, or cross-camera geometry. Do not extrapolate beyond pulse span."
+}

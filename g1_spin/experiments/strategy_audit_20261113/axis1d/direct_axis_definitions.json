@@ -1,0 +1,35 @@
+{
+  "axes": {
+    "1": [
+      -0.013582742505248845,
+      0.9999077502980143,
+      0.0
+    ],
+    "3": [
+      0.8125209581754117,
+      0.5829319793301023,
+      0.0
+    ],
+    "4": [
+      -0.06008735508206694,
+      0.9981931224764282,
+      0.0
+    ],
+    "2": [
+      0.0,
+      0.0,
+      -1.0
+    ]
+  },
+  "run2": {
+    "status": "assumed_optical_axis",
+    "axis": [
+      0,
+      0,
+      -1
+    ],
+    "reason": "user confirms shaft approximately normal to image plane; not metric calibration"
+  },
+  "frame": "event image x right, y down, z=away from camera",
+  "source": "independent shaft projection for run1/3/4; explicit physical z-axis assumption for run2; no free CMax axis"
+}

@@ -1,0 +1,539 @@
+{
+  "status": "passed",
+  "planned_windows": 108,
+  "result_states": 324,
+  "available_inputs": 88,
+  "preserved_geometry_failures": 20,
+  "max_xyz_reconstruction_error": 0.0,
+  "three_method_input_and_sphere_hashes_equal": true,
+  "A_S_shared_planes_equal": true,
+  "real_A_S_failed_paths_never_called_search_or_G": true,
+  "unwrapped_G_exact_replay": "run1_00725000",
+  "independent_real_G_objective_checks": 76,
+  "A_S_LS_and_objective_checks": "analytic_search_verification.json (all real plane sets empty; no claim of real A/S search success)",
+  "native_plane_crosscheck": "native_plane_verification.json",
+  "protected_files_unchanged": 324,
+  "checks": [
+    {
+      "window": "run1_00725000",
+      "status": "input_and_three_routes_verified",
+      "events": 2152
+    },
+    {
+      "window": "run1_00795000",
+      "status": "input_and_three_routes_verified",
+      "events": 4857
+    },
+    {
+      "window": "run1_00865000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run1_01425000",
+      "status": "input_and_three_routes_verified",
+      "events": 2690
+    },
+    {
+      "window": "run1_01495000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run1_01565000",
+      "status": "input_and_three_routes_verified",
+      "events": 2411
+    },
+    {
+      "window": "run1_02125000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run1_02195000",
+      "status": "input_and_three_routes_verified",
+      "events": 3371
+    },
+    {
+      "window": "run1_02265000",
+      "status": "input_and_three_routes_verified",
+      "events": 3569
+    },
+    {
+      "window": "run1_03525000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run1_03595000",
+      "status": "input_and_three_routes_verified",
+      "events": 2446
+    },
+    {
+      "window": "run1_03665000",
+      "status": "input_and_three_routes_verified",
+      "events": 4839
+    },
+    {
+      "window": "run1_04225000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run1_04295000",
+      "status": "input_and_three_routes_verified",
+      "events": 3264
+    },
+    {
+      "window": "run1_04365000",
+      "status": "input_and_three_routes_verified",
+      "events": 2973
+    },
+    {
+      "window": "run1_05625000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run1_05695000",
+      "status": "input_and_three_routes_verified",
+      "events": 3322
+    },
+    {
+      "window": "run1_05765000",
+      "status": "input_and_three_routes_verified",
+      "events": 2157
+    },
+    {
+      "window": "run2_00825000",
+      "status": "input_and_three_routes_verified",
+      "events": 4619
+    },
+    {
+      "window": "run2_00895000",
+      "status": "input_and_three_routes_verified",
+      "events": 2030
+    },
+    {
+      "window": "run2_00965000",
+      "status": "input_and_three_routes_verified",
+      "events": 4201
+    },
+    {
+      "window": "run2_02025000",
+      "status": "input_and_three_routes_verified",
+      "events": 4627
+    },
+    {
+      "window": "run2_02095000",
+      "status": "input_and_three_routes_verified",
+      "events": 2809
+    },
+    {
+      "window": "run2_02165000",
+      "status": "input_and_three_routes_verified",
+      "events": 4088
+    },
+    {
+      "window": "run2_03425000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run2_03495000",
+      "status": "input_and_three_routes_verified",
+      "events": 3413
+    },
+    {
+      "window": "run2_03565000",
+      "status": "input_and_three_routes_verified",
+      "events": 3489
+    },
+    {
+      "window": "run2_05225000",
+      "status": "input_and_three_routes_verified",
+      "events": 3366
+    },
+    {
+      "window": "run2_05295000",
+      "status": "input_and_three_routes_verified",
+      "events": 4932
+    },
+    {
+      "window": "run2_05365000",
+      "status": "input_and_three_routes_verified",
+      "events": 3321
+    },
+    {
+      "window": "run3_01425000",
+      "status": "input_and_three_routes_verified",
+      "events": 4679
+    },
+    {
+      "window": "run3_01495000",
+      "status": "input_and_three_routes_verified",
+      "events": 2627
+    },
+    {
+      "window": "run3_01565000",
+      "status": "input_and_three_routes_verified",
+      "events": 3112
+    },
+    {
+      "window": "run3_02625000",
+      "status": "input_and_three_routes_verified",
+      "events": 4930
+    },
+    {
+      "window": "run3_02695000",
+      "status": "input_and_three_routes_verified",
+      "events": 3122
+    },
+    {
+      "window": "run3_02765000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run3_04225000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run3_04295000",
+      "status": "input_and_three_routes_verified",
+      "events": 4654
+    },
+    {
+      "window": "run3_04365000",
+      "status": "input_and_three_routes_verified",
+      "events": 3108
+    },
+    {
+      "window": "run3_06225000",
+      "status": "input_and_three_routes_verified",
+      "events": 4715
+    },
+    {
+      "window": "run3_06295000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run3_06365000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_00825000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_00895000",
+      "status": "input_and_three_routes_verified",
+      "events": 3245
+    },
+    {
+      "window": "run4_00965000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_01625000",
+      "status": "input_and_three_routes_verified",
+      "events": 2557
+    },
+    {
+      "window": "run4_01695000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_01765000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_02425000",
+      "status": "input_and_three_routes_verified",
+      "events": 4265
+    },
+    {
+      "window": "run4_02495000",
+      "status": "input_and_three_routes_verified",
+      "events": 4713
+    },
+    {
+      "window": "run4_02565000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_03225000",
+      "status": "input_and_three_routes_verified",
+      "events": 3877
+    },
+    {
+      "window": "run4_03295000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_03365000",
+      "status": "input_and_three_routes_verified",
+      "events": 3336
+    },
+    {
+      "window": "run4_04425000",
+      "status": "input_and_three_routes_verified",
+      "events": 3253
+    },
+    {
+      "window": "run4_04495000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_04565000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run4_05425000",
+      "status": "input_and_three_routes_verified",
+      "events": 2241
+    },
+    {
+      "window": "run4_05495000",
+      "status": "input_and_three_routes_verified",
+      "events": 4080
+    },
+    {
+      "window": "run4_05565000",
+      "status": "input_and_three_routes_verified",
+      "events": 2811
+    },
+    {
+      "window": "run4_06425000",
+      "status": "input_and_three_routes_verified",
+      "events": 2942
+    },
+    {
+      "window": "run4_06495000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_06565000",
+      "status": "input_and_three_routes_verified",
+      "events": 2791
+    },
+    {
+      "window": "run4_07425000",
+      "status": "input_and_three_routes_verified",
+      "events": 4886
+    },
+    {
+      "window": "run4_07495000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_07565000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_08425000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_08495000",
+      "status": "input_and_three_routes_verified",
+      "events": 5000
+    },
+    {
+      "window": "run4_08565000",
+      "status": "input_and_three_routes_verified",
+      "events": 4532
+    },
+    {
+      "window": "run5_00525000",
+      "status": "input_and_three_routes_verified",
+      "events": 10
+    },
+    {
+      "window": "run5_00595000",
+      "status": "input_and_three_routes_verified",
+      "events": 17
+    },
+    {
+      "window": "run5_00665000",
+      "status": "input_and_three_routes_verified",
+      "events": 10
+    },
+    {
+      "window": "run5_01525000",
+      "status": "input_and_three_routes_verified",
+      "events": 18
+    },
+    {
+      "window": "run5_01595000",
+      "status": "input_and_three_routes_verified",
+      "events": 9
+    },
+    {
+      "window": "run5_01665000",
+      "status": "input_and_three_routes_verified",
+      "events": 6
+    },
+    {
+      "window": "run5_02525000",
+      "status": "input_and_three_routes_verified",
+      "events": 10
+    },
+    {
+      "window": "run5_02595000",
+      "status": "input_and_three_routes_verified",
+      "events": 17
+    },
+    {
+      "window": "run5_02665000",
+      "status": "input_and_three_routes_verified",
+      "events": 15
+    },
+    {
+      "window": "run5_03225000",
+      "status": "input_and_three_routes_verified",
+      "events": 12
+    },
+    {
+      "window": "run5_03295000",
+      "status": "input_and_three_routes_verified",
+      "events": 9
+    },
+    {
+      "window": "run5_03365000",
+      "status": "input_and_three_routes_verified",
+      "events": 11
+    },
+    {
+      "window": "run5_04025000",
+      "status": "input_and_three_routes_verified",
+      "events": 417
+    },
+    {
+      "window": "run5_04095000",
+      "status": "input_and_three_routes_verified",
+      "events": 762
+    },
+    {
+      "window": "run5_04165000",
+      "status": "input_and_three_routes_verified",
+      "events": 890
+    },
+    {
+      "window": "run5_04425000",
+      "status": "input_and_three_routes_verified",
+      "events": 632
+    },
+    {
+      "window": "run5_04495000",
+      "status": "input_and_three_routes_verified",
+      "events": 476
+    },
+    {
+      "window": "run5_04565000",
+      "status": "input_and_three_routes_verified",
+      "events": 144
+    },
+    {
+      "window": "run5_05025000",
+      "status": "input_and_three_routes_verified",
+      "events": 289
+    },
+    {
+      "window": "run5_05095000",
+      "status": "input_and_three_routes_verified",
+      "events": 823
+    },
+    {
+      "window": "run5_05165000",
+      "status": "input_and_three_routes_verified",
+      "events": 810
+    },
+    {
+      "window": "run5_05625000",
+      "status": "input_and_three_routes_verified",
+      "events": 650
+    },
+    {
+      "window": "run5_05695000",
+      "status": "input_and_three_routes_verified",
+      "events": 771
+    },
+    {
+      "window": "run5_05765000",
+      "status": "input_and_three_routes_verified",
+      "events": 609
+    },
+    {
+      "window": "run5_06025000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_06095000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_06165000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_06425000",
+      "status": "input_and_three_routes_verified",
+      "events": 696
+    },
+    {
+      "window": "run5_06495000",
+      "status": "input_and_three_routes_verified",
+      "events": 1001
+    },
+    {
+      "window": "run5_06565000",
+      "status": "input_and_three_routes_verified",
+      "events": 398
+    },
+    {
+      "window": "run5_08025000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_08095000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_08165000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_09525000",
+      "status": "input_and_three_routes_verified",
+      "events": 968
+    },
+    {
+      "window": "run5_09595000",
+      "status": "input_and_three_routes_verified",
+      "events": 763
+    },
+    {
+      "window": "run5_09665000",
+      "status": "input_and_three_routes_verified",
+      "events": 404
+    },
+    {
+      "window": "run5_11025000",
+      "status": "input_and_three_routes_verified",
+      "events": 1183
+    },
+    {
+      "window": "run5_11095000",
+      "status": "preserved_geometry_failure"
+    },
+    {
+      "window": "run5_11165000",
+      "status": "input_and_three_routes_verified",
+      "events": 480
+    }
+  ],
+  "caveat": "Computation/immutability checks, not physical truth. Four recurrence attempts were frozen before CMax execution."
+}

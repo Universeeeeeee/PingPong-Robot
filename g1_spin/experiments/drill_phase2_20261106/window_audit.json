@@ -1,0 +1,1434 @@
+[
+  {
+    "window": "run1_00725000_recovered",
+    "run": 1,
+    "kind": "recovered",
+    "partition": "supplement",
+    "start_us": 725000,
+    "end_us": 735000,
+    "reference_us": 730000,
+    "anchor_us": 800000,
+    "radius_px": 60.0,
+    "raw_count": 11290,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2152,
+    "common_count": 2152,
+    "supports": {
+      "B1": 3121,
+      "B2": 3115,
+      "B0": 3057
+    },
+    "common_fractions": {
+      "B1": 0.6895225889138097,
+      "B2": 0.6908507223113964,
+      "B0": 0.7039581288845274
+    },
+    "variants": [
+      "B0",
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "e231232725934f2c191c82f2a535555bc63d146e3eeabdce8216e0c70aac231c",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_05765000_recovered",
+    "run": 1,
+    "kind": "recovered",
+    "partition": "supplement",
+    "start_us": 5765000,
+    "end_us": 5775000,
+    "reference_us": 5770000,
+    "anchor_us": 5700000,
+    "radius_px": 60.0,
+    "raw_count": 10016,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2157,
+    "common_count": 2157,
+    "supports": {
+      "B1": 2661,
+      "B2": 2646,
+      "B0": 2886
+    },
+    "common_fractions": {
+      "B1": 0.8105975197294251,
+      "B2": 0.8151927437641724,
+      "B0": 0.7474012474012474
+    },
+    "variants": [
+      "B0",
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "82b215373a77741f62be530c8cc483903d0567d2470a9c114f9e3e59de03c5f7",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_01425000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 1425000,
+    "end_us": 1435000,
+    "reference_us": 1430000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 11889,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2690,
+    "common_count": 2690,
+    "supports": {
+      "A-1": 2690,
+      "A0": 2690,
+      "A0.5": 2690,
+      "A1": 2690
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "74ef36ee2db4c48ad5e56ed7ddcafcfecc15a7530e759355d3fc718abb5fa194",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_03665000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 3665000,
+    "end_us": 3675000,
+    "reference_us": 3670000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 14943,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4839,
+    "common_count": 4839,
+    "supports": {
+      "A-1": 4839,
+      "A0": 4839,
+      "A0.5": 4839,
+      "A1": 4839
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "7096933fc56b5dd6d262dbc46154172eeec6c99022c2b9685bfba8880c0f4538",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_04365000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 4365000,
+    "end_us": 4375000,
+    "reference_us": 4370000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 14097,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2973,
+    "common_count": 2973,
+    "supports": {
+      "A-1": 2973,
+      "A0": 2973,
+      "A0.5": 2973,
+      "A1": 2973
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "635914b88bb77b6dba5cba55fe497f88d2165aa7aecbac88c237d9e9033c8c71",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_01495000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 1495000,
+    "end_us": 1505000,
+    "reference_us": 1500000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 14280,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 5000,
+    "common_count": 5460,
+    "supports": {
+      "A-1": 5000,
+      "A0": 5000,
+      "A0.5": 5000,
+      "A1": 5000
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "8c21713f2cd9f6f9dc39692aa8c1bb092841dbd7aba06db7c1a3ab01942d80a2",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_03595000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 3595000,
+    "end_us": 3605000,
+    "reference_us": 3600000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 10257,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2446,
+    "common_count": 2446,
+    "supports": {
+      "A-1": 2446,
+      "A0": 2446,
+      "A0.5": 2446,
+      "A1": 2446
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "015789c91cf09ec03d821f4a5b5f0efa08d7e3ceb730a2e1bbd3686d093cae58",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run1_05695000_ablation",
+    "run": 1,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 5695000,
+    "end_us": 5705000,
+    "reference_us": 5700000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 10504,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3322,
+    "common_count": 3322,
+    "supports": {
+      "A-1": 3322,
+      "A0": 3322,
+      "A0.5": 3322,
+      "A1": 3322
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "0bb9134ae725d7e3ce2759f6726be4aec78fe61a93b70c40f164def62f24cca3",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_00825000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 825000,
+    "end_us": 835000,
+    "reference_us": 830000,
+    "anchor_us": 900000,
+    "radius_px": 63.0,
+    "raw_count": 10049,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4619,
+    "common_count": 4619,
+    "supports": {
+      "B1": 4657,
+      "B2": 4661
+    },
+    "common_fractions": {
+      "B1": 0.9918402404981748,
+      "B2": 0.9909890581420296
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "64d8173a64704fc7b907837f4f3fa0f3717958b0e55cf090d3cb653d9ee58383",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_00895000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 895000,
+    "end_us": 905000,
+    "reference_us": 900000,
+    "anchor_us": 900000,
+    "radius_px": 63.0,
+    "raw_count": 8202,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2030,
+    "common_count": 2030,
+    "supports": {
+      "B1": 2101,
+      "B2": 2112
+    },
+    "common_fractions": {
+      "B1": 0.9662065683008091,
+      "B2": 0.9611742424242424
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "520d0a20e93d68992d4c7975acb8394ce80ac63eff2506c05149a1f86dd66ce8",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_00965000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 965000,
+    "end_us": 975000,
+    "reference_us": 970000,
+    "anchor_us": 900000,
+    "radius_px": 63.0,
+    "raw_count": 8964,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4201,
+    "common_count": 4201,
+    "supports": {
+      "B1": 4246,
+      "B2": 4256
+    },
+    "common_fractions": {
+      "B1": 0.9894017899199247,
+      "B2": 0.9870770676691729
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "2107e5e03d889d3d66db2022c66eda4ce3b49084ef8747b72dfb6e1595f948bf",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_02025000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2025000,
+    "end_us": 2035000,
+    "reference_us": 2030000,
+    "anchor_us": 2100000,
+    "radius_px": 63.0,
+    "raw_count": 10275,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4627,
+    "common_count": 4627,
+    "supports": {
+      "B1": 4637,
+      "B2": 4641
+    },
+    "common_fractions": {
+      "B1": 0.9978434332542592,
+      "B2": 0.9969834087481146
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "cee65c994982e5fbda6e09580e5d639a9c47cbb61986e73c2dee39656d38af5e",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_02095000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2095000,
+    "end_us": 2105000,
+    "reference_us": 2100000,
+    "anchor_us": 2100000,
+    "radius_px": 63.0,
+    "raw_count": 8307,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2809,
+    "common_count": 2809,
+    "supports": {
+      "B1": 2817,
+      "B2": 2822
+    },
+    "common_fractions": {
+      "B1": 0.9971600993965212,
+      "B2": 0.9953933380581148
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "3b8c1ea802bb1ba36693179917db65e92a93a2712274223b5e38f2818362740a",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_02165000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2165000,
+    "end_us": 2175000,
+    "reference_us": 2170000,
+    "anchor_us": 2100000,
+    "radius_px": 63.0,
+    "raw_count": 8556,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4088,
+    "common_count": 4088,
+    "supports": {
+      "B1": 4097,
+      "B2": 4097
+    },
+    "common_fractions": {
+      "B1": 0.9978032706858677,
+      "B2": 0.9978032706858677
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "0b489b050118d4d1b49270109ee8d17bbbc4260e1760536a527f95221f84dd06",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_03425000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3425000,
+    "end_us": 3435000,
+    "reference_us": 3430000,
+    "anchor_us": 3500000,
+    "radius_px": 63.0,
+    "raw_count": 10104,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 5000,
+    "common_count": 5582,
+    "supports": {
+      "B1": 5671,
+      "B2": 5643
+    },
+    "common_fractions": {
+      "B1": 0.984306118850291,
+      "B2": 0.989190147084884
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "0b325b976e6fbd8058767931d65fba19309e8dce3c2c0e3e34383f2a29ada8e6",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_03495000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3495000,
+    "end_us": 3505000,
+    "reference_us": 3500000,
+    "anchor_us": 3500000,
+    "radius_px": 63.0,
+    "raw_count": 8921,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3413,
+    "common_count": 3413,
+    "supports": {
+      "B1": 3420,
+      "B2": 3421
+    },
+    "common_fractions": {
+      "B1": 0.997953216374269,
+      "B2": 0.9976615024846536
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "e9736626c4a1b0c793ac9c190085bfb34db779655f361a1ce2465b5bca96c483",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_03565000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3565000,
+    "end_us": 3575000,
+    "reference_us": 3570000,
+    "anchor_us": 3500000,
+    "radius_px": 63.0,
+    "raw_count": 8870,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3489,
+    "common_count": 3489,
+    "supports": {
+      "B1": 3517,
+      "B2": 3515
+    },
+    "common_fractions": {
+      "B1": 0.9920386693204436,
+      "B2": 0.9926031294452347
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "7086e586b465ac6e3cf395f1c0941edc8915cbd3f9b497e0715ff90e66114e70",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_05225000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 5225000,
+    "end_us": 5235000,
+    "reference_us": 5230000,
+    "anchor_us": 5300000,
+    "radius_px": 63.0,
+    "raw_count": 9576,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3366,
+    "common_count": 3366,
+    "supports": {
+      "B1": 3388,
+      "B2": 3388
+    },
+    "common_fractions": {
+      "B1": 0.9935064935064936,
+      "B2": 0.9935064935064936
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "a1c80ac10297ba5311354d718dce5817a996defa333bf170cadc1e958b1e64cf",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_05295000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 5295000,
+    "end_us": 5305000,
+    "reference_us": 5300000,
+    "anchor_us": 5300000,
+    "radius_px": 63.0,
+    "raw_count": 10837,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4932,
+    "common_count": 4932,
+    "supports": {
+      "B1": 4985,
+      "B2": 4963
+    },
+    "common_fractions": {
+      "B1": 0.9893681043129389,
+      "B2": 0.9937537779568809
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "9b7de6d204a012bca8fa09bc052106bfd14e927853b8f1ed8b2c0505f90a8157",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run2_05365000_extension",
+    "run": 2,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 5365000,
+    "end_us": 5375000,
+    "reference_us": 5370000,
+    "anchor_us": 5300000,
+    "radius_px": 63.0,
+    "raw_count": 9827,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3321,
+    "common_count": 3321,
+    "supports": {
+      "B1": 3416,
+      "B2": 3412
+    },
+    "common_fractions": {
+      "B1": 0.9721896955503513,
+      "B2": 0.9733294255568582
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "da3cc0956b5fcfff08883cbf9609d1c28523f090d2811f368965efb3e76595c8",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_01425000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1425000,
+    "end_us": 1435000,
+    "reference_us": 1430000,
+    "anchor_us": 1500000,
+    "radius_px": 59.0,
+    "raw_count": 13811,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4679,
+    "common_count": 4679,
+    "supports": {
+      "B1": 4745,
+      "B2": 4871
+    },
+    "common_fractions": {
+      "B1": 0.9860906217070601,
+      "B2": 0.9605830424964074
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "2fe6a49f7788ec90c72d2405c470b5fff1cd3d3ac8600986f3f130bb085d5d17",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_01495000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1495000,
+    "end_us": 1505000,
+    "reference_us": 1500000,
+    "anchor_us": 1500000,
+    "radius_px": 59.0,
+    "raw_count": 11468,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2627,
+    "common_count": 2627,
+    "supports": {
+      "B1": 2651,
+      "B2": 2640
+    },
+    "common_fractions": {
+      "B1": 0.990946812523576,
+      "B2": 0.9950757575757576
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "4b0e7e65e48a5eaeff8f64c626939af261befc406b4e7d2686299b84d2635753",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_01565000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1565000,
+    "end_us": 1575000,
+    "reference_us": 1570000,
+    "anchor_us": 1500000,
+    "radius_px": 59.0,
+    "raw_count": 14079,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3112,
+    "common_count": 3112,
+    "supports": {
+      "B1": 3146,
+      "B2": 3130
+    },
+    "common_fractions": {
+      "B1": 0.989192625556262,
+      "B2": 0.9942492012779552
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "dd9c441ea153c73c1d96a04d9cab865334739fd98ac1bd1d733b8a5183c5f456",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_02625000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2625000,
+    "end_us": 2635000,
+    "reference_us": 2630000,
+    "anchor_us": 2700000,
+    "radius_px": 59.0,
+    "raw_count": 16701,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4930,
+    "common_count": 4930,
+    "supports": {
+      "B1": 4956,
+      "B2": 4953
+    },
+    "common_fractions": {
+      "B1": 0.9947538337368845,
+      "B2": 0.9953563496870583
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "64b5644b35cb0322c180dfb72124d92836152f89eab1411002fc560ebeb84dce",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_02695000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2695000,
+    "end_us": 2705000,
+    "reference_us": 2700000,
+    "anchor_us": 2700000,
+    "radius_px": 59.0,
+    "raw_count": 13519,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3122,
+    "common_count": 3122,
+    "supports": {
+      "B1": 3129,
+      "B2": 3145
+    },
+    "common_fractions": {
+      "B1": 0.9977628635346756,
+      "B2": 0.9926868044515104
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "af046e2085869ad2720459213340f7f85842c39a15445d887a87b4d689c47db2",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_02765000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 2765000,
+    "end_us": 2775000,
+    "reference_us": 2770000,
+    "anchor_us": 2700000,
+    "radius_px": 59.0,
+    "raw_count": 13767,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_04225000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 4225000,
+    "end_us": 4235000,
+    "reference_us": 4230000,
+    "anchor_us": 4300000,
+    "radius_px": 59.0,
+    "raw_count": 11359,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_04295000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 4295000,
+    "end_us": 4305000,
+    "reference_us": 4300000,
+    "anchor_us": 4300000,
+    "radius_px": 59.0,
+    "raw_count": 14660,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4654,
+    "common_count": 4654,
+    "supports": {
+      "B1": 4704,
+      "B2": 4741
+    },
+    "common_fractions": {
+      "B1": 0.9893707482993197,
+      "B2": 0.9816494410461928
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "a6fb4afd2d7efa0a5521b57d94cdf904751f5cca5c7d542db293277b5a8c6611",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_04365000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 4365000,
+    "end_us": 4375000,
+    "reference_us": 4370000,
+    "anchor_us": 4300000,
+    "radius_px": 59.0,
+    "raw_count": 12906,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3108,
+    "common_count": 3108,
+    "supports": {
+      "B1": 3130,
+      "B2": 3110
+    },
+    "common_fractions": {
+      "B1": 0.9929712460063898,
+      "B2": 0.9993569131832798
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "5655f13f520b56918deeceb8e61941ba674126576a830ecc4999fe086025c182",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_06225000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 6225000,
+    "end_us": 6235000,
+    "reference_us": 6230000,
+    "anchor_us": 6300000,
+    "radius_px": 59.0,
+    "raw_count": 13781,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4715,
+    "common_count": 4715,
+    "supports": {
+      "B1": 4726,
+      "B2": 4740
+    },
+    "common_fractions": {
+      "B1": 0.997672450275074,
+      "B2": 0.9947257383966245
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "9bdca253b5cad6fe85e5d999167b8bf2d4954e381da3f8c894161bc8840f526e",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_06295000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 6295000,
+    "end_us": 6305000,
+    "reference_us": 6300000,
+    "anchor_us": 6300000,
+    "radius_px": 59.0,
+    "raw_count": 13631,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run3_06365000_extension",
+    "run": 3,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 6365000,
+    "end_us": 6375000,
+    "reference_us": 6370000,
+    "anchor_us": 6300000,
+    "radius_px": 59.0,
+    "raw_count": 11106,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_00825000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 825000,
+    "end_us": 835000,
+    "reference_us": 830000,
+    "anchor_us": 900000,
+    "radius_px": 60.0,
+    "raw_count": 12774,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_00895000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 895000,
+    "end_us": 905000,
+    "reference_us": 900000,
+    "anchor_us": 900000,
+    "radius_px": 60.0,
+    "raw_count": 8344,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3245,
+    "common_count": 3245,
+    "supports": {
+      "B1": 3252,
+      "B2": 3250
+    },
+    "common_fractions": {
+      "B1": 0.9978474784747847,
+      "B2": 0.9984615384615385
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "1ee076659a6c35496e36dd2262bb1f7512b19274ac8be1fae28b50ad6c5d3a39",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_00965000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 965000,
+    "end_us": 975000,
+    "reference_us": 970000,
+    "anchor_us": 900000,
+    "radius_px": 60.0,
+    "raw_count": 9534,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_01625000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1625000,
+    "end_us": 1635000,
+    "reference_us": 1630000,
+    "anchor_us": 1700000,
+    "radius_px": 60.0,
+    "raw_count": 10035,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 2557,
+    "common_count": 2557,
+    "supports": {
+      "B1": 2565,
+      "B2": 2570
+    },
+    "common_fractions": {
+      "B1": 0.9968810916179337,
+      "B2": 0.9949416342412452
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "7174fa1e3e77b98ecb35d62462b166c05f609dd127d161f2320b32ae85458aad",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_01695000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1695000,
+    "end_us": 1705000,
+    "reference_us": 1700000,
+    "anchor_us": 1700000,
+    "radius_px": 60.0,
+    "raw_count": 9569,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_01765000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "development",
+    "start_us": 1765000,
+    "end_us": 1775000,
+    "reference_us": 1770000,
+    "anchor_us": 1700000,
+    "radius_px": 60.0,
+    "raw_count": 11697,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 5000,
+    "common_count": 5785,
+    "supports": {
+      "B1": 5786,
+      "B2": 5792
+    },
+    "common_fractions": {
+      "B1": 0.99982716902869,
+      "B2": 0.9987914364640884
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "406f8ca91717045f1693c4fcd33429db66c33585d9a39def725f83d584709e9d",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_02425000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 2425000,
+    "end_us": 2435000,
+    "reference_us": 2430000,
+    "anchor_us": 2500000,
+    "radius_px": 60.0,
+    "raw_count": 8786,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4265,
+    "common_count": 4265,
+    "supports": {
+      "B1": 4277,
+      "B2": 4271
+    },
+    "common_fractions": {
+      "B1": 0.9971942950666355,
+      "B2": 0.9985951767735893
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "0e6d81b088dc966af047888a78c13864c029a1b9aeac05aa4f0e86f29b6d8203",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_02495000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 2495000,
+    "end_us": 2505000,
+    "reference_us": 2500000,
+    "anchor_us": 2500000,
+    "radius_px": 60.0,
+    "raw_count": 10820,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 4713,
+    "common_count": 4713,
+    "supports": {
+      "B1": 4739,
+      "B2": 4723
+    },
+    "common_fractions": {
+      "B1": 0.9945136104663431,
+      "B2": 0.9978827016726657
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "f97ed9cfb694f5bdf91300c5555015c0429b55835e53dc4af44f4020262dea8a",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_02565000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 2565000,
+    "end_us": 2575000,
+    "reference_us": 2570000,
+    "anchor_us": 2500000,
+    "radius_px": 60.0,
+    "raw_count": 13810,
+    "geometry_status": "unavailable",
+    "failure": "geometry_gap_over_30ms",
+    "optimizer_count": 0,
+    "common_count": 0,
+    "supports": {},
+    "common_fractions": {},
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": null,
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_03225000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3225000,
+    "end_us": 3235000,
+    "reference_us": 3230000,
+    "anchor_us": 3300000,
+    "radius_px": 60.0,
+    "raw_count": 11246,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3877,
+    "common_count": 3877,
+    "supports": {
+      "B1": 3887,
+      "B2": 3882
+    },
+    "common_fractions": {
+      "B1": 0.9974273218420375,
+      "B2": 0.9987120041215868
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "fc844b8615760b52a0c1d475790e00999374e5634d31fe543db54c3fd8a8ea49",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_03295000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3295000,
+    "end_us": 3305000,
+    "reference_us": 3300000,
+    "anchor_us": 3300000,
+    "radius_px": 60.0,
+    "raw_count": 13614,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 5000,
+    "common_count": 6299,
+    "supports": {
+      "B1": 6312,
+      "B2": 6314
+    },
+    "common_fractions": {
+      "B1": 0.9979404309252218,
+      "B2": 0.9976243268926196
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "a82e51cf4120c04285c9d4ce77d370784704885120e03dea0ff7d39363662e93",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run4_03365000_extension",
+    "run": 4,
+    "kind": "extension",
+    "partition": "evaluation",
+    "start_us": 3365000,
+    "end_us": 3375000,
+    "reference_us": 3370000,
+    "anchor_us": 3300000,
+    "radius_px": 60.0,
+    "raw_count": 8528,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 3336,
+    "common_count": 3336,
+    "supports": {
+      "B1": 3337,
+      "B2": 3338
+    },
+    "common_fractions": {
+      "B1": 0.9997003296373989,
+      "B2": 0.9994008388256441
+    },
+    "variants": [
+      "B1",
+      "B2"
+    ],
+    "input_sha256": "b6374308fdd855efc3749ffc5d827569894481ef668692c88fe461e20dd47f87",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run5_04095000_ablation",
+    "run": 5,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 4095000,
+    "end_us": 4105000,
+    "reference_us": 4100000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 15401,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 762,
+    "common_count": 762,
+    "supports": {
+      "A-1": 762,
+      "A0": 762,
+      "A0.5": 762,
+      "A1": 762
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "5308374a90b9b45ff8c759f2d9c9d877cf874e9e79e320e7a6cfd3fe3535bcad",
+    "hypothesis_only": true,
+    "physics_validated": false
+  },
+  {
+    "window": "run5_05095000_ablation",
+    "run": 5,
+    "kind": "ablation",
+    "partition": "diagnostic",
+    "start_us": 5095000,
+    "end_us": 5105000,
+    "reference_us": 5100000,
+    "anchor_us": null,
+    "radius_px": 60.0,
+    "raw_count": 20702,
+    "geometry_status": "candidate",
+    "failure": null,
+    "optimizer_count": 823,
+    "common_count": 823,
+    "supports": {
+      "A-1": 823,
+      "A0": 823,
+      "A0.5": 823,
+      "A1": 823
+    },
+    "common_fractions": {
+      "A-1": 1.0,
+      "A0": 1.0,
+      "A0.5": 1.0,
+      "A1": 1.0
+    },
+    "variants": [
+      "A-1",
+      "A0",
+      "A0.5",
+      "A1"
+    ],
+    "input_sha256": "0d65a9f11584ced571895a7959c664924ef27685aead08d84b73b0d378695a23",
+    "hypothesis_only": true,
+    "physics_validated": false
+  }
+]

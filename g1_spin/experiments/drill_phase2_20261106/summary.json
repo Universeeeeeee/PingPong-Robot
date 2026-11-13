@@ -1,0 +1,340 @@
+[
+  {
+    "run": 2,
+    "partition": "all",
+    "variant": "B1",
+    "planned": 12,
+    "geometry_available": 12,
+    "valid": 11,
+    "failures": {
+      "no_rotation_evidence": 1
+    },
+    "rpm_median": 257.9799530103649,
+    "abs_axis_z_median": 0.9944045607118412,
+    "mean_directed_axis": [
+      -0.06398961385650498,
+      0.002947572350711518,
+      -0.9940714818103664
+    ],
+    "runtime_median_s": 0.9301047920016572
+  },
+  {
+    "run": 2,
+    "partition": "all",
+    "variant": "B2",
+    "planned": 12,
+    "geometry_available": 12,
+    "valid": 10,
+    "failures": {
+      "no_rotation_evidence": 2
+    },
+    "rpm_median": 260.38831591203814,
+    "abs_axis_z_median": 0.996403291319741,
+    "mean_directed_axis": [
+      -0.08081431774423761,
+      0.0032454497672685877,
+      -0.9838646994140628
+    ],
+    "runtime_median_s": 0.9824303329223767
+  },
+  {
+    "run": 2,
+    "partition": "development",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 6,
+    "valid": 5,
+    "failures": {
+      "no_rotation_evidence": 1
+    },
+    "rpm_median": 258.6551798490235,
+    "abs_axis_z_median": 0.9930517190099204,
+    "mean_directed_axis": [
+      -0.08776783999990154,
+      0.020091171946495852,
+      -0.9945537460732268
+    ],
+    "runtime_median_s": 0.8129659999976866
+  },
+  {
+    "run": 2,
+    "partition": "development",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 6,
+    "valid": 4,
+    "failures": {
+      "no_rotation_evidence": 2
+    },
+    "rpm_median": 263.2461186792042,
+    "abs_axis_z_median": 0.9976763473170372,
+    "mean_directed_axis": [
+      -0.10855218698738366,
+      0.025457343882196455,
+      -0.9894883816691178
+    ],
+    "runtime_median_s": 0.9036202709539793
+  },
+  {
+    "run": 2,
+    "partition": "evaluation",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 6,
+    "valid": 6,
+    "failures": {},
+    "rpm_median": 257.66082464325507,
+    "abs_axis_z_median": 0.9946312647999167,
+    "mean_directed_axis": [
+      -0.04417442540367449,
+      -0.011338760645775428,
+      -0.9936695949246498
+    ],
+    "runtime_median_s": 0.9759662920259871
+  },
+  {
+    "run": 2,
+    "partition": "evaluation",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 6,
+    "valid": 6,
+    "failures": {},
+    "rpm_median": 259.6057725601245,
+    "abs_axis_z_median": 0.9951563391987237,
+    "mean_directed_axis": [
+      -0.06232240491547355,
+      -0.011562479642683324,
+      -0.9801155779106926
+    ],
+    "runtime_median_s": 0.9973217079532333
+  },
+  {
+    "run": 3,
+    "partition": "all",
+    "variant": "B1",
+    "planned": 12,
+    "geometry_available": 8,
+    "valid": 8,
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "rpm_median": 271.9410351908348,
+    "abs_axis_z_median": 0.08864337130523856,
+    "mean_directed_axis": [
+      -0.7427893565184932,
+      -0.6540724345785977,
+      0.03157864476713935
+    ],
+    "runtime_median_s": 1.0401970415259711
+  },
+  {
+    "run": 3,
+    "partition": "all",
+    "variant": "B2",
+    "planned": 12,
+    "geometry_available": 8,
+    "valid": 8,
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "rpm_median": 270.3657882983224,
+    "abs_axis_z_median": 0.08054921432356432,
+    "mean_directed_axis": [
+      -0.7310471112589578,
+      -0.6628254677841782,
+      0.030821626853014837
+    ],
+    "runtime_median_s": 1.0547398744965903
+  },
+  {
+    "run": 3,
+    "partition": "development",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 5,
+    "valid": 5,
+    "failures": {
+      "geometry_unavailable": 1
+    },
+    "rpm_median": 265.84689475034287,
+    "abs_axis_z_median": 0.09261236015505699,
+    "mean_directed_axis": [
+      -0.7471052069167643,
+      -0.6501188967560075,
+      0.010363681427334171
+    ],
+    "runtime_median_s": 0.9575530419824645
+  },
+  {
+    "run": 3,
+    "partition": "development",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 5,
+    "valid": 5,
+    "failures": {
+      "geometry_unavailable": 1
+    },
+    "rpm_median": 262.27789752365504,
+    "abs_axis_z_median": 0.0872289020531291,
+    "mean_directed_axis": [
+      -0.7262801901048622,
+      -0.6702016621729012,
+      0.010515601769150784
+    ],
+    "runtime_median_s": 0.9586321660317481
+  },
+  {
+    "run": 3,
+    "partition": "evaluation",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 3,
+    "valid": 3,
+    "failures": {
+      "geometry_unavailable": 3
+    },
+    "rpm_median": 275.1458697563553,
+    "abs_axis_z_median": 0.039705950409294956,
+    "mean_directed_axis": [
+      -0.7355962725213749,
+      -0.6606616642829145,
+      0.06693691700014799
+    ],
+    "runtime_median_s": 1.150444291997701
+  },
+  {
+    "run": 3,
+    "partition": "evaluation",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 3,
+    "valid": 3,
+    "failures": {
+      "geometry_unavailable": 3
+    },
+    "rpm_median": 287.4006807685195,
+    "abs_axis_z_median": 0.03287543037665157,
+    "mean_directed_axis": [
+      -0.7389919798491172,
+      -0.6505318104696397,
+      0.06466500199278828
+    ],
+    "runtime_median_s": 1.1577314999885857
+  },
+  {
+    "run": 4,
+    "partition": "all",
+    "variant": "B1",
+    "planned": 12,
+    "geometry_available": 8,
+    "valid": 8,
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "rpm_median": 250.66442143388323,
+    "abs_axis_z_median": 0.062364761293267915,
+    "mean_directed_axis": [
+      0.03155895105997997,
+      0.9950343407909209,
+      -0.06642263027708972
+    ],
+    "runtime_median_s": 1.6507149169920012
+  },
+  {
+    "run": 4,
+    "partition": "all",
+    "variant": "B2",
+    "planned": 12,
+    "geometry_available": 8,
+    "valid": 8,
+    "failures": {
+      "geometry_unavailable": 4
+    },
+    "rpm_median": 248.5302548143859,
+    "abs_axis_z_median": 0.06969408846690031,
+    "mean_directed_axis": [
+      0.0006607781955389135,
+      0.9898442467009917,
+      -0.06322202419554529
+    ],
+    "runtime_median_s": 1.6691296875360422
+  },
+  {
+    "run": 4,
+    "partition": "development",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 3,
+    "valid": 3,
+    "failures": {
+      "geometry_unavailable": 3
+    },
+    "rpm_median": 235.6110673799936,
+    "abs_axis_z_median": 0.060150661517839606,
+    "mean_directed_axis": [
+      0.049095366055427726,
+      0.9969348954527565,
+      -0.018566145694460044
+    ],
+    "runtime_median_s": 1.411471041967161
+  },
+  {
+    "run": 4,
+    "partition": "development",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 3,
+    "valid": 3,
+    "failures": {
+      "geometry_unavailable": 3
+    },
+    "rpm_median": 254.99556915279197,
+    "abs_axis_z_median": 0.06892616425071396,
+    "mean_directed_axis": [
+      0.0779737628321933,
+      0.9940170576060363,
+      -0.013271943523272193
+    ],
+    "runtime_median_s": 0.9402264170348644
+  },
+  {
+    "run": 4,
+    "partition": "evaluation",
+    "variant": "B1",
+    "planned": 6,
+    "geometry_available": 5,
+    "valid": 5,
+    "failures": {
+      "geometry_unavailable": 1
+    },
+    "rpm_median": 258.7659624860314,
+    "abs_axis_z_median": 0.0733623121902636,
+    "mean_directed_axis": [
+      0.021037102062711303,
+      0.9938940079938196,
+      -0.0951365210266675
+    ],
+    "runtime_median_s": 2.4688970829593018
+  },
+  {
+    "run": 4,
+    "partition": "evaluation",
+    "variant": "B2",
+    "planned": 6,
+    "geometry_available": 5,
+    "valid": 5,
+    "failures": {
+      "geometry_unavailable": 1
+    },
+    "rpm_median": 243.87795569965022,
+    "abs_axis_z_median": 0.08279573741538826,
+    "mean_directed_axis": [
+      -0.045727012586453716,
+      0.9873405601579648,
+      -0.09319207259890916
+    ],
+    "runtime_median_s": 1.8610008750110865
+  }
+]

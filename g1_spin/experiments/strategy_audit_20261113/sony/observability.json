@@ -1,0 +1,160 @@
+[
+  {
+    "label": "disk_early",
+    "source": "g1_spin/experiments/disk_recheck_20261113/inputs/early_turn_01750000_50ms.npz",
+    "support_points": 206,
+    "z_mean": -0.8297701444098369,
+    "z_std": 0.10564094184047752,
+    "translation_explains_transverse_spin_column_energy": 0.984049804910898,
+    "unabsorbed_fraction": 0.015950195089102004,
+    "svd_singular": [
+      18.861786790087624,
+      18.67554334166096,
+      7.412040674139261,
+      1.1652691234204764,
+      1.1378278121848513
+    ],
+    "condition": 16.577013312646415,
+    "column_normalized_condition": 16.803998486858067
+  },
+  {
+    "label": "disk_middle",
+    "source": "g1_spin/experiments/disk_recheck_20261113/inputs/middle_06350000_50ms.npz",
+    "support_points": 185,
+    "z_mean": -0.8481927420722086,
+    "z_std": 0.11156952515700465,
+    "translation_explains_transverse_spin_column_energy": 0.9829920461261485,
+    "unabsorbed_fraction": 0.017007953873851456,
+    "svd_singular": [
+      17.904296069598484,
+      17.862315575451756,
+      6.939343681791326,
+      1.1555255569670932,
+      1.1321181555575157
+    ],
+    "condition": 15.814865243267342,
+    "column_normalized_condition": 15.771974246906419
+  },
+  {
+    "label": "disk_late",
+    "source": "g1_spin/experiments/disk_recheck_20261113/inputs/late_11350000_50ms.npz",
+    "support_points": 164,
+    "z_mean": -0.8467227458409493,
+    "z_std": 0.10800425920694202,
+    "translation_explains_transverse_spin_column_energy": 0.9839900484347159,
+    "unabsorbed_fraction": 0.016009951565284064,
+    "svd_singular": [
+      16.937937595815605,
+      16.804167790837056,
+      6.332742248265626,
+      1.0540657966767526,
+      1.0013219348880384
+    ],
+    "condition": 16.915576305346292,
+    "column_normalized_condition": 17.181560172903957
+  },
+  {
+    "label": "disk_high_translation",
+    "source": "g1_spin/experiments/disk_recheck_20261113/inputs/high_motion_00450000_50ms.npz",
+    "support_points": 234,
+    "z_mean": -0.823650309129577,
+    "z_std": 0.12184742920008186,
+    "translation_explains_transverse_spin_column_energy": 0.978583673675784,
+    "unabsorbed_fraction": 0.021416326324215973,
+    "svd_singular": [
+      20.001981253017696,
+      19.853392808449996,
+      8.123110132264314,
+      1.4361423615556417,
+      1.3913402650082543
+    ],
+    "condition": 14.376052900976767,
+    "column_normalized_condition": 14.452845776513625
+  },
+  {
+    "label": "drill_fixed",
+    "source": "g1_spin/experiments/drill_candidate_validation_20261110/inputs/run1_00835000_candidate.npz",
+    "support_points": 402,
+    "z_mean": -0.8237010304384466,
+    "z_std": 0.11202760238500037,
+    "translation_explains_transverse_spin_column_energy": 0.9818385325714574,
+    "unabsorbed_fraction": 0.018161467428542633,
+    "svd_singular": [
+      26.034464536685263,
+      26.01535700673139,
+      11.104141555012035,
+      1.731096603714392,
+      1.704317052174373
+    ],
+    "condition": 15.275599398287081,
+    "column_normalized_condition": 15.050588609537893
+  },
+  {
+    "label": "synthetic_cap_rho_0.1",
+    "support_points": 10800,
+    "z_mean": -0.9982856722104668,
+    "z_std": 0.001545662670086696,
+    "translation_explains_transverse_spin_column_energy": 0.9999976027202365,
+    "unabsorbed_fraction": 2.397279763477478e-06,
+    "svd_singular": [
+      146.8435056069783,
+      146.84350560697823,
+      6.080455404904668,
+      0.11367991228442058,
+      0.11367991228441551
+    ],
+    "condition": 1291.7278229384174,
+    "column_normalized_condition": 1291.7259241928853
+  },
+  {
+    "label": "synthetic_cap_rho_0.3",
+    "support_points": 10800,
+    "z_mean": -0.984471830141273,
+    "z_std": 0.014180390487731941,
+    "translation_explains_transverse_spin_column_energy": 0.9997925661173115,
+    "unabsorbed_fraction": 0.00020743388268851248,
+    "svd_singular": [
+      145.8364309248833,
+      145.8364309248833,
+      18.183306288632068,
+      1.0501368985530801,
+      1.0501368985530295
+    ],
+    "condition": 138.8737326779294,
+    "column_normalized_condition": 138.85695067996915
+  },
+  {
+    "label": "synthetic_cap_rho_0.5",
+    "support_points": 10800,
+    "z_mean": -0.9557132439938765,
+    "z_std": 0.040997825448223765,
+    "translation_explains_transverse_spin_column_energy": 0.998163174167573,
+    "unabsorbed_fraction": 0.001836825832426947,
+    "svd_singular": [
+      143.78198026619023,
+      143.78198026619023,
+      30.286281291745915,
+      3.079499350482538,
+      3.0794993504824704
+    ],
+    "condition": 46.690050525149054,
+    "column_normalized_condition": 46.64406996012312
+  },
+  {
+    "label": "synthetic_cap_rho_0.8",
+    "support_points": 10800,
+    "z_mean": -0.8766598678877449,
+    "z_std": 0.11915608015263227,
+    "translation_explains_transverse_spin_column_energy": 0.9818607197587375,
+    "unabsorbed_fraction": 0.018139280241262545,
+    "svd_singular": [
+      138.4452582007815,
+      138.44525820078147,
+      48.44077300843969,
+      9.295267186270609,
+      9.295267186270426
+    ],
+    "condition": 14.894166614734008,
+    "column_normalized_condition": 14.782129064843037
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "window": "run1_01425000_ablation",
+    "run": 1,
+    "start_us": 1425000,
+    "event_span_s": 0.009996999999999999,
+    "center_delta_px": [
+      -1.6598553452016631,
+      3.4379719286538375
+    ],
+    "center_velocity_px_s": [
+      -166.03534512370345,
+      343.90036297427605
+    ],
+    "near_axis_delta_omega": [
+      -5.731672716237934,
+      -2.767255752061724,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      -6.787296241803041,
+      -3.1971818762927073,
+      -0.39181947424755653
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.839542540739768,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      -6.7774611160110885,
+      -3.0677331037517916,
+      -0.8841944740993185
+    ],
+    "x_near_prediction_residual": -1.045788399773154,
+    "full_prediction_residual_norm": 0.5092021748684071,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 13.58978525592236,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.21464038308771172,
+      "A0": 0.38782961166570473,
+      "A0.5": 0.488239904216369,
+      "A1": 0.5961465945848698
+    }
+  },
+  {
+    "window": "run1_03665000_ablation",
+    "run": 1,
+    "start_us": 3665000,
+    "event_span_s": 0.009999,
+    "center_delta_px": [
+      1.1719490753283708,
+      -3.5373517185037713
+    ],
+    "center_velocity_px_s": [
+      117.20662819565665,
+      -353.7705489052677
+    ],
+    "near_axis_delta_omega": [
+      5.896175815087795,
+      1.9534438032609442,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      7.118142663115583,
+      2.3306893078130324,
+      0.32944373412517514
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.8361904217947678,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      7.456811752638227,
+      2.3252122788330496,
+      0.12450742862371111
+    ],
+    "x_near_prediction_residual": 1.5606359375504324,
+    "full_prediction_residual_norm": 0.39588589183896683,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 16.39836601100672,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.6287957268050013,
+      "A0": 0.5574223706117754,
+      "A0.5": 0.5293431286640284,
+      "A1": 0.5080453935279916
+    }
+  },
+  {
+    "window": "run1_04365000_ablation",
+    "run": 1,
+    "start_us": 4365000,
+    "event_span_s": 0.009989,
+    "center_delta_px": [
+      -0.8570474983742997,
+      -3.8593914336568673
+    ],
+    "center_velocity_px_s": [
+      -85.7991288791971,
+      -386.36414392400314
+    ],
+    "near_axis_delta_omega": [
+      6.439402398733386,
+      -1.4299854813199517,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      7.81784225660828,
+      -1.7297004375004603,
+      0.06963883507735186
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.8297320686559118,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      8.267281483359382,
+      -1.567185299093822,
+      0.3146482444583083
+    ],
+    "x_near_prediction_residual": 1.8278790846259954,
+    "full_prediction_residual_norm": 0.5370627518634687,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 15.927719667787082,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.6035570345324917,
+      "A0": 0.6210379088261904,
+      "A0.5": 0.6402142707164982,
+      "A1": 0.6721855356584931
+    }
+  },
+  {
+    "window": "run1_01495000_ablation",
+    "run": 1,
+    "start_us": 1495000,
+    "event_span_s": 0.009992,
+    "center_delta_px": [
+      -0.44607824353352044,
+      -0.7306477601698589
+    ],
+    "center_velocity_px_s": [
+      -44.643539184699804,
+      -73.12327463669526
+    ],
+    "near_axis_delta_omega": [
+      1.2187212439449209,
+      -0.7440589864116635,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      1.5088733792089588,
+      -0.9013841227271766,
+      0.04816206367537473
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.8145135520316118,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      1.6024766221307107,
+      -0.9059714734317481,
+      -0.03476618942192333
+    ],
+    "x_near_prediction_residual": 0.38375537818578986,
+    "full_prediction_residual_norm": 0.12513874713183268,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 3.14779121141843,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.43306612954021206,
+      "A0": 0.45729161166951426,
+      "A0.5": 0.4699119797791871,
+      "A1": 0.4827131037681116
+    }
+  },
+  {
+    "window": "run1_03595000_ablation",
+    "run": 1,
+    "start_us": 3595000,
+    "event_span_s": 0.009988,
+    "center_delta_px": [
+      -0.2875033686181041,
+      0.20224190065482617
+    ],
+    "center_velocity_px_s": [
+      -28.784878716269933,
+      20.248488251384277
+    ],
+    "near_axis_delta_omega": [
+      -0.33747480418973796,
+      -0.47974797860449886,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      -0.39932183088364204,
+      -0.5661948261830341,
+      -0.03297435623538001
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.835921928243628,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      -0.4544256088588643,
+      -0.5678600448131377,
+      -0.009238446187835647
+    ],
+    "x_near_prediction_residual": -0.11695080466912633,
+    "full_prediction_residual_norm": 0.06002160216133647,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 0.9787440263388809,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.3564373768397391,
+      "A0": 0.3788895443672746,
+      "A0.5": 0.3902234026537852,
+      "A1": 0.4016129885721391
+    }
+  },
+  {
+    "window": "run1_05695000_ablation",
+    "run": 1,
+    "start_us": 5695000,
+    "event_span_s": 0.009986,
+    "center_delta_px": [
+      0.43763875866761737,
+      0.7023858993513272
+    ],
+    "center_velocity_px_s": [
+      43.82523119042833,
+      70.33706182168308
+    ],
+    "near_axis_delta_omega": [
+      -1.172284363694718,
+      0.7304205198404722,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      -1.3000456090835308,
+      0.844842404740155,
+      0.11630335137878928
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.8887540689887057,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      -1.0780368827912596,
+      0.8741448682509549,
+      0.3330066953111288
+    ],
+    "x_near_prediction_residual": 0.09424748090345836,
+    "full_prediction_residual_norm": 0.3116197172663761,
+    "A0_A1_valid": [
+      true,
+      true
+    ],
+    "axis_A0_A1_difference_deg": 2.544181326733598,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": true,
+      "A0.5": true,
+      "A1": true
+    },
+    "alpha_gain": {
+      "A-1": 0.7553853198017972,
+      "A0": 0.7134940789889248,
+      "A0.5": 0.6927816865719241,
+      "A1": 0.672222563515714
+    }
+  },
+  {
+    "window": "run5_04095000_ablation",
+    "run": 5,
+    "start_us": 4095000,
+    "event_span_s": 0.009968999999999999,
+    "center_delta_px": [
+      -2.572602939520266,
+      -0.37120618370232705
+    ],
+    "center_velocity_px_s": [
+      -258.0602808225766,
+      -37.236050125622135
+    ],
+    "near_axis_delta_omega": [
+      0.6206008354270356,
+      -4.301004680376277,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      0.7208991015107267,
+      -4.957996930768655,
+      -0.03510688613562462
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.8664860875725083,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      0.6911377286544007,
+      -4.89865701590089,
+      0.07790061062483328
+    ],
+    "x_near_prediction_residual": 0.07053689322736512,
+    "full_prediction_residual_norm": 0.13106356906048175,
+    "A0_A1_valid": [
+      false,
+      false
+    ],
+    "axis_A0_A1_difference_deg": 45.40669743526534,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": false,
+      "A0.5": false,
+      "A1": false
+    },
+    "alpha_gain": {
+      "A-1": 0.13002012664934504,
+      "A0": 0.038371802486885986,
+      "A0.5": 0.012491814046837302,
+      "A1": 0.0010811117026374717
+    }
+  },
+  {
+    "window": "run5_05095000_ablation",
+    "run": 5,
+    "start_us": 5095000,
+    "event_span_s": 0.009930999999999999,
+    "center_delta_px": [
+      -3.373246225574576,
+      0.6478970724500073
+    ],
+    "center_velocity_px_s": [
+      -339.6683340624888,
+      65.23986229483509
+    ],
+    "near_axis_delta_omega": [
+      -1.0873310382472516,
+      -5.66113890104148,
+      0.0
+    ],
+    "full_sphere_linear_delta_omega": [
+      -1.427936278655596,
+      -7.1473612536881586,
+      0.11110518931227853
+    ],
+    "full_sphere_rank": 3,
+    "mean_z": -0.7944671874073327,
+    "note": "Algebraic coupling prediction for a velocity hypothesis, not measured physical center motion.",
+    "actual_delta_omega": [
+      -1.92613574126377,
+      -7.331347993648366,
+      0.3736034261699224
+    ],
+    "x_near_prediction_residual": -0.8388047030165184,
+    "full_prediction_residual_norm": 0.5924180528795778,
+    "A0_A1_valid": [
+      false,
+      false
+    ],
+    "axis_A0_A1_difference_deg": 162.77492015640647,
+    "alpha_valid": {
+      "A-1": true,
+      "A0": false,
+      "A0.5": false,
+      "A1": false
+    },
+    "alpha_gain": {
+      "A-1": 0.18014165304672347,
+      "A0": 0.04056025359219495,
+      "A0.5": 0.0072140903246054044,
+      "A1": 0.0011592877396326973
+    }
+  }
+]

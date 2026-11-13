@@ -1,0 +1,15 @@
+{
+  "version": "pre_capture_20261112_v1",
+  "files": {
+    "align_reference.py": "e77cfce30ca210b0bec2322a2846c34e0a5785b215398f0f737a18a2d168b858",
+    "common.py": "314063c0f2d7720783719033772a8cf06101d52a3cb48ec914497def5c06f2ad",
+    "evaluate.py": "e2fcb1943df16c28110c3caa49ec985d2cc7f97e6ae33244452aa73ab072d2a0",
+    "frozen/cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+    "frozen/contour.py": "ea020d090e8cbd82f4a899fb7a9bcabf03622caf7719f24ccab6d10bb42dd30e",
+    "frozen/geometry.py": "601a464c3ef7215713f68da8c602bd6231a1a57d53435895a0b9e953ffdbc202",
+    "frozen/policy.py": "a629a8697a5d81da80924dea864f43df84547e17605523e454a0d80cb51d93a7",
+    "sensitivity.py": "29e4a848db00675a1e4dac14c0ddc0def0eac13ebd8067ef4e1f5e49f5d0a853",
+    "sync.py": "2a4717c3f894b44db88a5adff895e728e7676e8b9338ded7689f02719bf50eb4",
+    "test_preflight.py": "78247e2a83a56841b3e6a6e27bd72e6e1a09cd63cea8f290d2241051ab6837c9"
+  }
+}

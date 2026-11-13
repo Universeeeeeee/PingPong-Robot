@@ -1,0 +1,252 @@
+[
+  {
+    "previous": 129220607,
+    "current": 129216512,
+    "batch": 6
+  },
+  {
+    "previous": 129589227,
+    "current": 129588498,
+    "batch": 11
+  },
+  {
+    "previous": 129638399,
+    "current": 129634304,
+    "batch": 12
+  },
+  {
+    "previous": 129953649,
+    "current": 129949699,
+    "batch": 18
+  },
+  {
+    "previous": 130113535,
+    "current": 130109441,
+    "batch": 21
+  },
+  {
+    "previous": 130134015,
+    "current": 130129920,
+    "batch": 22
+  },
+  {
+    "previous": 130146303,
+    "current": 130142210,
+    "batch": 22
+  },
+  {
+    "previous": 130256786,
+    "current": 130253433,
+    "batch": 25
+  },
+  {
+    "previous": 130523132,
+    "current": 130519041,
+    "batch": 30
+  },
+  {
+    "previous": 130535418,
+    "current": 130531329,
+    "batch": 30
+  },
+  {
+    "previous": 130543613,
+    "current": 130539520,
+    "batch": 31
+  },
+  {
+    "previous": 130562056,
+    "current": 130560155,
+    "batch": 31
+  },
+  {
+    "previous": 130576383,
+    "current": 130572288,
+    "batch": 32
+  },
+  {
+    "previous": 130658303,
+    "current": 130654208,
+    "batch": 34
+  },
+  {
+    "previous": 130763526,
+    "current": 130761092,
+    "batch": 37
+  },
+  {
+    "previous": 130768895,
+    "current": 130764801,
+    "batch": 37
+  },
+  {
+    "previous": 130785279,
+    "current": 130781184,
+    "batch": 37
+  },
+  {
+    "previous": 130846718,
+    "current": 130842626,
+    "batch": 39
+  },
+  {
+    "previous": 131002367,
+    "current": 130998273,
+    "batch": 43
+  },
+  {
+    "previous": 131022847,
+    "current": 131018752,
+    "batch": 43
+  },
+  {
+    "previous": 131035135,
+    "current": 131031042,
+    "batch": 44
+  },
+  {
+    "previous": 131067903,
+    "current": 131063808,
+    "batch": 44
+  },
+  {
+    "previous": 134938623,
+    "current": 134934529,
+    "batch": 83
+  },
+  {
+    "previous": 141381631,
+    "current": 141377536,
+    "batch": 134
+  },
+  {
+    "previous": 141983743,
+    "current": 141979648,
+    "batch": 140
+  },
+  {
+    "previous": 142643199,
+    "current": 142639104,
+    "batch": 147
+  },
+  {
+    "previous": 142987263,
+    "current": 142983168,
+    "batch": 152
+  },
+  {
+    "previous": 143952688,
+    "current": 143950130,
+    "batch": 163
+  },
+  {
+    "previous": 144265215,
+    "current": 144261120,
+    "batch": 166
+  },
+  {
+    "previous": 144697802,
+    "current": 144696273,
+    "batch": 171
+  },
+  {
+    "previous": 145287667,
+    "current": 145285162,
+    "batch": 177
+  },
+  {
+    "previous": 145645567,
+    "current": 145641472,
+    "batch": 180
+  },
+  {
+    "previous": 145768447,
+    "current": 145764352,
+    "batch": 181
+  },
+  {
+    "previous": 147414968,
+    "current": 147410948,
+    "batch": 198
+  },
+  {
+    "previous": 148226047,
+    "current": 148221952,
+    "batch": 206
+  },
+  {
+    "previous": 148660223,
+    "current": 148656128,
+    "batch": 210
+  },
+  {
+    "previous": 149049124,
+    "current": 149045589,
+    "batch": 214
+  },
+  {
+    "previous": 149626879,
+    "current": 149622784,
+    "batch": 219
+  },
+  {
+    "previous": 149729279,
+    "current": 149725184,
+    "batch": 220
+  },
+  {
+    "previous": 151685843,
+    "current": 151683669,
+    "batch": 241
+  },
+  {
+    "previous": 153956183,
+    "current": 153952470,
+    "batch": 258
+  },
+  {
+    "previous": 163692543,
+    "current": 163688449,
+    "batch": 330
+  },
+  {
+    "previous": 168087551,
+    "current": 168083456,
+    "batch": 366
+  },
+  {
+    "previous": 170725375,
+    "current": 170721280,
+    "batch": 389
+  },
+  {
+    "previous": 174399117,
+    "current": 174395941,
+    "batch": 423
+  },
+  {
+    "previous": 176422911,
+    "current": 176418817,
+    "batch": 442
+  },
+  {
+    "previous": 177168383,
+    "current": 177164288,
+    "batch": 450
+  },
+  {
+    "previous": 177258231,
+    "current": 177255001,
+    "batch": 451
+  },
+  {
+    "previous": 178860030,
+    "current": 178855936,
+    "batch": 467
+  },
+  {
+    "previous": 182476799,
+    "current": 182472704,
+    "batch": 503
+  }
+]

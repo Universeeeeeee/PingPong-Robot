@@ -1,0 +1,266 @@
+[
+  {
+    "run": 1,
+    "begin_us": 745000,
+    "end_us": 765000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 815000,
+    "end_us": 835000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 2145000,
+    "end_us": 2165000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 2215000,
+    "end_us": 2235000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 3545000,
+    "end_us": 3565000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 3615000,
+    "end_us": 3635000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 5645000,
+    "end_us": 5665000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "begin_us": 5715000,
+    "end_us": 5735000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 845000,
+    "end_us": 865000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 915000,
+    "end_us": 935000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 2045000,
+    "end_us": 2065000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 2115000,
+    "end_us": 2135000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 3445000,
+    "end_us": 3465000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 3515000,
+    "end_us": 3535000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 5245000,
+    "end_us": 5265000,
+    "condition": "rotation"
+  },
+  {
+    "run": 2,
+    "begin_us": 5315000,
+    "end_us": 5335000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 1445000,
+    "end_us": 1465000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 1515000,
+    "end_us": 1535000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 2645000,
+    "end_us": 2665000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 2715000,
+    "end_us": 2735000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 4245000,
+    "end_us": 4265000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 4315000,
+    "end_us": 4335000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 6245000,
+    "end_us": 6265000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "begin_us": 6315000,
+    "end_us": 6335000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 845000,
+    "end_us": 865000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 915000,
+    "end_us": 935000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 1645000,
+    "end_us": 1665000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 1715000,
+    "end_us": 1735000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 2445000,
+    "end_us": 2465000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 2515000,
+    "end_us": 2535000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 3245000,
+    "end_us": 3265000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "begin_us": 3315000,
+    "end_us": 3335000,
+    "condition": "rotation"
+  },
+  {
+    "run": 5,
+    "begin_us": 4045000,
+    "end_us": 4065000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 4115000,
+    "end_us": 4135000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 4445000,
+    "end_us": 4465000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 4515000,
+    "end_us": 4535000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 5645000,
+    "end_us": 5665000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 5715000,
+    "end_us": 5735000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 6445000,
+    "end_us": 6465000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 6515000,
+    "end_us": 6535000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "begin_us": 645000,
+    "end_us": 665000,
+    "condition": "static"
+  },
+  {
+    "run": 5,
+    "begin_us": 1645000,
+    "end_us": 1665000,
+    "condition": "static"
+  },
+  {
+    "run": 5,
+    "begin_us": 2645000,
+    "end_us": 2665000,
+    "condition": "static"
+  },
+  {
+    "run": 5,
+    "begin_us": 3145000,
+    "end_us": 3165000,
+    "condition": "static"
+  }
+]

@@ -1,0 +1,3 @@
+Existing geometry/rotation tests: g1_spin/.venv/bin/python -m pytest g1_spin/tests/test_geometry.py -q
+11 passed in 3.35s
+Independent real-input reconstruction and recorder replay: verification.json

@@ -1,0 +1,187 @@
+{
+  "rows": 126,
+  "inputs": 36,
+  "checks": [
+    {
+      "window": "early_turn_01650000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01650000_20ms",
+      "events": 1790,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01650000_50ms",
+      "events": 4530,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01750000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01750000_20ms",
+      "events": 3039,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01750000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01850000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01850000_20ms",
+      "events": 2525,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "early_turn_01850000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00350000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00350000_20ms",
+      "events": 2713,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00350000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00450000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00450000_20ms",
+      "events": 2096,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00450000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00550000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00550000_20ms",
+      "events": 3075,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "high_motion_00550000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11250000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11250000_20ms",
+      "events": 1091,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11250000_50ms",
+      "events": 2769,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11350000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11350000_20ms",
+      "events": 1067,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11350000_50ms",
+      "events": 2528,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11450000_100ms",
+      "events": 3906,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11450000_20ms",
+      "events": 784,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "late_11450000_50ms",
+      "events": 1933,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06250000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06250000_20ms",
+      "events": 2021,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06250000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06350000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06350000_20ms",
+      "events": 1880,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06350000_50ms",
+      "events": 4467,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06450000_100ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06450000_20ms",
+      "events": 2880,
+      "raw_ids_centers_mask_verified": true
+    },
+    {
+      "window": "middle_06450000_50ms",
+      "events": 5000,
+      "raw_ids_centers_mask_verified": true
+    }
+  ],
+  "protected_hashes_unchanged": true
+}

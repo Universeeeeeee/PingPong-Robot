@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "test": "one invalid qualified sphere point rejects whole global system without silently skipping row or LOPO mask mismatch",
+  "development_invalid_systems": 0,
+  "development_values_rerun": false,
+  "old_dev_freezes_unchanged": true,
+  "old_source": "frozen_preconfirmation/qualify_training_dev_v1.py",
+  "old_source_sha256": "182093b0f1859541987ec5f7e195e85525523c9075f3f119a70fcd67a71d9a12",
+  "new_source_sha256": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7",
+  "future_only_change": "No dev system had invalid geometry; only invalid-input branch changes for later confirmation."
+}

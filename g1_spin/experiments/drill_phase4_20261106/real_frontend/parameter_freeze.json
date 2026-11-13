@@ -1,0 +1,25 @@
+{
+  "phase": "After Astra measurement/causality review and6 path tests; before revised synthetic controls and all real development",
+  "supersedes_snapshot": "pre_real_review_v1/parameter_freeze.json",
+  "files": {
+    "protocol.md": "8f191da230805df24661d335a27a17db514aa85f2501ed1930280a4eb9a1d5c5",
+    "helpers.py": "47fac69080425ddb6e3cb711878d3747278fbe241b5f1b503031bcd050add08c",
+    "frontends.py": "88cefe81365ae627e50b051536d5b4263b3e257ec74689ae07945295b63c634b",
+    "prediction.py": "a53ed9e265334c2969d1f5f5e68b2ece50d3c2572403476018dc4d25ecef2d78",
+    "pipeline.py": "1a52e73bd31e12e22402933f75a2bf79de20dd47888b1fcdb653fbb065534385",
+    "prepare.py": "ed5ecc4be4d29e762b8879640451e34927717903c3b2d4fa1e2663b7b1612f85",
+    "run.py": "72479d3e2861607dd178b44b910b7123028441dbe0f0a09cce9425d7f11f2025",
+    "test_paths.py": "f4ea28f7f656810033a0b98125fa1e72084f83a07f471c03d7686dfb65fe1d47",
+    "path_verification.json": "e6a3323294927000b3ab3b0695382da7e1be80c88d50de2a206f0b1fa0db1249",
+    "input_manifest.json": "ac883501cd4dbfe9e3c54db9daca0810c46089f38763f21b7c410d12b888d140",
+    "input_source_hashes.json": "c32b435ed70eb1ff0e8b12da705db5191234bdfecce9156d8cee8091b61219d6"
+  },
+  "frontends": [
+    "F0",
+    "F1",
+    "F2"
+  ],
+  "development_windows": 4,
+  "confirmation_windows": 4,
+  "change_policy": "No real-data threshold tuning. First synthetic outputs retained as prereview artifacts."
+}

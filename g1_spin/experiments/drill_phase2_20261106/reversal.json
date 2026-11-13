@@ -1,0 +1,138 @@
+{
+  "run1_reference_windows": 12,
+  "run1_mean_directed_axis": [
+    -0.017765793320907924,
+    -0.9972240193873757,
+    0.07230927841270213
+  ],
+  "rows": [
+    {
+      "window": "run4_00895000_extension",
+      "variant": "B1",
+      "wy": 24.626308055002376,
+      "directed_angle_to_run1_mean_deg": 178.92663985736007,
+      "angle_to_negated_run1_mean_deg": 1.0733601426399269,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_00895000_extension",
+      "variant": "B2",
+      "wy": 26.66079224700747,
+      "directed_angle_to_run1_mean_deg": 177.8755142246358,
+      "angle_to_negated_run1_mean_deg": 2.124485775364231,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_01625000_extension",
+      "variant": "B1",
+      "wy": 22.286354211322752,
+      "directed_angle_to_run1_mean_deg": 172.06257142588305,
+      "angle_to_negated_run1_mean_deg": 7.93742857411696,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_01625000_extension",
+      "variant": "B2",
+      "wy": 23.924441615498594,
+      "directed_angle_to_run1_mean_deg": 169.1718479565648,
+      "angle_to_negated_run1_mean_deg": 10.828152043435221,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_01765000_extension",
+      "variant": "B1",
+      "wy": 28.89973967049742,
+      "directed_angle_to_run1_mean_deg": 177.31532973725817,
+      "angle_to_negated_run1_mean_deg": 2.684670262741848,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_01765000_extension",
+      "variant": "B2",
+      "wy": 27.007957755860012,
+      "directed_angle_to_run1_mean_deg": 177.85637275053722,
+      "angle_to_negated_run1_mean_deg": 2.1436272494627717,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_02425000_extension",
+      "variant": "B1",
+      "wy": 24.937773531229293,
+      "directed_angle_to_run1_mean_deg": 173.1298573227995,
+      "angle_to_negated_run1_mean_deg": 6.870142677200506,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_02425000_extension",
+      "variant": "B2",
+      "wy": 24.26488892752448,
+      "directed_angle_to_run1_mean_deg": 162.63890025233235,
+      "angle_to_negated_run1_mean_deg": 17.361099747667666,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_02495000_extension",
+      "variant": "B1",
+      "wy": 29.269157197539542,
+      "directed_angle_to_run1_mean_deg": 178.88501761434617,
+      "angle_to_negated_run1_mean_deg": 1.1149823856538146,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_02495000_extension",
+      "variant": "B2",
+      "wy": 26.469509815540228,
+      "directed_angle_to_run1_mean_deg": 177.56246830906713,
+      "angle_to_negated_run1_mean_deg": 2.437531690932888,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03225000_extension",
+      "variant": "B1",
+      "wy": 28.84155017298095,
+      "directed_angle_to_run1_mean_deg": 178.61412661474165,
+      "angle_to_negated_run1_mean_deg": 1.3858733852583647,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03225000_extension",
+      "variant": "B2",
+      "wy": 26.43698009357618,
+      "directed_angle_to_run1_mean_deg": 178.8609608801727,
+      "angle_to_negated_run1_mean_deg": 1.1390391198273015,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03295000_extension",
+      "variant": "B1",
+      "wy": 26.988635999681087,
+      "directed_angle_to_run1_mean_deg": 178.6456812020284,
+      "angle_to_negated_run1_mean_deg": 1.3543187979716034,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03295000_extension",
+      "variant": "B2",
+      "wy": 23.134338634898292,
+      "directed_angle_to_run1_mean_deg": 178.1052910382997,
+      "angle_to_negated_run1_mean_deg": 1.8947089617003061,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03365000_extension",
+      "variant": "B1",
+      "wy": 24.730194845029878,
+      "directed_angle_to_run1_mean_deg": 179.11701595161017,
+      "angle_to_negated_run1_mean_deg": 0.8829840483898465,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    },
+    {
+      "window": "run4_03365000_extension",
+      "variant": "B2",
+      "wy": 25.034665433916977,
+      "directed_angle_to_run1_mean_deg": 178.9622745887099,
+      "angle_to_negated_run1_mean_deg": 1.0377254112901018,
+      "wy_reversed_relative_to_all_12_run1_B1": true
+    }
+  ]
+}

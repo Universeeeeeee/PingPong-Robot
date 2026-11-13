@@ -1,0 +1,14 @@
+{
+  "exposures": 144,
+  "actual_pixels_verified": 144,
+  "spin_rows": 12,
+  "raw_spin_inputs_verified": [
+    "run3_01465000",
+    "run3_02665000",
+    "run3_06265000",
+    "run5_04135000",
+    "run5_06535000"
+  ],
+  "source_hashes_unchanged": true,
+  "standalone_old_raw_ids_and_centers_verified": true
+}

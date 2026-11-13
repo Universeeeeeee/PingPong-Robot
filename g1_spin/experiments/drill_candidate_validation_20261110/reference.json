@@ -1,0 +1,38 @@
+{
+  "status": "accepted_approximate_video_reference",
+  "event_recording_pairing": "separate_recordings_same_drill_setting_user_confirmed",
+  "frame_synchronization": "not_simultaneous",
+  "videos": [
+    {
+      "video": 1,
+      "requested_interval_s": [
+        2,
+        3
+      ],
+      "marker_A_crossing_rpm": 249.43591451791582,
+      "conservative_readout_range_hz": [
+        3.9741214292572185,
+        4.358807746993413
+      ]
+    },
+    {
+      "video": 2,
+      "requested_interval_s": [
+        1,
+        2
+      ],
+      "marker_A_crossing_rpm": 244.3868475193552,
+      "conservative_readout_range_hz": [
+        3.8980361971270665,
+        4.267449086517236
+      ]
+    }
+  ],
+  "user_confirmation": "另拍的同档位参考，转速近似相同",
+  "nominal_same_setting_rpm": 246.9113810186355,
+  "same_setting_readout_envelope_rpm": [
+    233.88217182762398,
+    261.5284648196048
+  ],
+  "scope": "Approximate same-setting speed reference for fixed drill rotation. Not instantaneous truth, not a calibrated drift bound, not 3D axis truth."
+}

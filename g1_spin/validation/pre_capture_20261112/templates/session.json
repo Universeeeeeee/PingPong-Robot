@@ -1,0 +1,22 @@
+{
+  "session_id": "FILL_ME",
+  "capture_date": "FILL_ME",
+  "split": "development_or_locked_test",
+  "condition": "static_translation_spin_reverse_tilt",
+  "repeat": 1,
+  "drill_setting": "FILL_ME",
+  "camera_models": {"event": "FILL_ME", "reference": "FILL_ME"},
+  "reference_capture_fps": null,
+  "reference_exposure_us": null,
+  "reference_shutter_type": "unknown",
+  "video_time_semantics": "unknown",
+  "camera_intrinsics": null,
+  "camera_extrinsics": null,
+  "depth_or_motion_plane": null,
+  "projection_verified": false,
+  "synchronization_verified": false,
+  "ball_center_reference_kind": "manual_or_external_measurement",
+  "spin_reference_kind": "same_setting_approximate_or_synchronized",
+  "raw_files_sha256": {},
+  "notes": "Unfilled fields must not be treated as verified calibration."
+}

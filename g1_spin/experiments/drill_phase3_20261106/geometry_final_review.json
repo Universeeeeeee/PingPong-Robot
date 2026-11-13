@@ -1,0 +1,11 @@
+{
+  "reviewed_before_spin": true,
+  "decision": "Retain all configuration and gaps; no geometry tuning after spin.",
+  "notes": [
+    "run4 4.4 has missing support; nearest accepted circle is only a temporal candidate, not validated anchor truth.",
+    "run4 5.4/6.4 raw outer arcs broadly agree with r63/r61 circles; 6.4 shaft points down-left.",
+    "run4 7.4/8.4 radius80/77 outlines are larger, partly occluded by nearby hand/rod events; accepted circles remain hypotheses.",
+    "run5 8.0/11.0 raw contours and texture are sparse; few accepted geometries, preserve all failures. run5 9.5 has more visible outer support."
+  ],
+  "caveat": "Nearest accepted grid observation may be offset from exact block anchor; review image is explicitly labeled. No independent geometry truth."
+}

@@ -1,0 +1,10 @@
+{
+  "/home/pingpong1/g1_spin/data/raw/DSP03F100025_20261112_224226.raw": {
+    "bytes": 3301091175,
+    "sha256": "ae51add56093dbcb61c8c6a86ee5510e15a6e1856f5c0e27278cb12128e3c27d"
+  },
+  "/home/pingpong1/g1_spin/dual_capture/recordings/formal_20261112_01/realsense.db3": {
+    "bytes": 21135515648,
+    "sha256": "ab4525ea16fb2d9b630110a6a70f3e10b87409d8e080ef47495ba25823d5928a"
+  }
+}

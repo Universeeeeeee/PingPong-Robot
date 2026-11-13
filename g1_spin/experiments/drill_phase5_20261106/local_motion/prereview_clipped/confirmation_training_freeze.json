@@ -1,0 +1,16 @@
+{
+  "stage": "All confirmation T fits/bootstrap/qualification/global systems before evaluation",
+  "rows": 384,
+  "files": {
+    "confirm_real.py": "2fd6ff3e4996b95b6bd60be538c071069f8b9dcb3fffc2c7e454b26e8c22d271",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "train_real.py": "d55a08f394e66b6f3982055f44e834def0aa6b58c8eb0ca7135311abbe743708",
+    "qualify_training.py": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7",
+    "real/confirmation_inputs.json": "3359e265b9c8fcc728381ad82f809a35c921b7d1ca1f75bf3283e59277d198ee",
+    "real/confirmation_training.json": "d483d278a8228e45d3f30ea1964438c39260d729fc8243f78bbe0b91b1b4d87b",
+    "real/confirmation_training_qualification.json": "d483d278a8228e45d3f30ea1964438c39260d729fc8243f78bbe0b91b1b4d87b",
+    "real/confirmation_T_global_systems.json": "f284bd0b6e0e034361cfcbc37b95d860c96ecedd0018a6128d6c82e3f777f969"
+  },
+  "selection_development_sha256": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+  "H_future_evaluation_performed": false
+}

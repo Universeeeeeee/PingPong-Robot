@@ -1,0 +1,70 @@
+[
+  {
+    "run": 1,
+    "window_count": 132,
+    "circle_candidates_half_bins": 132,
+    "geometry_status": "unvalidated Hough candidates; includes fitting error and motion",
+    "center_x_range": [
+      627.5,
+      659.5
+    ],
+    "center_y_range": [
+      345.5,
+      370.5
+    ],
+    "diameter_median_px": 117.80000305175781,
+    "median_roi_events_5ms": 3246.5,
+    "median_roi_fraction": 0.6203458457293631
+  },
+  {
+    "run": 2,
+    "window_count": 123,
+    "circle_candidates_half_bins": 123,
+    "geometry_status": "unvalidated Hough candidates; includes fitting error and motion",
+    "center_x_range": [
+      602.5,
+      639.5
+    ],
+    "center_y_range": [
+      476.5,
+      507.5
+    ],
+    "diameter_median_px": 125.80000305175781,
+    "median_roi_events_5ms": 3402.0,
+    "median_roi_fraction": 0.7372502937720329
+  },
+  {
+    "run": 3,
+    "window_count": 139,
+    "circle_candidates_half_bins": 123,
+    "geometry_status": "unvalidated Hough candidates; includes fitting error and motion",
+    "center_x_range": [
+      541.5,
+      589.5
+    ],
+    "center_y_range": [
+      377.5,
+      436.5
+    ],
+    "diameter_median_px": 117.19999694824219,
+    "median_roi_events_5ms": 4950.0,
+    "median_roi_fraction": 0.7825500061357221
+  },
+  {
+    "run": 4,
+    "window_count": 68,
+    "circle_candidates_half_bins": 65,
+    "geometry_status": "unvalidated Hough candidates; includes fitting error and motion",
+    "center_x_range": [
+      582.5,
+      603.5
+    ],
+    "center_y_range": [
+      346.5,
+      362.5
+    ],
+    "diameter_median_px": 121.0,
+    "median_roi_events_5ms": 3619.5,
+    "median_roi_fraction": 0.7182834617414828
+  }
+]

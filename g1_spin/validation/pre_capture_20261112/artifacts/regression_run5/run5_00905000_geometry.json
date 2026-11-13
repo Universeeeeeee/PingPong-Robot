@@ -1,0 +1,91 @@
+{
+  "routes": {
+    "baseline10": "old10",
+    "smooth20_fallback": "old20",
+    "outer20_fallback": "old20"
+  },
+  "outer": [
+    {
+      "t_us": 855000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 865000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 875000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 885000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 895000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 905000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 915000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 925000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    },
+    {
+      "t_us": 935000,
+      "fit": {
+        "valid": false,
+        "reason": "insufficient_bins",
+        "bins": 0
+      },
+      "selected_pixels": []
+    }
+  ],
+  "frontend_s": 0.047399458999279886
+}

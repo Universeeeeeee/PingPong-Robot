@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "disk",
+    "weighting": "event_weighted",
+    "available_windows": 36,
+    "planned_windows": 36,
+    "translation_transverse_spin_abs_cos_range": [
+      0.9890434651880343,
+      0.9941031145494464
+    ],
+    "known_translation_rotation_condition_median": 1.8066451944930746,
+    "joint_condition_median": 16.45996796705558,
+    "transverse_rotation_squared_norm_retained_pct_range": [
+      1.175899764309034,
+      2.179302396884523
+    ],
+    "transverse_rotation_squared_norm_retained_pct_median": 1.6912831398374517,
+    "translation_projected_rotation_min_singular_ratio_median": 0.2188599380214173
+  },
+  {
+    "dataset": "disk",
+    "weighting": "cell_weighted",
+    "available_windows": 36,
+    "planned_windows": 36,
+    "translation_transverse_spin_abs_cos_range": [
+      0.9879094483583443,
+      0.9924152136440859
+    ],
+    "known_translation_rotation_condition_median": 1.663159995886216,
+    "joint_condition_median": 14.747255288066924,
+    "transverse_rotation_squared_norm_retained_pct_range": [
+      1.5112043727763282,
+      2.4034921844311827
+    ],
+    "transverse_rotation_squared_norm_retained_pct_median": 2.060658823869205,
+    "translation_projected_rotation_min_singular_ratio_median": 0.2236633787296483
+  },
+  {
+    "dataset": "drill",
+    "weighting": "event_weighted",
+    "available_windows": 22,
+    "planned_windows": 32,
+    "translation_transverse_spin_abs_cos_range": [
+      0.9895736752252025,
+      0.9937776546858278
+    ],
+    "known_translation_rotation_condition_median": 1.8005239573328113,
+    "joint_condition_median": 17.550545108467155,
+    "transverse_rotation_squared_norm_retained_pct_range": [
+      1.2405973047135532,
+      2.0743941301286055
+    ],
+    "transverse_rotation_squared_norm_retained_pct_median": 1.6408143319928232,
+    "translation_projected_rotation_min_singular_ratio_median": 0.22093987548981808
+  },
+  {
+    "dataset": "drill",
+    "weighting": "cell_weighted",
+    "available_windows": 22,
+    "planned_windows": 32,
+    "translation_transverse_spin_abs_cos_range": [
+      0.9892907408446062,
+      0.9919411000258018
+    ],
+    "known_translation_rotation_condition_median": 1.477953977974902,
+    "joint_condition_median": 14.65084620202121,
+    "transverse_rotation_squared_norm_retained_pct_range": [
+      1.6052854079602064,
+      2.130383007913005
+    ],
+    "transverse_rotation_squared_norm_retained_pct_median": 1.98851331989751,
+    "translation_projected_rotation_min_singular_ratio_median": 0.20249279377077925
+  }
+]

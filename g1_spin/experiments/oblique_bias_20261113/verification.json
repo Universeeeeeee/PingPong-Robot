@@ -1,0 +1,276 @@
+{
+  "rows": 54,
+  "independent_scores": [
+    {
+      "window": "run3_01425000",
+      "variant": "reference_first",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01425000",
+      "variant": "reference_middle",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_01425000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "reference_first",
+      "score_abs_error": 1.0587911840678754e-22
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "reference_middle",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 1.0587911840678754e-22
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "radius-2",
+      "score_abs_error": 1.0587911840678754e-22
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "radius+2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "radius+4",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "center0_-2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "center0_+2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "center1_-2",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "center1_+2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "azimuth-15",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "azimuth-5",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "azimuth+5",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "azimuth+15",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "tilt-15",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "tilt+15",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "polarity0",
+      "score_abs_error": 1.0587911840678754e-22
+    },
+    {
+      "window": "run3_01495000",
+      "variant": "polarity1",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01565000",
+      "variant": "reference_first",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01565000",
+      "variant": "reference_middle",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_01565000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_02625000",
+      "variant": "reference_first",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_02625000",
+      "variant": "reference_middle",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_02625000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_02695000",
+      "variant": "reference_first",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_02695000",
+      "variant": "reference_middle",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_02695000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04295000",
+      "variant": "reference_first",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_04295000",
+      "variant": "reference_middle",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_04295000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "reference_first",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "reference_middle",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "radius-2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "radius+2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "radius+4",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "center0_-2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "center0_+2",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "center1_-2",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "center1_+2",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "azimuth-15",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "azimuth-5",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "azimuth+5",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "azimuth+15",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "tilt-15",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "tilt+15",
+      "score_abs_error": 5.293955920339377e-23
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "polarity0",
+      "score_abs_error": 1.0587911840678754e-22
+    },
+    {
+      "window": "run3_04365000",
+      "variant": "polarity1",
+      "score_abs_error": 0.0
+    },
+    {
+      "window": "run3_06225000",
+      "variant": "reference_first",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_06225000",
+      "variant": "reference_middle",
+      "score_abs_error": 2.6469779601696886e-23
+    },
+    {
+      "window": "run3_06225000",
+      "variant": "per_window_shaft",
+      "score_abs_error": 2.6469779601696886e-23
+    }
+  ],
+  "frozen_inputs_unchanged": true
+}

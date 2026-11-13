@@ -1,0 +1,650 @@
+{
+  "rows": [
+    {
+      "time_s": 17,
+      "phase": "竖直正转①",
+      "method": "固定轴250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axis_deviation_deg": 0.0,
+      "directed_axis_deviation_deg": 0.0,
+      "rpm": 237.39970238583177,
+      "omega_magnitude_rad_s": 24.860438699324412,
+      "omega_vector_rad_s": [
+        0.0,
+        24.860438699324412,
+        0.0
+      ],
+      "rpm_difference": -1.2337467182060777,
+      "rpm_relative_difference_percent": -0.5170049390972875,
+      "omega_magnitude_difference_rad_s": -0.1291976542102269
+    },
+    {
+      "time_s": 17,
+      "phase": "竖直正转①",
+      "method": "自由三维10ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.1283104371455018,
+        0.9907965011744397,
+        0.043112932862643664
+      ],
+      "axis_deviation_deg": 7.779429690138147,
+      "directed_axis_deviation_deg": 7.779429690138147,
+      "rpm": 188.16668739779809,
+      "omega_magnitude_rad_s": 19.704769425974984,
+      "omega_vector_rad_s": [
+        2.528327578898169,
+        19.523416603705087,
+        0.849530401335933
+      ],
+      "rpm_difference": -50.466761706239765,
+      "rpm_relative_difference_percent": -21.148234623318707,
+      "omega_magnitude_difference_rad_s": -5.284866927559655
+    },
+    {
+      "time_s": 17,
+      "phase": "竖直正转①",
+      "method": "自由三维50ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.12960215520395962,
+        0.9906751534762578,
+        0.04202406038547311
+      ],
+      "axis_deviation_deg": 7.830626907795238,
+      "directed_axis_deviation_deg": 7.830626907795238,
+      "rpm": 201.18054465939,
+      "omega_magnitude_rad_s": 21.067577371571094,
+      "omega_vector_rad_s": [
+        2.7304034322817845,
+        20.871125445954128,
+        0.8853451436385305
+      ],
+      "rpm_difference": -37.45290444464786,
+      "rpm_relative_difference_percent": -15.694742118201289,
+      "omega_magnitude_difference_rad_s": -3.922058981963545
+    },
+    {
+      "time_s": 17,
+      "phase": "竖直正转①",
+      "method": "自由三维250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.03873718624666411,
+        0.6313034927871916,
+        -0.7745678345996454
+      ],
+      "axis_deviation_deg": 50.85364252336348,
+      "directed_axis_deviation_deg": 50.85364252336348,
+      "rpm": 376.38118553421043,
+      "omega_magnitude_rad_s": 39.41454558078975,
+      "omega_vector_rad_s": [
+        1.5268085929906845,
+        24.882540291772536,
+        -30.52923922224134
+      ],
+      "rpm_difference": 137.74773643017258,
+      "rpm_relative_difference_percent": 57.723565974239534,
+      "omega_magnitude_difference_rad_s": 14.42490922725511
+    },
+    {
+      "time_s": 17,
+      "phase": "竖直正转①",
+      "method": "组合50+250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.12960215520395962,
+        0.9906751534762578,
+        0.04202406038547311
+      ],
+      "axis_deviation_deg": 7.830626907795238,
+      "directed_axis_deviation_deg": 7.830626907795238,
+      "rpm": 237.00155481951043,
+      "omega_magnitude_rad_s": 24.818744783677754,
+      "omega_vector_rad_s": [
+        3.2165628134216675,
+        24.58731379765803,
+        1.0429844294809196
+      ],
+      "rpm_difference": -1.6318942845274194,
+      "rpm_relative_difference_percent": -0.6838497665161536,
+      "omega_magnitude_difference_rad_s": -0.17089156985688447
+    },
+    {
+      "time_s": 19,
+      "phase": "竖直正转②",
+      "method": "固定轴250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axis_deviation_deg": 0.0,
+      "directed_axis_deviation_deg": 0.0,
+      "rpm": 241.82056838809007,
+      "omega_magnitude_rad_s": 25.32339070449773,
+      "omega_vector_rad_s": [
+        0.0,
+        25.32339070449773,
+        0.0
+      ],
+      "rpm_difference": 3.1871192840522156,
+      "rpm_relative_difference_percent": 1.335571059303886,
+      "omega_magnitude_difference_rad_s": 0.3337543509630905
+    },
+    {
+      "time_s": 19,
+      "phase": "竖直正转②",
+      "method": "自由三维10ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.06821652088153586,
+        0.996422897571218,
+        -0.04987900835619151
+      ],
+      "axis_deviation_deg": 4.847667934238931,
+      "directed_axis_deviation_deg": 4.847667934238931,
+      "rpm": 207.7508270868134,
+      "omega_magnitude_rad_s": 21.75561573843788,
+      "omega_vector_rad_s": [
+        1.4840924153118178,
+        21.677793672540265,
+        -1.0851485392116345
+      ],
+      "rpm_difference": -30.882622017224463,
+      "rpm_relative_difference_percent": -12.941447283762997,
+      "omega_magnitude_difference_rad_s": -3.2340206150967603
+    },
+    {
+      "time_s": 19,
+      "phase": "竖直正转②",
+      "method": "自由三维50ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.06658171622367996,
+        0.9971937281367331,
+        -0.0342278195255356
+      ],
+      "axis_deviation_deg": 4.293427323658924,
+      "directed_axis_deviation_deg": 4.293427323658924,
+      "rpm": 209.67660058448496,
+      "omega_magnitude_rad_s": 21.957282267529976,
+      "omega_vector_rad_s": [
+        1.461953536979921,
+        21.895664164108798,
+        -0.7515498947242591
+      ],
+      "rpm_difference": -28.956848519552892,
+      "rpm_relative_difference_percent": -12.134446628615114,
+      "omega_magnitude_difference_rad_s": -3.0323540860046627
+    },
+    {
+      "time_s": 19,
+      "phase": "竖直正转②",
+      "method": "自由三维250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.05166815719070378,
+        0.6481430482009543,
+        -0.7597637728934516
+      ],
+      "axis_deviation_deg": 49.598258458640416,
+      "directed_axis_deviation_deg": 49.598258458640416,
+      "rpm": 383.3486144953339,
+      "omega_magnitude_rad_s": 40.14417303541222,
+      "omega_vector_rad_s": [
+        2.0741754426844907,
+        26.019166678678634,
+        -30.500088365072358
+      ],
+      "rpm_difference": 144.71516539129604,
+      "rpm_relative_difference_percent": 60.643286150636854,
+      "omega_magnitude_difference_rad_s": 15.154536681877584
+    },
+    {
+      "time_s": 19,
+      "phase": "竖直正转②",
+      "method": "组合50+250ms",
+      "valid": true,
+      "reference_rpm": 238.63344910403785,
+      "reference_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.06658171622367996,
+        0.9971937281367331,
+        -0.0342278195255356
+      ],
+      "axis_deviation_deg": 4.293427323658924,
+      "directed_axis_deviation_deg": 4.293427323658924,
+      "rpm": 242.14458238323434,
+      "omega_magnitude_rad_s": 25.357321370724584,
+      "omega_vector_rad_s": [
+        1.6883339756982396,
+        25.286161833234104,
+        -0.867925819528168
+      ],
+      "rpm_difference": 3.5111332791964855,
+      "rpm_relative_difference_percent": 1.4713500108133326,
+      "omega_magnitude_difference_rad_s": 0.3676850171899453
+    },
+    {
+      "time_s": 31,
+      "phase": "竖直反转",
+      "method": "固定轴250ms",
+      "valid": true,
+      "reference_rpm": 248.5573852848364,
+      "reference_axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "axis_deviation_deg": 0.0,
+      "directed_axis_deviation_deg": 0.0,
+      "rpm": 249.29467544968693,
+      "omega_magnitude_rad_s": 26.106077365726275,
+      "omega_vector_rad_s": [
+        -0.0,
+        -26.106077365726275,
+        -0.0
+      ],
+      "rpm_difference": 0.7372901648505206,
+      "rpm_relative_difference_percent": 0.29662774413465876,
+      "omega_magnitude_difference_rad_s": 0.07720884551527973
+    },
+    {
+      "time_s": 31,
+      "phase": "竖直反转",
+      "method": "自由三维10ms",
+      "valid": true,
+      "reference_rpm": 248.5573852848364,
+      "reference_axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        -0.0047870696750537305,
+        -0.9979925423935072,
+        0.0631503704729438
+      ],
+      "axis_deviation_deg": 3.6310606297085872,
+      "directed_axis_deviation_deg": 3.6310606297085872,
+      "rpm": 287.5008405168197,
+      "omega_magnitude_rad_s": 30.10701761561772,
+      "omega_vector_rad_s": [
+        -0.14412439103403207,
+        -30.046579054096437,
+        1.9012693162617045
+      ],
+      "rpm_difference": 38.94345523198331,
+      "rpm_relative_difference_percent": 15.66779244453176,
+      "omega_magnitude_difference_rad_s": 4.078149095406726
+    },
+    {
+      "time_s": 31,
+      "phase": "竖直反转",
+      "method": "自由三维50ms",
+      "valid": true,
+      "reference_rpm": 248.5573852848364,
+      "reference_axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        -0.017901621384655737,
+        -0.9964226637649874,
+        0.08259181004970928
+      ],
+      "axis_deviation_deg": 4.847826452635155,
+      "directed_axis_deviation_deg": 4.847826452635155,
+      "rpm": 288.0553499307503,
+      "omega_magnitude_rad_s": 30.165085705656075,
+      "omega_vector_rad_s": [
+        -0.5400039433383459,
+        -30.057175051528972,
+        2.4913890287347473
+      ],
+      "rpm_difference": 39.497964645913896,
+      "rpm_relative_difference_percent": 15.890883548139545,
+      "omega_magnitude_difference_rad_s": 4.13621718544508
+    },
+    {
+      "time_s": 31,
+      "phase": "竖直反转",
+      "method": "自由三维250ms",
+      "valid": true,
+      "reference_rpm": 248.5573852848364,
+      "reference_axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        -0.10731231316456846,
+        -0.778275270885343,
+        0.6186854371743492
+      ],
+      "axis_deviation_deg": 38.89706904102455,
+      "directed_axis_deviation_deg": 38.89706904102455,
+      "rpm": 373.05135301985536,
+      "omega_magnitude_rad_s": 39.065846335297,
+      "omega_vector_rad_s": [
+        -4.1922463359723015,
+        -30.40398213896846,
+        24.169470218539175
+      ],
+      "rpm_difference": 124.49396773501894,
+      "rpm_relative_difference_percent": 50.086609815417084,
+      "omega_magnitude_difference_rad_s": 13.036977815086008
+    },
+    {
+      "time_s": 31,
+      "phase": "竖直反转",
+      "method": "组合50+250ms",
+      "valid": true,
+      "reference_rpm": 248.5573852848364,
+      "reference_axis": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        -0.017901621384655737,
+        -0.9964226637649874,
+        0.08259181004970928
+      ],
+      "axis_deviation_deg": 4.847826452635155,
+      "directed_axis_deviation_deg": 4.847826452635155,
+      "rpm": 249.29739479386342,
+      "omega_magnitude_rad_s": 26.106362134782522,
+      "omega_vector_rad_s": [
+        -0.4673462106675896,
+        -26.012970899553405,
+        2.156171702524881
+      ],
+      "rpm_difference": 0.7400095090270042,
+      "rpm_relative_difference_percent": 0.2977217949806654,
+      "omega_magnitude_difference_rad_s": 0.07749361457152659
+    },
+    {
+      "time_s": 42,
+      "phase": "斜轴旋转",
+      "method": "固定轴250ms",
+      "valid": true,
+      "reference_rpm": 238.28266229430994,
+      "reference_axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "axis_deviation_deg": 0.0,
+      "directed_axis_deviation_deg": 0.0,
+      "rpm": 240.6699247726877,
+      "omega_magnitude_rad_s": 25.202895586862795,
+      "omega_vector_rad_s": [
+        16.381063098781183,
+        19.153243007805692,
+        0.0
+      ],
+      "rpm_difference": 2.3872624783777496,
+      "rpm_relative_difference_percent": 1.0018615938700348,
+      "omega_magnitude_difference_rad_s": 0.2499935421420716
+    },
+    {
+      "time_s": 42,
+      "phase": "斜轴旋转",
+      "method": "自由三维10ms",
+      "valid": true,
+      "reference_rpm": 238.28266229430994,
+      "reference_axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.7806004366921452,
+        0.6111632784641001,
+        0.13092900860025322
+      ],
+      "axis_deviation_deg": 13.632908071866831,
+      "directed_axis_deviation_deg": 13.632908071866831,
+      "rpm": 206.07691490237224,
+      "omega_magnitude_rad_s": 21.580324064391387,
+      "omega_vector_rad_s": [
+        16.845610388621928,
+        13.189101605511155,
+        2.8254904350229517
+      ],
+      "rpm_difference": -32.205747391937706,
+      "rpm_relative_difference_percent": -13.51577453510211,
+      "omega_magnitude_difference_rad_s": -3.3725779803293356
+    },
+    {
+      "time_s": 42,
+      "phase": "斜轴旋转",
+      "method": "自由三维50ms",
+      "valid": true,
+      "reference_rpm": 238.28266229430994,
+      "reference_axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.7373035454909339,
+        0.6754334727208098,
+        -0.013156965258197564
+      ],
+      "axis_deviation_deg": 7.008942473123759,
+      "directed_axis_deviation_deg": 7.008942473123759,
+      "rpm": 229.93003916727184,
+      "omega_magnitude_rad_s": 24.078217396250487,
+      "omega_vector_rad_s": [
+        17.752955055356967,
+        16.26323399287608,
+        -0.31679626976179587
+      ],
+      "rpm_difference": -8.3526231270381,
+      "rpm_relative_difference_percent": -3.50534237221235,
+      "omega_magnitude_difference_rad_s": -0.874684648470236
+    },
+    {
+      "time_s": 42,
+      "phase": "斜轴旋转",
+      "method": "自由三维250ms",
+      "valid": true,
+      "reference_rpm": 238.28266229430994,
+      "reference_axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.6875673864275373,
+        0.6076125157868544,
+        -0.39756523965303514
+      ],
+      "axis_deviation_deg": 24.679328157925845,
+      "directed_axis_deviation_deg": 24.679328157925845,
+      "rpm": 288.33668835176246,
+      "omega_magnitude_rad_s": 30.194547396210222,
+      "omega_vector_rad_s": [
+        20.760786037574665,
+        18.346584906456705,
+        -12.004302471789245
+      ],
+      "rpm_difference": 50.05402605745252,
+      "rpm_relative_difference_percent": 21.00615528444505,
+      "omega_magnitude_difference_rad_s": 5.241645351489499
+    },
+    {
+      "time_s": 42,
+      "phase": "斜轴旋转",
+      "method": "组合50+250ms",
+      "valid": true,
+      "reference_rpm": 238.28266229430994,
+      "reference_axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "reference_axis_kind": "manual coarse image-plane assumption",
+      "axis": [
+        0.7373035454909339,
+        0.6754334727208098,
+        -0.013156965258197564
+      ],
+      "axis_deviation_deg": 7.008942473123759,
+      "directed_axis_deviation_deg": 7.008942473123759,
+      "rpm": 240.66941720018943,
+      "omega_magnitude_rad_s": 25.20284243399507,
+      "omega_vector_rad_s": [
+        18.58214508303392,
+        17.022843387628676,
+        -0.33159292231190046
+      ],
+      "rpm_difference": 2.386754905879485,
+      "rpm_relative_difference_percent": 1.0016485811005227,
+      "omega_magnitude_difference_rad_s": 0.24994038927434659
+    }
+  ],
+  "bound_check": [
+    {
+      "time_s": 17,
+      "rpm_1200": 188.16668739779809,
+      "rpm_3500": 188.13967611484924,
+      "axis_difference_deg": 0.04868044271415027
+    },
+    {
+      "time_s": 19,
+      "rpm_1200": 207.7508270868134,
+      "rpm_3500": 207.72722216285806,
+      "axis_difference_deg": 0.05998474636789006
+    },
+    {
+      "time_s": 31,
+      "rpm_1200": 287.5008405168197,
+      "rpm_3500": 287.4828722513608,
+      "axis_difference_deg": 0.007680612263183883
+    },
+    {
+      "time_s": 42,
+      "rpm_1200": 206.07691490237224,
+      "rpm_3500": 205.98121243477416,
+      "axis_difference_deg": 0.05331315032081207
+    }
+  ],
+  "excluded": [
+    {
+      "time_s": 45,
+      "reason": "insufficient_geometry; only 2 unambiguous circle detections"
+    }
+  ],
+  "sources": {
+    "spin_10ms.json": "caf2c5bd247b360883f20fd3db267cc58ca500497898bc82350335ce7811e3c3",
+    "spin_short50ms.json": "4efd4b4abf48d883e25ee84ebddcf9da8aab85e553e16ecdabe9870c4e2c5a05",
+    "spin_preliminary.json": "3d56df8af1b34efac0682bcf889a17d62726868dbd3636995c0f7acc824f6713",
+    "hybrid_exploratory.json": "e857b7bfd504941a9514869d79e16f704dc9500f2dbf8f90f9eef6abe1868919",
+    "rgb_period_refined.json": "669fb11abb94df6279d24c1435d75d6d575439075853c14218b48af83db741aa"
+  },
+  "limitations": [
+    "Approximate segment RGB speed reference, not instantaneous encoder ground truth",
+    "Manual coarse shaft axes with image-plane assumption, not calibrated 3D truth",
+    "Four exploratory windows; no held-out validation",
+    "10/50/250ms centered at k+0.125s; common geometry and 0.8r mask, deterministic up to 4000 events; changing span changes actual event sample",
+    "10ms 3500RPM bound matches earlier bound but does not match old recording/geometry/event preprocessing"
+  ]
+}

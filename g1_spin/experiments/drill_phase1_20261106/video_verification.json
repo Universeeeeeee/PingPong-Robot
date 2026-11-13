@@ -1,0 +1,18 @@
+[
+  {
+    "file": "rotation_geometry_preview.mp4",
+    "frames": 354,
+    "redecoded": 354,
+    "fps": 50,
+    "sample_step_ms": 20,
+    "window_ms": 5
+  },
+  {
+    "file": "control_geometry_preview.mp4",
+    "frames": 585,
+    "redecoded": 585,
+    "fps": 50,
+    "sample_step_ms": 20,
+    "window_ms": 5
+  }
+]

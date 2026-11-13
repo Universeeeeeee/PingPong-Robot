@@ -1,0 +1,20 @@
+{
+  "frames": 22794,
+  "frame_number_gaps": 798,
+  "duplicate_or_reversed": 0,
+  "sensor_timestamp_regressions": 0,
+  "sensor_span_s": 262.52831499999996,
+  "sensor_rate_hz": 86.82111108662698,
+  "domains": [
+    "Hardware Clock",
+    "Global Time"
+  ],
+  "exposures": [
+    "8500"
+  ],
+  "callback_count": {
+    "stream.depth_0": 22721,
+    "stream.infrared_1": 22692,
+    "stream.infrared_2": 22692
+  }
+}

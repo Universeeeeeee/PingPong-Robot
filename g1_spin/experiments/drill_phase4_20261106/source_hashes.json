@@ -1,0 +1,9 @@
+{
+  "g1_spin/experiments/drill_phase3_20261106/flow.py": "3fd81056dd12e41e93b276f854deae323058e5dddad7cee2481fe68532f3c914",
+  "g1_spin/experiments/drill_phase3_20261106/methods.py": "00541b97b6fc6112d250ec813ebcb560797f8042dc635d1eec4928370dcfd1e9",
+  "g1_spin/experiments/drill_phase3_20261106/test_math.py": "2c08aa0d37712e2338386b34d9cc4b4ad1f3906c2cdac78d4d607f31437139dd",
+  "g1_spin/experiments/drill_phase3_20261106/verify.py": "b556a332a4e5e00fd3c3ce01e053c23dd470007837adc31f05671b351ebf9587",
+  "g1_spin/experiments/drill_phase3_20261106/report.md": "6774a81aecf448f5849c7ede970224570bbef3c9352c08f67d8aea7e8f941dcf",
+  "g1_spin/experiments/drill_phase3_20261106/frozen/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+  "g1_spin/experiments/drill_phase3_20261106/frozen/optical_flow.py": "26f9d2267eee8adf449f7286fea05c5ab7148c5ab38dbedbbe6a666d59994f5e"
+}

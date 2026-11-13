@@ -1,0 +1,11 @@
+{
+  "status": "none",
+  "selected_combination": null,
+  "original_selection_file": "selection_development.json",
+  "original_selection_sha256": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+  "confirmation_local_nonzero_support": 0,
+  "confirmation_stationary_support": 0,
+  "CMax_executed": false,
+  "regression108_executed": false,
+  "stop": "Fixed confirmation necessary conditions failed; no reselection or new experiment."
+}

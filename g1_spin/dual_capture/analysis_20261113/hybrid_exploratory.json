@@ -1,0 +1,118 @@
+[
+  {
+    "time": 17,
+    "result": {
+      "signed_rpm": 237.00155481951043,
+      "rpm": 237.00155481951043,
+      "axis": [
+        0.12960215520395962,
+        0.9906751534762578,
+        0.04202406038547311
+      ],
+      "gain": 0.5976811742345147,
+      "peaks": [
+        {
+          "rpm": 237.00155481951043,
+          "score": 7.782285029638583e-08
+        },
+        {
+          "rpm": -0.18623892879823173,
+          "score": 4.871441606224729e-08
+        },
+        {
+          "rpm": 358.358516069583,
+          "score": 3.648227748795611e-08
+        }
+      ]
+    },
+    "axis_source": "event-only free 3D 50ms window inside same 250ms window",
+    "note": "Exploratory reuse of same data; not held-out validation"
+  },
+  {
+    "time": 19,
+    "result": {
+      "signed_rpm": 242.14458238323434,
+      "rpm": 242.14458238323434,
+      "axis": [
+        0.06658171622367996,
+        0.9971937281367331,
+        -0.0342278195255356
+      ],
+      "gain": 0.6562726828927337,
+      "peaks": [
+        {
+          "rpm": 242.14458238323434,
+          "score": 8.186400173991483e-08
+        },
+        {
+          "rpm": 0.5602251430390744,
+          "score": 4.943488147383162e-08
+        },
+        {
+          "rpm": 370.36587829388367,
+          "score": 3.115124526899703e-08
+        }
+      ]
+    },
+    "axis_source": "event-only free 3D 50ms window inside same 250ms window",
+    "note": "Exploratory reuse of same data; not held-out validation"
+  },
+  {
+    "time": 31,
+    "result": {
+      "signed_rpm": 249.29739479386342,
+      "rpm": 249.29739479386342,
+      "axis": [
+        -0.017901621384655737,
+        -0.9964226637649874,
+        0.08259181004970928
+      ],
+      "gain": 0.456115786048777,
+      "peaks": [
+        {
+          "rpm": 249.29739479386342,
+          "score": 7.187840035220573e-08
+        },
+        {
+          "rpm": -2.5044207593850967,
+          "score": 4.948050771944007e-08
+        },
+        {
+          "rpm": -363.2543751468773,
+          "score": 1.5406386035927107e-08
+        }
+      ]
+    },
+    "axis_source": "event-only free 3D 50ms window inside same 250ms window",
+    "note": "Exploratory reuse of same data; not held-out validation"
+  },
+  {
+    "time": 42,
+    "result": {
+      "signed_rpm": 240.66941720018943,
+      "rpm": 240.66941720018943,
+      "axis": [
+        0.7373035454909339,
+        0.6754334727208098,
+        -0.013156965258197564
+      ],
+      "gain": 0.5669048501851905,
+      "peaks": [
+        {
+          "rpm": 240.66941720018943,
+          "score": 7.6412418017371e-08
+        },
+        {
+          "rpm": 2.719876443259017,
+          "score": 4.9003838116588786e-08
+        },
+        {
+          "rpm": 663.4350740300187,
+          "score": 1.6592301157662766e-08
+        }
+      ]
+    },
+    "axis_source": "event-only free 3D 50ms window inside same 250ms window",
+    "note": "Exploratory reuse of same data; not held-out validation"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "checks": [
+    {
+      "case": "disk_motion",
+      "velocity_offset": -80,
+      "events_unchanged": true,
+      "metric_error": 0.0
+    },
+    {
+      "case": "disk_motion",
+      "velocity_offset": -40,
+      "events_unchanged": true,
+      "metric_error": 6.661338147750939e-16
+    },
+    {
+      "case": "disk_motion",
+      "velocity_offset": 0,
+      "events_unchanged": true,
+      "metric_error": 4.440892098500626e-16
+    },
+    {
+      "case": "disk_motion",
+      "velocity_offset": 40,
+      "events_unchanged": true,
+      "metric_error": 2.220446049250313e-16
+    },
+    {
+      "case": "disk_motion",
+      "velocity_offset": 80,
+      "events_unchanged": true,
+      "metric_error": 0.0
+    },
+    {
+      "case": "drill_1",
+      "velocity_offset": -80,
+      "events_unchanged": true,
+      "metric_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "drill_1",
+      "velocity_offset": -40,
+      "events_unchanged": true,
+      "metric_error": 2.220446049250313e-16
+    },
+    {
+      "case": "drill_1",
+      "velocity_offset": 0,
+      "events_unchanged": true,
+      "metric_error": 2.220446049250313e-16
+    },
+    {
+      "case": "drill_1",
+      "velocity_offset": 40,
+      "events_unchanged": true,
+      "metric_error": 0.0
+    },
+    {
+      "case": "drill_1",
+      "velocity_offset": 80,
+      "events_unchanged": true,
+      "metric_error": 0.0
+    }
+  ],
+  "source_hashes_unchanged": true
+}

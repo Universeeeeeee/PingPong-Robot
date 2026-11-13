@@ -1,0 +1,61 @@
+{
+  "run1_reference_windows": 14,
+  "run1_mean_directed_axis": [
+    -0.03218391846466475,
+    -0.9984265251261394,
+    0.04592024952896566
+  ],
+  "run2_abs_z_median": 0.9944045607118412,
+  "run3_abs_z_median": 0.08864337130523856,
+  "run4_fixed_reverse": [
+    {
+      "window": "run4_00895000",
+      "wy": 24.626308055002376,
+      "directed_angle_to_run1_mean_deg": 179.3480725365659,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_01625000",
+      "wy": 22.286354211322752,
+      "directed_angle_to_run1_mean_deg": 173.7417455744683,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_01765000",
+      "wy": 28.89973967049742,
+      "directed_angle_to_run1_mean_deg": 178.0497412962389,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_02425000",
+      "wy": 24.937773531229293,
+      "directed_angle_to_run1_mean_deg": 171.49971840826237,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_02495000",
+      "wy": 29.269157197539542,
+      "directed_angle_to_run1_mean_deg": 178.39833322265966,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_03225000",
+      "wy": 28.84155017298095,
+      "directed_angle_to_run1_mean_deg": 178.82447274843693,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_03295000",
+      "wy": 26.988635999681087,
+      "directed_angle_to_run1_mean_deg": 176.94335269832447,
+      "all_run1_wy_opposite": true
+    },
+    {
+      "window": "run4_03365000",
+      "wy": 24.730194845029878,
+      "directed_angle_to_run1_mean_deg": 179.14311753599793,
+      "all_run1_wy_opposite": true
+    }
+  ],
+  "caveat": "Qualitative and 2D projection support only; A/S have no real measurements to compare."
+}

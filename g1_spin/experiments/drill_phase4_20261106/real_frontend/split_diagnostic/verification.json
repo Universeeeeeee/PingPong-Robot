@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "combinations": 27,
+  "same_original_T_physical_seeds": true,
+  "T_exit_reasons_match_main_results": true,
+  "no_search": true,
+  "no_frontend_selection_change": true,
+  "rows": 7569,
+  "selection_file_sha256": "c6f32effa9d4b8e1c6ebd942a2c14d9146c92a342c51791fdb7744939c2002ef"
+}

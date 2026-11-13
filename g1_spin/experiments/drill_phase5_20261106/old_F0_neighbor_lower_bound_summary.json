@@ -1,0 +1,41 @@
+[
+  {
+    "case": "run1_01495000",
+    "eligible_neighbors": 269,
+    "single_value_lower_bound_exceeds_old_gate": 256,
+    "lower_over_gate": {
+      "n": 269,
+      "min": 0.0,
+      "median": 3.911432621258553,
+      "p95": 5.185585373390897,
+      "max": 5.608824813878647
+    },
+    "interpretation": "Any single-valued pixel/polarity timestamp function fails these neighborhoods, not merely the linear optimizer. F1 is outside this argument."
+  },
+  {
+    "case": "run2_02095000",
+    "eligible_neighbors": 186,
+    "single_value_lower_bound_exceeds_old_gate": 173,
+    "lower_over_gate": {
+      "n": 186,
+      "min": 0.0,
+      "median": 3.3404053485257035,
+      "p95": 4.778240875587654,
+      "max": 5.2216926748707895
+    },
+    "interpretation": "Any single-valued pixel/polarity timestamp function fails these neighborhoods, not merely the linear optimizer. F1 is outside this argument."
+  },
+  {
+    "case": "run5_04095000",
+    "eligible_neighbors": 95,
+    "single_value_lower_bound_exceeds_old_gate": 71,
+    "lower_over_gate": {
+      "n": 95,
+      "min": 0.0,
+      "median": 3.5290312047813233,
+      "p95": 5.27191321322319,
+      "max": 5.631610932695697
+    },
+    "interpretation": "Any single-valued pixel/polarity timestamp function fails these neighborhoods, not merely the linear optimizer. F1 is outside this argument."
+  }
+]

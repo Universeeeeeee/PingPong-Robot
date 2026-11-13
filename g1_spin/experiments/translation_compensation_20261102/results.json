@@ -1,0 +1,163 @@
+{
+  "input_event_count": 1090,
+  "common_event_count": 1006,
+  "common_excluded_count": 84,
+  "reference_us": 19833,
+  "common_event_id_sha256": "3e1bb1463f4f63ec2a16aaff1c38ae70319820fab73dbca0af7c03d67545bcd3",
+  "truth_rpm": 1000.0,
+  "truth_axis_camera": [
+    0.30942637387763805,
+    0.7219948723811553,
+    0.6188527477552761
+  ],
+  "truth_omega_rad_s": [
+    32.40305410003055,
+    75.6071262334046,
+    64.8061082000611
+  ],
+  "baseline": {
+    "valid": true,
+    "failure_reason": null,
+    "rpm": 997.6538690984291,
+    "axis_error_deg": 0.24767803668515667,
+    "omega_error_rad_s": 0.5145890393893078,
+    "omega_rad_s": [
+      32.16994186726359,
+      75.74139525940441,
+      64.36743703044647
+    ],
+    "relative_improvement": 7.164104504790959,
+    "runtime_s": 0.3594359590206295
+  },
+  "cases": [
+    {
+      "speed_px_s": 0.0,
+      "full_input_outside_fixed_sphere": 0,
+      "correction_runtime_s": 0.00027908303309231997,
+      "max_restore_error_px": 0.0,
+      "rms_restore_error_px": 0.0,
+      "methods": {
+        "uncompensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 997.6538690984291,
+          "axis_error_deg": 0.24767803668515667,
+          "omega_error_rad_s": 0.5145890393893078,
+          "omega_rad_s": [
+            32.16994186726359,
+            75.74139525940441,
+            64.36743703044647
+          ],
+          "relative_improvement": 7.164104504790959,
+          "runtime_s": 0.36049691698281094
+        },
+        "compensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 997.6538690984291,
+          "axis_error_deg": 0.24767803668515667,
+          "omega_error_rad_s": 0.5145890393893078,
+          "omega_rad_s": [
+            32.16994186726359,
+            75.74139525940441,
+            64.36743703044647
+          ],
+          "relative_improvement": 7.164104504790959,
+          "runtime_s": 0.3609686670242809
+        }
+      }
+    },
+    {
+      "speed_px_s": 100.0,
+      "full_input_outside_fixed_sphere": 11,
+      "correction_runtime_s": 0.0002585829934105277,
+      "max_restore_error_px": 4.0194366942304644e-14,
+      "rms_restore_error_px": 1.8152026473538735e-14,
+      "methods": {
+        "uncompensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 983.9293682624185,
+          "axis_error_deg": 0.8182120382358943,
+          "omega_error_rad_s": 2.243343003826142,
+          "omega_rad_s": [
+            32.1597936548364,
+            73.37704927066815,
+            64.79311093527879
+          ],
+          "relative_improvement": 6.686389402409797,
+          "runtime_s": 0.34703416703268886
+        },
+        "compensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 997.6538690984291,
+          "axis_error_deg": 0.24767803668515667,
+          "omega_error_rad_s": 0.5145890393893078,
+          "omega_rad_s": [
+            32.16994186726359,
+            75.74139525940441,
+            64.36743703044647
+          ],
+          "relative_improvement": 7.164104504790959,
+          "runtime_s": 0.3660684999777004
+        }
+      }
+    },
+    {
+      "speed_px_s": 500.0,
+      "full_input_outside_fixed_sphere": 84,
+      "correction_runtime_s": 0.00026245805202051997,
+      "max_restore_error_px": 4.0194366942304644e-14,
+      "rms_restore_error_px": 1.7562903863683457e-14,
+      "methods": {
+        "uncompensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 948.9940313194895,
+          "axis_error_deg": 3.468803868373051,
+          "omega_error_rad_s": 8.164738118171668,
+          "omega_rad_s": [
+            34.01213566426813,
+            67.61266070648321,
+            64.40321119483309
+          ],
+          "relative_improvement": 5.052168095924876,
+          "runtime_s": 0.3388466670294292
+        },
+        "compensated": {
+          "valid": true,
+          "failure_reason": null,
+          "rpm": 997.6538690984291,
+          "axis_error_deg": 0.24767803668515667,
+          "omega_error_rad_s": 0.5145890393893078,
+          "omega_rad_s": [
+            32.16994186726359,
+            75.74139525940441,
+            64.36743703044647
+          ],
+          "relative_improvement": 7.164104504790959,
+          "runtime_s": 0.36779354204190895
+        }
+      }
+    }
+  ],
+  "sensitivity": {
+    "velocity_underestimate_fraction": 0.1,
+    "velocity_error_max_px": 0.991700000000028,
+    "velocity_error_rms_px": 0.5678194163902155,
+    "clock_offset_us": 1000,
+    "acceleration_px_s2": [
+      2000.0,
+      -1000.0
+    ],
+    "accelerated_clock_error_max_px": 0.044350408170943816,
+    "accelerated_clock_error_rms_px": 0.025393336023625254,
+    "clock_closed_form_max_difference_px": 2.4719732138692857e-06,
+    "accelerated_clock_prelift_error_max_px": 0.5312971455974795,
+    "accelerated_clock_prelift_closed_form_max_difference_px": 2.211000065699409e-06,
+    "linear_clock_relative_alignment_max_error_px": 4.0194366942304644e-14,
+    "linear_clock_prelift_error_max_px": 0.5000000000000274
+  },
+  "ground_truth_warp_max_baseline_difference": 1.9929972195927004e-15
+}

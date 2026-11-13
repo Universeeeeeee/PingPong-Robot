@@ -1,0 +1,25 @@
+{
+  "stage": "Corrected complete decoded raw patches T-only, before corrected H/future; run4 reused",
+  "records": 384,
+  "files": {
+    "repair_confirmation_inputs.py": "8de2d7060ad920e4aa37e3ce5cefc6bb4311a43f622246f87d0f280d56d058dc",
+    "rerun_corrected_confirmation.py": "ae2db2fefafdea843bc6f17b57c39349666815bd7974fa21f0c7c56ea7a10688",
+    "confirmation_input_correction.json": "24d879ba204a73e1352d27c3aabf817c363b8259a38fe60b0b7c26a642e20c2f",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "train_real.py": "d55a08f394e66b6f3982055f44e834def0aa6b58c8eb0ca7135311abbe743708",
+    "qualify_training.py": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7",
+    "real/confirmation_inputs.json": "0085dc71f958673a34bffbf6a2d83b0bce4985abe04397b5b33c434b0a6fe70e",
+    "real/confirmation_training.json": "946b6ea749d095b6a0307a5a44dbc7ba9eba673636999ae9c140e54f60a3eeb6",
+    "real/confirmation_training_qualification.json": "946b6ea749d095b6a0307a5a44dbc7ba9eba673636999ae9c140e54f60a3eeb6",
+    "real/confirmation_T_global_systems.json": "e75defbca5fc5aebb595252e0c20bdbc9537747180c89812339b7a5aa4ffb915"
+  },
+  "selection_development_sha256": "2efc1f91991bcdf37d63d84e9efb5ebabebd2fa4e2c6a6bf1b4afdaab80a5422",
+  "H_future_evaluation_performed": false,
+  "reused_run4": [
+    {
+      "case": "run4_02495000",
+      "rows": 144,
+      "all_model_bootstrap_values_reused": true
+    }
+  ]
+}

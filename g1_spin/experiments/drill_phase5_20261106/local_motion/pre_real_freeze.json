@@ -1,0 +1,73 @@
+{
+  "stage": "Before any new real2x2 training output",
+  "date": "2026-11-07",
+  "tau_px": 0.5,
+  "development_cases": [
+    "run1_01495000",
+    "run2_02095000",
+    "run5_04095000",
+    "run5_01525000"
+  ],
+  "confirmation_cases": [
+    "run3_01495000",
+    "run4_02495000",
+    "run5_05095000"
+  ],
+  "representations": [
+    "R_all",
+    "R_latest"
+  ],
+  "models": [
+    "M_time",
+    "M_spatial"
+  ],
+  "segments_s": [
+    [
+      0,
+      0.002
+    ],
+    [
+      0.002,
+      0.004
+    ],
+    [
+      0.004,
+      0.006
+    ]
+  ],
+  "polarities": [
+    0,
+    1
+  ],
+  "minimum_T_unique_pixels": 12,
+  "bootstrap_draws": 32,
+  "normal_spread95_max_deg": 15,
+  "future_and_H_not_training_filters": true,
+  "real_geometry_lane": "B1 fixed center, cdot0",
+  "bootstrap_sampling": "Raw-pixel clusters, sample unique pixels with replacement, preserve all events in drawn clusters; deterministic SHA256 identity seed, same draws for both fits.",
+  "global_readiness": "At least4 spatial patches,12 training-qualified local observations, rank3 condition<=100 and each leave-patch-out rank3 before global chain; no evaluation filtering.",
+  "sources": {
+    "patches/run1_01495000_patch0.npz": "51ba4c8d7ebdce3cb728841637db30087559d50f093839d2f4588a4bfe438663",
+    "patches/run1_01495000_patch1.npz": "86654f62f2db2e9790e7e8518e82f9a7699ae3b30921aab3eda5e174aea79852",
+    "patches/run1_01495000_patch2.npz": "fb70d9458e6f027a51b78e1272d3180ca2822e44653849b9afeae3889e1d58d6",
+    "patches/run1_01495000_patch3.npz": "63d8fc83bacd2869bb86870ea89e95d17b2469dc5a5f3a49c57e6f0706149ac4",
+    "patches/run1_01495000_patch4.npz": "7f09ed05eb6c2113e5c6da977cf5a7174f618d022aad477ab0bb30377b82264f",
+    "patches/run1_01495000_patch5.npz": "c306ab094ae72d6a44e14a5f0acd295d175deb144a8d887dbf3827455602db51",
+    "patches/run2_02095000_patch0.npz": "5dd03ae25f0cc3a1e0eb5d0ea5e0e2d6b478897a476d7e8c43b881b3449b0ee6",
+    "patches/run2_02095000_patch1.npz": "f260370ac702e18fc7825120bec7d37686933db849f07d3bb784115a4ea9b5fd",
+    "patches/run2_02095000_patch2.npz": "40f885ade0a85d13cf12f2d2dd803c912e52776cb1b6ad9a2cb73ec9b8fcd9e1",
+    "patches/run2_02095000_patch3.npz": "fda74a1211f14430ba360d8c26be2fc7072f7adb00fd5ef79b0bd739fe171553",
+    "patches/run2_02095000_patch4.npz": "49fadb950c4886af72ff08efe4223f3cdf79e01048dae3c128de2fd6a03ade00",
+    "patches/run2_02095000_patch5.npz": "3d3f778921ea2a17ca47a5329180beb1d10f1f15789ee339b5caf74ea7ad1d2b",
+    "patches/run5_04095000_patch0.npz": "e0753286c62dfbb4f78e5f0a6678d101aa64fbe054236b68205fb36e1636a8c5",
+    "patches/run5_04095000_patch1.npz": "b768c4ea1fc600917fedda11559845d041078e85e0106008a413cf0be762bd94",
+    "patches/run5_04095000_patch2.npz": "4f02bf40fcf68f440c3c96a48f54de05897ac93f7a17d18ab62638d8c6943306"
+  },
+  "files": {
+    "prepare_real.py": "08dbade8fee41fd578a69726ae9e0ac8214d98cc91913be116f2afbfe83472c5",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "tau_freeze.json": "66fa11d3af89ad6d3ffd623daa7f47bab0aa7024b46e064fb05784e8c55d9f08",
+    "real/development_inputs.json": "8db0768943fd230885f25c5046151064596e6d93fab249c73cd0bb28a76b325d"
+  },
+  "qualification_status": "Bootstrap and raw statistics saved first; stationary/nonzero/permutation/selection supplemental rules separate before evaluator."
+}

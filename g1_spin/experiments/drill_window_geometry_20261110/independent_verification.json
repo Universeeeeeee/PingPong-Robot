@@ -1,0 +1,183 @@
+{
+  "rows": 126,
+  "unique_windows": 42,
+  "prepared_windows": 35,
+  "checks": [
+    {
+      "window": "run1_01435000_10ms",
+      "events": 3092,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_01435000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_01505000_10ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_01505000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_01505000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_03605000_10ms",
+      "events": 2824,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_03605000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_03605000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_04375000_10ms",
+      "events": 4312,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_04375000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run1_04375000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_00905000_10ms",
+      "events": 3243,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_00905000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_00905000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_02505000_10ms",
+      "events": 4713,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_02505000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_02505000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_03305000_10ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_03305000_20ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run4_03305000_40ms",
+      "events": 5000,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_00535000_10ms",
+      "events": 12,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_00535000_20ms",
+      "events": 21,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_00535000_40ms",
+      "events": 53,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_01535000_10ms",
+      "events": 19,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_01535000_20ms",
+      "events": 32,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_01535000_40ms",
+      "events": 59,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_04105000_10ms",
+      "events": 827,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_04105000_20ms",
+      "events": 1598,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_04105000_40ms",
+      "events": 2632,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_05105000_10ms",
+      "events": 1078,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_05105000_20ms",
+      "events": 2038,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_05105000_40ms",
+      "events": 3840,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_06505000_10ms",
+      "events": 1287,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_06505000_20ms",
+      "events": 2475,
+      "raw_ids_verified": true
+    },
+    {
+      "window": "run5_06505000_40ms",
+      "events": 4838,
+      "raw_ids_verified": true
+    }
+  ],
+  "protected_hashes_unchanged": true
+}

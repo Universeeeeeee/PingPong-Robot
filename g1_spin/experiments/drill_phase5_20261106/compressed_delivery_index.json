@@ -1,0 +1,38 @@
+[
+  {
+    "source": "local_motion/real/confirmation_evaluation.json",
+    "source_sha256": "80088aa1461bebb95191f1940139a5705a0d26b0afe4fc02113ffbad222a6cac",
+    "compressed": "local_motion/real/confirmation_evaluation.json.gz",
+    "compressed_sha256": "27075e6308d2b6e10334fbe46861e450c969d19c948232e81241d6f077e2d8d1"
+  },
+  {
+    "source": "local_motion/real/confirmation_training.json",
+    "source_sha256": "946b6ea749d095b6a0307a5a44dbc7ba9eba673636999ae9c140e54f60a3eeb6",
+    "compressed": "local_motion/real/confirmation_training.json.gz",
+    "compressed_sha256": "800bba2a388f546e1fb149d215742454ab5162db2bdc366a3fc8eadf8666e51d"
+  },
+  {
+    "source": "local_motion/real/confirmation_training_qualification.json",
+    "source_sha256": "946b6ea749d095b6a0307a5a44dbc7ba9eba673636999ae9c140e54f60a3eeb6",
+    "compressed": "local_motion/real/confirmation_training_qualification.json.gz",
+    "compressed_sha256": "800bba2a388f546e1fb149d215742454ab5162db2bdc366a3fc8eadf8666e51d"
+  },
+  {
+    "source": "local_motion/real/development_evaluation.json",
+    "source_sha256": "06167728a019b1aede5aa2a6782e34b2fd010a0447a9482dcbb8b00954c163e6",
+    "compressed": "local_motion/real/development_evaluation.json.gz",
+    "compressed_sha256": "eb68a9eb5c14f18c37450d07bbfc16a11db346037c92f9374e9763fa9415a3e7"
+  },
+  {
+    "source": "local_motion/real/development_training.json",
+    "source_sha256": "1e7948a29f879f18842e85b3ba89cbca416b50840276e5dc8f0dd1e3dd3a6b8e",
+    "compressed": "local_motion/real/development_training.json.gz",
+    "compressed_sha256": "91ccb8b8bb8ed656fc749a41dceca23c3d50301f8b5fdda57b1e9145e3d36ff5"
+  },
+  {
+    "source": "local_motion/real/development_training_qualification.json",
+    "source_sha256": "102a05554342e03f43df3d0b03dbbfb982c7802965e060bdd253e5469a4c4f8f",
+    "compressed": "local_motion/real/development_training_qualification.json.gz",
+    "compressed_sha256": "151b082a1c20a40eccbaba0fc890c616426b49a5f5aec806cdf5fd3674a1225e"
+  }
+]

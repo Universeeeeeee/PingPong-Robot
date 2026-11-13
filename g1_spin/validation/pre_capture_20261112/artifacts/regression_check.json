@@ -1,0 +1,38 @@
+[
+  {
+    "window": "run3_01605000",
+    "variant": "smooth20_fallback",
+    "matched": true,
+    "rpm_difference": 0.0
+  },
+  {
+    "window": "run3_01605000",
+    "variant": "outer20_fallback",
+    "matched": true,
+    "rpm_difference": 0.0
+  },
+  {
+    "window": "run5_04205000",
+    "variant": "smooth20_fallback",
+    "matched": true,
+    "rpm_difference": null
+  },
+  {
+    "window": "run5_04205000",
+    "variant": "outer20_fallback",
+    "matched": true,
+    "rpm_difference": null
+  },
+  {
+    "window": "run5_00905000",
+    "variant": "smooth20_fallback",
+    "matched": true,
+    "rpm_difference": null
+  },
+  {
+    "window": "run5_00905000",
+    "variant": "outer20_fallback",
+    "matched": true,
+    "rpm_difference": null
+  }
+]

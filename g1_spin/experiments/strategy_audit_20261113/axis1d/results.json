@@ -1,0 +1,3246 @@
+[
+  {
+    "window": "run1_00725000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 209.58631863972073,
+    "free_axis": [
+      -0.12390084023989993,
+      -0.9748245698584516,
+      -0.18537971784456767
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -24.289216163147433,
+      0.0
+    ],
+    "spin_rpm": 231.94492897154845,
+    "signed_rpm": 231.94492897154845,
+    "contrast": 4.274398582036688e-07,
+    "zero_contrast": 2.9267856950253755e-07,
+    "relative_gain": 0.4604412578966184,
+    "peaks": [
+      {
+        "contrast": 4.274398582036688e-07,
+        "signed_rpm": 231.94492897154845
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_00725000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 209.58631863972073,
+    "free_axis": [
+      -0.12390084023989993,
+      -0.9748245698584516,
+      -0.18537971784456767
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.8017381259571905,
+      -24.871943795142197,
+      1.1439258038532627
+    ],
+    "spin_rpm": 237.88387225392876,
+    "signed_rpm": 237.88387225392876,
+    "contrast": 4.295512599600744e-07,
+    "zero_contrast": 2.9267856950253755e-07,
+    "relative_gain": 0.4676553212972778,
+    "peaks": [
+      {
+        "contrast": 4.295512599600744e-07,
+        "signed_rpm": 237.88387225392876
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_00795000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 274.12198435972937,
+    "free_axis": [
+      -0.020846181621338226,
+      -0.9982629967680867,
+      0.05510377478366811
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -28.387344967168904,
+      0.0
+    ],
+    "spin_rpm": 271.0791763667861,
+    "signed_rpm": 271.0791763667861,
+    "contrast": 2.1612976987203715e-07,
+    "zero_contrast": 1.336044452122421e-07,
+    "relative_gain": 0.617683973977786,
+    "peaks": [
+      {
+        "contrast": 2.1612976987203715e-07,
+        "signed_rpm": 271.0791763667861
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_00795000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 274.12198435972937,
+    "free_axis": [
+      -0.020846181621338226,
+      -0.9982629967680867,
+      0.05510377478366811
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9262014940481906,
+      -28.73311216856535,
+      1.3215110449490368
+    ],
+    "spin_rpm": 274.8134219368811,
+    "signed_rpm": 274.8134219368811,
+    "contrast": 2.164635541612458e-07,
+    "zero_contrast": 1.336044452122421e-07,
+    "relative_gain": 0.6201822762511751,
+    "peaks": [
+      {
+        "contrast": 2.164635541612458e-07,
+        "signed_rpm": 274.8134219368811
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01425000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 224.38149748557223,
+    "free_axis": [
+      -0.08537008359042651,
+      -0.9962852934608193,
+      0.011294372999542486
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -24.34389968459945,
+      0.0
+    ],
+    "spin_rpm": 232.46711813623403,
+    "signed_rpm": 232.46711813623403,
+    "contrast": 3.695125003120935e-07,
+    "zero_contrast": 2.689054946675457e-07,
+    "relative_gain": 0.37413517997812074,
+    "peaks": [
+      {
+        "contrast": 3.695125003120935e-07,
+        "signed_rpm": 232.46711813623403
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01425000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 224.38149748557223,
+    "free_axis": [
+      -0.08537008359042651,
+      -0.9962852934608193,
+      0.011294372999542486
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.7761569382896654,
+      -24.07835067379718,
+      1.1074263787683474
+    ],
+    "spin_rpm": 230.29367318245505,
+    "signed_rpm": 230.29367318245505,
+    "contrast": 3.7111251016454594e-07,
+    "zero_contrast": 2.689054946675457e-07,
+    "relative_gain": 0.38008526238320717,
+    "peaks": [
+      {
+        "contrast": 3.7111251016454594e-07,
+        "signed_rpm": 230.29367318245505
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01495000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 265.11607455126705,
+    "free_axis": [
+      0.027490218701411998,
+      -0.9985529883623252,
+      0.04621923093711751
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -29.228366746406827,
+      0.0
+    ],
+    "spin_rpm": 279.1103427716055,
+    "signed_rpm": 279.1103427716055,
+    "contrast": 2.417939940917963e-07,
+    "zero_contrast": 1.5289846952690736e-07,
+    "relative_gain": 0.5814023177599232,
+    "peaks": [
+      {
+        "contrast": 2.417939940917963e-07,
+        "signed_rpm": 279.1103427716055
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01495000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 265.11607455126705,
+    "free_axis": [
+      0.027490218701411998,
+      -0.9985529883623252,
+      0.04621923093711751
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9453321918912158,
+      -29.326594786029112,
+      1.3488068641197033
+    ],
+    "spin_rpm": 280.48969494234086,
+    "signed_rpm": 280.48969494234086,
+    "contrast": 2.418271369444389e-07,
+    "zero_contrast": 1.5289846952690736e-07,
+    "relative_gain": 0.5816190815558275,
+    "peaks": [
+      {
+        "contrast": 2.418271369444389e-07,
+        "signed_rpm": 280.48969494234086
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01565000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 272.8069912430894,
+    "free_axis": [
+      0.029551397495466546,
+      -0.9927950369043909,
+      0.11612376847172282
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -26.117535411661517,
+      0.0
+    ],
+    "spin_rpm": 249.40409172861303,
+    "signed_rpm": 249.40409172861303,
+    "contrast": 3.77334805541165e-07,
+    "zero_contrast": 2.623027061457966e-07,
+    "relative_gain": 0.4385471316160563,
+    "peaks": [
+      {
+        "contrast": 3.77334805541165e-07,
+        "signed_rpm": 249.40409172861303
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_01565000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 272.8069912430894,
+    "free_axis": [
+      0.029551397495466546,
+      -0.9927950369043909,
+      0.11612376847172282
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.8501307643039041,
+      -26.37320579340517,
+      1.212972773093067
+    ],
+    "spin_rpm": 252.2424612068444,
+    "signed_rpm": 252.2424612068444,
+    "contrast": 3.7730393034188567e-07,
+    "zero_contrast": 2.623027061457966e-07,
+    "relative_gain": 0.4384294233402517,
+    "peaks": [
+      {
+        "contrast": 3.7730393034188567e-07,
+        "signed_rpm": 252.2424612068444
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_02195000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 266.9607817772305,
+    "free_axis": [
+      -0.07798825964427593,
+      -0.9957085641382166,
+      0.049822551715743395
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -28.261331265274112,
+      0.0
+    ],
+    "spin_rpm": 269.87583415355425,
+    "signed_rpm": 269.87583415355425,
+    "contrast": 4.1610071168944343e-07,
+    "zero_contrast": 2.758826382835716e-07,
+    "relative_gain": 0.5082526188608718,
+    "peaks": [
+      {
+        "contrast": 4.1610071168944343e-07,
+        "signed_rpm": 269.87583415355425
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_02195000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 266.9607817772305,
+    "free_axis": [
+      -0.07798825964427593,
+      -0.9957085641382166,
+      0.049822551715743395
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9066321244356057,
+      -28.12602084366487,
+      1.2935893256990618
+    ],
+    "spin_rpm": 269.0069905470153,
+    "signed_rpm": 269.0069905470153,
+    "contrast": 4.170223477517134e-07,
+    "zero_contrast": 2.758826382835716e-07,
+    "relative_gain": 0.5115933004927571,
+    "peaks": [
+      {
+        "contrast": 4.170223477517134e-07,
+        "signed_rpm": 269.0069905470153
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_02265000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 274.30980457892747,
+    "free_axis": [
+      -0.022857502255932905,
+      -0.9954628306762895,
+      0.0923649681024633
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -30.497936580865943,
+      0.0
+    ],
+    "spin_rpm": 291.23384165687713,
+    "signed_rpm": 291.23384165687713,
+    "contrast": 2.524568076302615e-07,
+    "zero_contrast": 1.3423410008264495e-07,
+    "relative_gain": 0.8807203793583704,
+    "peaks": [
+      {
+        "contrast": 2.524568076302615e-07,
+        "signed_rpm": 291.23384165687713
+      },
+      {
+        "contrast": 7.826292972496277e-08,
+        "signed_rpm": -1062.6679733158953
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_02265000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 274.30980457892747,
+    "free_axis": [
+      -0.022857502255932905,
+      -0.9954628306762895,
+      0.0923649681024633
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9832738102049009,
+      -30.50363971833548,
+      1.402942241774543
+    ],
+    "spin_rpm": 291.7473597481206,
+    "signed_rpm": 291.7473597481206,
+    "contrast": 2.525103181795666e-07,
+    "zero_contrast": 1.3423410008264495e-07,
+    "relative_gain": 0.8811190153925241,
+    "peaks": [
+      {
+        "contrast": 2.525103181795666e-07,
+        "signed_rpm": 291.7473597481206
+      },
+      {
+        "contrast": 7.788864451154504e-08,
+        "signed_rpm": -1073.710789002817
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_03595000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 216.13985461340206,
+    "free_axis": [
+      -0.10247322965096785,
+      -0.9922874440321463,
+      0.06974858866708515
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -22.815478771181834,
+      0.0
+    ],
+    "spin_rpm": 217.87177352650744,
+    "signed_rpm": 217.87177352650744,
+    "contrast": 3.9115282213198195e-07,
+    "zero_contrast": 2.8863029995611706e-07,
+    "relative_gain": 0.35520360194841727,
+    "peaks": [
+      {
+        "contrast": 3.9115282213198195e-07,
+        "signed_rpm": 217.87177352650744
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_03595000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 216.13985461340206,
+    "free_axis": [
+      -0.10247322965096785,
+      -0.9922874440321463,
+      0.06974858866708515
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.7458452580877807,
+      -23.138005713380696,
+      1.064177452443824
+    ],
+    "spin_rpm": 221.29988876894933,
+    "signed_rpm": 221.29988876894933,
+    "contrast": 3.9278813523379133e-07,
+    "zero_contrast": 2.8863029995611706e-07,
+    "relative_gain": 0.3608693726663843,
+    "peaks": [
+      {
+        "contrast": 3.9278813523379133e-07,
+        "signed_rpm": 221.29988876894933
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_03665000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 264.23780507999476,
+    "free_axis": [
+      0.017591583491484222,
+      -0.9983568067433353,
+      0.054536433872345816
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -29.67832108653944,
+      0.0
+    ],
+    "spin_rpm": 283.40709021547093,
+    "signed_rpm": 283.40709021547093,
+    "contrast": 2.577377926216439e-07,
+    "zero_contrast": 1.4964020194181725e-07,
+    "relative_gain": 0.722383352047713,
+    "peaks": [
+      {
+        "contrast": 2.577377926216439e-07,
+        "signed_rpm": 283.40709021547093
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_03665000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 264.23780507999476,
+    "free_axis": [
+      0.017591583491484222,
+      -0.9983568067433353,
+      0.054536433872345816
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9588235689498478,
+      -29.745131414208977,
+      1.3680564592770466
+    ],
+    "spin_rpm": 284.4927240023766,
+    "signed_rpm": 284.4927240023766,
+    "contrast": 2.5807166047900673e-07,
+    "zero_contrast": 1.4964020194181725e-07,
+    "relative_gain": 0.7246144894895927,
+    "peaks": [
+      {
+        "contrast": 2.5807166047900673e-07,
+        "signed_rpm": 284.4927240023766
+      },
+      {
+        "contrast": 5.679973284273096e-08,
+        "signed_rpm": -897.8041012602696
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_04295000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 235.09740934950761,
+    "free_axis": [
+      0.02931634875726137,
+      -0.996020353693967,
+      0.08416654158801623
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -24.30373640773617,
+      0.0
+    ],
+    "spin_rpm": 232.08358709362054,
+    "signed_rpm": 232.08358709362054,
+    "contrast": 2.357878530522878e-07,
+    "zero_contrast": 1.8567706739518233e-07,
+    "relative_gain": 0.2698813933249664,
+    "peaks": [
+      {
+        "contrast": 2.357878530522878e-07,
+        "signed_rpm": 232.08358709362054
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_04295000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 235.09740934950761,
+    "free_axis": [
+      0.02931634875726137,
+      -0.996020353693967,
+      0.08416654158801623
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.7806566614015534,
+      -24.217943461902355,
+      1.113846616513357
+    ],
+    "spin_rpm": 231.62878688513507,
+    "signed_rpm": 231.62878688513507,
+    "contrast": 2.362977552569586e-07,
+    "zero_contrast": 1.8567706739518233e-07,
+    "relative_gain": 0.27262757093227163,
+    "peaks": [
+      {
+        "contrast": 2.362977552569586e-07,
+        "signed_rpm": 231.62878688513507
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_04365000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 265.6454205762754,
+    "free_axis": [
+      -0.03295558061453395,
+      -0.9906419482457332,
+      0.1324479523520737
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -26.102943105191766,
+      0.0
+    ],
+    "spin_rpm": 249.26474546626667,
+    "signed_rpm": 249.26474546626667,
+    "contrast": 4.345050907870582e-07,
+    "zero_contrast": 2.6725276788719813e-07,
+    "relative_gain": 0.6258207322681644,
+    "peaks": [
+      {
+        "contrast": 4.345050907870582e-07,
+        "signed_rpm": 249.26474546626667
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_04365000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 265.6454205762754,
+    "free_axis": [
+      -0.03295558061453395,
+      -0.9906419482457332,
+      0.1324479523520737
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.8565152128772078,
+      -26.571267530694517,
+      1.2220821508685806
+    ],
+    "spin_rpm": 254.136792160621,
+    "signed_rpm": 254.136792160621,
+    "contrast": 4.3664592125349034e-07,
+    "zero_contrast": 2.6725276788719813e-07,
+    "relative_gain": 0.6338312403850932,
+    "peaks": [
+      {
+        "contrast": 4.3664592125349034e-07,
+        "signed_rpm": 254.136792160621
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05625000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 271.96270161259577,
+    "free_axis": [
+      0.019818293894466463,
+      -0.9989520269307264,
+      0.041256310039868585
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -28.489441845786594,
+      0.0
+    ],
+    "spin_rpm": 272.05412974116166,
+    "signed_rpm": 272.05412974116166,
+    "contrast": 2.1931298607060954e-07,
+    "zero_contrast": 1.4050177759365438e-07,
+    "relative_gain": 0.5609267713671588,
+    "peaks": [
+      {
+        "contrast": 2.1931298607060954e-07,
+        "signed_rpm": 272.05412974116166
+      },
+      {
+        "contrast": 6.614983770867771e-08,
+        "signed_rpm": -1151.958091147839
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05625000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 271.96270161259577,
+    "free_axis": [
+      0.019818293894466463,
+      -0.9989520269307264,
+      0.041256310039868585
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.9294782364921086,
+      -28.83476500414552,
+      1.3261863249598307
+    ],
+    "spin_rpm": 275.7856648123305,
+    "signed_rpm": 275.7856648123305,
+    "contrast": 2.193946982607968e-07,
+    "zero_contrast": 1.4050177759365438e-07,
+    "relative_gain": 0.5615083454339551,
+    "peaks": [
+      {
+        "contrast": 2.193946982607968e-07,
+        "signed_rpm": 275.7856648123305
+      },
+      {
+        "contrast": 6.585024637000226e-08,
+        "signed_rpm": -1105.77011662811
+      },
+      {
+        "contrast": 6.584323124432747e-08,
+        "signed_rpm": -1149.648252845859
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05695000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 256.4330339109276,
+    "free_axis": [
+      0.0058863257276506155,
+      -0.9935558451800497,
+      0.11319069607518567
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -28.092134065944137,
+      0.0
+    ],
+    "spin_rpm": 268.26011991571403,
+    "signed_rpm": 268.26011991571403,
+    "contrast": 3.9271377009597084e-07,
+    "zero_contrast": 1.886461077359946e-07,
+    "relative_gain": 1.0817485969313703,
+    "peaks": [
+      {
+        "contrast": 3.9271377009597084e-07,
+        "signed_rpm": 268.26011991571403
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05695000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 256.4330339109276,
+    "free_axis": [
+      0.0058863257276506155,
+      -0.9935558451800497,
+      0.11319069607518567
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.8837679611552003,
+      -27.416716688577747,
+      1.2609665708204114
+    ],
+    "spin_rpm": 262.2229602996133,
+    "signed_rpm": 262.2229602996133,
+    "contrast": 3.9122729319217935e-07,
+    "zero_contrast": 1.886461077359946e-07,
+    "relative_gain": 1.0738688854354308,
+    "peaks": [
+      {
+        "contrast": 3.9122729319217935e-07,
+        "signed_rpm": 262.2229602996133
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05765000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_vertical_image",
+    "free_rpm": 214.49532164209575,
+    "free_axis": [
+      -0.11179443243969805,
+      -0.9928882111019518,
+      -0.04092682653531733
+    ],
+    "axis_camera": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      -23.55764335891752,
+      0.0
+    ],
+    "spin_rpm": 224.95892329006105,
+    "signed_rpm": 224.95892329006105,
+    "contrast": 4.2422303011530924e-07,
+    "zero_contrast": 3.0222732363870345e-07,
+    "relative_gain": 0.4036554504993901,
+    "peaks": [
+      {
+        "contrast": 4.2422303011530924e-07,
+        "signed_rpm": 224.95892329006105
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run1_05765000",
+    "run": 1,
+    "condition": "fixed_vertical",
+    "axis_source": "run1_free_mean",
+    "free_rpm": 214.49532164209575,
+    "free_axis": [
+      -0.11179443243969805,
+      -0.9928882111019518,
+      -0.04092682653531733
+    ],
+    "axis_camera": [
+      -0.03218391846466475,
+      -0.9984265251261394,
+      0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.7694642964122115,
+      -23.870728000972044,
+      1.0978772685393332
+    ],
+    "spin_rpm": 228.30789813462786,
+    "signed_rpm": 228.30789813462786,
+    "contrast": 4.266161492169547e-07,
+    "zero_contrast": 3.0222732363870345e-07,
+    "relative_gain": 0.4115737256335943,
+    "peaks": [
+      {
+        "contrast": 4.266161492169547e-07,
+        "signed_rpm": 228.30789813462786
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_00825000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 275.1329688207431,
+    "free_axis": [
+      -0.08354763279998036,
+      -0.021610981729056275,
+      -0.9962694206499696
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.7710033599247537,
+      0.08157824718926222,
+      -27.512338771717253
+    ],
+    "spin_rpm": 263.2683904885774,
+    "signed_rpm": 263.2683904885774,
+    "contrast": 2.6859648536082044e-07,
+    "zero_contrast": 2.481431137119492e-07,
+    "relative_gain": 0.08242570725784493,
+    "peaks": [
+      {
+        "contrast": 2.6859648536082044e-07,
+        "signed_rpm": 263.2683904885774
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_00965000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 258.6551798490235,
+    "free_axis": [
+      -0.055277210957980875,
+      0.004747487660711803,
+      -0.9984597594843861
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.7497982537082013,
+      0.080601470162322,
+      -27.182919822481143
+    ],
+    "spin_rpm": 260.1161467887076,
+    "signed_rpm": 260.1161467887076,
+    "contrast": 2.6889044354669554e-07,
+    "zero_contrast": 2.4097617603249613e-07,
+    "relative_gain": 0.1158382873103403,
+    "peaks": [
+      {
+        "contrast": 2.6889044354669554e-07,
+        "signed_rpm": 260.1161467887076
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_02025000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 274.6544764780817,
+    "free_axis": [
+      -0.1131374952928988,
+      -0.0339756360967475,
+      -0.9929982695406224
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.6901837881989732,
+      0.07785543155312692,
+      -26.2568157800504
+    ],
+    "spin_rpm": 251.25416225519538,
+    "signed_rpm": 251.25416225519538,
+    "contrast": 2.622041528564389e-07,
+    "zero_contrast": 2.42663466882215e-07,
+    "relative_gain": 0.080525866646868,
+    "peaks": [
+      {
+        "contrast": 2.622041528564389e-07,
+        "signed_rpm": 251.25416225519538
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_02095000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 242.15015326543994,
+    "free_axis": [
+      -0.10307864552850998,
+      0.05677214288231522,
+      -0.9930517190099204
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.5964225213895387,
+      0.07353647882065814,
+      -24.80024500525744
+    ],
+    "spin_rpm": 237.31608717207487,
+    "signed_rpm": 237.31608717207487,
+    "contrast": 3.252091226970185e-07,
+    "zero_contrast": 3.004438035162549e-07,
+    "relative_gain": 0.08242912282071324,
+    "peaks": [
+      {
+        "contrast": 3.252091226970185e-07,
+        "signed_rpm": 237.31608717207487
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_02165000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 257.9799530103649,
+    "free_axis": [
+      -0.08379821542013764,
+      0.09452284701525603,
+      -0.991989561681236
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.6852875951802417,
+      0.07762989677809104,
+      -26.180753970078012
+    ],
+    "spin_rpm": 250.5263189971128,
+    "signed_rpm": 250.5263189971128,
+    "contrast": 2.748242955973875e-07,
+    "zero_contrast": 2.485464463081533e-07,
+    "relative_gain": 0.10572611147557653,
+    "peaks": [
+      {
+        "contrast": 2.748242955973875e-07,
+        "signed_rpm": 250.5263189971128
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_03425000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 257.5748708805372,
+    "free_axis": [
+      -0.0368718032168629,
+      0.09899515019952825,
+      -0.9944045607118412
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.842910114018867,
+      0.08489050909277228,
+      -28.62940214007578
+    ],
+    "spin_rpm": 273.9576843905491,
+    "signed_rpm": 273.9576843905491,
+    "contrast": 2.5358688592411523e-07,
+    "zero_contrast": 2.3470583438736827e-07,
+    "relative_gain": 0.08044559942887863,
+    "peaks": [
+      {
+        "contrast": 2.5358688592411523e-07,
+        "signed_rpm": 273.9576843905491
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_03495000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 257.74677840597286,
+    "free_axis": [
+      -0.18168501701645118,
+      0.02971097949246263,
+      -0.9829078350940795
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.5299140018362292,
+      0.07047287737805992,
+      -23.76704260566754
+    ],
+    "spin_rpm": 227.42926747833823,
+    "signed_rpm": 227.42926747833823,
+    "contrast": 3.078554480142093e-07,
+    "zero_contrast": 2.8543241370089785e-07,
+    "relative_gain": 0.07855812177242205,
+    "peaks": [
+      {
+        "contrast": 3.078554480142093e-07,
+        "signed_rpm": 227.42926747833823
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_03565000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 262.05643934115574,
+    "free_axis": [
+      0.01639828672482445,
+      -0.04454070785582859,
+      -0.9988729756761828
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.89787449529456,
+      0.08742234950808571,
+      -29.48326764493792
+    ],
+    "spin_rpm": 282.12841095160263,
+    "signed_rpm": 282.12841095160263,
+    "contrast": 2.862047543739747e-07,
+    "zero_contrast": 2.5200887685519145e-07,
+    "relative_gain": 0.13569314678717737,
+    "peaks": [
+      {
+        "contrast": 2.862047543739747e-07,
+        "signed_rpm": 282.12841095160263
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_05225000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 246.03111617038746,
+    "free_axis": [
+      0.03687931318165543,
+      -0.022013587434708284,
+      -0.9990772333646202
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.7129503013364458,
+      0.07890413212501361,
+      -26.610491010861658
+    ],
+    "spin_rpm": 254.6385168004031,
+    "signed_rpm": 254.6385168004031,
+    "contrast": 2.935304179149876e-07,
+    "zero_contrast": 2.615698285149757e-07,
+    "relative_gain": 0.12218759931702916,
+    "peaks": [
+      {
+        "contrast": 2.935304179149876e-07,
+        "signed_rpm": 254.6385168004031
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_05295000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 267.6477857769788,
+    "free_axis": [
+      0.0014636457148899033,
+      -0.12703624458399532,
+      -0.9918969958131826
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.5834815060658456,
+      0.0729403730363071,
+      -24.599207782126168
+    ],
+    "spin_rpm": 235.39234137200964,
+    "signed_rpm": 235.39234137200964,
+    "contrast": 2.48874375987656e-07,
+    "zero_contrast": 2.2530204574380268e-07,
+    "relative_gain": 0.10462546030610875,
+    "peaks": [
+      {
+        "contrast": 2.48874375987656e-07,
+        "signed_rpm": 235.39234137200964
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run2_05365000",
+    "run": 2,
+    "condition": "camera_facing",
+    "axis_source": "run2_data_mean",
+    "free_rpm": 248.18186576834975,
+    "free_axis": [
+      -0.10123097781010269,
+      -0.0031481536921112623,
+      -0.9948579688879923
+    ],
+    "axis_camera": [
+      -0.06423800558235472,
+      0.002959014091630631,
+      -0.9979302194414231
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.5672043902786843,
+      0.07219059547785588,
+      -24.346344612074432
+    ],
+    "spin_rpm": 232.97266777225755,
+    "signed_rpm": 232.97266777225755,
+    "contrast": 3.337176062514272e-07,
+    "zero_contrast": 3.0886134090222224e-07,
+    "relative_gain": 0.08047710107259376,
+    "peaks": [
+      {
+        "contrast": 3.337176062514272e-07,
+        "signed_rpm": 232.97266777225755
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_01425000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 271.09136787389707,
+    "free_axis": [
+      -0.7989633638107657,
+      -0.5993996122312653,
+      -0.04876113355116712
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -21.044559962616304,
+      -18.53104981727216,
+      0.8946798678632899
+    ],
+    "spin_rpm": 267.90393948364255,
+    "signed_rpm": 267.90393948364255,
+    "contrast": 2.144391543944914e-07,
+    "zero_contrast": 1.1787895260124131e-07,
+    "relative_gain": 0.8191470967670718,
+    "peaks": [
+      {
+        "contrast": 2.144391543944914e-07,
+        "signed_rpm": 267.90393948364255
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_01495000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 265.3068731367274,
+    "free_axis": [
+      -0.7406686895609695,
+      -0.6654568679114721,
+      0.09261236015505699
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -22.68019544187564,
+      -19.971329043965213,
+      0.9642166097602833
+    ],
+    "spin_rpm": 288.7260991881553,
+    "signed_rpm": 288.7260991881553,
+    "contrast": 4.7012046168941945e-07,
+    "zero_contrast": 2.929892390546342e-07,
+    "relative_gain": 0.6045656257080327,
+    "peaks": [
+      {
+        "contrast": 4.7012046168941945e-07,
+        "signed_rpm": 288.7260991881553
+      },
+      {
+        "contrast": 8.435749622128804e-08,
+        "signed_rpm": -1940.534788458578
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_01565000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 238.40501673268065,
+    "free_axis": [
+      -0.7722081670825885,
+      -0.6224304824984634,
+      -0.12757288562887886
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -18.550868389680716,
+      -16.33519859258178,
+      0.7886640779903216
+    ],
+    "spin_rpm": 236.15845288599596,
+    "signed_rpm": 236.15845288599596,
+    "contrast": 2.8526385112125027e-07,
+    "zero_contrast": 2.1615141648074418e-07,
+    "relative_gain": 0.31974083614975046,
+    "peaks": [
+      {
+        "contrast": 2.8526385112125027e-07,
+        "signed_rpm": 236.15845288599596
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_02625000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 265.84689475034287,
+    "free_axis": [
+      -0.7375268826524615,
+      -0.669988318047961,
+      -0.08467438245542011
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -22.25670237337206,
+      -19.598416939190862,
+      0.9462123975913016
+    ],
+    "spin_rpm": 283.3348977756445,
+    "signed_rpm": 283.3348977756445,
+    "contrast": 2.1377187682092754e-07,
+    "zero_contrast": 1.2681186031516133e-07,
+    "relative_gain": 0.6857404054293295,
+    "peaks": [
+      {
+        "contrast": 2.1377187682092754e-07,
+        "signed_rpm": 283.3348977756445
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_02695000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 272.79070250777255,
+    "free_axis": [
+      -0.6861589314770361,
+      -0.693319203090876,
+      0.22021444861707995
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -21.74030566722523,
+      -19.143697377266957,
+      0.9242585179358845
+    ],
+    "spin_rpm": 276.7610035170394,
+    "signed_rpm": 276.7610035170394,
+    "contrast": 3.9463408729385064e-07,
+    "zero_contrast": 2.5525765659619816e-07,
+    "relative_gain": 0.5460225270270243,
+    "peaks": [
+      {
+        "contrast": 3.9463408729385064e-07,
+        "signed_rpm": 276.7610035170394
+      },
+      {
+        "contrast": 6.944418611117802e-08,
+        "signed_rpm": -1888.378628897302
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_04295000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 273.2150231637458,
+    "free_axis": [
+      -0.7407787614540715,
+      -0.6710767318651438,
+      0.030047404676102705
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -22.38620768866136,
+      -19.71245446021723,
+      0.9517181339229925
+    ],
+    "spin_rpm": 284.9835416157489,
+    "signed_rpm": 284.9835416157489,
+    "contrast": 2.088565969815192e-07,
+    "zero_contrast": 1.1748735055839551e-07,
+    "relative_gain": 0.7776943304012105,
+    "peaks": [
+      {
+        "contrast": 2.088565969815192e-07,
+        "signed_rpm": 284.9835416157489
+      },
+      {
+        "contrast": 6.570914271821756e-08,
+        "signed_rpm": -839.1402638738102
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_04365000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 275.1458697563553,
+    "free_axis": [
+      -0.6581559708557053,
+      -0.7228647129023746,
+      0.21046929673363624
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -21.972280342845952,
+      -19.34796557189348,
+      0.9341205950000123
+    ],
+    "spin_rpm": 279.71411489449895,
+    "signed_rpm": 279.71411489449895,
+    "contrast": 3.9006762979023534e-07,
+    "zero_contrast": 2.569443899754396e-07,
+    "relative_gain": 0.5181013674885857,
+    "peaks": [
+      {
+        "contrast": 3.9006762979023534e-07,
+        "signed_rpm": 279.71411489449895
+      },
+      {
+        "contrast": 7.268672218374399e-08,
+        "signed_rpm": -1969.056020974063
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run3_06225000",
+    "run": 3,
+    "condition": "oblique_fixed",
+    "axis_source": "run3_data_mean",
+    "free_rpm": 286.57532940894373,
+    "free_axis": [
+      -0.8078540852543478,
+      -0.5880435480812249,
+      -0.039705950409294956
+    ],
+    "axis_camera": [
+      -0.7501223945492624,
+      -0.6605296327001802,
+      0.03189039856517835
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -23.0278704857911,
+      -20.277478641317913,
+      0.9789975252511377
+    ],
+    "spin_rpm": 293.1521130411682,
+    "signed_rpm": 293.1521130411682,
+    "contrast": 2.032102067518751e-07,
+    "zero_contrast": 1.304892682521221e-07,
+    "relative_gain": 0.5572944003275946,
+    "peaks": [
+      {
+        "contrast": 2.032102067518751e-07,
+        "signed_rpm": 293.1521130411682
+      },
+      {
+        "contrast": 7.808723405886881e-08,
+        "signed_rpm": -1267.3938025650368
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_00895000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 235.6110673799936,
+    "free_axis": [
+      0.0263253037500891,
+      0.9981021776204203,
+      -0.05566885495355974
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      25.91601513639771,
+      0.0
+    ],
+    "spin_rpm": 247.47971485212454,
+    "signed_rpm": 247.47971485212454,
+    "contrast": 3.470941360083198e-07,
+    "zero_contrast": 2.3642871325393259e-07,
+    "relative_gain": 0.468070993710179,
+    "peaks": [
+      {
+        "contrast": 3.470941360083198e-07,
+        "signed_rpm": 247.47971485212454
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_00895000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 235.6110673799936,
+    "free_axis": [
+      0.0263253037500891,
+      0.9981021776204203,
+      -0.05566885495355974
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.8398827528051828,
+      26.055286565472908,
+      -1.198350835565054
+    ],
+    "spin_rpm": 249.20177176063888,
+    "signed_rpm": 249.20177176063888,
+    "contrast": 3.4642214735084513e-07,
+    "zero_contrast": 2.3642871325393259e-07,
+    "relative_gain": 0.46522874731706465,
+    "peaks": [
+      {
+        "contrast": 3.4642214735084513e-07,
+        "signed_rpm": 249.20177176063888
+      },
+      {
+        "contrast": 6.678680401108993e-08,
+        "signed_rpm": -1319.5675054807389
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_01625000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 213.56528072291206,
+    "free_axis": [
+      0.05795181387616829,
+      0.9965056373084039,
+      0.060150661517839606
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      25.21758157526319,
+      0.0
+    ],
+    "spin_rpm": 240.81016563157448,
+    "signed_rpm": 240.81016563157448,
+    "contrast": 3.858639013962578e-07,
+    "zero_contrast": 2.5457396767611565e-07,
+    "relative_gain": 0.5157241131865342,
+    "peaks": [
+      {
+        "contrast": 3.858639013962578e-07,
+        "signed_rpm": 240.81016563157448
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_01625000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 213.56528072291206,
+    "free_axis": [
+      0.05795181387616829,
+      0.9965056373084039,
+      0.060150661517839606
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.8155774487149867,
+      25.3012745786618,
+      -1.1636718504711605
+    ],
+    "spin_rpm": 241.99014034872096,
+    "signed_rpm": 241.99014034872096,
+    "contrast": 3.852457706066617e-07,
+    "zero_contrast": 2.5457396767611565e-07,
+    "relative_gain": 0.5132960142130267,
+    "peaks": [
+      {
+        "contrast": 3.852457706066617e-07,
+        "signed_rpm": 241.99014034872096
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_01765000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 277.02574990194785,
+    "free_axis": [
+      0.06300898054002578,
+      0.9961968714294454,
+      -0.060180243647659996
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      27.598519318136148,
+      0.0
+    ],
+    "spin_rpm": 263.54644628991196,
+    "signed_rpm": 263.54644628991196,
+    "contrast": 2.0952367322140178e-07,
+    "zero_contrast": 1.3383194443345051e-07,
+    "relative_gain": 0.5655729587459581,
+    "peaks": [
+      {
+        "contrast": 2.0952367322140178e-07,
+        "signed_rpm": 263.54644628991196
+      },
+      {
+        "contrast": 5.843577258870083e-08,
+        "signed_rpm": 1665.8322619455546
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_01765000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 277.02574990194785,
+    "free_axis": [
+      0.06300898054002578,
+      0.9961968714294454,
+      -0.060180243647659996
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.9039836518860151,
+      28.04385852873473,
+      -1.2898104657544176
+    ],
+    "spin_rpm": 268.22116175173045,
+    "signed_rpm": 268.22116175173045,
+    "contrast": 2.096549587489044e-07,
+    "zero_contrast": 1.3383194443345051e-07,
+    "relative_gain": 0.5665539317719304,
+    "peaks": [
+      {
+        "contrast": 2.096549587489044e-07,
+        "signed_rpm": 268.22116175173045
+      },
+      {
+        "contrast": 5.7976301655098176e-08,
+        "signed_rpm": 1663.6552913330615
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_02425000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 242.56288038173506,
+    "free_axis": [
+      0.002206004110954196,
+      0.98175860732405,
+      -0.19011883255218098
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      24.218979831644088,
+      0.0
+    ],
+    "spin_rpm": 231.27422141094453,
+    "signed_rpm": 231.27422141094453,
+    "contrast": 2.0241746333249335e-07,
+    "zero_contrast": 1.5507530207849882e-07,
+    "relative_gain": 0.30528498490385036,
+    "peaks": [
+      {
+        "contrast": 2.0241746333249335e-07,
+        "signed_rpm": 231.27422141094453
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_02425000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 242.56288038173506,
+    "free_axis": [
+      0.002206004110954196,
+      0.98175860732405,
+      -0.19011883255218098
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.7762080863081282,
+      24.079937414653394,
+      -1.1074993571340273
+    ],
+    "spin_rpm": 230.30884932076773,
+    "signed_rpm": 230.30884932076773,
+    "contrast": 2.0345391511538886e-07,
+    "zero_contrast": 1.5507530207849882e-07,
+    "relative_gain": 0.3119685236041061,
+    "peaks": [
+      {
+        "contrast": 2.0345391511538886e-07,
+        "signed_rpm": 230.30884932076773
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_02495000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 280.45008590440176,
+    "free_axis": [
+      0.037187440369899016,
+      0.9966117927401991,
+      -0.0733623121902636
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      29.69836684263219,
+      0.0
+    ],
+    "spin_rpm": 283.5985130856815,
+    "signed_rpm": 283.5985130856815,
+    "contrast": 2.2373470976235892e-07,
+    "zero_contrast": 1.256769301005065e-07,
+    "relative_gain": 0.7802369104929086,
+    "peaks": [
+      {
+        "contrast": 2.2373470976235892e-07,
+        "signed_rpm": 283.5985130856815
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_02495000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 280.45008590440176,
+    "free_axis": [
+      0.037187440369899016,
+      0.9966117927401991,
+      -0.0733623121902636
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.9710638412822866,
+      30.12485561046843,
+      -1.3855209690888397
+    ],
+    "spin_rpm": 288.1245375405027,
+    "signed_rpm": 288.1245375405027,
+    "contrast": 2.2388118830139085e-07,
+    "zero_contrast": 1.256769301005065e-07,
+    "relative_gain": 0.7814024270194087,
+    "peaks": [
+      {
+        "contrast": 2.2388118830139085e-07,
+        "signed_rpm": 288.1245375405027
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03225000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 276.2216333622232,
+    "free_axis": [
+      0.040674232019866356,
+      0.9970852508376931,
+      -0.06454927893887584
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      30.850388872047976,
+      0.0
+    ],
+    "spin_rpm": 294.59951311761824,
+    "signed_rpm": 294.59951311761824,
+    "contrast": 3.052831344146896e-07,
+    "zero_contrast": 1.4895063815278267e-07,
+    "relative_gain": 1.0495590901836382,
+    "peaks": [
+      {
+        "contrast": 3.052831344146896e-07,
+        "signed_rpm": 294.59951311761824
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03225000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 276.2216333622232,
+    "free_axis": [
+      0.040674232019866356,
+      0.9970852508376931,
+      -0.06454927893887584
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.9902798347213976,
+      30.720984312985575,
+      -1.4129384886379197
+    ],
+    "spin_rpm": 293.826118618544,
+    "signed_rpm": 293.826118618544,
+    "contrast": 3.0582369421322845e-07,
+    "zero_contrast": 1.4895063815278267e-07,
+    "relative_gain": 1.0531882105770967,
+    "peaks": [
+      {
+        "contrast": 3.0582369421322845e-07,
+        "signed_rpm": 293.826118618544
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03295000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 258.7659624860314,
+    "free_axis": [
+      0.0018033634925169139,
+      0.9959675033123399,
+      -0.08969660097182233
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      26.738367227976788,
+      0.0
+    ],
+    "spin_rpm": 255.33259887233072,
+    "signed_rpm": 255.33259887233072,
+    "contrast": 2.2761806850639574e-07,
+    "zero_contrast": 1.705508371782255e-07,
+    "relative_gain": 0.33460540137094164,
+    "peaks": [
+      {
+        "contrast": 2.2761806850639574e-07,
+        "signed_rpm": 255.33259887233072
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03295000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 258.7659624860314,
+    "free_axis": [
+      0.0018033634925169139,
+      0.9959675033123399,
+      -0.08969660097182233
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.8628769029818846,
+      26.768623242744166,
+      -1.2311590566951176
+    ],
+    "spin_rpm": 256.024370444831,
+    "signed_rpm": 256.024370444831,
+    "contrast": 2.278402721683095e-07,
+    "zero_contrast": 1.705508371782255e-07,
+    "relative_gain": 0.33590826018764486,
+    "peaks": [
+      {
+        "contrast": 2.278402721683095e-07,
+        "signed_rpm": 256.024370444831
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03365000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 236.6181073889427,
+    "free_axis": [
+      0.023314470320320028,
+      0.9980468857548159,
+      -0.057955580480194835
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      25.83638179062329,
+      0.0
+    ],
+    "spin_rpm": 246.71927241522783,
+    "signed_rpm": 246.71927241522783,
+    "contrast": 3.3045463055015765e-07,
+    "zero_contrast": 2.2537863518894933e-07,
+    "relative_gain": 0.46621985829808743,
+    "peaks": [
+      {
+        "contrast": 3.3045463055015765e-07,
+        "signed_rpm": 246.71927241522783
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_03365000",
+    "run": 4,
+    "condition": "reverse_fixed",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 236.6181073889427,
+    "free_axis": [
+      0.023314470320320028,
+      0.9980468857548159,
+      -0.057955580480194835
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.840090863343921,
+      26.0617426805747,
+      -1.1986477691991286
+    ],
+    "spin_rpm": 249.2635202782771,
+    "signed_rpm": 249.2635202782771,
+    "contrast": 3.298858553702935e-07,
+    "zero_contrast": 2.2537863518894933e-07,
+    "relative_gain": 0.4636962154541806,
+    "peaks": [
+      {
+        "contrast": 3.298858553702935e-07,
+        "signed_rpm": 249.2635202782771
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_04425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 266.61947772692764,
+    "free_axis": [
+      0.397823004893538,
+      0.9159305380245263,
+      -0.05299156811774933
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      20.029040174119498,
+      0.0
+    ],
+    "spin_rpm": 191.26324494583648,
+    "signed_rpm": 191.26324494583648,
+    "contrast": 2.1349577737952998e-07,
+    "zero_contrast": 1.8987249060488632e-07,
+    "relative_gain": 0.12441658451619708,
+    "peaks": [
+      {
+        "contrast": 2.1349577737952998e-07,
+        "signed_rpm": 191.26324494583648
+      },
+      {
+        "contrast": 7.473766441685612e-08,
+        "signed_rpm": 1702.7710317621202
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_04425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 266.61947772692764,
+    "free_axis": [
+      0.397823004893538,
+      0.9159305380245263,
+      -0.05299156811774933
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.7075473708763352,
+      21.949908419069626,
+      -1.0095337477279858
+    ],
+    "spin_rpm": 209.93651535057043,
+    "signed_rpm": 209.93651535057043,
+    "contrast": 2.1775208670768578e-07,
+    "zero_contrast": 1.8987249060488632e-07,
+    "relative_gain": 0.14683325643426293,
+    "peaks": [
+      {
+        "contrast": 2.1775208670768578e-07,
+        "signed_rpm": 209.93651535057043
+      },
+      {
+        "contrast": 7.391674347012922e-08,
+        "signed_rpm": 1649.3834801853163
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_04495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 256.39790615876234,
+    "free_axis": [
+      0.39286484699668156,
+      0.9131086995594996,
+      0.10903996874097795
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      27.71794779872553,
+      0.0
+    ],
+    "spin_rpm": 264.68690427181724,
+    "signed_rpm": 264.68690427181724,
+    "contrast": 1.9171651254708942e-07,
+    "zero_contrast": 1.25859732096794e-07,
+    "relative_gain": 0.5232553681239958,
+    "peaks": [
+      {
+        "contrast": 1.9171651254708942e-07,
+        "signed_rpm": 264.68690427181724
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_04495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 256.39790615876234,
+    "free_axis": [
+      0.39286484699668156,
+      0.9131086995594996,
+      0.10903996874097795
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.8925245704821925,
+      27.688368850257028,
+      -1.2734605648554953
+    ],
+    "spin_rpm": 264.8211355230166,
+    "signed_rpm": 264.8211355230166,
+    "contrast": 1.9147596612396224e-07,
+    "zero_contrast": 1.25859732096794e-07,
+    "relative_gain": 0.5213441418793523,
+    "peaks": [
+      {
+        "contrast": 1.9147596612396224e-07,
+        "signed_rpm": 264.8211355230166
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 131.55490060561698,
+    "free_axis": [
+      0.28608025239462614,
+      0.9086332299464804,
+      0.30421003045076184
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      12.985944299903837,
+      0.0
+    ],
+    "spin_rpm": 124.00663356274306,
+    "signed_rpm": 124.00663356274306,
+    "contrast": 2.9497484396162273e-07,
+    "zero_contrast": 2.6555489988823996e-07,
+    "relative_gain": 0.11078667381307694,
+    "peaks": [
+      {
+        "contrast": 2.9497484396162273e-07,
+        "signed_rpm": 124.00663356274306
+      },
+      {
+        "contrast": 6.137200243695609e-08,
+        "signed_rpm": -1801.8563190780176
+      },
+      {
+        "contrast": 6.02518380717309e-08,
+        "signed_rpm": -1420.7871527515974
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 131.55490060561698,
+    "free_axis": [
+      0.28608025239462614,
+      0.9086332299464804,
+      0.30421003045076184
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.4146661584213171,
+      12.863992683008853,
+      -0.5916486983034879
+    ],
+    "spin_rpm": 123.03567494704758,
+    "signed_rpm": 123.03567494704758,
+    "contrast": 2.9479977695092593e-07,
+    "zero_contrast": 2.6555489988823996e-07,
+    "relative_gain": 0.1101274240279273,
+    "peaks": [
+      {
+        "contrast": 2.9479977695092593e-07,
+        "signed_rpm": 123.03567494704758
+      },
+      {
+        "contrast": 6.179000042570433e-08,
+        "signed_rpm": -1876.4716040570415
+      },
+      {
+        "contrast": 6.17860404415874e-08,
+        "signed_rpm": -1835.4134704617868
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 201.4507071063673,
+    "free_axis": [
+      0.07794190366162017,
+      0.9615240880324188,
+      0.26343213127298626
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      22.411650218565914,
+      0.0
+    ],
+    "spin_rpm": 214.01549490787932,
+    "signed_rpm": 214.01549490787932,
+    "contrast": 2.561862156536233e-07,
+    "zero_contrast": 1.7684463547186217e-07,
+    "relative_gain": 0.4486513258943905,
+    "peaks": [
+      {
+        "contrast": 2.561862156536233e-07,
+        "signed_rpm": 214.01549490787932
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 201.4507071063673,
+    "free_axis": [
+      0.07794190366162017,
+      0.9615240880324188,
+      0.26343213127298626
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.7240760009545256,
+      22.462668315357007,
+      -1.03311691763925
+    ],
+    "spin_rpm": 214.84072833328023,
+    "signed_rpm": 214.84072833328023,
+    "contrast": 2.548277267252633e-07,
+    "zero_contrast": 1.7684463547186217e-07,
+    "relative_gain": 0.440969504363671,
+    "peaks": [
+      {
+        "contrast": 2.548277267252633e-07,
+        "signed_rpm": 214.84072833328023
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 163.3735554012245,
+    "free_axis": [
+      0.13208931074859856,
+      0.9254634060345752,
+      0.3550632310967204
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      18.247896754927368,
+      0.0
+    ],
+    "spin_rpm": 174.25457817463482,
+    "signed_rpm": 174.25457817463482,
+    "contrast": 2.5981258842234605e-07,
+    "zero_contrast": 2.2647072168530507e-07,
+    "relative_gain": 0.1472237403975405,
+    "peaks": [
+      {
+        "contrast": 2.5981258842234605e-07,
+        "signed_rpm": 174.25457817463482
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_05565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 163.3735554012245,
+    "free_axis": [
+      0.13208931074859856,
+      0.9254634060345752,
+      0.3550632310967204
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.5904062393097392,
+      18.315894336297536,
+      -0.8423959270940767
+    ],
+    "spin_rpm": 175.17954786321317,
+    "signed_rpm": 175.17954786321317,
+    "contrast": 2.592087189034361e-07,
+    "zero_contrast": 2.2647072168530507e-07,
+    "relative_gain": 0.14455730513201814,
+    "peaks": [
+      {
+        "contrast": 2.592087189034361e-07,
+        "signed_rpm": 175.17954786321317
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 235.55639159355124,
+    "free_axis": [
+      -0.6988209906721228,
+      0.6084620963004908,
+      -0.3760626282438143
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      35.44341800340398,
+      0.0
+    ],
+    "spin_rpm": 338.4597105188411,
+    "signed_rpm": 338.4597105188411,
+    "contrast": 3.4209881203046005e-07,
+    "zero_contrast": 2.7778014967179867e-07,
+    "relative_gain": 0.23154520736868656,
+    "peaks": [
+      {
+        "contrast": 3.4209881203046005e-07,
+        "signed_rpm": 338.4597105188411
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 235.55639159355124,
+    "free_axis": [
+      -0.6988209906721228,
+      0.6084620963004908,
+      -0.3760626282438143
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      1.0945088564341277,
+      33.95443210089843,
+      -1.5616532167858739
+    ],
+    "spin_rpm": 324.7519315286649,
+    "signed_rpm": 324.7519315286649,
+    "contrast": 3.4041745213302917e-07,
+    "zero_contrast": 2.7778014967179867e-07,
+    "relative_gain": 0.2254923634220709,
+    "peaks": [
+      {
+        "contrast": 3.4041745213302917e-07,
+        "signed_rpm": 324.7519315286649
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 272.68261676140565,
+    "free_axis": [
+      -0.7622682175290973,
+      0.5752632372140186,
+      -0.2966805899533379
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      66.80044466287089,
+      0.0
+    ],
+    "spin_rpm": 637.8972581299512,
+    "signed_rpm": 637.8972581299512,
+    "contrast": 1.6366815326418442e-07,
+    "zero_contrast": 1.1988611834287253e-07,
+    "relative_gain": 0.36519686788170014,
+    "peaks": [
+      {
+        "contrast": 1.6366815326418442e-07,
+        "signed_rpm": 637.8972581299512
+      },
+      {
+        "contrast": 1.075271985892411e-07,
+        "signed_rpm": -562.1701438729079
+      },
+      {
+        "contrast": 1.0748891987501237e-07,
+        "signed_rpm": -697.7155513534437
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 272.68261676140565,
+    "free_axis": [
+      -0.7622682175290973,
+      0.5752632372140186,
+      -0.2966805899533379
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      2.2591538288162463,
+      70.08466385182018,
+      -3.2233771551919332
+    ],
+    "spin_rpm": 670.313963396065,
+    "signed_rpm": 670.313963396065,
+    "contrast": 1.628374522653327e-07,
+    "zero_contrast": 1.1988611834287253e-07,
+    "relative_gain": 0.3582677837614192,
+    "peaks": [
+      {
+        "contrast": 1.628374522653327e-07,
+        "signed_rpm": 670.313963396065
+      },
+      {
+        "contrast": 1.0945025961235048e-07,
+        "signed_rpm": -673.339292943631
+      },
+      {
+        "contrast": 1.094365080930721e-07,
+        "signed_rpm": -543.1942570295442
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 232.55647219932763,
+    "free_axis": [
+      -0.8279750800877412,
+      0.5369709045744042,
+      -0.16161532846312718
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      21.098155833178804,
+      0.0
+    ],
+    "spin_rpm": 201.47254745841076,
+    "signed_rpm": 201.47254745841076,
+    "contrast": 2.1704453576605957e-07,
+    "zero_contrast": 1.8222217841788835e-07,
+    "relative_gain": 0.19109834845851448,
+    "peaks": [
+      {
+        "contrast": 2.1704453576605957e-07,
+        "signed_rpm": 201.47254745841076
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_06565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 232.55647219932763,
+    "free_axis": [
+      -0.8279750800877412,
+      0.5369709045744042,
+      -0.16161532846312718
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.7014052595648888,
+      21.759364596372638,
+      -1.0007701385246512
+    ],
+    "spin_rpm": 208.11408833197615,
+    "signed_rpm": 208.11408833197615,
+    "contrast": 2.1373335731914811e-07,
+    "zero_contrast": 1.8222217841788835e-07,
+    "relative_gain": 0.1729272428573183,
+    "peaks": [
+      {
+        "contrast": 2.1373335731914811e-07,
+        "signed_rpm": 208.11408833197615
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_07425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 268.8538347603663,
+    "free_axis": [
+      0.15434474603040954,
+      0.5242109590041383,
+      0.8374846684165449
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      23.728317906272014,
+      0.0
+    ],
+    "spin_rpm": 226.5887451623474,
+    "signed_rpm": 226.5887451623474,
+    "contrast": 3.7848230054600677e-07,
+    "zero_contrast": 3.298446715273633e-07,
+    "relative_gain": 0.1474561610876548,
+    "peaks": [
+      {
+        "contrast": 3.7848230054600677e-07,
+        "signed_rpm": 226.5887451623474
+      },
+      {
+        "contrast": 7.58695193933608e-08,
+        "signed_rpm": -1898.005899946802
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_07425000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 268.8538347603663,
+    "free_axis": [
+      0.15434474603040954,
+      0.5242109590041383,
+      0.8374846684165449
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.7547793921619784,
+      23.415165141574807,
+      -1.0769247400826125
+    ],
+    "spin_rpm": 223.95073739395212,
+    "signed_rpm": 223.95073739395212,
+    "contrast": 3.779760700479146e-07,
+    "zero_contrast": 3.298446715273633e-07,
+    "relative_gain": 0.145921406878202,
+    "peaks": [
+      {
+        "contrast": 3.779760700479146e-07,
+        "signed_rpm": 223.95073739395212
+      },
+      {
+        "contrast": 7.515807580420705e-08,
+        "signed_rpm": -1920.201351643661
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_07495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 266.2595156452122,
+    "free_axis": [
+      0.0853688675054462,
+      0.2634329459429117,
+      0.9608929386006937
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      28.754883327326176,
+      0.0
+    ],
+    "spin_rpm": 274.5889091744813,
+    "signed_rpm": 274.5889091744813,
+    "contrast": 2.026289705573989e-07,
+    "zero_contrast": 1.7384170742803677e-07,
+    "relative_gain": 0.16559468700155788,
+    "peaks": [
+      {
+        "contrast": 2.026289705573989e-07,
+        "signed_rpm": 274.5889091744813
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_07495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 266.2595156452122,
+    "free_axis": [
+      0.0853688675054462,
+      0.2634329459429117,
+      0.9608929386006937
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.9567999447031591,
+      29.68235347351165,
+      -1.3651691374469583
+    ],
+    "spin_rpm": 283.89229406621195,
+    "signed_rpm": 283.89229406621195,
+    "contrast": 2.0235026450796816e-07,
+    "zero_contrast": 1.7384170742803677e-07,
+    "relative_gain": 0.16399146960595035,
+    "peaks": [
+      {
+        "contrast": 2.0235026450796816e-07,
+        "signed_rpm": 283.89229406621195
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_08495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 257.2272722768835,
+    "free_axis": [
+      -0.4085833389054776,
+      0.3477449934779822,
+      0.843879775015286
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -0.0,
+      -37.12741084723871,
+      -0.0
+    ],
+    "spin_rpm": 354.5406576325017,
+    "signed_rpm": -354.5406576325017,
+    "contrast": 1.2258652192441345e-07,
+    "zero_contrast": 1.1101397736875111e-07,
+    "relative_gain": 0.10424403151706052,
+    "peaks": [
+      {
+        "contrast": 1.2258652192441345e-07,
+        "signed_rpm": -354.5406576325017
+      },
+      {
+        "contrast": 7.5834543506666e-08,
+        "signed_rpm": 1587.989236680134
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_08495000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 257.2272722768835,
+    "free_axis": [
+      -0.4085833389054776,
+      0.3477449934779822,
+      0.843879775015286
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      -1.2282084329580805,
+      -38.10213101289408,
+      1.752416747418032
+    ],
+    "spin_rpm": 364.4219583772155,
+    "signed_rpm": -364.4219583772155,
+    "contrast": 1.2351525005955344e-07,
+    "zero_contrast": 1.1101397736875111e-07,
+    "relative_gain": 0.11260989820477563,
+    "peaks": [
+      {
+        "contrast": 1.2351525005955344e-07,
+        "signed_rpm": -364.4219583772155
+      },
+      {
+        "contrast": 7.522890820080102e-08,
+        "signed_rpm": 1610.6519085958737
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_08565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_vertical_image",
+    "free_rpm": 231.12088969587847,
+    "free_axis": [
+      -0.34043587258094765,
+      0.44490073998014495,
+      0.8283518263547007
+    ],
+    "axis_camera": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.0,
+      25.15903638628415,
+      0.0
+    ],
+    "spin_rpm": 240.2511002583587,
+    "signed_rpm": 240.2511002583587,
+    "contrast": 2.6620166398960234e-07,
+    "zero_contrast": 2.195207297947482e-07,
+    "relative_gain": 0.2126493212668381,
+    "peaks": [
+      {
+        "contrast": 2.6620166398960234e-07,
+        "signed_rpm": 240.2511002583587
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  },
+  {
+    "window": "run4_08565000",
+    "run": 4,
+    "condition": "dynamic_total_motion",
+    "axis_source": "run4_free_reverse",
+    "free_rpm": 231.12088969587847,
+    "free_axis": [
+      -0.34043587258094765,
+      0.44490073998014495,
+      0.8283518263547007
+    ],
+    "axis_camera": [
+      0.03218391846466475,
+      0.9984265251261394,
+      -0.04592024952896566
+    ],
+    "valid": true,
+    "omega_rad_s": [
+      0.8389545434515219,
+      26.026491164422453,
+      -1.1970264596913698
+    ],
+    "spin_rpm": 248.9263625862934,
+    "signed_rpm": 248.9263625862934,
+    "contrast": 2.6457804412699533e-07,
+    "zero_contrast": 2.195207297947482e-07,
+    "relative_gain": 0.2052531183473001,
+    "peaks": [
+      {
+        "contrast": 2.6457804412699533e-07,
+        "signed_rpm": 248.9263625862934
+      }
+    ],
+    "max_rpm": 3500,
+    "method": "scalar_known_axis_cmax"
+  }
+]

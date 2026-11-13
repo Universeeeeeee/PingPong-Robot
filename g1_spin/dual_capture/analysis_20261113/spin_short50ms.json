@@ -1,0 +1,430 @@
+[
+  {
+    "time": 17,
+    "events": 21554,
+    "used": 4000,
+    "geometry": {
+      "center": [
+        501.5,
+        349.5
+      ],
+      "radius": 72.30000305175781,
+      "track_samples": 9,
+      "center_range": [
+        18.0,
+        4.0
+      ]
+    },
+    "one": {
+      "signed_rpm": 203.6758074503395,
+      "rpm": 203.6758074503395,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "gain": 1.299485730482767,
+      "peaks": [
+        {
+          "rpm": 203.6758074503395,
+          "score": 2.2081657316792282e-07
+        }
+      ]
+    },
+    "free": {
+      "valid": true,
+      "omega_rad_s": [
+        2.7304034322817845,
+        20.871125445954128,
+        0.8853451436385305
+      ],
+      "axis_camera": [
+        0.12960215520395962,
+        0.9906751534762578,
+        0.04202406038547311
+      ],
+      "spin_rad_s": 21.067577371571094,
+      "spin_rps": 3.3530090776564996,
+      "spin_rpm": 201.18054465939,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 4000,
+        "contrast_before": 9.602867729975577e-08,
+        "contrast_after": 2.2738812381824065e-07,
+        "relative_improvement": 1.367918940593582,
+        "converged": true,
+        "iterations": 50,
+        "initializer": "engineering_grid_multistart",
+        "initial_omega_rad_s": [
+          -9.00595889994669,
+          21.519278385247915,
+          3.313398501832985
+        ],
+        "competing_solution_displacement_rad": 0.0049302344965762405,
+        "caveat": "Convergence and contrast do not prove physical correctness"
+      },
+      "failure_reason": null
+    },
+    "sensitivity": [
+      {
+        "radius": 70.30000305175781,
+        "one": {
+          "signed_rpm": 212.5840285875272,
+          "rpm": 212.5840285875272,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.344734002993159,
+          "peaks": [
+            {
+              "rpm": 212.5840285875272,
+              "score": 2.146776946377052e-07
+            }
+          ]
+        }
+      },
+      {
+        "radius": 74.30000305175781,
+        "one": {
+          "signed_rpm": 195.72092782156125,
+          "rpm": 195.72092782156125,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.2634627720421752,
+          "peaks": [
+            {
+              "rpm": 195.72092782156125,
+              "score": 2.2682787751540309e-07
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "time": 19,
+    "events": 25556,
+    "used": 4000,
+    "geometry": {
+      "center": [
+        508.5,
+        348.5
+      ],
+      "radius": 72.30000305175781,
+      "track_samples": 9,
+      "center_range": [
+        31.0,
+        5.0
+      ]
+    },
+    "one": {
+      "signed_rpm": 205.6560081486305,
+      "rpm": 205.6560081486305,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "gain": 1.269939362294347,
+      "peaks": [
+        {
+          "rpm": 205.6560081486305,
+          "score": 2.1212947568971369e-07
+        }
+      ]
+    },
+    "free": {
+      "valid": true,
+      "omega_rad_s": [
+        1.4619535369799206,
+        21.895664164108794,
+        -0.7515498947242589
+      ],
+      "axis_camera": [
+        0.06658171622367995,
+        0.9971937281367329,
+        -0.034227819525535594
+      ],
+      "spin_rad_s": 21.957282267529976,
+      "spin_rps": 3.494610009741416,
+      "spin_rpm": 209.67660058448496,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 4000,
+        "contrast_before": 9.345160457295356e-08,
+        "contrast_after": 2.1447921562809326e-07,
+        "relative_improvement": 1.295083285174186,
+        "converged": true,
+        "iterations": 45,
+        "initializer": "engineering_grid_multistart",
+        "initial_omega_rad_s": [
+          -0.6679266425693189,
+          14.444529452555523,
+          6.135923151542564
+        ],
+        "competing_solution_displacement_rad": 0.0005075405658500501,
+        "caveat": "Convergence and contrast do not prove physical correctness"
+      },
+      "failure_reason": null
+    },
+    "sensitivity": [
+      {
+        "radius": 70.30000305175781,
+        "one": {
+          "signed_rpm": 214.61123713253517,
+          "rpm": 214.61123713253517,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.306777784064006,
+          "peaks": [
+            {
+              "rpm": 214.61123713253517,
+              "score": 2.0519526578243934e-07
+            }
+          ]
+        }
+      },
+      {
+        "radius": 74.30000305175781,
+        "one": {
+          "signed_rpm": 197.48299675257462,
+          "rpm": 197.48299675257462,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.2403389915734087,
+          "peaks": [
+            {
+              "rpm": 197.48299675257462,
+              "score": 2.1877722144527528e-07
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "time": 31,
+    "events": 33735,
+    "used": 4000,
+    "geometry": {
+      "center": [
+        504.5,
+        345.5
+      ],
+      "radius": 74.5,
+      "track_samples": 9,
+      "center_range": [
+        16.0,
+        2.0
+      ]
+    },
+    "one": {
+      "signed_rpm": -293.1770667138328,
+      "rpm": 293.1770667138328,
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "gain": 1.5110167717110814,
+      "peaks": [
+        {
+          "rpm": -293.1770667138328,
+          "score": 1.723742331695305e-07
+        }
+      ]
+    },
+    "free": {
+      "valid": true,
+      "omega_rad_s": [
+        -0.5400039433383459,
+        -30.057175051528972,
+        2.4913890287347473
+      ],
+      "axis_camera": [
+        -0.017901621384655737,
+        -0.9964226637649874,
+        0.08259181004970928
+      ],
+      "spin_rad_s": 30.165085705656075,
+      "spin_rps": 4.800922498845838,
+      "spin_rpm": 288.0553499307503,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 4000,
+        "contrast_before": 6.864718512097773e-08,
+        "contrast_after": 1.8136690104950997e-07,
+        "relative_improvement": 1.642015120210464,
+        "converged": true,
+        "iterations": 69,
+        "initializer": "engineering_grid_multistart",
+        "initial_omega_rad_s": [
+          17.25907704444637,
+          -36.88164515997383,
+          36.93825737228624
+        ],
+        "competing_solution_displacement_rad": 0.00041918407746646566,
+        "caveat": "Convergence and contrast do not prove physical correctness"
+      },
+      "failure_reason": null
+    },
+    "sensitivity": [
+      {
+        "radius": 72.5,
+        "one": {
+          "signed_rpm": -303.2693933419032,
+          "rpm": 303.2693933419032,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.5508509670574075,
+          "peaks": [
+            {
+              "rpm": -303.2693933419032,
+              "score": 1.6733792669742158e-07
+            }
+          ]
+        }
+      },
+      {
+        "radius": 76.5,
+        "one": {
+          "signed_rpm": -283.97940755731025,
+          "rpm": 283.97940755731025,
+          "axis": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "gain": 1.4753485777222086,
+          "peaks": [
+            {
+              "rpm": -283.97940755731025,
+              "score": 1.7718750561420388e-07
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "time": 42,
+    "events": 23187,
+    "used": 4000,
+    "geometry": {
+      "center": [
+        413.5,
+        362.5
+      ],
+      "radius": 75.5999984741211,
+      "track_samples": 7,
+      "center_range": [
+        10.0,
+        16.0
+      ]
+    },
+    "one": {
+      "signed_rpm": 241.01109097810897,
+      "rpm": 241.01109097810897,
+      "axis": [
+        0.649967502437297,
+        0.7599620028497626,
+        0.0
+      ],
+      "gain": 1.9668116910025821,
+      "peaks": [
+        {
+          "rpm": 241.01109097810897,
+          "score": 2.872403252881953e-07
+        }
+      ]
+    },
+    "free": {
+      "valid": true,
+      "omega_rad_s": [
+        17.752955055356967,
+        16.26323399287608,
+        -0.31679626976179587
+      ],
+      "axis_camera": [
+        0.7373035454909339,
+        0.6754334727208098,
+        -0.013156965258197564
+      ],
+      "spin_rad_s": 24.078217396250487,
+      "spin_rps": 3.8321673194545305,
+      "spin_rpm": 229.93003916727184,
+      "method": "s_cmax",
+      "quality": {
+        "event_count": 4000,
+        "contrast_before": 9.68178486552773e-08,
+        "contrast_after": 2.976049991469918e-07,
+        "relative_improvement": 2.073865028819457,
+        "converged": true,
+        "iterations": 53,
+        "initializer": "engineering_grid_multistart",
+        "initial_omega_rad_s": [
+          15.022121870398054,
+          5.486054813631228,
+          17.30330328735003
+        ],
+        "competing_solution_displacement_rad": 0.0004565447350324131,
+        "caveat": "Convergence and contrast do not prove physical correctness"
+      },
+      "failure_reason": null
+    },
+    "sensitivity": [
+      {
+        "radius": 73.5999984741211,
+        "one": {
+          "signed_rpm": 250.84305895927398,
+          "rpm": 250.84305895927398,
+          "axis": [
+            0.649967502437297,
+            0.7599620028497626,
+            0.0
+          ],
+          "gain": 2.0300271559266343,
+          "peaks": [
+            {
+              "rpm": 250.84305895927398,
+              "score": 2.803227766623192e-07
+            }
+          ]
+        }
+      },
+      {
+        "radius": 77.5999984741211,
+        "one": {
+          "signed_rpm": 231.82975756143742,
+          "rpm": 231.82975756143742,
+          "axis": [
+            0.649967502437297,
+            0.7599620028497626,
+            0.0
+          ],
+          "gain": 1.9104396072140148,
+          "peaks": [
+            {
+              "rpm": 231.82975756143742,
+              "score": 2.9380187029338744e-07
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

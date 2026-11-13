@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "events": "../../../../../data/archive_20261105/decoded/DSP03F100025_20261105_215030/manifest.json",
+  "event_origin_us": 29918676,
+  "geometry_csv": "geometry.csv",
+  "geometry_frame": "event_camera_pixels",
+  "geometry_clock": "event_relative_us",
+  "windows": [
+    {
+      "id": "run5_04205000",
+      "end_us": 4205000,
+      "condition": "translation",
+      "radius_px": 60,
+      "anchor_px": [
+        612.094278361849,
+        348.85362960822647
+      ],
+      "shaft_direction_xy": [
+        0,
+        1
+      ],
+      "fixed_center_prior": false
+    },
+    {
+      "id": "run5_00905000",
+      "end_us": 905000,
+      "condition": "static",
+      "radius_px": 60,
+      "anchor_px": [
+        714.0,
+        355.0
+      ],
+      "shaft_direction_xy": [
+        0,
+        1
+      ],
+      "fixed_center_prior": true
+    }
+  ]
+}

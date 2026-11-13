@@ -1,0 +1,8 @@
+{
+  "reason": "First confirmation evaluator stopped at pre-evaluation hash guard for intentionally amended qualify_training.py. No H/future evaluation executed before this fix.",
+  "old_source": "frozen_preconfirmation/evaluate_real_dev_v1.py",
+  "old_source_sha256": "2d365af6890f49afdcee0f4cdde078c1d3d07a75f722ee35a0abd01ab3f2c29d",
+  "new_source_sha256": "692a58e0fa3c5b165a81d10874ceb755e782573988fb56aa4aff9a1702e094a2",
+  "change": "Only choose confirmation-specific post-training evaluation freeze; no threshold/model/seed or data change. Olddev code/freeze preserved.",
+  "confirmation_T_values_rerun": false
+}

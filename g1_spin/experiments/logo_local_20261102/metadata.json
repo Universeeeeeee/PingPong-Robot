@@ -1,0 +1,12 @@
+{
+  "user_rule": "Irregular appearance is logo, round is attached Marker: treated as human candidate hint only",
+  "no_identity_truth": true,
+  "no_automatic_semantic_classifier": true,
+  "original_nine_not_replaced": true,
+  "primary_source_sha256": "74f3bafbbc03beb4576e610f27ef553d71b0aa0f4bfa993e5dc15938d3ee54b0",
+  "review_metadata_sha256": "19d38ceffea31f7b89a17506bd5ae94849da62fcdf5790ef444181d44565c136",
+  "exploratory_protocol_sha256": "58ab6bea7561db506e0be7666f4fff86f18f6a85ab7c79bab60f325c3ae84f99",
+  "near_protocol_sha256": "554d1623adf2597bb4919f242db99785b5ba9dfdeb63b27036ce44c6393785cf",
+  "compare_sha256": "c8ae5101c25f0896b48a23855d9edb07d5925a893aeba9caba3924cf5af29e77",
+  "survey_note": "Parent fixed 35-window survey selected new 11.75s candidate; post-selection exploratory addition, no independent test"
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "db_s": 200.447577024,
+    "file": "ir_samples/200.44.png",
+    "header_s": 200.447577024,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.917391493055554,
+    "p90": 74.0
+  },
+  {
+    "db_s": 201.44890736,
+    "file": "ir_samples/201.44.png",
+    "header_s": 201.44890736,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 35.75296875,
+    "p90": 77.0
+  },
+  {
+    "db_s": 202.450356945,
+    "file": "ir_samples/202.44.png",
+    "header_s": 202.450356945,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 36.85874131944445,
+    "p90": 80.0
+  },
+  {
+    "db_s": 203.452179838,
+    "file": "ir_samples/203.44.png",
+    "header_s": 203.452179838,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.41941840277778,
+    "p90": 73.0
+  },
+  {
+    "db_s": 204.453341973,
+    "file": "ir_samples/204.44.png",
+    "header_s": 204.453341973,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.50501736111111,
+    "p90": 74.0
+  },
+  {
+    "db_s": 205.443818693,
+    "file": "ir_samples/205.44.png",
+    "header_s": 205.443818693,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.63793836805556,
+    "p90": 74.0
+  },
+  {
+    "db_s": 206.445181028,
+    "file": "ir_samples/206.44.png",
+    "header_s": 206.445181028,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 36.65385416666667,
+    "p90": 79.0
+  },
+  {
+    "db_s": 207.446717249,
+    "file": "ir_samples/207.44.png",
+    "header_s": 207.446717249,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 40.04927951388889,
+    "p90": 91.0
+  },
+  {
+    "db_s": 208.448227421,
+    "file": "ir_samples/208.44.png",
+    "header_s": 208.448227421,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.41362847222222,
+    "p90": 70.0
+  },
+  {
+    "db_s": 209.449702123,
+    "file": "ir_samples/209.44.png",
+    "header_s": 209.449702123,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.59857204861111,
+    "p90": 71.0
+  },
+  {
+    "db_s": 210.451082321,
+    "file": "ir_samples/210.44.png",
+    "header_s": 210.451082321,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.80920572916666,
+    "p90": 72.0
+  },
+  {
+    "db_s": 211.45253725,
+    "file": "ir_samples/211.44.png",
+    "header_s": 211.45253725,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.05935763888889,
+    "p90": 68.0
+  },
+  {
+    "db_s": 212.45407527,
+    "file": "ir_samples/212.44.png",
+    "header_s": 212.45407527,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.525855034722223,
+    "p90": 64.0
+  },
+  {
+    "db_s": 213.444324677,
+    "file": "ir_samples/213.44.png",
+    "header_s": 213.444324677,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.009014756944445,
+    "p90": 72.0
+  },
+  {
+    "db_s": 214.445709715,
+    "file": "ir_samples/214.44.png",
+    "header_s": 214.445709715,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.135173611111114,
+    "p90": 72.0
+  },
+  {
+    "db_s": 215.447190722,
+    "file": "ir_samples/215.44.png",
+    "header_s": 215.447190722,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.23224826388889,
+    "p90": 72.0
+  },
+  {
+    "db_s": 216.44881133,
+    "file": "ir_samples/216.44.png",
+    "header_s": 216.44881133,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.24726128472222,
+    "p90": 72.0
+  },
+  {
+    "db_s": 217.450124036,
+    "file": "ir_samples/217.44.png",
+    "header_s": 217.450124036,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.19349392361111,
+    "p90": 72.0
+  },
+  {
+    "db_s": 218.451719792,
+    "file": "ir_samples/218.44.png",
+    "header_s": 218.451719792,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.1082421875,
+    "p90": 72.0
+  },
+  {
+    "db_s": 219.453153543,
+    "file": "ir_samples/219.44.png",
+    "header_s": 219.453153543,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 36.55802951388889,
+    "p90": 80.0
+  },
+  {
+    "db_s": 220.454651644,
+    "file": "ir_samples/220.44.png",
+    "header_s": 220.454651644,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.83295572916666,
+    "p90": 73.0
+  },
+  {
+    "db_s": 221.444942274,
+    "file": "ir_samples/221.44.png",
+    "header_s": 221.444942274,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.206393229166665,
+    "p90": 71.0
+  },
+  {
+    "db_s": 222.446437056,
+    "file": "ir_samples/222.44.png",
+    "header_s": 222.446437056,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.26850260416666,
+    "p90": 71.0
+  },
+  {
+    "db_s": 223.447910376,
+    "file": "ir_samples/223.44.png",
+    "header_s": 223.447910376,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.33850260416666,
+    "p90": 72.0
+  },
+  {
+    "db_s": 224.449733838,
+    "file": "ir_samples/224.44.png",
+    "header_s": 224.449733838,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.33673611111111,
+    "p90": 72.0
+  },
+  {
+    "db_s": 225.450842061,
+    "file": "ir_samples/225.44.png",
+    "header_s": 225.450842061,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.350933159722224,
+    "p90": 72.0
+  },
+  {
+    "db_s": 226.452396014,
+    "file": "ir_samples/226.44.png",
+    "header_s": 226.452396014,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.28641493055556,
+    "p90": 72.0
+  },
+  {
+    "db_s": 227.454372129,
+    "file": "ir_samples/227.44.png",
+    "header_s": 227.454372129,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.18696614583333,
+    "p90": 71.0
+  },
+  {
+    "db_s": 228.444204232,
+    "file": "ir_samples/228.44.png",
+    "header_s": 228.444204232,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.85025607638889,
+    "p90": 68.0
+  },
+  {
+    "db_s": 229.445537934,
+    "file": "ir_samples/229.44.png",
+    "header_s": 229.445537934,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 30.867669270833332,
+    "p90": 63.0
+  },
+  {
+    "db_s": 230.447293818,
+    "file": "ir_samples/230.44.png",
+    "header_s": 230.447293818,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.280763888888888,
+    "p90": 64.0
+  },
+  {
+    "db_s": 231.448488908,
+    "file": "ir_samples/231.44.png",
+    "header_s": 231.448488908,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.338936631944446,
+    "p90": 65.0
+  },
+  {
+    "db_s": 232.45008504,
+    "file": "ir_samples/232.44.png",
+    "header_s": 232.45008504,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.407643229166666,
+    "p90": 65.0
+  },
+  {
+    "db_s": 233.452910595,
+    "file": "ir_samples/233.44.png",
+    "header_s": 233.452910595,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.426875,
+    "p90": 65.0
+  },
+  {
+    "db_s": 234.454094648,
+    "file": "ir_samples/234.44.png",
+    "header_s": 234.454094648,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.304092881944445,
+    "p90": 64.0
+  },
+  {
+    "db_s": 235.455920764,
+    "file": "ir_samples/235.44.png",
+    "header_s": 235.455920764,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.26004340277778,
+    "p90": 64.0
+  },
+  {
+    "db_s": 236.444639125,
+    "file": "ir_samples/236.44.png",
+    "header_s": 236.444639125,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.19521267361111,
+    "p90": 64.0
+  },
+  {
+    "db_s": 237.446186622,
+    "file": "ir_samples/237.44.png",
+    "header_s": 237.446186622,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.18933159722222,
+    "p90": 64.0
+  },
+  {
+    "db_s": 238.447597259,
+    "file": "ir_samples/238.44.png",
+    "header_s": 238.447597259,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.345208333333332,
+    "p90": 64.0
+  },
+  {
+    "db_s": 239.449067301,
+    "file": "ir_samples/239.44.png",
+    "header_s": 239.449067301,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.438776041666667,
+    "p90": 65.0
+  },
+  {
+    "db_s": 240.450553291,
+    "file": "ir_samples/240.44.png",
+    "header_s": 240.450553291,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.472118055555555,
+    "p90": 65.0
+  },
+  {
+    "db_s": 241.45202271,
+    "file": "ir_samples/241.44.png",
+    "header_s": 241.45202271,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.65310763888889,
+    "p90": 68.0
+  },
+  {
+    "db_s": 242.453688508,
+    "file": "ir_samples/242.44.png",
+    "header_s": 242.453688508,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.330655381944446,
+    "p90": 67.0
+  },
+  {
+    "db_s": 243.44384412,
+    "file": "ir_samples/243.44.png",
+    "header_s": 243.44384412,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.43704861111111,
+    "p90": 67.0
+  },
+  {
+    "db_s": 244.445270193,
+    "file": "ir_samples/244.44.png",
+    "header_s": 244.445270193,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.458719618055554,
+    "p90": 67.0
+  },
+  {
+    "db_s": 245.446997585,
+    "file": "ir_samples/245.44.png",
+    "header_s": 245.446997585,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.46497829861111,
+    "p90": 67.0
+  },
+  {
+    "db_s": 246.448153768,
+    "file": "ir_samples/246.44.png",
+    "header_s": 246.448153768,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.866666666666667,
+    "p90": 65.0
+  },
+  {
+    "db_s": 247.449712964,
+    "file": "ir_samples/247.44.png",
+    "header_s": 247.449712964,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.63884982638889,
+    "p90": 70.0
+  },
+  {
+    "db_s": 248.451615118,
+    "file": "ir_samples/248.44.png",
+    "header_s": 248.451615118,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.239817708333334,
+    "p90": 66.0
+  },
+  {
+    "db_s": 249.45332301,
+    "file": "ir_samples/249.44.png",
+    "header_s": 249.45332301,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 30.613888888888887,
+    "p90": 62.0
+  },
+  {
+    "db_s": 250.454135678,
+    "file": "ir_samples/250.44.png",
+    "header_s": 250.454135678,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.112473958333332,
+    "p90": 63.0
+  },
+  {
+    "db_s": 251.444490704,
+    "file": "ir_samples/251.44.png",
+    "header_s": 251.444490704,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.26673611111111,
+    "p90": 63.0
+  },
+  {
+    "db_s": 252.445848298,
+    "file": "ir_samples/252.44.png",
+    "header_s": 252.445848298,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.871822916666666,
+    "p90": 65.0
+  },
+  {
+    "db_s": 253.447526587,
+    "file": "ir_samples/253.44.png",
+    "header_s": 253.447526587,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 30.534982638888888,
+    "p90": 61.0
+  },
+  {
+    "db_s": 254.448932133,
+    "file": "ir_samples/254.44.png",
+    "header_s": 254.448932133,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.33672309027778,
+    "p90": 63.0
+  },
+  {
+    "db_s": 255.450522109,
+    "file": "ir_samples/255.44.png",
+    "header_s": 255.450522109,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 31.19974826388889,
+    "p90": 63.0
+  },
+  {
+    "db_s": 256.451987013,
+    "file": "ir_samples/256.44.png",
+    "header_s": 256.451987013,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.01621961805556,
+    "p90": 65.0
+  },
+  {
+    "db_s": 257.464534796,
+    "file": "ir_samples/257.44.png",
+    "header_s": 257.464534796,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.87641927083333,
+    "p90": 75.0
+  },
+  {
+    "db_s": 258.454941129,
+    "file": "ir_samples/258.44.png",
+    "header_s": 258.454941129,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 33.912408854166664,
+    "p90": 73.0
+  },
+  {
+    "db_s": 259.445074472,
+    "file": "ir_samples/259.44.png",
+    "header_s": 259.445074472,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.57836805555556,
+    "p90": 75.0
+  },
+  {
+    "db_s": 260.446726421,
+    "file": "ir_samples/260.44.png",
+    "header_s": 260.446726421,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.02568142361111,
+    "p90": 73.0
+  },
+  {
+    "db_s": 261.448203298,
+    "file": "ir_samples/261.44.png",
+    "header_s": 261.448203298,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 34.593190104166666,
+    "p90": 75.0
+  },
+  {
+    "db_s": 262.449870942,
+    "file": "ir_samples/262.44.png",
+    "header_s": 262.449870942,
+    "frame": "Infrared1",
+    "width": 640,
+    "height": 360,
+    "mean": 32.835078125,
+    "p90": 69.0
+  }
+]

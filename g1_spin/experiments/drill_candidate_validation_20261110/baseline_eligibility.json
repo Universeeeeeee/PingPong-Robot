@@ -1,0 +1,42 @@
+[
+  {
+    "window": "run1_00765000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run1_02165000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run1_03565000",
+    "baseline_10ms_geometry_available": true
+  },
+  {
+    "window": "run1_05735000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run3_01535000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run3_02735000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run3_04265000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run3_06335000",
+    "baseline_10ms_geometry_available": false
+  },
+  {
+    "window": "run4_00865000",
+    "baseline_10ms_geometry_available": true
+  },
+  {
+    "window": "run4_01735000",
+    "baseline_10ms_geometry_available": false
+  }
+]

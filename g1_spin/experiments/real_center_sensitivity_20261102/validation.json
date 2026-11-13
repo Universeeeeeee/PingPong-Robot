@@ -1,0 +1,25 @@
+{
+  "calls": 54,
+  "coordinate_selfcheck": [
+    {
+      "window": "early_turn_1.65_1.70",
+      "kind": "coordinate_equivariance_only_not_physical_DVS",
+      "event_count": 4533,
+      "event_id_sha256": "b0a6265cb7351ec4b3a673bb9e136334bf2e6ffc221aa41796dd699763070080",
+      "imposed_velocity_px_s": [
+        120.0,
+        -70.0
+      ],
+      "max_restoration_px": 1.1718571004216928e-13,
+      "rms_restoration_px": 4.700761077761925e-15,
+      "timestamps_and_ids_unchanged": true,
+      "physics_validated": false
+    }
+  ],
+  "protected_inputs_unchanged": true,
+  "same_event_ids_all_variants": true,
+  "independent_linear_interpolation_max_tolerance_px": 1e-10,
+  "aligned_vs_direct_lift_xy_tolerance": 1e-13,
+  "hypothesis_only": true,
+  "physics_validated": false
+}

@@ -1,0 +1,269 @@
+{
+  "status": "passed",
+  "stage": "confirmation",
+  "states": 24,
+  "checks": [
+    {
+      "case": "run1_01425000",
+      "frontend": "F0",
+      "lane": "B1",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run1_01425000",
+      "frontend": "F1",
+      "lane": "B1",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run1_01425000",
+      "frontend": "F2",
+      "lane": "B1",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run1_01425000",
+      "frontend": "F0",
+      "lane": "secant",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run1_01425000",
+      "frontend": "F1",
+      "lane": "secant",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run1_01425000",
+      "frontend": "F2",
+      "lane": "secant",
+      "T": 839,
+      "H": 844,
+      "V": 1007,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F0",
+      "lane": "B1",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F1",
+      "lane": "B1",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F2",
+      "lane": "B1",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F0",
+      "lane": "secant",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F1",
+      "lane": "secant",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run3_01495000",
+      "frontend": "F2",
+      "lane": "secant",
+      "T": 851,
+      "H": 831,
+      "V": 945,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F0",
+      "lane": "B1",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F1",
+      "lane": "B1",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F2",
+      "lane": "B1",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F0",
+      "lane": "secant",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F1",
+      "lane": "secant",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run4_02495000",
+      "frontend": "F2",
+      "lane": "secant",
+      "T": 1269,
+      "H": 1303,
+      "V": 2141,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F0",
+      "lane": "B1",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F1",
+      "lane": "B1",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F2",
+      "lane": "B1",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F0",
+      "lane": "secant",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F1",
+      "lane": "secant",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    },
+    {
+      "case": "run5_05095000",
+      "frontend": "F2",
+      "lane": "secant",
+      "T": 260,
+      "H": 243,
+      "V": 320,
+      "planes": 0,
+      "split_and_surface_causality_passed": true
+    }
+  ],
+  "synthetic_S_errors": [],
+  "F0_matches_original_extractor": true,
+  "T_H_V_ID_isolation_passed": true,
+  "global_latest_before_lane_radius_passed": true,
+  "all_frontend_fit_ids_are_T": true,
+  "all_future_targets_are_V": true,
+  "zero_translation_model_same_target_ids": true,
+  "task13_manifest_unchanged": true,
+  "input_sources_unchanged": true,
+  "measurement_path_controls": {
+    "status": "passed",
+    "tests": [
+      "surface_latest_global_then_lane_radius_no_old_fallback",
+      "invalid_source_not_clamped_to_sphere",
+      "backface_predictions_remain_three_pixel_penalties",
+      "two_directions_separate_despite_pooled_zero_median",
+      "translation_only_tie_cannot_support_nonzero_spin",
+      "rejected_LOO_candidate_cannot_count_as_success"
+    ],
+    "scope": "Small deterministic cause-order/prediction path controls; no extra real window or tuned threshold."
+  },
+  "caveat": "Synthetic truth errors verify clean-edge code paths only; H/V from same recording are diagnostic, not independent repetitions."
+}

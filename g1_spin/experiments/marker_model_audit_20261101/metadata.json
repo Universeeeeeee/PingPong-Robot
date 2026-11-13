@@ -1,0 +1,17 @@
+{
+  "model": "fixed camera, orthographic projection, known body center, point at radius R+h",
+  "body_radius_mm": 20.0,
+  "image_radius_px": 48.0,
+  "heights_mm_are_hypothetical": true,
+  "forward_projection_max_error": 1.1102230246251565e-16,
+  "h_definition": "radial height of observed material point above body, not marker diameter",
+  "exclusions": [
+    "real event generation",
+    "reflective photometry",
+    "marker silhouette",
+    "sphere occlusion",
+    "pose or spin estimation",
+    "measured height inference"
+  ],
+  "script_sha256": "1c746efd9b5aa924ca2e59cdbd67b7b2b646e30fc57a45f2baa41e6f70023bd4"
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "case": "run1_01495000",
+    "center": [
+      638.4983474063433,
+      355.85710435555654
+    ],
+    "radius_px": 60.0,
+    "patches": [
+      {
+        "patch": 0,
+        "box": [
+          636,
+          312,
+          648,
+          324
+        ],
+        "source_file": "patches/run1_01495000_patch0.npz",
+        "source_sha256": "51ba4c8d7ebdce3cb728841637db30087559d50f093839d2f4588a4bfe438663",
+        "T_file": "real/T/run1_01495000_patch0.npz",
+        "T_sha256": "67efcda1ab6b3babaa938430bf2a85a7c8d565b27606232fbc685751389385e0",
+        "T_events": 252,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch0.npz",
+        "evaluation_sha256": "47e9b8ffb75153bbc7374efbd394eb78c6580147b9b8e7f5fb6152498d963e3f",
+        "H_events": 65,
+        "V_events": 147
+      },
+      {
+        "patch": 1,
+        "box": [
+          612,
+          336,
+          624,
+          348
+        ],
+        "source_file": "patches/run1_01495000_patch1.npz",
+        "source_sha256": "86654f62f2db2e9790e7e8518e82f9a7699ae3b30921aab3eda5e174aea79852",
+        "T_file": "real/T/run1_01495000_patch1.npz",
+        "T_sha256": "d2292683cf1b75f75643e8a28a3e34c4b91f31bd464590270b358e193fb5a57a",
+        "T_events": 197,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch1.npz",
+        "evaluation_sha256": "e0b1d45041727cae8eb73baf93b3223153a34b0d1d4569de8cebe197ea7793ea",
+        "H_events": 50,
+        "V_events": 172
+      },
+      {
+        "patch": 2,
+        "box": [
+          600,
+          360,
+          612,
+          372
+        ],
+        "source_file": "patches/run1_01495000_patch2.npz",
+        "source_sha256": "fb70d9458e6f027a51b78e1272d3180ca2822e44653849b9afeae3889e1d58d6",
+        "T_file": "real/T/run1_01495000_patch2.npz",
+        "T_sha256": "efbf9cbae701fbfb7fc0d5c31c84b5ffd560b8bfacc4347773d073d922cde271",
+        "T_events": 177,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch2.npz",
+        "evaluation_sha256": "0456f7747aee2d413e0397d4dc602517730cf4c91b02c10927c602734b344f0e",
+        "H_events": 45,
+        "V_events": 29
+      },
+      {
+        "patch": 3,
+        "box": [
+          612,
+          384,
+          624,
+          396
+        ],
+        "source_file": "patches/run1_01495000_patch3.npz",
+        "source_sha256": "63d8fc83bacd2869bb86870ea89e95d17b2469dc5a5f3a49c57e6f0706149ac4",
+        "T_file": "real/T/run1_01495000_patch3.npz",
+        "T_sha256": "98c11ec18cb8e05ea94a7f41f213b6c8065006f895805e7a6eebec2167c43971",
+        "T_events": 176,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch3.npz",
+        "evaluation_sha256": "ab2ffe5430c623f122dfd2831f73604a364403fa0a5f47673ac4478c45a7a030",
+        "H_events": 46,
+        "V_events": 180
+      },
+      {
+        "patch": 4,
+        "box": [
+          648,
+          384,
+          660,
+          396
+        ],
+        "source_file": "patches/run1_01495000_patch4.npz",
+        "source_sha256": "7f09ed05eb6c2113e5c6da977cf5a7174f618d022aad477ab0bb30377b82264f",
+        "T_file": "real/T/run1_01495000_patch4.npz",
+        "T_sha256": "b2fec7f747465e9c667aaa94157cd894bc5252d9f093a32fce43275f065e2e50",
+        "T_events": 147,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch4.npz",
+        "evaluation_sha256": "85d311b1587cb39c59f8f204df5a89d36b1ffac20899235ec954b5e11160dedb",
+        "H_events": 37,
+        "V_events": 33
+      },
+      {
+        "patch": 5,
+        "box": [
+          660,
+          372,
+          672,
+          384
+        ],
+        "source_file": "patches/run1_01495000_patch5.npz",
+        "source_sha256": "c306ab094ae72d6a44e14a5f0acd295d175deb144a8d887dbf3827455602db51",
+        "T_file": "real/T/run1_01495000_patch5.npz",
+        "T_sha256": "13a02c0adcfc5dc59c07a375bcabc1b0d7b8f9eb931ea188ff0cf7344de4f3fe",
+        "T_events": 127,
+        "evaluation_file": "real/evaluation_only/run1_01495000_patch5.npz",
+        "evaluation_sha256": "f507641791ae6addd1a96b292d52308a37ebea2303b2743733206594b03ca86f",
+        "H_events": 32,
+        "V_events": 113
+      }
+    ],
+    "patch_count": 6,
+    "status": "fixed_development_input",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "geometry_source": "stage4 frozen B1; no new geometry fitting"
+  },
+  {
+    "case": "run2_02095000",
+    "center": [
+      623.0344374944943,
+      487.1459146159508
+    ],
+    "radius_px": 63.0,
+    "patches": [
+      {
+        "patch": 0,
+        "box": [
+          576,
+          468,
+          588,
+          480
+        ],
+        "source_file": "patches/run2_02095000_patch0.npz",
+        "source_sha256": "5dd03ae25f0cc3a1e0eb5d0ea5e0e2d6b478897a476d7e8c43b881b3449b0ee6",
+        "T_file": "real/T/run2_02095000_patch0.npz",
+        "T_sha256": "6beb77a019e12a65809e7aad8deebf764e953d9b0434566ccb7f5a4c2347d31f",
+        "T_events": 157,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch0.npz",
+        "evaluation_sha256": "fd642fa215342df778edabaf6b230420e7ad2847950ede09b43a8d607793075b",
+        "H_events": 41,
+        "V_events": 59
+      },
+      {
+        "patch": 1,
+        "box": [
+          588,
+          516,
+          600,
+          528
+        ],
+        "source_file": "patches/run2_02095000_patch1.npz",
+        "source_sha256": "f260370ac702e18fc7825120bec7d37686933db849f07d3bb784115a4ea9b5fd",
+        "T_file": "real/T/run2_02095000_patch1.npz",
+        "T_sha256": "2d540895af50e7554dc54fcc9e1ea224943d775ea003b0476fa6351dcc440e5b",
+        "T_events": 173,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch1.npz",
+        "evaluation_sha256": "9c91bfa3eeac3e9e93650478ac1aed10823258dfe1923641ae8c524d50be7095",
+        "H_events": 40,
+        "V_events": 123
+      },
+      {
+        "patch": 2,
+        "box": [
+          588,
+          480,
+          600,
+          492
+        ],
+        "source_file": "patches/run2_02095000_patch2.npz",
+        "source_sha256": "40f885ade0a85d13cf12f2d2dd803c912e52776cb1b6ad9a2cb73ec9b8fcd9e1",
+        "T_file": "real/T/run2_02095000_patch2.npz",
+        "T_sha256": "54466bbf8f1376e136f79aa4c4dd3c47dda69443848b5953df36127c97cfe0bd",
+        "T_events": 120,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch2.npz",
+        "evaluation_sha256": "3a7887cb6821feeb99ce130933e35a3e65ae006fee685402f921c0f82947c71d",
+        "H_events": 25,
+        "V_events": 82
+      },
+      {
+        "patch": 3,
+        "box": [
+          576,
+          504,
+          588,
+          516
+        ],
+        "source_file": "patches/run2_02095000_patch3.npz",
+        "source_sha256": "fda74a1211f14430ba360d8c26be2fc7072f7adb00fd5ef79b0bd739fe171553",
+        "T_file": "real/T/run2_02095000_patch3.npz",
+        "T_sha256": "3afabf7f4bf0eb1f500ebba729bfd62ae532c47a0ff58cd52ba3a00b7901a16b",
+        "T_events": 137,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch3.npz",
+        "evaluation_sha256": "09f401bf9787cb2c40a1279a78491fccf8f095e6595a703a2ff69d5301c7200b",
+        "H_events": 33,
+        "V_events": 119
+      },
+      {
+        "patch": 4,
+        "box": [
+          600,
+          504,
+          612,
+          516
+        ],
+        "source_file": "patches/run2_02095000_patch4.npz",
+        "source_sha256": "49fadb950c4886af72ff08efe4223f3cdf79e01048dae3c128de2fd6a03ade00",
+        "T_file": "real/T/run2_02095000_patch4.npz",
+        "T_sha256": "b2835cb0691d13df2d96e9f6586572cdf07fd41ed78f2cedcfb9c1dea6ee2117",
+        "T_events": 22,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch4.npz",
+        "evaluation_sha256": "37f946222441ea1dd81472754dd98cc4f90b3cca489933eaa33beddecd74a154",
+        "H_events": 7,
+        "V_events": 47
+      },
+      {
+        "patch": 5,
+        "box": [
+          600,
+          528,
+          612,
+          540
+        ],
+        "source_file": "patches/run2_02095000_patch5.npz",
+        "source_sha256": "3d3f778921ea2a17ca47a5329180beb1d10f1f15789ee339b5caf74ea7ad1d2b",
+        "T_file": "real/T/run2_02095000_patch5.npz",
+        "T_sha256": "202f343f7ec8f55ab5cd77727f7529153ce4d7b6efa31736022194aeb3baf8e2",
+        "T_events": 19,
+        "evaluation_file": "real/evaluation_only/run2_02095000_patch5.npz",
+        "evaluation_sha256": "701e1b3eeb0f9344109473bc00bc10e22e5f7423b745f421b20d19f6818f3270",
+        "H_events": 3,
+        "V_events": 57
+      }
+    ],
+    "patch_count": 6,
+    "status": "fixed_development_input",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "geometry_source": "stage4 frozen B1; no new geometry fitting"
+  },
+  {
+    "case": "run5_04095000",
+    "center": [
+      638.5752163885172,
+      355.191253352207
+    ],
+    "radius_px": 60.0,
+    "patches": [
+      {
+        "patch": 0,
+        "box": [
+          660,
+          336,
+          672,
+          348
+        ],
+        "source_file": "patches/run5_04095000_patch0.npz",
+        "source_sha256": "e0753286c62dfbb4f78e5f0a6678d101aa64fbe054236b68205fb36e1636a8c5",
+        "T_file": "real/T/run5_04095000_patch0.npz",
+        "T_sha256": "6176cb992ead3b9df284192f4911a2f1baed8e6b636c567f6efe7aaca4c0ac5a",
+        "T_events": 53,
+        "evaluation_file": "real/evaluation_only/run5_04095000_patch0.npz",
+        "evaluation_sha256": "8d9de5b4b12a85371d6fc01caf0a7412d910f1d9bfe1be2d554b2d369da8f518",
+        "H_events": 17,
+        "V_events": 39
+      },
+      {
+        "patch": 1,
+        "box": [
+          648,
+          372,
+          660,
+          384
+        ],
+        "source_file": "patches/run5_04095000_patch1.npz",
+        "source_sha256": "b768c4ea1fc600917fedda11559845d041078e85e0106008a413cf0be762bd94",
+        "T_file": "real/T/run5_04095000_patch1.npz",
+        "T_sha256": "8c6af717d7d4403ceb719b9172b9cd3b50e24eb44aaaea1b042e8e055f2d9c40",
+        "T_events": 43,
+        "evaluation_file": "real/evaluation_only/run5_04095000_patch1.npz",
+        "evaluation_sha256": "edd43aa91f30aca47b27c3bcc0249823473d5f8f06564003d12c8fa2386800b2",
+        "H_events": 13,
+        "V_events": 38
+      },
+      {
+        "patch": 2,
+        "box": [
+          660,
+          360,
+          672,
+          372
+        ],
+        "source_file": "patches/run5_04095000_patch2.npz",
+        "source_sha256": "4f02bf40fcf68f440c3c96a48f54de05897ac93f7a17d18ab62638d8c6943306",
+        "T_file": "real/T/run5_04095000_patch2.npz",
+        "T_sha256": "ea9eadfbf03c9f5babc17546924e946af77d64a2f64432b056e7ff4af74a48f8",
+        "T_events": 18,
+        "evaluation_file": "real/evaluation_only/run5_04095000_patch2.npz",
+        "evaluation_sha256": "81caf6cda42f9a7bbda7f22003f417215b4a1ac962146cca73a2b0673e7863ac",
+        "H_events": 4,
+        "V_events": 4
+      }
+    ],
+    "patch_count": 3,
+    "status": "fixed_development_input",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "geometry_source": "stage4 frozen B1; no new geometry fitting"
+  },
+  {
+    "case": "run5_01525000",
+    "center": [
+      714.0,
+      355.0
+    ],
+    "radius_px": 60.0,
+    "patches": [],
+    "patch_count": 0,
+    "status": "no_count_eligible_patch_activity_control",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "geometry_source": "stage4 frozen B1; no new geometry fitting"
+  }
+]

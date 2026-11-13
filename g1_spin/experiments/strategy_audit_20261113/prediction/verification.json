@@ -1,0 +1,72 @@
+{
+  "checks": [
+    {
+      "case": "disk_motion",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 4.440892098500626e-16,
+      "correct_time_reversal_point_error": 2.220446049250313e-16
+    },
+    {
+      "case": "disk_early",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 2.220446049250313e-16,
+      "correct_time_reversal_point_error": 2.220446049250313e-16
+    },
+    {
+      "case": "disk_middle",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 5.551115123125783e-16,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "disk_late",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 4.440892098500626e-16,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "drill_1",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 6.661338147750939e-16,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "drill_2",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 1.1102230246251565e-15,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "drill_3",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 2.220446049250313e-16,
+      "correct_time_reversal_point_error": 2.220446049250313e-16
+    },
+    {
+      "case": "drill_4",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 8.881784197001252e-16,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "drill_5",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 1.3322676295501878e-15,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    },
+    {
+      "case": "synthetic_y",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 4.440892098500626e-16,
+      "correct_time_reversal_point_error": 2.220446049250313e-16
+    },
+    {
+      "case": "synthetic_tilt",
+      "train_holdout_disjoint": true,
+      "brute_force_metric_max_error": 6.661338147750939e-16,
+      "correct_time_reversal_point_error": 1.1102230246251565e-16
+    }
+  ],
+  "files_unchanged": true,
+  "discarded_diagnostic": "reversed_training in original run only reversed points at nonuniform fixed times; it is not exact time reversal, excluded from conclusions. Correct event-time reversal algebra independently checked here."
+}

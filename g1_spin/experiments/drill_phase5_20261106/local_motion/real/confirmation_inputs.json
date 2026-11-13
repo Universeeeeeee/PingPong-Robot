@@ -1,0 +1,392 @@
+[
+  {
+    "case": "run3_01495000",
+    "center": [
+      547.4115224468607,
+      429.1719479161141
+    ],
+    "radius_px": 59.0,
+    "patch_count": 6,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run3_01495000.npz",
+    "source_sha256": "1bf9b75af4a3e9e075b35d9d1882eb437749292693bc919f90d61e094a302f78",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          522,
+          450
+        ],
+        "box": [
+          516,
+          444,
+          528,
+          456
+        ],
+        "selection_first6ms_events": 243,
+        "T_file": "real/confirmation_T/run3_01495000_patch0.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch0.npz",
+        "T_sha256": "0884df5e59462035ce2add3b22fd260a031b38a4cd4d067c9028d3f3b484b203",
+        "evaluation_sha256": "3787b27f1eb75c12a37e973312e639e697f2ccae82f72fbed4c8009dae5fb692",
+        "T_events": 194,
+        "H_events": 49,
+        "V_events": 148
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          534,
+          462
+        ],
+        "box": [
+          528,
+          456,
+          540,
+          468
+        ],
+        "selection_first6ms_events": 182,
+        "T_file": "real/confirmation_T/run3_01495000_patch1.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch1.npz",
+        "T_sha256": "083221bed9546803f946377ec45113070646d4511a96326ea58fbb541417c439",
+        "evaluation_sha256": "daace81d7863513d7c9e8ef3443ee0f384ee01595149d42436c0274be08da8c8",
+        "T_events": 147,
+        "H_events": 35,
+        "V_events": 96
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          582,
+          402
+        ],
+        "box": [
+          576,
+          396,
+          588,
+          408
+        ],
+        "selection_first6ms_events": 170,
+        "T_file": "real/confirmation_T/run3_01495000_patch2.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch2.npz",
+        "T_sha256": "42a3dfb661d1f81909792b1b7e1063e71e15a628df5c3148a8cea3db0970ad23",
+        "evaluation_sha256": "0a626d67c802e2b62cbc8622fce4b12c642b61a63180ac1c6a5d3c73a6cb4246",
+        "T_events": 156,
+        "H_events": 38,
+        "V_events": 55
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          594,
+          414
+        ],
+        "box": [
+          588,
+          408,
+          600,
+          420
+        ],
+        "selection_first6ms_events": 103,
+        "T_file": "real/confirmation_T/run3_01495000_patch3.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch3.npz",
+        "T_sha256": "a78bd851cf953058e7d134a6c507db4ef076c9e6eabe4f87523eb23bbe5578d0",
+        "evaluation_sha256": "c4e0b9ec49f1417d780f3509645d8cef66ea6f2731ae707c8ea4a59ede0578fa",
+        "T_events": 121,
+        "H_events": 29,
+        "V_events": 109
+      },
+      {
+        "patch": 4,
+        "grid_center": [
+          570,
+          390
+        ],
+        "box": [
+          564,
+          384,
+          576,
+          396
+        ],
+        "selection_first6ms_events": 97,
+        "T_file": "real/confirmation_T/run3_01495000_patch4.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch4.npz",
+        "T_sha256": "a9869407bb91a2d2869898b5426960085e2407ed8429a2b674046088998d8827",
+        "evaluation_sha256": "dd5695148aec4db790c81900ebef53b4133c8b68a45311bc2b2e8ebd31031a80",
+        "T_events": 148,
+        "H_events": 39,
+        "V_events": 46
+      },
+      {
+        "patch": 5,
+        "grid_center": [
+          510,
+          438
+        ],
+        "box": [
+          504,
+          432,
+          516,
+          444
+        ],
+        "selection_first6ms_events": 25,
+        "T_file": "real/confirmation_T/run3_01495000_patch5.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch5.npz",
+        "T_sha256": "327e0a388db521650d15a819669207d950ebf1d6863817a6dfd573d30ce31fad",
+        "evaluation_sha256": "e1472386c30d25603962f82d68e6eaf3981b070bf1150958bc456194c9b2bb97",
+        "T_events": 20,
+        "H_events": 5,
+        "V_events": 96
+      }
+    ],
+    "patch_event_source": "Full official decoded integer-pixel10ms raw patch; old common support used only to choose fixed box"
+  },
+  {
+    "case": "run4_02495000",
+    "center": [
+      596.6878095029849,
+      354.2068786214274
+    ],
+    "radius_px": 60.0,
+    "patch_count": 6,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run4_02495000.npz",
+    "source_sha256": "ef109d5e9c2e3475e0c61351bd6033056c355cf27d7768a3ece22336ab3e7b42",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          594,
+          342
+        ],
+        "box": [
+          588,
+          336,
+          600,
+          348
+        ],
+        "selection_first6ms_events": 326,
+        "T_file": "real/confirmation_T/run4_02495000_patch0.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch0.npz",
+        "T_sha256": "441247ae07452f8ef3281e5cfb956a0d3aeee6f64e664a1cb03c008761eebc51",
+        "evaluation_sha256": "1991bafbe4de415548ce14aab008391c7610cf1f42dab635af0b88819628ebaa",
+        "T_events": 263,
+        "H_events": 63,
+        "V_events": 47
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          582,
+          378
+        ],
+        "box": [
+          576,
+          372,
+          588,
+          384
+        ],
+        "selection_first6ms_events": 291,
+        "T_file": "real/confirmation_T/run4_02495000_patch1.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch1.npz",
+        "T_sha256": "05e98a3bef77b12a1fb7b03369ca18ca173b14f39a580c0f7fc8671bcb253d8d",
+        "evaluation_sha256": "24194772b6cd170f0933cd5ab3aca666a8026c53c978044d2254a78c12c0f0de",
+        "T_events": 238,
+        "H_events": 53,
+        "V_events": 90
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          606,
+          390
+        ],
+        "box": [
+          600,
+          384,
+          612,
+          396
+        ],
+        "selection_first6ms_events": 148,
+        "T_file": "real/confirmation_T/run4_02495000_patch2.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch2.npz",
+        "T_sha256": "a568a535f4353fa0e254c8d9f20912d544fd26867a2babe8bdb0618c856a6da6",
+        "evaluation_sha256": "70dc46049f10cdb7146428f82e8f17239017aa002892daaa1b61fe46d5c9b8d6",
+        "T_events": 118,
+        "H_events": 30,
+        "V_events": 79
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          594,
+          366
+        ],
+        "box": [
+          588,
+          360,
+          600,
+          372
+        ],
+        "selection_first6ms_events": 133,
+        "T_file": "real/confirmation_T/run4_02495000_patch3.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch3.npz",
+        "T_sha256": "2917cc38ec012684a72873a62f08dd0968976cc532cceba531a1d630084b3261",
+        "evaluation_sha256": "f203751da41366f6c86ab55b4a81116e25b4dd2d8864ccc67e674a0087a8f577",
+        "T_events": 107,
+        "H_events": 26,
+        "V_events": 9
+      },
+      {
+        "patch": 4,
+        "grid_center": [
+          582,
+          354
+        ],
+        "box": [
+          576,
+          348,
+          588,
+          360
+        ],
+        "selection_first6ms_events": 109,
+        "T_file": "real/confirmation_T/run4_02495000_patch4.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch4.npz",
+        "T_sha256": "0c3747faacc09660ba9946b261d04152ae9062e0e29b0f7c47758efa4e865a19",
+        "evaluation_sha256": "c5ca4c91942b077d0e2a9c46380c236ed5ab38eab180a1565fb9f650589aef2f",
+        "T_events": 88,
+        "H_events": 21,
+        "V_events": 218
+      },
+      {
+        "patch": 5,
+        "grid_center": [
+          606,
+          330
+        ],
+        "box": [
+          600,
+          324,
+          612,
+          336
+        ],
+        "selection_first6ms_events": 84,
+        "T_file": "real/confirmation_T/run4_02495000_patch5.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch5.npz",
+        "T_sha256": "e61ba922a463781b5129503cea4107bac7e29f4d24c8291ff482e59cd54149f6",
+        "evaluation_sha256": "af9ebd7fb8dd035beab74f2a6b06588bcc1899463faefa07c6b334e565c271eb",
+        "T_events": 65,
+        "H_events": 19,
+        "V_events": 45
+      }
+    ],
+    "patch_event_source": "Full official decoded integer-pixel10ms raw patch; old common support used only to choose fixed box"
+  },
+  {
+    "case": "run5_05095000",
+    "center": [
+      540.198438128846,
+      269.416653358788
+    ],
+    "radius_px": 60.0,
+    "patch_count": 4,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run5_05095000.npz",
+    "source_sha256": "f811659be5aa4f9c5d5ea818ae865169d95a3fb5303fd71237e8fb65e48a4a79",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ],
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          582,
+          258
+        ],
+        "box": [
+          576,
+          252,
+          588,
+          264
+        ],
+        "selection_first6ms_events": 75,
+        "T_file": "real/confirmation_T/run5_05095000_patch0.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch0.npz",
+        "T_sha256": "000412247460e9815e08bfe8389d2fab76ff00bbcdedbfb52e2e7a85e5484e28",
+        "evaluation_sha256": "8ee985d0e59da7a27f7d862ee35e93c2abf561180489ec93895b81c3d7da4c6e",
+        "T_events": 63,
+        "H_events": 14,
+        "V_events": 23
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          570,
+          294
+        ],
+        "box": [
+          564,
+          288,
+          576,
+          300
+        ],
+        "selection_first6ms_events": 70,
+        "T_file": "real/confirmation_T/run5_05095000_patch1.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch1.npz",
+        "T_sha256": "28cebcf7e19f0b659d42fea53d89e24f0987c353349ff62c5019e7178602e076",
+        "evaluation_sha256": "5b2c8d4bf91079eb2eca95e31b3dc4f007beca04b7046591d55f0fac867b553a",
+        "T_events": 64,
+        "H_events": 12,
+        "V_events": 41
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          570,
+          270
+        ],
+        "box": [
+          564,
+          264,
+          576,
+          276
+        ],
+        "selection_first6ms_events": 60,
+        "T_file": "real/confirmation_T/run5_05095000_patch2.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch2.npz",
+        "T_sha256": "177b1e53281e9b1a9d3d1598d895ac3ff24f40f5a55022c6c920a813e48cd416",
+        "evaluation_sha256": "6623366037c914e04916d3e11668b8065f4921d7d12f963d90ce919940c081f6",
+        "T_events": 44,
+        "H_events": 16,
+        "V_events": 43
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          498,
+          270
+        ],
+        "box": [
+          492,
+          264,
+          504,
+          276
+        ],
+        "selection_first6ms_events": 27,
+        "T_file": "real/confirmation_T/run5_05095000_patch3.npz",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch3.npz",
+        "T_sha256": "0bea871599c4a681a34b62ff8fc8badb8c61ce8cdd0388e7fae5c535efc880b0",
+        "evaluation_sha256": "8ca36086b0cf96a26cf515249837451f97a1afb07a86ea7e2fd76bcf7682ccd1",
+        "T_events": 31,
+        "H_events": 9,
+        "V_events": 39
+      }
+    ],
+    "patch_event_source": "Full official decoded integer-pixel10ms raw patch; old common support used only to choose fixed box"
+  }
+]

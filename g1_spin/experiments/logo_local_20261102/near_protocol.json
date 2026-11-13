@@ -1,0 +1,38 @@
+{
+  "added_utc": "2026-11-02T02:22:19.868615+00:00",
+  "selection": "Parent chose from raw seed context, before seeing L/A1/A2 tracking outcomes; separate post-survey exploratory near branch",
+  "seeds": {
+    "N1": [
+      588,
+      190
+    ],
+    "N2": [
+      576,
+      237
+    ]
+  },
+  "L_frozen_existing": [
+    582,
+    212
+  ],
+  "nominal_seed_distances_to_L_px": [
+    22.80350850198276,
+    25.709920264364882
+  ],
+  "same_B0_gates": true,
+  "do_not_change_or_rerun_L_A1_A2": true,
+  "no_seed_replacement_after_outcome": true,
+  "groups": [
+    [
+      "L",
+      "N1"
+    ],
+    [
+      "L",
+      "N1",
+      "N2"
+    ]
+  ],
+  "joint_gate": "Same position availability and optional auxiliary circle-or-ellipse gate; never changes or fills L",
+  "overlap": "Report square27 patch IoU and shared raw event/pixel support, not independent pose constraints"
+}

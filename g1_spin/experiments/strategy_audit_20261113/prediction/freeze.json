@@ -1,0 +1,14 @@
+{
+  "g1_spin/experiments/disk_recheck_20261113/inputs/high_motion_00450000_50ms.npz": "53e8817b5a78c5e944e8eb374827bd2daf52f55fafd31ce5a6b558c295ae414d",
+  "g1_spin/experiments/disk_recheck_20261113/inputs/early_turn_01750000_50ms.npz": "f8a0d7e8ac2caa779d03e2484e75cccaa6de884806bdf91107c2202e3c2ba71d",
+  "g1_spin/experiments/disk_recheck_20261113/inputs/middle_06350000_50ms.npz": "139cfa0eb1305bb4e807d95196ed5f44f2afd3598e80752a791c1d7ced4653f9",
+  "g1_spin/experiments/disk_recheck_20261113/inputs/late_11350000_50ms.npz": "762209ab809cce08a7c14cc88f0c2ffdf23e738fcdc552cac1f3e2e598a19ae0",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run1_01495000.npz": "b5887cc147dc40399721a5ed2b225514de3f54f89b262c496523d27adaf0e187",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run2_02095000.npz": "c55d6e9e4901a4e2ac220d2a961206efc29b75f2489f423aa5554511b8afd8e5",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_01495000.npz": "5253dc65849171fc1d46e7a95d253328e06124094088ad1256d58c6d288ff8f5",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run4_00895000.npz": "fc262b823e6b5c0760f6abf0d2124ae172a44177cc93d1b7b974552024a4b8d5",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run5_04095000.npz": "b6c045b373d990b18d7312897178826a893138ea68964ca1f92ba40d569c74a5",
+  "g1_spin/experiments/strategy_audit_20261113/prediction/run.py": "789ba69bdcac79a7460eda7a420ed9c93e760f35ed65389e6bd49bdcffb5ff9a",
+  "g1_spin/experiments/strategy_audit_20261113/prediction/protocol.md": "bb4ee6c429c182fb39ef723094bd8c0a3c4734d4e536a8662aa0ab2439d68d5e",
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192"
+}

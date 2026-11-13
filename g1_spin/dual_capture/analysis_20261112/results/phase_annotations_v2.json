@@ -1,0 +1,141 @@
+{
+  "user_description": "水平移动几秒→原地竖直转→朝相机转→斜转→斜向反转→竖直反转→各方向摇晃→结束",
+  "time_mapping": "d455_db_seconds ~= event_seconds_since_first_CD + 205.443818693",
+  "mapping_kind": "file_seen_host_anchor_plus_visual_consistency; NOT calibrated sync",
+  "offset_s": 205.443818693,
+  "drift_estimated": false,
+  "phases": [
+    {
+      "event_start_s": 0,
+      "event_end_s": 3,
+      "d455_db_start_s": 205.443818693,
+      "d455_db_end_s": 208.443818693,
+      "label": "shared hand marker / preparation",
+      "evidence": "visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 3,
+      "event_end_s": 7.5,
+      "d455_db_start_s": 208.443818693,
+      "d455_db_end_s": 212.943818693,
+      "label": "horizontal translation",
+      "evidence": "user order + visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 7.5,
+      "event_end_s": 13,
+      "d455_db_start_s": 212.943818693,
+      "d455_db_end_s": 218.443818693,
+      "label": "vertical forward rotation",
+      "evidence": "user order + shaft pose",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 13,
+      "event_end_s": 14.5,
+      "d455_db_start_s": 218.443818693,
+      "d455_db_end_s": 219.943818693,
+      "label": "pose transition",
+      "evidence": "visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 14.5,
+      "event_end_s": 21.5,
+      "d455_db_start_s": 219.943818693,
+      "d455_db_end_s": 226.943818693,
+      "label": "axis toward camera",
+      "evidence": "user order + visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 21.5,
+      "event_end_s": 23,
+      "d455_db_start_s": 226.943818693,
+      "d455_db_end_s": 228.443818693,
+      "label": "pose transition",
+      "evidence": "visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 23,
+      "event_end_s": 28.5,
+      "d455_db_start_s": 228.443818693,
+      "d455_db_end_s": 233.943818693,
+      "label": "tilted forward rotation candidate",
+      "evidence": "user order + before visible regrip",
+      "boundary_precision": "conservative visual interval; approximate event timing inherits coarse sync",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 28.5,
+      "event_end_s": 31,
+      "d455_db_start_s": 233.943818693,
+      "d455_db_end_s": 236.443818693,
+      "label": "reversal operation / exclude from scoring",
+      "evidence": "user reports several-second switching interval; visible regrip and displacement; exact spin stop/start unresolved",
+      "boundary_precision": "conservative visual interval; approximate event timing inherits coarse sync",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 31,
+      "event_end_s": 35,
+      "d455_db_start_s": 236.443818693,
+      "d455_db_end_s": 240.443818693,
+      "label": "tilted reverse rotation candidate",
+      "evidence": "user order + after visible regrip",
+      "boundary_precision": "conservative visual interval; approximate event timing inherits coarse sync",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 35,
+      "event_end_s": 36.5,
+      "d455_db_start_s": 240.443818693,
+      "d455_db_end_s": 241.943818693,
+      "label": "pose transition",
+      "evidence": "visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 36.5,
+      "event_end_s": 42,
+      "d455_db_start_s": 241.943818693,
+      "d455_db_end_s": 247.443818693,
+      "label": "vertical reverse rotation",
+      "evidence": "user order + shaft pose",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 42,
+      "event_end_s": 52,
+      "d455_db_start_s": 247.443818693,
+      "d455_db_end_s": 257.443818693,
+      "label": "multi-direction shaking",
+      "evidence": "user order + visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    },
+    {
+      "event_start_s": 52,
+      "event_end_s": 54.064668,
+      "d455_db_start_s": 257.443818693,
+      "d455_db_end_s": 259.508486693,
+      "label": "end movement",
+      "evidence": "visual",
+      "boundary_precision": "coarse visual, roughly 0.5-1s; tilted reversal time unresolved",
+      "spin_ground_truth": false
+    }
+  ],
+  "revision": 2,
+  "reversal_note": "28.5–31s excluded as conservative operation transition, not a measurement of physical spin reversal."
+}

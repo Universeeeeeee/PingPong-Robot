@@ -1,0 +1,18 @@
+{
+  "source": "GPT-6 Astra xhigh independent read-only audit, relayed by parent agent",
+  "not_claimed_as_executor_rerun": true,
+  "window": "run2_02095000",
+  "events": 2809,
+  "downsampled": false,
+  "method": "Integer microsecond abs(delta)<=2000, pixel squared distance<=16, same polarity; centered covariance normal equations, without flow.extract, cKDTree or lstsq",
+  "supported_neighborhoods": 250,
+  "too_few_neighbors": 50,
+  "accepted_planes": 0,
+  "rms_over_std_min": 0.2312,
+  "rms_over_std_median": 0.9074,
+  "rms_over_std_max": 0.9995,
+  "minimum_rms_us": 232,
+  "eligible_windows_not_downsampled": 65,
+  "eligible_windows_downsampled": 11,
+  "interpretation": "The frozen local-plane model and filters yielded no usable flow on these inputs; this does not establish a G1 hardware limitation or Sony implementation failure."
+}

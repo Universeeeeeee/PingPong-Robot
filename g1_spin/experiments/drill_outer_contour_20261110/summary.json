@@ -1,0 +1,402 @@
+{
+  "geometry": [
+    {
+      "case": "run1_03565000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 3,
+      "all_valid": 4,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run1_03565000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 0,
+      "all_valid": 0,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run1_03565000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 7,
+      "all_valid": 6,
+      "common_count": 4,
+      "common_side_gap_median_px": 2.9773160674598316
+    },
+    {
+      "case": "run1_03565000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 5,
+      "all_valid": 6,
+      "common_count": 4,
+      "common_side_gap_median_px": 1.6234881346842935
+    },
+    {
+      "case": "run3_01465000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 4,
+      "all_valid": 3,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_01465000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 1,
+      "all_valid": 0,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_01465000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 6,
+      "all_valid": 5,
+      "common_count": 5,
+      "common_side_gap_median_px": 3.289448087415628
+    },
+    {
+      "case": "run3_01465000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 8,
+      "all_valid": 8,
+      "common_count": 5,
+      "common_side_gap_median_px": 1.1192089907020037
+    },
+    {
+      "case": "run3_02665000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 4,
+      "all_valid": 3,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_02665000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 0,
+      "all_valid": 1,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_02665000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 7,
+      "all_valid": 5,
+      "common_count": 6,
+      "common_side_gap_median_px": 3.322261193364562
+    },
+    {
+      "case": "run3_02665000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 8,
+      "all_valid": 8,
+      "common_count": 6,
+      "common_side_gap_median_px": 1.2079405927370908
+    },
+    {
+      "case": "run3_04335000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 6,
+      "all_valid": 3,
+      "common_count": 1,
+      "common_side_gap_median_px": 11.819471100910677
+    },
+    {
+      "case": "run3_04335000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 1,
+      "all_valid": 0,
+      "common_count": 1,
+      "common_side_gap_median_px": 16.635697005695373
+    },
+    {
+      "case": "run3_04335000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 5,
+      "all_valid": 4,
+      "common_count": 4,
+      "common_side_gap_median_px": 4.11309924031693
+    },
+    {
+      "case": "run3_04335000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 5,
+      "all_valid": 5,
+      "common_count": 4,
+      "common_side_gap_median_px": 1.0296389473549878
+    },
+    {
+      "case": "run3_06265000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 7,
+      "all_valid": 5,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_06265000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 0,
+      "all_valid": 0,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run3_06265000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 8,
+      "all_valid": 6,
+      "common_count": 7,
+      "common_side_gap_median_px": 3.388026948358571
+    },
+    {
+      "case": "run3_06265000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 8,
+      "all_valid": 8,
+      "common_count": 7,
+      "common_side_gap_median_px": 1.0647537569323002
+    },
+    {
+      "case": "run4_00865000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 5,
+      "all_valid": 1,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run4_00865000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 0,
+      "all_valid": 0,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run4_00865000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 3,
+      "all_valid": 2,
+      "common_count": 3,
+      "common_side_gap_median_px": 3.7739659565069568
+    },
+    {
+      "case": "run4_00865000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 4,
+      "all_valid": 7,
+      "common_count": 3,
+      "common_side_gap_median_px": 2.056710264406717
+    },
+    {
+      "case": "run5_04135000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 5,
+      "all_valid": 7,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run5_04135000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 0,
+      "all_valid": 0,
+      "common_count": 0,
+      "common_side_gap_median_px": null
+    },
+    {
+      "case": "run5_04135000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 6,
+      "all_valid": 7,
+      "common_count": 6,
+      "common_side_gap_median_px": 1.3844129101154723
+    },
+    {
+      "case": "run5_04135000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 8,
+      "all_valid": 9,
+      "common_count": 6,
+      "common_side_gap_median_px": 2.3432123700840433
+    },
+    {
+      "case": "run5_06535000",
+      "duration_us": 1000,
+      "method": "old_fits",
+      "paired_sides": 5,
+      "all_valid": 1,
+      "common_count": 1,
+      "common_side_gap_median_px": 7.422013696574633
+    },
+    {
+      "case": "run5_06535000",
+      "duration_us": 1000,
+      "method": "fits",
+      "paired_sides": 1,
+      "all_valid": 0,
+      "common_count": 1,
+      "common_side_gap_median_px": 7.443503478815393
+    },
+    {
+      "case": "run5_06535000",
+      "duration_us": 5000,
+      "method": "old_fits",
+      "paired_sides": 6,
+      "all_valid": 1,
+      "common_count": 5,
+      "common_side_gap_median_px": 7.451925161760296
+    },
+    {
+      "case": "run5_06535000",
+      "duration_us": 5000,
+      "method": "fits",
+      "paired_sides": 5,
+      "all_valid": 6,
+      "common_count": 5,
+      "common_side_gap_median_px": 5.319179422260618
+    }
+  ],
+  "spin": [
+    {
+      "case": "run3_01465000",
+      "run": 3,
+      "method": "old_median3",
+      "valid": true,
+      "rpm": 257.48754131677975,
+      "shaft_projection_deg": 1.9193764970576523,
+      "reason": null
+    },
+    {
+      "case": "run3_01465000",
+      "run": 3,
+      "method": "outer_median3",
+      "valid": true,
+      "rpm": 265.28746623159554,
+      "shaft_projection_deg": 0.5076145143543244,
+      "reason": null
+    },
+    {
+      "case": "run3_02665000",
+      "run": 3,
+      "method": "old_median3",
+      "valid": true,
+      "rpm": 270.0258164672957,
+      "shaft_projection_deg": 1.6579803410105298,
+      "reason": null
+    },
+    {
+      "case": "run3_02665000",
+      "run": 3,
+      "method": "outer_median3",
+      "valid": true,
+      "rpm": 263.65505779436336,
+      "shaft_projection_deg": 1.6656216392201988,
+      "reason": null
+    },
+    {
+      "case": "run3_04335000",
+      "run": 3,
+      "method": "old_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "geometry_outside_coverage"
+    },
+    {
+      "case": "run3_04335000",
+      "run": 3,
+      "method": "outer_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "geometry_outside_coverage"
+    },
+    {
+      "case": "run3_06265000",
+      "run": 3,
+      "method": "old_median3",
+      "valid": true,
+      "rpm": 261.96007379833026,
+      "shaft_projection_deg": 2.2329462314543025,
+      "reason": null
+    },
+    {
+      "case": "run3_06265000",
+      "run": 3,
+      "method": "outer_median3",
+      "valid": true,
+      "rpm": 268.57350769308505,
+      "shaft_projection_deg": 0.1663714706699688,
+      "reason": null
+    },
+    {
+      "case": "run5_04135000",
+      "run": 5,
+      "method": "old_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "no_rotation_evidence"
+    },
+    {
+      "case": "run5_04135000",
+      "run": 5,
+      "method": "outer_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "no_rotation_evidence"
+    },
+    {
+      "case": "run5_06535000",
+      "run": 5,
+      "method": "old_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "no_rotation_evidence"
+    },
+    {
+      "case": "run5_06535000",
+      "run": 5,
+      "method": "outer_median3",
+      "valid": false,
+      "rpm": null,
+      "shaft_projection_deg": null,
+      "reason": "no_rotation_evidence"
+    }
+  ]
+}

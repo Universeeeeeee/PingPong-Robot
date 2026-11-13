@@ -1,0 +1,389 @@
+[
+  {
+    "case": "run3_01495000",
+    "center": [
+      547.4115224468607,
+      429.1719479161141
+    ],
+    "radius_px": 59.0,
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          522,
+          450
+        ],
+        "box": [
+          516,
+          444,
+          528,
+          456
+        ],
+        "selection_first6ms_events": 243,
+        "T_file": "real/confirmation_T/run3_01495000_patch0.npz",
+        "T_sha256": "0884df5e59462035ce2add3b22fd260a031b38a4cd4d067c9028d3f3b484b203",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch0.npz",
+        "evaluation_sha256": "3787b27f1eb75c12a37e973312e639e697f2ccae82f72fbed4c8009dae5fb692",
+        "T_events": 194,
+        "H_events": 49,
+        "V_events": 148
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          534,
+          462
+        ],
+        "box": [
+          528,
+          456,
+          540,
+          468
+        ],
+        "selection_first6ms_events": 182,
+        "T_file": "real/confirmation_T/run3_01495000_patch1.npz",
+        "T_sha256": "083221bed9546803f946377ec45113070646d4511a96326ea58fbb541417c439",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch1.npz",
+        "evaluation_sha256": "daace81d7863513d7c9e8ef3443ee0f384ee01595149d42436c0274be08da8c8",
+        "T_events": 147,
+        "H_events": 35,
+        "V_events": 96
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          582,
+          402
+        ],
+        "box": [
+          576,
+          396,
+          588,
+          408
+        ],
+        "selection_first6ms_events": 170,
+        "T_file": "real/confirmation_T/run3_01495000_patch2.npz",
+        "T_sha256": "8da2b96d62f6ff81c09508eacd771abe8288d02e0f1ffae51751bcb80b036f73",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch2.npz",
+        "evaluation_sha256": "b06636d4a7550be8cd3d395af18d431420d2ef0fb3f48ee06ae7221cd8bfc16e",
+        "T_events": 135,
+        "H_events": 35,
+        "V_events": 17
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          594,
+          414
+        ],
+        "box": [
+          588,
+          408,
+          600,
+          420
+        ],
+        "selection_first6ms_events": 103,
+        "T_file": "real/confirmation_T/run3_01495000_patch3.npz",
+        "T_sha256": "79d5cb597d3812b70e85e0443b2b23a268b336eaee724f5a801ad18e56f76e1e",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch3.npz",
+        "evaluation_sha256": "53eae38659603b46b43703078549628471feabcf4c6bbc7f87097ca47f04a50b",
+        "T_events": 83,
+        "H_events": 20,
+        "V_events": 14
+      },
+      {
+        "patch": 4,
+        "grid_center": [
+          570,
+          390
+        ],
+        "box": [
+          564,
+          384,
+          576,
+          396
+        ],
+        "selection_first6ms_events": 97,
+        "T_file": "real/confirmation_T/run3_01495000_patch4.npz",
+        "T_sha256": "09884c96b4fd2fc4cc5d0ef5a914e589f336babd0ebeeb8ffd5b40b799fad652",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch4.npz",
+        "evaluation_sha256": "cf2cdfcbae60eab4aba1921702df62215b113e861540af5b9df7103e9d53bf7b",
+        "T_events": 79,
+        "H_events": 18,
+        "V_events": 9
+      },
+      {
+        "patch": 5,
+        "grid_center": [
+          510,
+          438
+        ],
+        "box": [
+          504,
+          432,
+          516,
+          444
+        ],
+        "selection_first6ms_events": 25,
+        "T_file": "real/confirmation_T/run3_01495000_patch5.npz",
+        "T_sha256": "327e0a388db521650d15a819669207d950ebf1d6863817a6dfd573d30ce31fad",
+        "evaluation_file": "real/confirmation_evaluation_only/run3_01495000_patch5.npz",
+        "evaluation_sha256": "e1472386c30d25603962f82d68e6eaf3981b070bf1150958bc456194c9b2bb97",
+        "T_events": 20,
+        "H_events": 5,
+        "V_events": 96
+      }
+    ],
+    "patch_count": 6,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run3_01495000.npz",
+    "source_sha256": "1bf9b75af4a3e9e075b35d9d1882eb437749292693bc919f90d61e094a302f78",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "case": "run4_02495000",
+    "center": [
+      596.6878095029849,
+      354.2068786214274
+    ],
+    "radius_px": 60.0,
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          594,
+          342
+        ],
+        "box": [
+          588,
+          336,
+          600,
+          348
+        ],
+        "selection_first6ms_events": 326,
+        "T_file": "real/confirmation_T/run4_02495000_patch0.npz",
+        "T_sha256": "441247ae07452f8ef3281e5cfb956a0d3aeee6f64e664a1cb03c008761eebc51",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch0.npz",
+        "evaluation_sha256": "1991bafbe4de415548ce14aab008391c7610cf1f42dab635af0b88819628ebaa",
+        "T_events": 263,
+        "H_events": 63,
+        "V_events": 47
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          582,
+          378
+        ],
+        "box": [
+          576,
+          372,
+          588,
+          384
+        ],
+        "selection_first6ms_events": 291,
+        "T_file": "real/confirmation_T/run4_02495000_patch1.npz",
+        "T_sha256": "05e98a3bef77b12a1fb7b03369ca18ca173b14f39a580c0f7fc8671bcb253d8d",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch1.npz",
+        "evaluation_sha256": "24194772b6cd170f0933cd5ab3aca666a8026c53c978044d2254a78c12c0f0de",
+        "T_events": 238,
+        "H_events": 53,
+        "V_events": 90
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          606,
+          390
+        ],
+        "box": [
+          600,
+          384,
+          612,
+          396
+        ],
+        "selection_first6ms_events": 148,
+        "T_file": "real/confirmation_T/run4_02495000_patch2.npz",
+        "T_sha256": "a568a535f4353fa0e254c8d9f20912d544fd26867a2babe8bdb0618c856a6da6",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch2.npz",
+        "evaluation_sha256": "70dc46049f10cdb7146428f82e8f17239017aa002892daaa1b61fe46d5c9b8d6",
+        "T_events": 118,
+        "H_events": 30,
+        "V_events": 79
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          594,
+          366
+        ],
+        "box": [
+          588,
+          360,
+          600,
+          372
+        ],
+        "selection_first6ms_events": 133,
+        "T_file": "real/confirmation_T/run4_02495000_patch3.npz",
+        "T_sha256": "2917cc38ec012684a72873a62f08dd0968976cc532cceba531a1d630084b3261",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch3.npz",
+        "evaluation_sha256": "f203751da41366f6c86ab55b4a81116e25b4dd2d8864ccc67e674a0087a8f577",
+        "T_events": 107,
+        "H_events": 26,
+        "V_events": 9
+      },
+      {
+        "patch": 4,
+        "grid_center": [
+          582,
+          354
+        ],
+        "box": [
+          576,
+          348,
+          588,
+          360
+        ],
+        "selection_first6ms_events": 109,
+        "T_file": "real/confirmation_T/run4_02495000_patch4.npz",
+        "T_sha256": "0c3747faacc09660ba9946b261d04152ae9062e0e29b0f7c47758efa4e865a19",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch4.npz",
+        "evaluation_sha256": "c5ca4c91942b077d0e2a9c46380c236ed5ab38eab180a1565fb9f650589aef2f",
+        "T_events": 88,
+        "H_events": 21,
+        "V_events": 218
+      },
+      {
+        "patch": 5,
+        "grid_center": [
+          606,
+          330
+        ],
+        "box": [
+          600,
+          324,
+          612,
+          336
+        ],
+        "selection_first6ms_events": 84,
+        "T_file": "real/confirmation_T/run4_02495000_patch5.npz",
+        "T_sha256": "e61ba922a463781b5129503cea4107bac7e29f4d24c8291ff482e59cd54149f6",
+        "evaluation_file": "real/confirmation_evaluation_only/run4_02495000_patch5.npz",
+        "evaluation_sha256": "af9ebd7fb8dd035beab74f2a6b06588bcc1899463faefa07c6b334e565c271eb",
+        "T_events": 65,
+        "H_events": 19,
+        "V_events": 45
+      }
+    ],
+    "patch_count": 6,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run4_02495000.npz",
+    "source_sha256": "ef109d5e9c2e3475e0c61351bd6033056c355cf27d7768a3ece22336ab3e7b42",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "case": "run5_05095000",
+    "center": [
+      540.198438128846,
+      269.416653358788
+    ],
+    "radius_px": 60.0,
+    "patches": [
+      {
+        "patch": 0,
+        "grid_center": [
+          582,
+          258
+        ],
+        "box": [
+          576,
+          252,
+          588,
+          264
+        ],
+        "selection_first6ms_events": 75,
+        "T_file": "real/confirmation_T/run5_05095000_patch0.npz",
+        "T_sha256": "14d639df4f4d43d951c0e173f5c0f6cf4c656ea579787add64b1f9870ee5cdf4",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch0.npz",
+        "evaluation_sha256": "b9a3df1689255b758849536bc4692dd550f1e5b71ef6f05daf1a087f0a340d73",
+        "T_events": 62,
+        "H_events": 13,
+        "V_events": 19
+      },
+      {
+        "patch": 1,
+        "grid_center": [
+          570,
+          294
+        ],
+        "box": [
+          564,
+          288,
+          576,
+          300
+        ],
+        "selection_first6ms_events": 70,
+        "T_file": "real/confirmation_T/run5_05095000_patch1.npz",
+        "T_sha256": "2987467378d8588d60c807ecce2386a46a87064b8f3dd1cbaf088e0546df5d56",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch1.npz",
+        "evaluation_sha256": "ed406f6e0ba64a92c2cf2939a3ce3f25cc788848fdab8c73cba12a679d79aae8",
+        "T_events": 58,
+        "H_events": 12,
+        "V_events": 37
+      },
+      {
+        "patch": 2,
+        "grid_center": [
+          570,
+          270
+        ],
+        "box": [
+          564,
+          264,
+          576,
+          276
+        ],
+        "selection_first6ms_events": 60,
+        "T_file": "real/confirmation_T/run5_05095000_patch2.npz",
+        "T_sha256": "177b1e53281e9b1a9d3d1598d895ac3ff24f40f5a55022c6c920a813e48cd416",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch2.npz",
+        "evaluation_sha256": "6623366037c914e04916d3e11668b8065f4921d7d12f963d90ce919940c081f6",
+        "T_events": 44,
+        "H_events": 16,
+        "V_events": 43
+      },
+      {
+        "patch": 3,
+        "grid_center": [
+          498,
+          270
+        ],
+        "box": [
+          492,
+          264,
+          504,
+          276
+        ],
+        "selection_first6ms_events": 27,
+        "T_file": "real/confirmation_T/run5_05095000_patch3.npz",
+        "T_sha256": "d25f7f4d9d508383d8d4f03807791f2b4636ac4b103d84e71af7255eba6ef08a",
+        "evaluation_file": "real/confirmation_evaluation_only/run5_05095000_patch3.npz",
+        "evaluation_sha256": "fb37a6312be698e80a4927e77cca28f35f81d41eb52bec5c020234ccbad155d2",
+        "T_events": 22,
+        "H_events": 5,
+        "V_events": 24
+      }
+    ],
+    "patch_count": 4,
+    "source_file": "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase4_20261106/real_frontend/inputs/run5_05095000.npz",
+    "source_sha256": "f811659be5aa4f9c5d5ea818ae865169d95a3fb5303fd71237e8fb65e48a4a79",
+    "geometry_velocity_px_s": [
+      0.0,
+      0.0
+    ]
+  }
+]

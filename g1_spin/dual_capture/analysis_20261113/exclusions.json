@@ -1,0 +1,6 @@
+{
+  "window_45s": {
+    "status": "excluded",
+    "reason": "fewer than three unambiguous circle detections in geometry neighborhood; original intermediate files contain only completed fits"
+  }
+}

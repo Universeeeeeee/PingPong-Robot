@@ -1,0 +1,7 @@
+{
+  "g1_spin/experiments/strategy_audit_20261113/axis1d/run.py": "4223e171dda5f0a6aa32e9b21c287adf1823259033c72acc262251eca304e05c",
+  "g1_spin/experiments/strategy_audit_20261113/axis1d/protocol.md": "6087772f08933e280cd1e2b548bf50c5d1ee15fa45347792cb5796903b7d4c81",
+  "g1_spin/experiments/drill_phase3_20261106/results.jsonl": "6150f058bc69a83c6061adf3d686966e8a870a8423074c45bcc1d5b30f9369b2",
+  "g1_spin/experiments/drill_phase3_20261106/direction_checks.json": "4048894d3c43a150e70c782f8dd1d8f5b4c39c241d7b8ef23a3f6fc981896c08",
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192"
+}

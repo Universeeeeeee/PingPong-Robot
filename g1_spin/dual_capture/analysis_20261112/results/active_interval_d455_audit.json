@@ -1,0 +1,23 @@
+{
+  "frames": 4675,
+  "frame_numbers_first_last": [
+    18463,
+    23321
+  ],
+  "missing_frame_numbers": 184,
+  "sensor_dt_us_quantiles": [
+    11128.0,
+    11128.0,
+    11129.0,
+    22257.0,
+    33385.0
+  ],
+  "timestamp_domains": [
+    "Global Time"
+  ],
+  "actual_exposure_us": [
+    8500
+  ],
+  "effective_sensor_hz": 86.4572456619374,
+  "recording_span_s": 54.061403
+}

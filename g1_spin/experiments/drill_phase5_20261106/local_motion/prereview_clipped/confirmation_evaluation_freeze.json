@@ -1,0 +1,21 @@
+{
+  "stage": "Confirmation T models and qualifier correction frozen before H/future; unchanged metrics and thresholds",
+  "date": "2026-11-07",
+  "tau_px": 0.5,
+  "files": {
+    "tau_freeze.json": "66fa11d3af89ad6d3ffd623daa7f47bab0aa7024b46e064fb05784e8c55d9f08",
+    "evaluate_real.py": "692a58e0fa3c5b165a81d10874ceb755e782573988fb56aa4aff9a1702e094a2",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "qualify_training.py": "587f017f20673e3a9a8e64ceecb86701a10c1d39d926023bc68a94e2f10b04d7",
+    "real/confirmation_training_freeze.json": "8692da57318a87311cfa4165a6b33d6118ba2070b68447aa7d87357b401fb41e",
+    "real/confirmation_training_qualification.json": "d483d278a8228e45d3f30ea1964438c39260d729fc8243f78bbe0b91b1b4d87b",
+    "real/confirmation_T_global_systems.json": "f284bd0b6e0e034361cfcbc37b95d860c96ecedd0018a6128d6c82e3f777f969"
+  },
+  "bootstrap_min_valid": 24,
+  "normal_P95_max_deg": 15,
+  "static_max_abs_speed_px_s": 50,
+  "motion_resolution": "Conservative next1ms prediction displacement |vn|*.001 must be>=tau; below resolution is unidentifiable",
+  "nonzero": "T-qualified and abs(v)>max50,2delta_v; H/future support, bothP95<=tau and bothmean gains>=.20; actual min gain>all>=15 valid19 separately shuffled statistics",
+  "stationary": "T static-compatible, H/future supports and static-line P95<=tau; only stationary_constraint, never nonzero success",
+  "constraint_selection": "T-only; H/future never prune constraints or refit global systems"
+}

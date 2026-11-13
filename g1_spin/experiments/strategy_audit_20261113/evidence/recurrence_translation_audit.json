@@ -1,0 +1,379 @@
+{
+  "results": [
+    {
+      "recording": "222403",
+      "anchor_s": 1.75,
+      "lag_s": 0.3200000000000002,
+      "median_discrepancy_px": 8.132806489517726,
+      "details": [
+        {
+          "source_s": 1.65,
+          "target_s": 1.9700000000000002,
+          "registration_shift_px": [
+            -10.0,
+            -2.0
+          ],
+          "arc_center_delta_px": [
+            -0.2719202368630249,
+            1.244320747848633
+          ],
+          "discrepancy_px": 10.254811211956866,
+          "registered_similarity": 0.7996051907539368
+        },
+        {
+          "source_s": 1.69,
+          "target_s": 2.0100000000000002,
+          "registration_shift_px": [
+            -10.0,
+            -2.0
+          ],
+          "arc_center_delta_px": [
+            -1.9406131172371488,
+            1.7911615979813291
+          ],
+          "discrepancy_px": 8.906549454646184,
+          "registered_similarity": 0.9722741842269897
+        },
+        {
+          "source_s": 1.73,
+          "target_s": 2.0500000000000003,
+          "registration_shift_px": [
+            -12.0,
+            2.0
+          ],
+          "arc_center_delta_px": [
+            -3.6093059976110453,
+            2.338002448113997
+          ],
+          "discrepancy_px": 8.397499121563339,
+          "registered_similarity": 0.9717060923576355
+        },
+        {
+          "source_s": 1.77,
+          "target_s": 2.0900000000000003,
+          "registration_shift_px": [
+            -13.0,
+            3.0
+          ],
+          "arc_center_delta_px": [
+            -5.157904617800227,
+            2.360659956966771
+          ],
+          "discrepancy_px": 7.868113857472116,
+          "registered_similarity": 0.9617606997489929
+        },
+        {
+          "source_s": 1.81,
+          "target_s": 2.1300000000000003,
+          "registration_shift_px": [
+            -14.0,
+            4.0
+          ],
+          "arc_center_delta_px": [
+            -6.394054635605926,
+            2.2859262581631867
+          ],
+          "discrepancy_px": 7.796695048454964,
+          "registered_similarity": 0.9280211329460144
+        },
+        {
+          "source_s": 1.85,
+          "target_s": 2.1700000000000004,
+          "registration_shift_px": [
+            -14.0,
+            3.0
+          ],
+          "arc_center_delta_px": [
+            -8.05952983220618,
+            2.47507726219672
+          ],
+          "discrepancy_px": 5.9636171653713,
+          "registered_similarity": 0.9618144035339355
+        }
+      ]
+    },
+    {
+      "recording": "222403",
+      "anchor_s": 6.35,
+      "lag_s": 0.4500000000000003,
+      "median_discrepancy_px": 1.49339863030218,
+      "details": [
+        {
+          "source_s": 6.25,
+          "target_s": 6.7,
+          "registration_shift_px": [
+            -18.0,
+            -1.0
+          ],
+          "arc_center_delta_px": [
+            -14.005280030934387,
+            0.8444784002400354
+          ],
+          "discrepancy_px": 4.399987295459343,
+          "registered_similarity": 0.9207456111907959
+        },
+        {
+          "source_s": 6.29,
+          "target_s": 6.74,
+          "registration_shift_px": [
+            -18.0,
+            1.0
+          ],
+          "arc_center_delta_px": [
+            -14.659019837217897,
+            1.0814726512615778
+          ],
+          "discrepancy_px": 3.341973405191477,
+          "registered_similarity": 0.970076858997345
+        },
+        {
+          "source_s": 6.33,
+          "target_s": 6.78,
+          "registration_shift_px": [
+            -17.0,
+            1.0
+          ],
+          "arc_center_delta_px": [
+            -15.43793669273066,
+            1.194243742294674
+          ],
+          "discrepancy_px": 1.5740941545339246,
+          "registered_similarity": 0.9507434368133545
+        },
+        {
+          "source_s": 6.369999999999999,
+          "target_s": 6.819999999999999,
+          "registration_shift_px": [
+            -16.0,
+            2.0
+          ],
+          "arc_center_delta_px": [
+            -16.02811361788406,
+            1.1508785714152339
+          ],
+          "discrepancy_px": 0.8495867089310926,
+          "registered_similarity": 0.9737282991409302
+        },
+        {
+          "source_s": 6.409999999999999,
+          "target_s": 6.859999999999999,
+          "registration_shift_px": [
+            -16.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -16.32021332859108,
+            0.8449266372012403
+          ],
+          "discrepancy_px": 0.9035693653835192,
+          "registered_similarity": 0.9643392562866211
+        },
+        {
+          "source_s": 6.449999999999999,
+          "target_s": 6.8999999999999995,
+          "registration_shift_px": [
+            -15.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -16.409478236267205,
+            0.09540003873240721
+          ],
+          "discrepancy_px": 1.4127031060704354,
+          "registered_similarity": 0.9309607148170471
+        }
+      ]
+    },
+    {
+      "recording": "222403",
+      "anchor_s": 11.35,
+      "lag_s": 0.8900000000000007,
+      "median_discrepancy_px": 3.8791974109965595,
+      "details": [
+        {
+          "source_s": 11.25,
+          "target_s": 12.14,
+          "registration_shift_px": [
+            -2.0,
+            2.0
+          ],
+          "arc_center_delta_px": [
+            -0.3275788272698037,
+            0.35111536592242487
+          ],
+          "discrepancy_px": 2.3485768276753016,
+          "registered_similarity": 0.932898998260498
+        },
+        {
+          "source_s": 11.29,
+          "target_s": 12.18,
+          "registration_shift_px": [
+            1.0,
+            1.0
+          ],
+          "arc_center_delta_px": [
+            -0.3146006799481711,
+            -0.16749771804413172
+          ],
+          "discrepancy_px": 1.7581882349050253,
+          "registered_similarity": 0.9585676789283752
+        },
+        {
+          "source_s": 11.33,
+          "target_s": 12.22,
+          "registration_shift_px": [
+            3.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -0.20771579075585578,
+            -0.25404669052718987
+          ],
+          "discrepancy_px": 3.217760139480922,
+          "registered_similarity": 0.9557192325592041
+        },
+        {
+          "source_s": 11.37,
+          "target_s": 12.26,
+          "registration_shift_px": [
+            4.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -0.28270351984372155,
+            -1.5085800877483564
+          ],
+          "discrepancy_px": 4.540634682512197,
+          "registered_similarity": 0.8925742506980896
+        },
+        {
+          "source_s": 11.41,
+          "target_s": 12.3,
+          "registration_shift_px": [
+            6.0,
+            1.0
+          ],
+          "arc_center_delta_px": [
+            -0.8010150383832979,
+            -4.0506105876395395
+          ],
+          "discrepancy_px": 8.471273390718327,
+          "registered_similarity": 0.9372260570526123
+        },
+        {
+          "source_s": 11.45,
+          "target_s": 12.34,
+          "registration_shift_px": [
+            9.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -1.3193265569228743,
+            -6.592641087530666
+          ],
+          "discrepancy_px": 12.245465164599148,
+          "registered_similarity": 0.8844083547592163
+        }
+      ]
+    },
+    {
+      "recording": "222403",
+      "anchor_s": 0.45,
+      "lag_s": 0.28000000000000014,
+      "median_discrepancy_px": 4.678524961745785,
+      "details": [
+        {
+          "source_s": 0.35,
+          "target_s": 0.6300000000000001,
+          "registration_shift_px": [
+            -11.0,
+            4.0
+          ],
+          "arc_center_delta_px": [
+            -12.569955854032969,
+            2.0051634102990192
+          ],
+          "discrepancy_px": 2.5385299689430942,
+          "registered_similarity": 0.955125629901886
+        },
+        {
+          "source_s": 0.39,
+          "target_s": 0.6700000000000002,
+          "registration_shift_px": [
+            -12.0,
+            4.0
+          ],
+          "arc_center_delta_px": [
+            -12.391292111257485,
+            1.414565114769431
+          ],
+          "discrepancy_px": 2.6148772556469155,
+          "registered_similarity": 0.9676612019538879
+        },
+        {
+          "source_s": 0.43,
+          "target_s": 0.7100000000000002,
+          "registration_shift_px": [
+            -8.0,
+            2.0
+          ],
+          "arc_center_delta_px": [
+            -12.015867968764951,
+            0.5328087904724725
+          ],
+          "discrepancy_px": 4.275493607510971,
+          "registered_similarity": 0.9696512818336487
+        },
+        {
+          "source_s": 0.47000000000000003,
+          "target_s": 0.7500000000000002,
+          "registration_shift_px": [
+            -7.0,
+            -2.0
+          ],
+          "arc_center_delta_px": [
+            -11.69619876901288,
+            -0.05888389981325304
+          ],
+          "discrepancy_px": 5.081556315980598,
+          "registered_similarity": 0.9208811521530151
+        },
+        {
+          "source_s": 0.51,
+          "target_s": 0.7900000000000001,
+          "registration_shift_px": [
+            -5.0,
+            0.0
+          ],
+          "arc_center_delta_px": [
+            -10.68006983309408,
+            -1.0855643499060363
+          ],
+          "discrepancy_px": 5.782875000085367,
+          "registered_similarity": 0.9719535708427429
+        },
+        {
+          "source_s": 0.55,
+          "target_s": 0.8300000000000002,
+          "registration_shift_px": [
+            -4.0,
+            -1.0
+          ],
+          "arc_center_delta_px": [
+            -9.66394089717528,
+            -2.1122447999988196
+          ],
+          "discrepancy_px": 5.772115295263871,
+          "registered_similarity": 0.9723584651947021
+        }
+      ]
+    }
+  ],
+  "source_sha256": {
+    "g1_spin/outputs/real_222403/qc/circle_fits.csv": "8cd48ba3bfde7bd15539f7692e336399b72b098e1599e0866e488a465ee53116",
+    "g1_spin/experiments/disk_recheck_20261113/recurrence.json": "995a26c81f2fd104a9b39d48cf674abf86986656f2861c08fb5bd7a900b60219",
+    "g1_spin/experiments/disk_recheck_20261113/high_motion_recurrence/recurrence.json": "5a97896fb5350594e01a628ee344832c28f38c01f6ba7b132316e59c22c26a16",
+    "g1_spin/outputs/real_222403/qc/outline.py": "6b9b07cf0eaa0119b5f624d6419cd6df83c8daffc11b0aca12cc64b9c4c0c64b"
+  },
+  "interpretation": "Registration can absorb phase mismatch. Uncertain 100ms arc centers are not truth; discrepancy does not establish true RPM or center error."
+}

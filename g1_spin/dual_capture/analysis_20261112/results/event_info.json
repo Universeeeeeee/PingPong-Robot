@@ -1,0 +1,12 @@
+{
+  "width": 1280,
+  "height": 720,
+  "timestamp_unit": "us",
+  "source": "/home/pingpong1/g1_spin/data/raw/DSP03F100025_20261112_224226.raw",
+  "synthetic": null,
+  "sdk_index_start_us": 128499400,
+  "sdk_index_end_us": 182563853,
+  "sdk_indexed_events": 1008428197,
+  "decoder": "official dvsense_driver 1.3.0 RawFileReader",
+  "completeness": "SDK-decoded CD events; real G1 RAW acceptance pending; see docs/sdk_validation.md"
+}

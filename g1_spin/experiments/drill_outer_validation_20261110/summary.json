@@ -1,0 +1,162 @@
+[
+  {
+    "run": 1,
+    "condition": "rotation",
+    "lane": "old",
+    "planned": 4,
+    "valid": 3,
+    "paired": 3,
+    "rpm_median": 255.70508260641944,
+    "reference_abs_deviation_paired_mean": 10.50567570335925,
+    "shaft_projection_paired_median_deg": 6.760437961193645,
+    "shaft_count": 1,
+    "axis_spread_paired_median_deg": 5.684170744410182,
+    "reasons": {
+      "geometry_unavailable": 1
+    }
+  },
+  {
+    "run": 1,
+    "condition": "rotation",
+    "lane": "new",
+    "planned": 4,
+    "valid": 3,
+    "paired": 3,
+    "rpm_median": 260.7670982767883,
+    "reference_abs_deviation_paired_mean": 13.582584133299179,
+    "shaft_projection_paired_median_deg": 2.4801162370783802,
+    "shaft_count": 1,
+    "axis_spread_paired_median_deg": 2.7070807100890164,
+    "reasons": {
+      "geometry_unavailable": 1
+    }
+  },
+  {
+    "run": 3,
+    "condition": "rotation",
+    "lane": "old",
+    "planned": 4,
+    "valid": 2,
+    "paired": 2,
+    "rpm_median": 268.23441800931704,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": 8.361244895576029,
+    "shaft_count": 1,
+    "axis_spread_paired_median_deg": 1.0279295320283115,
+    "reasons": {
+      "geometry_unavailable": 2
+    }
+  },
+  {
+    "run": 3,
+    "condition": "rotation",
+    "lane": "new",
+    "planned": 4,
+    "valid": 2,
+    "paired": 2,
+    "rpm_median": 264.4396714005906,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": 8.361244895576029,
+    "shaft_count": 1,
+    "axis_spread_paired_median_deg": 1.0614238234798616,
+    "reasons": {
+      "geometry_unavailable": 2
+    }
+  },
+  {
+    "run": 4,
+    "condition": "rotation",
+    "lane": "old",
+    "planned": 4,
+    "valid": 3,
+    "paired": 3,
+    "rpm_median": 250.80188454810093,
+    "reference_abs_deviation_paired_mean": 16.49357909072417,
+    "shaft_projection_paired_median_deg": 3.4051990988155834,
+    "shaft_count": 3,
+    "axis_spread_paired_median_deg": 6.1245235100242965,
+    "reasons": {
+      "geometry_unavailable": 1
+    }
+  },
+  {
+    "run": 4,
+    "condition": "rotation",
+    "lane": "new",
+    "planned": 4,
+    "valid": 3,
+    "paired": 3,
+    "rpm_median": 254.17437442437225,
+    "reference_abs_deviation_paired_mean": 13.077345392380863,
+    "shaft_projection_paired_median_deg": 3.7469906015195487,
+    "shaft_count": 3,
+    "axis_spread_paired_median_deg": 3.9247728513451583,
+    "reasons": {
+      "geometry_unavailable": 1
+    }
+  },
+  {
+    "run": 5,
+    "condition": "translation",
+    "lane": "old",
+    "planned": 4,
+    "valid": 0,
+    "paired": 0,
+    "rpm_median": null,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": null,
+    "shaft_count": 0,
+    "axis_spread_paired_median_deg": null,
+    "reasons": {
+      "no_rotation_evidence": 4
+    }
+  },
+  {
+    "run": 5,
+    "condition": "translation",
+    "lane": "new",
+    "planned": 4,
+    "valid": 0,
+    "paired": 0,
+    "rpm_median": null,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": null,
+    "shaft_count": 0,
+    "axis_spread_paired_median_deg": null,
+    "reasons": {
+      "no_rotation_evidence": 4
+    }
+  },
+  {
+    "run": 5,
+    "condition": "static",
+    "lane": "old",
+    "planned": 2,
+    "valid": 0,
+    "paired": 0,
+    "rpm_median": null,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": null,
+    "shaft_count": 0,
+    "axis_spread_paired_median_deg": null,
+    "reasons": {
+      "insufficient_events": 2
+    }
+  },
+  {
+    "run": 5,
+    "condition": "static",
+    "lane": "new",
+    "planned": 2,
+    "valid": 0,
+    "paired": 0,
+    "rpm_median": null,
+    "reference_abs_deviation_paired_mean": null,
+    "shaft_projection_paired_median_deg": null,
+    "shaft_count": 0,
+    "axis_spread_paired_median_deg": null,
+    "reasons": {
+      "insufficient_events": 2
+    }
+  }
+]

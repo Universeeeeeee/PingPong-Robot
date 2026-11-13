@@ -1,0 +1,415 @@
+{
+  "result_rows": 88,
+  "prepared_inputs": 68,
+  "protected_hashes_unchanged": true,
+  "checks": [
+    {
+      "window": "run1_00835000",
+      "method": "baseline",
+      "event_count": 3584,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_00835000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_02235000",
+      "method": "baseline",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_02235000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_03635000",
+      "method": "baseline",
+      "event_count": 3850,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_03635000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_05665000",
+      "method": "baseline",
+      "event_count": 2939,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run1_05665000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_00865000",
+      "method": "baseline",
+      "event_count": 3282,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_00865000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_00935000",
+      "method": "baseline",
+      "event_count": 2616,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_00935000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_02065000",
+      "method": "baseline",
+      "event_count": 3211,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_02065000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_02135000",
+      "method": "baseline",
+      "event_count": 2909,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_02135000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_03465000",
+      "method": "baseline",
+      "event_count": 3627,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_03465000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_03535000",
+      "method": "baseline",
+      "event_count": 2970,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_03535000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_05265000",
+      "method": "baseline",
+      "event_count": 4139,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_05265000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_05335000",
+      "method": "baseline",
+      "event_count": 4805,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run2_05335000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_01465000",
+      "method": "baseline",
+      "event_count": 3991,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_01465000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_02665000",
+      "method": "baseline",
+      "event_count": 4948,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_02665000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_04335000",
+      "method": "baseline",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_04335000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_06265000",
+      "method": "baseline",
+      "event_count": 3062,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run3_06265000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_00935000",
+      "method": "baseline",
+      "event_count": 4202,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_00935000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_01665000",
+      "method": "baseline",
+      "event_count": 3878,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_01665000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_02465000",
+      "method": "baseline",
+      "event_count": 2606,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_02465000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_02535000",
+      "method": "baseline",
+      "event_count": 4398,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_02535000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_03265000",
+      "method": "baseline",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_03265000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_03335000",
+      "method": "baseline",
+      "event_count": 3387,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run4_03335000",
+      "method": "candidate",
+      "event_count": 5000,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04065000",
+      "method": "baseline",
+      "event_count": 437,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04065000",
+      "method": "candidate",
+      "event_count": 889,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04135000",
+      "method": "baseline",
+      "event_count": 986,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04135000",
+      "method": "candidate",
+      "event_count": 1957,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04465000",
+      "method": "baseline",
+      "event_count": 584,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04465000",
+      "method": "candidate",
+      "event_count": 1186,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04535000",
+      "method": "baseline",
+      "event_count": 413,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_04535000",
+      "method": "candidate",
+      "event_count": 916,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_05665000",
+      "method": "baseline",
+      "event_count": 935,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_05665000",
+      "method": "candidate",
+      "event_count": 1865,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_05735000",
+      "method": "baseline",
+      "event_count": 891,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_05735000",
+      "method": "candidate",
+      "event_count": 1770,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_06465000",
+      "method": "baseline",
+      "event_count": 1336,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_06465000",
+      "method": "candidate",
+      "event_count": 2541,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_06535000",
+      "method": "baseline",
+      "event_count": 1334,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_06535000",
+      "method": "candidate",
+      "event_count": 2490,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_00665000",
+      "method": "baseline",
+      "event_count": 14,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_00665000",
+      "method": "candidate",
+      "event_count": 29,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_01665000",
+      "method": "baseline",
+      "event_count": 23,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_01665000",
+      "method": "candidate",
+      "event_count": 41,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_02665000",
+      "method": "baseline",
+      "event_count": 14,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_02665000",
+      "method": "candidate",
+      "event_count": 38,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_03165000",
+      "method": "baseline",
+      "event_count": 13,
+      "raw_and_mask_and_center_verified": true
+    },
+    {
+      "window": "run5_03165000",
+      "method": "candidate",
+      "event_count": 38,
+      "raw_and_mask_and_center_verified": true
+    }
+  ]
+}

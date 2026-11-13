@@ -1,0 +1,92 @@
+[
+  {
+    "run": 1,
+    "end_us": 905000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "end_us": 2305000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "end_us": 3705000,
+    "condition": "rotation"
+  },
+  {
+    "run": 1,
+    "end_us": 5805000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "end_us": 1605000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "end_us": 2805000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "end_us": 4405000,
+    "condition": "rotation"
+  },
+  {
+    "run": 3,
+    "end_us": 6405000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "end_us": 1005000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "end_us": 1805000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "end_us": 2605000,
+    "condition": "rotation"
+  },
+  {
+    "run": 4,
+    "end_us": 3405000,
+    "condition": "rotation"
+  },
+  {
+    "run": 5,
+    "end_us": 4205000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "end_us": 4605000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "end_us": 5805000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "end_us": 6605000,
+    "condition": "translation"
+  },
+  {
+    "run": 5,
+    "end_us": 905000,
+    "condition": "static"
+  },
+  {
+    "run": 5,
+    "end_us": 2905000,
+    "condition": "static"
+  }
+]

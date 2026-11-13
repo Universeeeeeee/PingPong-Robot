@@ -1,0 +1,66 @@
+{
+  "candidates": {
+    "early_turn": {
+      "F1": [
+        565,
+        208
+      ],
+      "F2": [
+        595,
+        191
+      ],
+      "F3": [
+        525,
+        210
+      ]
+    },
+    "middle": {
+      "F1": [
+        540,
+        223
+      ],
+      "F2": [
+        581,
+        222
+      ],
+      "F3": [
+        550,
+        181
+      ]
+    },
+    "late": {
+      "F1": [
+        533,
+        220
+      ],
+      "F2": [
+        574,
+        193
+      ],
+      "F3": [
+        579,
+        236
+      ]
+    }
+  },
+  "meaning": "Human-reviewed local patch anchors, not geometric centers or physical Marker identities",
+  "basis": {
+    "early_turn": {
+      "F1": "central split-polarity structure",
+      "F2": "upper-right mixed structure, overlap stress",
+      "F3": "left separate small structure"
+    },
+    "middle": {
+      "F1": "lower-left structure",
+      "F2": "lower-right structure",
+      "F3": "upper thin arc stress"
+    },
+    "late": {
+      "F1": "left lower structure",
+      "F2": "upper-right structure",
+      "F3": "lower near-occlusion stress"
+    }
+  },
+  "patch_size": 27,
+  "review": "Parent reviewed all three complete 5ms contact sheets and froze all nine proposals before tracking"
+}

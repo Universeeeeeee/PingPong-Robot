@@ -1,0 +1,29 @@
+[
+  {
+    "condition": "rotation",
+    "variant": "baseline10",
+    "planned": 1,
+    "valid": 1,
+    "valid_fraction": 1.0,
+    "rpm_median": 240.83460737928175,
+    "failures": {}
+  },
+  {
+    "condition": "rotation",
+    "variant": "smooth20_fallback",
+    "planned": 1,
+    "valid": 1,
+    "valid_fraction": 1.0,
+    "rpm_median": 264.19517525782135,
+    "failures": {}
+  },
+  {
+    "condition": "rotation",
+    "variant": "outer20_fallback",
+    "planned": 1,
+    "valid": 1,
+    "valid_fraction": 1.0,
+    "rpm_median": 256.6056820403685,
+    "failures": {}
+  }
+]

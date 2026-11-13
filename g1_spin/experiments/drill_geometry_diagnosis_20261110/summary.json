@@ -1,0 +1,174 @@
+{
+  "factorial": [
+    {
+      "window_ms": 10,
+      "method": "fixed",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 281.84219057421666,
+      "shaft_projection_median_deg": 0.23504443382237955,
+      "angles_deg": [
+        0.25214618597605565,
+        0.20503903184885355,
+        0.21794268166870343,
+        0.9904148561533174
+      ]
+    },
+    {
+      "window_ms": 10,
+      "method": "linear",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 244.79230064335394,
+      "shaft_projection_median_deg": 5.076349878665561,
+      "angles_deg": [
+        6.362370094789387,
+        0.9123421677619074,
+        3.790329662541735,
+        10.067288653519427
+      ]
+    },
+    {
+      "window_ms": 10,
+      "method": "median3",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 264.0743539420142,
+      "shaft_projection_median_deg": 2.3141055136572346,
+      "angles_deg": [
+        6.066221514009746,
+        0.9123421677619074,
+        0.693579972985608,
+        3.715868859552562
+      ]
+    },
+    {
+      "window_ms": 20,
+      "method": "fixed",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 285.2046434137336,
+      "shaft_projection_median_deg": 1.1777816303135618,
+      "angles_deg": [
+        0.451954948822986,
+        1.8485964448237744,
+        2.5237130014543516,
+        0.5069668158033489
+      ]
+    },
+    {
+      "window_ms": 20,
+      "method": "linear",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 270.7560747090039,
+      "shaft_projection_median_deg": 2.2700524559825035,
+      "angles_deg": [
+        2.8313405528457953,
+        1.7087643591192117,
+        12.52174199046666,
+        0.20270714026119796
+      ]
+    },
+    {
+      "window_ms": 20,
+      "method": "median3",
+      "valid": 4,
+      "planned": 4,
+      "rpm_median": 263.8456890329252,
+      "shaft_projection_median_deg": 2.649696808513429,
+      "angles_deg": [
+        2.7794471658074644,
+        1.7087643591192117,
+        5.635160896676825,
+        2.5199464512193943
+      ]
+    }
+  ],
+  "shaft_reference_temporal_checks": [
+    {
+      "end_us": 1465000,
+      "first_last_angle_deg": 0.5862521730906132
+    },
+    {
+      "end_us": 2665000,
+      "first_last_angle_deg": 0.2481368193621776
+    },
+    {
+      "end_us": 4335000,
+      "first_last_angle_deg": 0.6659793403081637
+    },
+    {
+      "end_us": 6265000,
+      "first_last_angle_deg": 1.2886513455386146
+    }
+  ],
+  "routing": [
+    {
+      "run": 1,
+      "condition": "rotation",
+      "planned": 8,
+      "valid": 5,
+      "routes": {
+        "geometry_unavailable": 3,
+        "20ms_median3": 4,
+        "10ms_fixed_fallback": 1
+      },
+      "reference_abs_deviation_mean_rpm": 5.4191785297759
+    },
+    {
+      "run": 2,
+      "condition": "rotation",
+      "planned": 8,
+      "valid": 8,
+      "routes": {
+        "20ms_median3": 8
+      },
+      "reference_abs_deviation_mean_rpm": null
+    },
+    {
+      "run": 3,
+      "condition": "rotation",
+      "planned": 8,
+      "valid": 4,
+      "routes": {
+        "20ms_median3": 4,
+        "geometry_unavailable": 4
+      },
+      "reference_abs_deviation_mean_rpm": null
+    },
+    {
+      "run": 4,
+      "condition": "rotation",
+      "planned": 8,
+      "valid": 7,
+      "routes": {
+        "10ms_fixed_fallback": 1,
+        "20ms_median3": 6,
+        "geometry_unavailable": 1
+      },
+      "reference_abs_deviation_mean_rpm": 12.697503961795443
+    },
+    {
+      "run": 5,
+      "condition": "translation",
+      "planned": 8,
+      "valid": 0,
+      "routes": {
+        "20ms_median3": 8
+      },
+      "reference_abs_deviation_mean_rpm": null
+    },
+    {
+      "run": 5,
+      "condition": "static",
+      "planned": 4,
+      "valid": 0,
+      "routes": {
+        "20ms_median3": 4
+      },
+      "reference_abs_deviation_mean_rpm": null
+    }
+  ],
+  "decision": "Geometry fallback is reproducible; tilted-axis issue remains; do not promote default"
+}

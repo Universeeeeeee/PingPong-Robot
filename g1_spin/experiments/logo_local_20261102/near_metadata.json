@@ -1,0 +1,18 @@
+{
+  "protocol_sha256": "554d1623adf2597bb4919f242db99785b5ba9dfdeb63b27036ce44c6393785cf",
+  "script_sha256": "849c037e31959ed2ea46af99def2046b5fd811d736c26e6ac89b4356c56ed34f",
+  "reused_exploratory_script_sha256": "49292468b666817df829496fb2dda3c8afa2842048e6ceebc824894f81e96c1d",
+  "existing_exploratory_observations_sha256": "74c1962bb7349778ec10c865d2a902daaed72233fdfc06ee00c6b73f346d1aa7",
+  "original_three_observations_unchanged": true,
+  "rows": 70,
+  "seeds": {
+    "N1": [
+      588,
+      190
+    ],
+    "N2": [
+      576,
+      237
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "status": "none",
+  "selected_combination": null,
+  "combinations": [
+    {
+      "representation": "R_all",
+      "model_kind": "M_time",
+      "qualified": false,
+      "windows": [
+        {
+          "case": "run1_01495000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        },
+        {
+          "case": "run2_02095000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        }
+      ]
+    },
+    {
+      "representation": "R_all",
+      "model_kind": "M_spatial",
+      "qualified": false,
+      "windows": [
+        {
+          "case": "run1_01495000",
+          "T_global_sufficient": true,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        },
+        {
+          "case": "run2_02095000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        }
+      ]
+    },
+    {
+      "representation": "R_latest",
+      "model_kind": "M_time",
+      "qualified": false,
+      "windows": [
+        {
+          "case": "run1_01495000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        },
+        {
+          "case": "run2_02095000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        }
+      ]
+    },
+    {
+      "representation": "R_latest",
+      "model_kind": "M_spatial",
+      "qualified": false,
+      "windows": [
+        {
+          "case": "run1_01495000",
+          "T_global_sufficient": true,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        },
+        {
+          "case": "run2_02095000",
+          "T_global_sufficient": false,
+          "supported_nonzero_patches": 0,
+          "qualified": false
+        }
+      ]
+    }
+  ],
+  "reason": "Neither rotation development window has>=3 spatial patches with heldout/permutation-supported nonzero motion; run2 also lacks12 T-qualified constraints for every combination.",
+  "H_future_never_filtered_global_constraints": true,
+  "negative_support_lack_not_success": true,
+  "confirmation_evaluated": false,
+  "regression108_run": false,
+  "prospective_action": "Astra checkpoint decides fixed confirmation accounting; no new patch, parameter or representation selection."
+}

@@ -1,0 +1,34 @@
+{
+  "inputs": {
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0007.npy": "513f2a7308addcb41b8d7347a9630235c65e5467562171a06a17592bc523f0fe",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0008.npy": "35d75af63b801abff5275f1f122c2c4afd0b1f63686d59c88cb7ebd694b900e4",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/validation/pre_capture_20261112/artifacts/regression_inputs/run3/geometry.csv": "efa228d6b8f8224c147fdc5f2f2f03f11101ad49d1747b073e786cc4d843b741",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0005.npy": "7027dbc68cc306964c0e276c476ac0a1591ed68cdf16b73ee5f397e4a95ac652",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0000.npy": "07f8a1167493eb269ebbac1500f9ac0744c20bf71a33810cf2a56437f0dc0fa4",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0004.npy": "71ab28e056a3e37f114b276dbbc46ef5b8e13c97645a3ea6a0a3c1d112229438",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0009.npy": "f39a67c77277dc1384373423f43c7142b30098e3436ff473cd06820a258096c8",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/manifest.json": "07e8d1ec20ffef37f3d3217b042e8e9ad34d509ae110ff8fb0bcd03682f8c912",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0001.npy": "1ca8a9bc9d305010e97b4a29170f0e997cba55a44880ae707de6334510b0e6ec",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0006.npy": "d7e3dd893a2d12ca2383afe2151adac81b8cbc5738c3a4a000af50074da2240c",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0003.npy": "33dc9ea417ab655b5ca902f96314e5344baca322f1d463138458ac8b069dab77",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0002.npy": "84a18df3ce034a81aed1e424a2ed1e9e3fc78a0e66a2b5c6ec2f7fc169bcaec9",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/validation/pre_capture_20261112/artifacts/regression_inputs/run3/evaluation.json": "c0cc8c34a002588313469012d8c5e8e424de92cb8f8ef28e52e86de312a2e525"
+  },
+  "code_lock": {
+    "version": "pre_capture_20261112_v1",
+    "files": {
+      "align_reference.py": "e77cfce30ca210b0bec2322a2846c34e0a5785b215398f0f737a18a2d168b858",
+      "common.py": "314063c0f2d7720783719033772a8cf06101d52a3cb48ec914497def5c06f2ad",
+      "evaluate.py": "e2fcb1943df16c28110c3caa49ec985d2cc7f97e6ae33244452aa73ab072d2a0",
+      "frozen/cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+      "frozen/contour.py": "ea020d090e8cbd82f4a899fb7a9bcabf03622caf7719f24ccab6d10bb42dd30e",
+      "frozen/geometry.py": "601a464c3ef7215713f68da8c602bd6231a1a57d53435895a0b9e953ffdbc202",
+      "frozen/policy.py": "a629a8697a5d81da80924dea864f43df84547e17605523e454a0d80cb51d93a7",
+      "sensitivity.py": "29e4a848db00675a1e4dac14c0ddc0def0eac13ebd8067ef4e1f5e49f5d0a853",
+      "sync.py": "2a4717c3f894b44db88a5adff895e728e7676e8b9338ded7689f02719bf50eb4",
+      "test_preflight.py": "78247e2a83a56841b3e6a6e27bd72e6e1a09cd63cea8f290d2241051ab6837c9"
+    }
+  },
+  "python": "3.12.16",
+  "numpy": "1.26.4"
+}

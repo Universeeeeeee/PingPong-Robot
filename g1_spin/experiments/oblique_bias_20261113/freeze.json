@@ -1,0 +1,14 @@
+{
+  "g1_spin/experiments/oblique_bias_20261113/run.py": "87e75803b733f47592243cbfd7ead9896fed9b028267bc1387362a536334c984",
+  "g1_spin/experiments/oblique_bias_20261113/protocol.md": "d8a0ab4fbf8e3b7d17264f568984f0ff84ad3a1a9807f68239bde58ed61e8f2a",
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+  "g1_spin/experiments/strategy_audit_20261113/axis1d/direct_axis.py": "65281b914c39f862337d176140b18698fa55c50afcf114c6e9e742a3ae2f8a8b",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_01425000.npz": "331aabbda609963831bca394e23a5f2150dab428e0de1be1b3ce45b190830d9c",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_01495000.npz": "5253dc65849171fc1d46e7a95d253328e06124094088ad1256d58c6d288ff8f5",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_01565000.npz": "b51c7cbfc204a798e08922e076352084ea6578fa919bb1d6e9ecfa23970eaed8",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_02625000.npz": "8f63e3489587a53ddfd1f58e87f6d669e31545b0360e39ccf439ca783cd17bab",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_02695000.npz": "8f9ee030eb9368e897f3f0218203614f471350ccc6cab41dd74ca67e5db1227e",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_04295000.npz": "c6d810f347ac03cb1fa0b4a593a3b2e145b0d57f1fddaac64700eec8532102f2",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_04365000.npz": "eaa20c79b92e822913886ff77409ef066dcd96c47016e68a721aa18ed3508b2d",
+  "g1_spin/experiments/drill_phase3_20261106/windows/run3_06225000.npz": "809ddf51416961f84a2fdda570b513d8b2e47fd89ab0d5622d66275dbd60a119"
+}

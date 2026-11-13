@@ -1,0 +1,22 @@
+{
+  "raw_file_first_seen_host_ns": 1222767189563373,
+  "nearest_callback": {
+    "stream": "stream.infrared_1",
+    "frame_number": 18463,
+    "sensor_timestamp_ms": 1794494546919.698,
+    "timestamp_domain": "timestamp_domain.global_time",
+    "host_monotonic_ns": 1222767189023669,
+    "metadata": {
+      "actual_exposure": 8500,
+      "gain_level": 64,
+      "frame_timestamp": 3275482042,
+      "sensor_timestamp": 3275477792,
+      "backend_timestamp": 1794494546920,
+      "time_of_arrival": 1794494546923,
+      "actual_fps": 89873,
+      "auto_exposure": 0
+    }
+  },
+  "corresponding_db_s": 205.443818693,
+  "note": "File detection time is a rough anchor, not optical synchronization. RAW start and write buffering are unmeasured."
+}

@@ -1,0 +1,13 @@
+{
+  "stage": "All T-only fits/bootstrap before H/future evaluation",
+  "records": 360,
+  "files": {
+    "pre_real_freeze.json": "b0d4dc1002ccbe9b512ad8295ff88705a8ff741d731b7782b3a6ab62bd42eb5b",
+    "train_real.py": "d55a08f394e66b6f3982055f44e834def0aa6b58c8eb0ca7135311abbe743708",
+    "models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "real/development_training.json": "1e7948a29f879f18842e85b3ba89cbca416b50840276e5dc8f0dd1e3dd3a6b8e",
+    "real/development_inputs.json": "8db0768943fd230885f25c5046151064596e6d93fab249c73cd0bb28a76b325d"
+  },
+  "real_evaluation_performed": false,
+  "trainer_read_scope": "Only T NPZ; no evaluation_only files, H/V IDs, residuals or labels opened"
+}

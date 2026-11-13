@@ -1,0 +1,3317 @@
+{
+  "status": "passed",
+  "S_three_full_chain_gates": [
+    {
+      "scene": "base",
+      "S_full_chain_passed": true,
+      "initial_error": {
+        "axis_error_deg": 0.0669882583824198,
+        "speed_relative_error": 0.0011002574275220667,
+        "omega_error_norm": 0.06008848517205678
+      },
+      "final_error": {
+        "axis_error_deg": 0.6816597596928066,
+        "speed_relative_error": 0.006675824094253047,
+        "omega_error_norm": 0.5117370099082834
+      }
+    },
+    {
+      "scene": "reverse",
+      "S_full_chain_passed": true,
+      "initial_error": {
+        "axis_error_deg": 0.12338058254636854,
+        "speed_relative_error": -0.001301408956832395,
+        "omega_error_norm": 0.09409914276112545
+      },
+      "final_error": {
+        "axis_error_deg": 0.7190131336182645,
+        "speed_relative_error": 0.006969615923875461,
+        "omega_error_norm": 0.5385285298117578
+      }
+    },
+    {
+      "scene": "second",
+      "S_full_chain_passed": true,
+      "initial_error": {
+        "axis_error_deg": 0.024485805905934393,
+        "speed_relative_error": -0.000515825271803716,
+        "omega_error_norm": 0.02506118163857259
+      },
+      "final_error": {
+        "axis_error_deg": 0.12001298680832666,
+        "speed_relative_error": -0.0002809036947868382,
+        "omega_error_norm": 0.07906426778656019
+      }
+    }
+  ],
+  "independent_max_root_residual": 8.193445921733655e-14,
+  "independent_integer_time_rounding_max_s": 4.99934145461664e-07,
+  "polarity_mismatches": 0,
+  "scenes": [
+    {
+      "scene": "base",
+      "truth_omega": [
+        10.0,
+        20.0,
+        30.0
+      ],
+      "truth_velocity": [
+        0.0,
+        0.0
+      ],
+      "physical_edge_plane_counts": {
+        "1": 93,
+        "2": 32,
+        "3": 42,
+        "4": 103,
+        "0": 16,
+        "5": 7
+      },
+      "minimum_plane_edge_purity": 1.0,
+      "local_holdout_time_RMS_us": {
+        "count": 293,
+        "median": 4.501176601914822,
+        "p95": 75.8277434637567,
+        "max": 295.52522722795555
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 293,
+        "median": 0.05431020726051222,
+        "p95": 0.5020225243064567,
+        "max": 1.8834851501301832
+      },
+      "zero_motion_heldout_baseline": [
+        {
+          "edge_id": 0,
+          "training_events": 199,
+          "holdout_events": 51,
+          "normal_learned_from_training_only": [
+            0.5810332994117899,
+            0.6879056212424132,
+            0.43495535545356667
+          ],
+          "residual_px": {
+            "count": 51,
+            "median": 1.585727847559782,
+            "p95": 3.512666309559104,
+            "max": 4.100582835051114
+          }
+        },
+        {
+          "edge_id": 1,
+          "training_events": 903,
+          "holdout_events": 226,
+          "normal_learned_from_training_only": [
+            0.35576680775031355,
+            0.7500668590514455,
+            0.5575210179498616
+          ],
+          "residual_px": {
+            "count": 226,
+            "median": 8.372363202368778,
+            "p95": 15.823220970102634,
+            "max": 17.994441381307052
+          }
+        },
+        {
+          "edge_id": 2,
+          "training_events": 299,
+          "holdout_events": 75,
+          "normal_learned_from_training_only": [
+            0.05732078223277451,
+            0.9784523889982681,
+            0.19835637218855523
+          ],
+          "residual_px": {
+            "count": 75,
+            "median": 2.3731615068367757,
+            "p95": 5.261465897274325,
+            "max": 6.5246530778068
+          }
+        },
+        {
+          "edge_id": 3,
+          "training_events": 406,
+          "holdout_events": 102,
+          "normal_learned_from_training_only": [
+            -0.7080745702893371,
+            0.5199984818971648,
+            -0.4777363098344263
+          ],
+          "residual_px": {
+            "count": 102,
+            "median": 4.108263348817454,
+            "p95": 9.022144551095897,
+            "max": 11.822682398622648
+          }
+        },
+        {
+          "edge_id": 4,
+          "training_events": 760,
+          "holdout_events": 192,
+          "normal_learned_from_training_only": [
+            0.6721512690870325,
+            0.48615851183020414,
+            0.5584465711594374
+          ],
+          "residual_px": {
+            "count": 192,
+            "median": 5.191348664963008,
+            "p95": 13.653307871613386,
+            "max": 16.410596582177043
+          }
+        },
+        {
+          "edge_id": 5,
+          "training_events": 88,
+          "holdout_events": 24,
+          "normal_learned_from_training_only": [
+            -0.2249960927126391,
+            -0.8530965318503665,
+            0.47074734795739637
+          ],
+          "residual_px": {
+            "count": 24,
+            "median": 1.1399411359066107,
+            "p95": 2.8400682106423445,
+            "max": 3.0146164153138653
+          }
+        }
+      ],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": 3.817262817703741,
+            "speed_relative_error": 0.09165358401747747,
+            "omega_error_norm": 4.306019287016326
+          },
+          "final_error": {
+            "axis_error_deg": 0.7098874507116172,
+            "speed_relative_error": 0.006682730893636579,
+            "omega_error_norm": 0.5280799464892183
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.49973889979322816,
+                -0.7809096051665718,
+                -0.3747548806780808
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.12245311755326846,
+                "p95": 0.22566904049515968,
+                "max": 0.2729105200785637
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9723922449572172,
+                -0.18668030604335537,
+                -0.14001351821385877
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.01881303975388983,
+                "p95": 0.06572393474541594,
+                "max": 0.08835347228091056
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.24637664685938912,
+                0.9656065385653823,
+                0.08308164997220772
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.04974938895669386,
+                "p95": 0.10866276915981472,
+                "max": 0.14259293584051622
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.5502783270528314,
+                0.6542651609732567,
+                -0.5187782396290112
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.04923296325400535,
+                "p95": 0.09582578096706214,
+                "max": 0.12577308527072784
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.911956839414925,
+                0.08416949667089693,
+                -0.40155973263576694
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.010978372790854049,
+                "p95": 0.047703640854885564,
+                "max": 0.06753586997181896
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.25898069723205924,
+                -0.8396154586054067,
+                0.4774671508407982
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.015368436290437722,
+                "p95": 0.073360635313217,
+                "max": 0.08236515842740225
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.5012164943731647,
+                -0.7792348540209018,
+                -0.3762646250277853
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.18089004808330333,
+                "p95": 0.5167773253076309,
+                "max": 0.6876728498018925
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9709779129525206,
+                -0.19134498349964804,
+                -0.1434886401353324
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.7814822690649889,
+                "p95": 1.535208852518888,
+                "max": 1.8242970373111826
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.24232359786769062,
+                0.9663815315528375,
+                0.08594189542970308
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 1.0241718670289208,
+                "p95": 1.925940933325014,
+                "max": 2.207156840906235
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.5496103658585607,
+                0.6547291062637428,
+                -0.5189009955202432
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.27902316861603915,
+                "p95": 0.7392855508076123,
+                "max": 0.902298423763608
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                0.9116797420758056,
+                -0.08324252594164155,
+                0.4023813238253574
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.7057440963869177,
+                "p95": 1.4117486766853273,
+                "max": 1.6689206451810952
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.25925633797755887,
+                0.8397913713031823,
+                -0.47700797048182136
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.7343837620857581,
+                "p95": 1.1193509767218182,
+                "max": 1.2890678852573167
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": 0.0669882583824198,
+            "speed_relative_error": 0.0011002574275220667,
+            "omega_error_norm": 0.06008848517205678
+          },
+          "final_error": {
+            "axis_error_deg": 0.6816597596928066,
+            "speed_relative_error": 0.006675824094253047,
+            "omega_error_norm": 0.5117370099082834
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.4997430524290675,
+                -0.7809045120141811,
+                -0.37475995605823714
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.11817793851817493,
+                "p95": 0.21743983901880634,
+                "max": 0.2630638774068318
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9723923094902319,
+                -0.18667990853543207,
+                -0.14001360003033997
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.021080041184098577,
+                "p95": 0.06756968919645853,
+                "max": 0.09036258088218482
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.24637220037403204,
+                0.9656077133154766,
+                0.08308118239718124
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.04910871006760566,
+                "p95": 0.10711656548404087,
+                "max": 0.13992395232505994
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.550281510016576,
+                0.6542612385755996,
+                -0.5187798101616898
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.046196516451626424,
+                "p95": 0.09073572402981978,
+                "max": 0.11982098740546887
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119564735645114,
+                0.0841656658360119,
+                -0.40156136644124746
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.008583160730221261,
+                "p95": 0.04176887774016744,
+                "max": 0.06034236773507077
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.2589676915119503,
+                -0.8396200072539414,
+                0.4774662063139784
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.014153446021972622,
+                "p95": 0.06969851472386257,
+                "max": 0.07845040528479966
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.4997590962982752,
+                -0.780866345578872,
+                -0.3748180838879427
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.00981901643675563,
+                "p95": 0.018531618723289248,
+                "max": 0.02279467007723939
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9723885234406926,
+                -0.18669365765939033,
+                -0.14002156144889988
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.007189504378879651,
+                "p95": 0.01584329092649915,
+                "max": 0.02073845923347417
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.2463291775185547,
+                0.9656226657901091,
+                0.08303495417856085
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.009957773390257961,
+                "p95": 0.0197520177801231,
+                "max": 0.024088036325584553
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.550306386331106,
+                0.6542109978058908,
+                -0.5188167802924459
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.00455817108973261,
+                "p95": 0.010199795007526607,
+                "max": 0.014040223872230561
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                0.9119583875390491,
+                -0.08411654601880451,
+                0.4015673120200949
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.0038106428094049063,
+                "p95": 0.01021070746810216,
+                "max": 0.012994087484105936
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.2586896580642447,
+                0.8397142569575493,
+                -0.47745117810393434
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.0028949601258028376,
+                "p95": 0.0070734992944808455,
+                "max": 0.007914017203071982
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": 0.7113255713620689,
+            "speed_relative_error": 0.0069693458608151015,
+            "omega_error_norm": 0.5341214881393662
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.49974377491152133,
+                -0.7809037142835314,
+                -0.3747606548923829
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.12227076255629223,
+                "p95": 0.2248741115658237,
+                "max": 0.27232513274213777
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9723925980074544,
+                -0.1866790989158937,
+                -0.140012675741389
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.02210045580723856,
+                "p95": 0.0705764914653116,
+                "max": 0.09439862796267227
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.24637424156044335,
+                0.9656070094364538,
+                0.08308331013329007
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.05316713595102546,
+                "p95": 0.11553813015502636,
+                "max": 0.14961955903018495
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.5502783581988209,
+                0.65426475465445,
+                -0.5187787190266798
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.049719745194787654,
+                "p95": 0.0970547359227339,
+                "max": 0.12785035228282923
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119559509242465,
+                0.08416744035408656,
+                -0.40156218143407646
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.009285154834472467,
+                "p95": 0.042548171047454494,
+                "max": 0.06198821711099718
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.2589652427886603,
+                -0.8396230153893717,
+                0.47746224463916453
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.013151276654123016,
+                "p95": 0.0686447736853568,
+                "max": 0.0775783623122742
+              }
+            }
+          ],
+          "initial_heldout_motion": null,
+          "terminal_reason": null
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": 0.06698825837697908,
+          "speed_relative_error": 0.0011002574275222887,
+          "omega_error_norm": 0.060088485172078945
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": 0.0669882583824198,
+          "speed_relative_error": 0.0011002574275220667,
+          "omega_error_norm": 0.06008848517205678
+        },
+        "raw_rhs_omega": [
+          9.996506153597865,
+          19.989996725185087,
+          30.059146881410356
+        ],
+        "compensated_refit_omega": [
+          9.996506153597865,
+          19.989996725185094,
+          30.059146881410335
+        ],
+        "raw_planes": 293,
+        "compensated_planes": 293,
+        "difference_norm": 2.2469334198890888e-14,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    },
+    {
+      "scene": "reverse",
+      "truth_omega": [
+        -10.0,
+        -20.0,
+        -30.0
+      ],
+      "truth_velocity": [
+        0.0,
+        0.0
+      ],
+      "physical_edge_plane_counts": {
+        "1": 109,
+        "2": 34,
+        "4": 78,
+        "3": 48,
+        "0": 15,
+        "5": 4
+      },
+      "minimum_plane_edge_purity": 1.0,
+      "local_holdout_time_RMS_us": {
+        "count": 288,
+        "median": 4.263439345016112,
+        "p95": 73.45427513077834,
+        "max": 233.95828996360382
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 288,
+        "median": 0.05358170425153662,
+        "p95": 0.459775526389701,
+        "max": 1.8254171467081584
+      },
+      "zero_motion_heldout_baseline": [
+        {
+          "edge_id": 0,
+          "training_events": 199,
+          "holdout_events": 51,
+          "normal_learned_from_training_only": [
+            0.5810332994117896,
+            0.6879056212424133,
+            0.43495535545356667
+          ],
+          "residual_px": {
+            "count": 51,
+            "median": 1.585727847559802,
+            "p95": 3.5126663095590773,
+            "max": 4.100582835051087
+          }
+        },
+        {
+          "edge_id": 1,
+          "training_events": 903,
+          "holdout_events": 226,
+          "normal_learned_from_training_only": [
+            -0.35576680775031344,
+            -0.7500668590514452,
+            -0.5575210179498625
+          ],
+          "residual_px": {
+            "count": 226,
+            "median": 8.372363202368675,
+            "p95": 15.823220970102572,
+            "max": 17.994441381306945
+          }
+        },
+        {
+          "edge_id": 2,
+          "training_events": 299,
+          "holdout_events": 75,
+          "normal_learned_from_training_only": [
+            -0.05732078223277432,
+            -0.9784523889982681,
+            -0.1983563721885553
+          ],
+          "residual_px": {
+            "count": 75,
+            "median": 2.3731615068367744,
+            "p95": 5.261465897274324,
+            "max": 6.524653077806805
+          }
+        },
+        {
+          "edge_id": 3,
+          "training_events": 406,
+          "holdout_events": 102,
+          "normal_learned_from_training_only": [
+            0.7080745702893354,
+            -0.5199984818971661,
+            0.4777363098344269
+          ],
+          "residual_px": {
+            "count": 102,
+            "median": 4.108263348817487,
+            "p95": 9.022144551095879,
+            "max": 11.8226823986226
+          }
+        },
+        {
+          "edge_id": 4,
+          "training_events": 760,
+          "holdout_events": 192,
+          "normal_learned_from_training_only": [
+            -0.6721512690870385,
+            -0.48615851183019876,
+            -0.558446571159435
+          ],
+          "residual_px": {
+            "count": 192,
+            "median": 5.1913486649629,
+            "p95": 13.653307871613404,
+            "max": 16.410596582177345
+          }
+        },
+        {
+          "edge_id": 5,
+          "training_events": 88,
+          "holdout_events": 24,
+          "normal_learned_from_training_only": [
+            0.22499609271263865,
+            0.8530965318503668,
+            -0.47074734795739637
+          ],
+          "residual_px": {
+            "count": 24,
+            "median": 1.1399411359066074,
+            "p95": 2.840068210642338,
+            "max": 3.0146164153138653
+          }
+        }
+      ],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": 3.336415704654171,
+            "speed_relative_error": 0.07380740847364109,
+            "omega_error_norm": 3.566896465711952
+          },
+          "final_error": {
+            "axis_error_deg": 0.7282748723243861,
+            "speed_relative_error": 0.0066459145598092295,
+            "omega_error_norm": 0.5380758661389251
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                0.4997368485949293,
+                0.780911119694271,
+                0.3747544600058132
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.12400365307719446,
+                "p95": 0.22866693150712444,
+                "max": 0.27672642284490834
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                -0.9723922346380133,
+                0.18668072476831749,
+                0.1400130315923005
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.017341303647053816,
+                "p95": 0.0639627301740694,
+                "max": 0.08631491521291401
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                -0.24637859249224978,
+                -0.9656059747119435,
+                -0.08308243353522501
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.05202888081400387,
+                "p95": 0.11327343665144954,
+                "max": 0.1477550784653444
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                0.5502771275025817,
+                -0.6542668285761101,
+                0.5187774088879222
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.05288881467769771,
+                "p95": 0.10196062972485202,
+                "max": 0.13288463321734767
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119566660532473,
+                0.08417089862144697,
+                -0.40155983248614896
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.012078689308668865,
+                "p95": 0.051076551088717795,
+                "max": 0.07184429222209826
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.25897507669969716,
+                0.8396192425390626,
+                -0.4774635454215502
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.014622245109040692,
+                "p95": 0.07145571198107906,
+                "max": 0.08039318006439078
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                0.5006941552382331,
+                0.7797582285069256,
+                0.37587560174346724
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.09980422907651643,
+                "p95": 0.3437889337869904,
+                "max": 0.46212288125177853
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                -0.9713527765911454,
+                0.19012565420517266,
+                0.14256934811426913
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.6374643598998806,
+                "p95": 1.2502622327216515,
+                "max": 1.4746267678886475
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                -0.24328672902679835,
+                -0.9662012864826695,
+                -0.0852445979442422
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.8734399588247248,
+                "p95": 1.662514266803497,
+                "max": 1.8801874264763923
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                0.5500307485851,
+                -0.6544104204657004,
+                0.5188575692777542
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.26956998103102103,
+                "p95": 0.6664796859257303,
+                "max": 0.8040282108696326
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9117823203990579,
+                0.0840008976569615,
+                -0.401991106121186
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.6027074402227126,
+                "p95": 1.1937624891959673,
+                "max": 1.3960672807288221
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.2582075940530682,
+                -0.8401948746282067,
+                0.4768662401783314
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.6628857632309364,
+                "p95": 1.0073335513275643,
+                "max": 1.1580649853958616
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": 0.12338058254636854,
+            "speed_relative_error": -0.001301408956832395,
+            "omega_error_norm": 0.09409914276112545
+          },
+          "final_error": {
+            "axis_error_deg": 0.7190131336182645,
+            "speed_relative_error": 0.006969615923875461,
+            "omega_error_norm": 0.5385285298117578
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                0.4997430441203507,
+                0.7809043222925649,
+                0.37476036246929234
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.12305164045979933,
+                "p95": 0.22636420072680252,
+                "max": 0.2741890016140962
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                -0.9723926000195985,
+                0.18667921845800595,
+                0.14001250238115584
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.021484840982493623,
+                "p95": 0.0700537412217106,
+                "max": 0.09386592671554621
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                -0.24637509298697827,
+                -0.965606765282901,
+                -0.08308362290818914
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.05437259774693348,
+                "p95": 0.1172687525540593,
+                "max": 0.15160447349133652
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                0.5502777569317134,
+                -0.6542655363400933,
+                0.5187783709676147
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.05104473728320215,
+                "p95": 0.09927748171912013,
+                "max": 0.13048111720947772
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119558966133171,
+                0.08416808528173961,
+                -0.40156216959794244
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.009393060586637258,
+                "p95": 0.04380211721638787,
+                "max": 0.06360897298009238
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.25896407275780564,
+                -0.8396240354159189,
+                0.47746108550601046
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.012879153903492258,
+                "p95": 0.06819442149768426,
+                "max": 0.07712538520829378
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                -0.4997678689460917,
+                -0.7808476064939176,
+                -0.374845424944472
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.024979056874675325,
+                "p95": 0.047633014935980496,
+                "max": 0.05546744244763983
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                0.9723880716756564,
+                -0.18669693170948853,
+                -0.14002033335612682
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.005580685609737434,
+                "p95": 0.015048425935602516,
+                "max": 0.01868776815576729
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                0.24632070055836724,
+                0.9656261767465517,
+                0.08301927040315828
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.0018183640473075722,
+                "p95": 0.00553967140595907,
+                "max": 0.011753123381917436
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                -0.5503094254128791,
+                0.6541995172340876,
+                -0.5188280331212198
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.0012649972042970419,
+                "p95": 0.00433348887917429,
+                "max": 0.006191466868817472
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119589522524614,
+                0.0841030405309488,
+                -0.4015688583294807
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.002830391954015004,
+                "p95": 0.008568333504555412,
+                "max": 0.011386934746679695
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.258555983469053,
+                -0.8397664793984603,
+                0.4774317369960508
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.014591199302495904,
+                "p95": 0.032865495653004784,
+                "max": 0.03552579896549627
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": 0.6852477087738569,
+            "speed_relative_error": 0.006706618403923947,
+            "omega_error_norm": 0.5143572111102412
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 199,
+              "holdout_events": 51,
+              "normal_learned_from_training_only": [
+                0.4997424919017334,
+                0.7809055845161014,
+                0.3747584686960547
+              ],
+              "residual_px": {
+                "count": 51,
+                "median": 0.11917587475864727,
+                "p95": 0.2193352413511987,
+                "max": 0.26526095485605367
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 903,
+              "holdout_events": 226,
+              "normal_learned_from_training_only": [
+                -0.9723923144132555,
+                0.18667981063339836,
+                0.1400136963725732
+              ],
+              "residual_px": {
+                "count": 226,
+                "median": 0.021132153540129674,
+                "p95": 0.06779659126546034,
+                "max": 0.09068870017027539
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 299,
+              "holdout_events": 75,
+              "normal_learned_from_training_only": [
+                -0.246373077796449,
+                -0.9656074977237409,
+                -0.08308108615563857
+              ],
+              "residual_px": {
+                "count": 75,
+                "median": 0.048633525479244565,
+                "p95": 0.10624856000677545,
+                "max": 0.13927040548873593
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 406,
+              "holdout_events": 102,
+              "normal_learned_from_training_only": [
+                0.5502807138259009,
+                -0.6542620947658417,
+                0.5187795749100669
+              ],
+              "residual_px": {
+                "count": 102,
+                "median": 0.04591730562759895,
+                "p95": 0.09035206292955336,
+                "max": 0.11940714993558066
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 760,
+              "holdout_events": 192,
+              "normal_learned_from_training_only": [
+                -0.9119566326882044,
+                0.08416644081558712,
+                -0.4015608426333769
+              ],
+              "residual_px": {
+                "count": 192,
+                "median": 0.008782441410690614,
+                "p95": 0.042445413391406145,
+                "max": 0.06111048049615034
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 88,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.2589740589987416,
+                0.839617177013995,
+                -0.47746772962030254
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 0.01479713011567833,
+                "p95": 0.07158438710608896,
+                "max": 0.08045396141734469
+              }
+            }
+          ],
+          "initial_heldout_motion": null,
+          "terminal_reason": null
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": 0.12338058254636854,
+          "speed_relative_error": -0.001301408956832395,
+          "omega_error_norm": 0.09409914276112545
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": 0.12338058254636854,
+          "speed_relative_error": -0.001301408956832395,
+          "omega_error_norm": 0.09409914276112545
+        },
+        "raw_rhs_omega": [
+          -9.955359523143551,
+          -20.039927560347074,
+          -29.92742130878048
+        ],
+        "compensated_refit_omega": [
+          -9.955359523143551,
+          -20.039927560347074,
+          -29.92742130878048
+        ],
+        "raw_planes": 288,
+        "compensated_planes": 288,
+        "difference_norm": 0.0,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    },
+    {
+      "scene": "second",
+      "truth_omega": [
+        -20.0,
+        30.0,
+        10.0
+      ],
+      "truth_velocity": [
+        0.0,
+        0.0
+      ],
+      "physical_edge_plane_counts": {
+        "2": 67,
+        "0": 61,
+        "1": 54,
+        "4": 58,
+        "5": 57
+      },
+      "minimum_plane_edge_purity": 1.0,
+      "local_holdout_time_RMS_us": {
+        "count": 297,
+        "median": 4.479430588262186,
+        "p95": 11.336461473653182,
+        "max": 21.100197775245743
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 297,
+        "median": 0.05085482696570087,
+        "p95": 0.13773963382779916,
+        "max": 0.3051933213711395
+      },
+      "zero_motion_heldout_baseline": [
+        {
+          "edge_id": 0,
+          "training_events": 679,
+          "holdout_events": 169,
+          "normal_learned_from_training_only": [
+            -0.06122645793198424,
+            -0.9970694679530301,
+            -0.04586716608822625
+          ],
+          "residual_px": {
+            "count": 169,
+            "median": 4.9944876419919835,
+            "p95": 12.896320057332058,
+            "max": 15.306863350532785
+          }
+        },
+        {
+          "edge_id": 1,
+          "training_events": 625,
+          "holdout_events": 156,
+          "normal_learned_from_training_only": [
+            0.7478392460928887,
+            -0.5316211564048423,
+            -0.3976372820372837
+          ],
+          "residual_px": {
+            "count": 156,
+            "median": 4.079556792721276,
+            "p95": 10.180463652148232,
+            "max": 13.239243713174599
+          }
+        },
+        {
+          "edge_id": 2,
+          "training_events": 724,
+          "holdout_events": 180,
+          "normal_learned_from_training_only": [
+            -0.22713616864732614,
+            0.9090147545805176,
+            0.3494300170951755
+          ],
+          "residual_px": {
+            "count": 180,
+            "median": 4.58844061004887,
+            "p95": 11.221369214112526,
+            "max": 13.427004359987166
+          }
+        },
+        {
+          "edge_id": 3,
+          "training_events": 58,
+          "holdout_events": 12,
+          "normal_learned_from_training_only": [
+            -0.5600457053749444,
+            0.6454088416175957,
+            -0.5194191323516242
+          ],
+          "residual_px": {
+            "count": 12,
+            "median": 0.8680324860371025,
+            "p95": 1.8601334190500642,
+            "max": 1.9462367676660834
+          }
+        },
+        {
+          "edge_id": 4,
+          "training_events": 875,
+          "holdout_events": 216,
+          "normal_learned_from_training_only": [
+            0.6988730692797465,
+            -0.7152018825516215,
+            -0.007918347688937816
+          ],
+          "residual_px": {
+            "count": 216,
+            "median": 6.0582307262283095,
+            "p95": 14.328352273915531,
+            "max": 17.559488787944236
+          }
+        },
+        {
+          "edge_id": 5,
+          "training_events": 848,
+          "holdout_events": 213,
+          "normal_learned_from_training_only": [
+            0.4349239336216422,
+            -0.8656905150829701,
+            0.24783281473295427
+          ],
+          "residual_px": {
+            "count": 213,
+            "median": 5.813070907796442,
+            "p95": 14.266867260322293,
+            "max": 18.34996854862816
+          }
+        }
+      ],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": 6.963690801686478,
+            "speed_relative_error": -0.0033654516569847637,
+            "omega_error_norm": 4.538879961355783
+          },
+          "final_error": {
+            "axis_error_deg": 0.10372720290776981,
+            "speed_relative_error": -2.157807751246299e-05,
+            "omega_error_norm": 0.06774233384114049
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 679,
+              "holdout_events": 169,
+              "normal_learned_from_training_only": [
+                0.499754323336693,
+                0.7808718210629322,
+                0.37481304056308445
+              ],
+              "residual_px": {
+                "count": 169,
+                "median": 0.005604850680232598,
+                "p95": 0.012918269022644422,
+                "max": 0.0183905391005281
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 625,
+              "holdout_events": 156,
+              "normal_learned_from_training_only": [
+                0.9723858131094756,
+                -0.18670901427763548,
+                -0.14001990733784078
+              ],
+              "residual_px": {
+                "count": 156,
+                "median": 0.003238436690240977,
+                "p95": 0.009610496344475227,
+                "max": 0.012771291052967303
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 724,
+              "holdout_events": 180,
+              "normal_learned_from_training_only": [
+                -0.24636361666008996,
+                -0.9656159918491946,
+                -0.08301038893570158
+              ],
+              "residual_px": {
+                "count": 180,
+                "median": 0.013841976255031349,
+                "p95": 0.026395230302097717,
+                "max": 0.03046067250813134
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 58,
+              "holdout_events": 12,
+              "normal_learned_from_training_only": [
+                0.5503759049473221,
+                -0.6541624817210719,
+                0.518804212359484
+              ],
+              "residual_px": {
+                "count": 12,
+                "median": 0.01968720545651531,
+                "p95": 0.026717294286015447,
+                "max": 0.02749858523443724
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 875,
+              "holdout_events": 216,
+              "normal_learned_from_training_only": [
+                0.9119566013780437,
+                -0.08411247957728596,
+                0.40157222013277905
+              ],
+              "residual_px": {
+                "count": 216,
+                "median": 0.003778405959992265,
+                "p95": 0.009791935413952981,
+                "max": 0.013646035996246992
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 848,
+              "holdout_events": 213,
+              "normal_learned_from_training_only": [
+                -0.25870860871123846,
+                -0.8397023860777492,
+                0.47746178757470253
+              ],
+              "residual_px": {
+                "count": 213,
+                "median": 0.007340174791334062,
+                "p95": 0.015189156346737811,
+                "max": 0.017181144879524057
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 679,
+              "holdout_events": 169,
+              "normal_learned_from_training_only": [
+                -0.5036476574129062,
+                -0.7773207065958105,
+                -0.3769768643827921
+              ],
+              "residual_px": {
+                "count": 169,
+                "median": 0.9831436113468504,
+                "p95": 1.9310640316456167,
+                "max": 2.2917774706559837
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 625,
+              "holdout_events": 156,
+              "normal_learned_from_training_only": [
+                0.9724689519520223,
+                -0.1862956277969228,
+                -0.13999313037819294
+              ],
+              "residual_px": {
+                "count": 156,
+                "median": 0.5011436333443404,
+                "p95": 1.094108944221433,
+                "max": 1.3582101631201358
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 724,
+              "holdout_events": 180,
+              "normal_learned_from_training_only": [
+                0.24618455369202136,
+                0.9656234907186815,
+                0.08345321860616563
+              ],
+              "residual_px": {
+                "count": 180,
+                "median": 0.29597392262532096,
+                "p95": 0.7869090731890148,
+                "max": 1.0139050983611384
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 58,
+              "holdout_events": 12,
+              "normal_learned_from_training_only": [
+                0.5489757428780256,
+                -0.6555741952272326,
+                0.5185056492302531
+              ],
+              "residual_px": {
+                "count": 12,
+                "median": 0.12925464861989053,
+                "p95": 0.37057713034972084,
+                "max": 0.4210823573324774
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 875,
+              "holdout_events": 216,
+              "normal_learned_from_training_only": [
+                0.9120159437831495,
+                -0.08362066382388651,
+                0.4015401634543972
+              ],
+              "residual_px": {
+                "count": 216,
+                "median": 0.1072069916576258,
+                "p95": 0.4016783698919693,
+                "max": 0.5675031367162658
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 848,
+              "holdout_events": 213,
+              "normal_learned_from_training_only": [
+                -0.2554646519700087,
+                -0.8412819728480927,
+                0.47642675591811984
+              ],
+              "residual_px": {
+                "count": 213,
+                "median": 0.2002973011435409,
+                "p95": 0.5417672619759872,
+                "max": 0.6623590391450015
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": 0.024485805905934393,
+            "speed_relative_error": -0.000515825271803716,
+            "omega_error_norm": 0.02506118163857259
+          },
+          "final_error": {
+            "axis_error_deg": 0.12001298680832666,
+            "speed_relative_error": -0.0002809036947868382,
+            "omega_error_norm": 0.07906426778656019
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 679,
+              "holdout_events": 169,
+              "normal_learned_from_training_only": [
+                0.49975202093904497,
+                0.7808740613928188,
+                0.3748114430099814
+              ],
+              "residual_px": {
+                "count": 169,
+                "median": 0.006197386098359219,
+                "p95": 0.014713630498109753,
+                "max": 0.021086173066854404
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 625,
+              "holdout_events": 156,
+              "normal_learned_from_training_only": [
+                0.9723868597825723,
+                -0.18670546144447292,
+                -0.1400173760252441
+              ],
+              "residual_px": {
+                "count": 156,
+                "median": 0.0015855339492082511,
+                "p95": 0.004361721632587861,
+                "max": 0.007342776937497617
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 724,
+              "holdout_events": 180,
+              "normal_learned_from_training_only": [
+                -0.2463700329634192,
+                -0.9656146821375167,
+                -0.08300658105274471
+              ],
+              "residual_px": {
+                "count": 180,
+                "median": 0.017409790274382685,
+                "p95": 0.033490588508311186,
+                "max": 0.03855789167971853
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 58,
+              "holdout_events": 12,
+              "normal_learned_from_training_only": [
+                0.5503754054861626,
+                -0.6541615428493799,
+                0.5188059260386884
+              ],
+              "residual_px": {
+                "count": 12,
+                "median": 0.02008757156353877,
+                "p95": 0.028912242229914065,
+                "max": 0.03003608997052452
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 875,
+              "holdout_events": 216,
+              "normal_learned_from_training_only": [
+                -0.9119564113755563,
+                0.08410559877300104,
+                -0.4015740927973966
+              ],
+              "residual_px": {
+                "count": 216,
+                "median": 0.001589812336584296,
+                "p95": 0.005459896596468501,
+                "max": 0.008913390500079763
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 848,
+              "holdout_events": 213,
+              "normal_learned_from_training_only": [
+                -0.258711015158437,
+                -0.8397013178744598,
+                0.4774623622816637
+              ],
+              "residual_px": {
+                "count": 213,
+                "median": 0.009149394030305326,
+                "p95": 0.019537384599047285,
+                "max": 0.02124791424097792
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 679,
+              "holdout_events": 169,
+              "normal_learned_from_training_only": [
+                -0.49975952694632253,
+                -0.78086698167051,
+                -0.37481618450004994
+              ],
+              "residual_px": {
+                "count": 169,
+                "median": 0.006710296647469719,
+                "p95": 0.013089284911919196,
+                "max": 0.014716295206025512
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 625,
+              "holdout_events": 156,
+              "normal_learned_from_training_only": [
+                -0.9723868911430388,
+                0.1866980056647531,
+                0.14002709956997536
+              ],
+              "residual_px": {
+                "count": 156,
+                "median": 0.0032078047876953116,
+                "p95": 0.007083519894568895,
+                "max": 0.0075318044202411245
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 724,
+              "holdout_events": 180,
+              "normal_learned_from_training_only": [
+                -0.24633178234834166,
+                -0.965622667368798,
+                -0.0830272080022992
+              ],
+              "residual_px": {
+                "count": 180,
+                "median": 0.0014605412476235162,
+                "p95": 0.0036484206959271283,
+                "max": 0.0050932276816640235
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 58,
+              "holdout_events": 12,
+              "normal_learned_from_training_only": [
+                -0.5502929348052078,
+                0.6542180816328103,
+                -0.5188221155349461
+              ],
+              "residual_px": {
+                "count": 12,
+                "median": 0.003013699408018877,
+                "p95": 0.004095193126694678,
+                "max": 0.0045120702484283464
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 875,
+              "holdout_events": 216,
+              "normal_learned_from_training_only": [
+                -0.9119613422452301,
+                0.08411000971455991,
+                -0.4015619709535442
+              ],
+              "residual_px": {
+                "count": 216,
+                "median": 0.005429135174061204,
+                "p95": 0.010729712820193287,
+                "max": 0.012395802709413845
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 848,
+              "holdout_events": 213,
+              "normal_learned_from_training_only": [
+                -0.2586976881524262,
+                -0.8397087868240266,
+                0.47745644772598017
+              ],
+              "residual_px": {
+                "count": 213,
+                "median": 0.003918149101879046,
+                "p95": 0.007756823919032873,
+                "max": 0.009318401071771119
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": 0.08821843366135067,
+            "speed_relative_error": -0.00023807052461966016,
+            "omega_error_norm": 0.058288193527996204
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 679,
+              "holdout_events": 169,
+              "normal_learned_from_training_only": [
+                0.4997562901557911,
+                0.7808709810132386,
+                0.37481216824049685
+              ],
+              "residual_px": {
+                "count": 169,
+                "median": 0.001901162314497502,
+                "p95": 0.006190096930786286,
+                "max": 0.00979287933575506
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 625,
+              "holdout_events": 156,
+              "normal_learned_from_training_only": [
+                0.972385647516645,
+                -0.18670856236931455,
+                -0.14002165990166904
+              ],
+              "residual_px": {
+                "count": 156,
+                "median": 0.0026891047218431004,
+                "p95": 0.007729026427194149,
+                "max": 0.01018831972239164
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 724,
+              "holdout_events": 180,
+              "normal_learned_from_training_only": [
+                -0.24636137229621682,
+                -0.9656163574577613,
+                -0.08301279690704402
+              ],
+              "residual_px": {
+                "count": 180,
+                "median": 0.01383764668993934,
+                "p95": 0.02597702877399146,
+                "max": 0.029666820959239976
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 58,
+              "holdout_events": 12,
+              "normal_learned_from_training_only": [
+                0.5503702225846289,
+                -0.6541670396450432,
+                0.5188044933635276
+              ],
+              "residual_px": {
+                "count": 12,
+                "median": 0.017991273942384697,
+                "p95": 0.024318026338958017,
+                "max": 0.02497302325897663
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 875,
+              "holdout_events": 216,
+              "normal_learned_from_training_only": [
+                0.9119575021986739,
+                -0.08411202389240262,
+                0.4015702698411324
+              ],
+              "residual_px": {
+                "count": 216,
+                "median": 0.0018492343126340874,
+                "p95": 0.006164047609733426,
+                "max": 0.008948671563579152
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 848,
+              "holdout_events": 213,
+              "normal_learned_from_training_only": [
+                -0.2587060542773434,
+                -0.8397044106076705,
+                0.4774596111570836
+              ],
+              "residual_px": {
+                "count": 213,
+                "median": 0.009077012193685226,
+                "p95": 0.01822930966203283,
+                "max": 0.02048826976451666
+              }
+            }
+          ],
+          "initial_heldout_motion": null,
+          "terminal_reason": null
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": 0.024485805935703864,
+          "speed_relative_error": -0.0005158252718036049,
+          "omega_error_norm": 0.02506118163857165
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": 0.024485805905934393,
+          "speed_relative_error": -0.000515825271803716,
+          "omega_error_norm": 0.02506118163857259
+        },
+        "raw_rhs_omega": [
+          -19.993375634440973,
+          29.977444833956408,
+          10.008685913354844
+        ],
+        "compensated_refit_omega": [
+          -19.99337563444097,
+          29.977444833956408,
+          10.008685913354844
+        ],
+        "raw_planes": 297,
+        "compensated_planes": 297,
+        "difference_norm": 3.552713678800501e-15,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    },
+    {
+      "scene": "zero",
+      "truth_omega": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "truth_velocity": [
+        0.0,
+        0.0
+      ],
+      "physical_edge_plane_counts": {},
+      "minimum_plane_edge_purity": null,
+      "local_holdout_time_RMS_us": {
+        "count": 0,
+        "median": null,
+        "p95": null,
+        "max": null
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 0,
+        "median": null,
+        "p95": null,
+        "max": null
+      },
+      "zero_motion_heldout_baseline": [],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": 0.0
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": [],
+          "terminal_reason": "insufficient_flow_constraints"
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": 0.0
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": [],
+          "terminal_reason": "insufficient_flow_constraints"
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": null,
+          "terminal_reason": "insufficient_events"
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": null,
+          "speed_relative_error": null,
+          "omega_error_norm": 0.0
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": null,
+          "speed_relative_error": null,
+          "omega_error_norm": 0.0
+        },
+        "raw_rhs_omega": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "compensated_refit_omega": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "raw_planes": 0,
+        "compensated_planes": 0,
+        "difference_norm": 0.0,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    },
+    {
+      "scene": "translation",
+      "truth_omega": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "truth_velocity": [
+        400.0,
+        -300.0
+      ],
+      "physical_edge_plane_counts": {},
+      "minimum_plane_edge_purity": null,
+      "local_holdout_time_RMS_us": {
+        "count": 0,
+        "median": null,
+        "p95": null,
+        "max": null
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 0,
+        "median": null,
+        "p95": null,
+        "max": null
+      },
+      "zero_motion_heldout_baseline": [
+        {
+          "edge_id": 0,
+          "training_events": 18,
+          "holdout_events": 3,
+          "normal_learned_from_training_only": [
+            0.49975594687762714,
+            0.7808689250613007,
+            0.3748169092157603
+          ],
+          "residual_px": {
+            "count": 3,
+            "median": 2.967020471965291e-05,
+            "p95": 5.0035031506255325e-05,
+            "max": 5.229779003810004e-05
+          }
+        },
+        {
+          "edge_id": 1,
+          "training_events": 104,
+          "holdout_events": 24,
+          "normal_learned_from_training_only": [
+            -0.9723871983747652,
+            0.18669864907120703,
+            0.14002410818091826
+          ],
+          "residual_px": {
+            "count": 24,
+            "median": 6.777804281050669e-05,
+            "p95": 0.00019186520182207153,
+            "max": 0.00023450969794870194
+          }
+        },
+        {
+          "edge_id": 2,
+          "training_events": 48,
+          "holdout_events": 13,
+          "normal_learned_from_training_only": [
+            -0.24633144444973162,
+            -0.9656228754685495,
+            -0.08302579025313923
+          ],
+          "residual_px": {
+            "count": 13,
+            "median": 8.351219208914446e-05,
+            "p95": 0.00011257166446358153,
+            "max": 0.00011680050855331864
+          }
+        },
+        {
+          "edge_id": 3,
+          "training_events": 128,
+          "holdout_events": 30,
+          "normal_learned_from_training_only": [
+            0.550305560065959,
+            -0.6542090622187519,
+            0.5188200974050182
+          ],
+          "residual_px": {
+            "count": 30,
+            "median": 0.00013394876424242222,
+            "p95": 0.0002672397948804054,
+            "max": 0.0002868397686474045
+          }
+        },
+        {
+          "edge_id": 4,
+          "training_events": 89,
+          "holdout_events": 24,
+          "normal_learned_from_training_only": [
+            0.9119598458911204,
+            -0.08411264549529447,
+            0.40156481712175285
+          ],
+          "residual_px": {
+            "count": 24,
+            "median": 7.888196178290353e-05,
+            "p95": 0.0001687333713818319,
+            "max": 0.00017647062193858383
+          }
+        },
+        {
+          "edge_id": 5,
+          "training_events": 38,
+          "holdout_events": 5,
+          "normal_learned_from_training_only": [
+            0.2586967602128897,
+            0.8397074348948851,
+            -0.4774593281501648
+          ],
+          "residual_px": {
+            "count": 5,
+            "median": 5.368410430298493e-05,
+            "p95": 7.1260825336809e-05,
+            "max": 7.486954908249297e-05
+          }
+        }
+      ],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": 0.0
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 18,
+              "holdout_events": 3,
+              "normal_learned_from_training_only": [
+                0.49975594687762714,
+                0.7808689250613007,
+                0.3748169092157603
+              ],
+              "residual_px": {
+                "count": 3,
+                "median": 2.967020471965291e-05,
+                "p95": 5.0035031506255325e-05,
+                "max": 5.229779003810004e-05
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 104,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.9723871983747652,
+                0.18669864907120703,
+                0.14002410818091826
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 6.777804281050669e-05,
+                "p95": 0.00019186520182207153,
+                "max": 0.00023450969794870194
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 48,
+              "holdout_events": 13,
+              "normal_learned_from_training_only": [
+                -0.24633144444973162,
+                -0.9656228754685495,
+                -0.08302579025313923
+              ],
+              "residual_px": {
+                "count": 13,
+                "median": 8.351219208914446e-05,
+                "p95": 0.00011257166446358153,
+                "max": 0.00011680050855331864
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 128,
+              "holdout_events": 30,
+              "normal_learned_from_training_only": [
+                0.550305560065959,
+                -0.6542090622187519,
+                0.5188200974050182
+              ],
+              "residual_px": {
+                "count": 30,
+                "median": 0.00013394876424242222,
+                "p95": 0.0002672397948804054,
+                "max": 0.0002868397686474045
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 89,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.9119598458911204,
+                -0.08411264549529447,
+                0.40156481712175285
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 7.888196178290353e-05,
+                "p95": 0.0001687333713818319,
+                "max": 0.00017647062193858383
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 38,
+              "holdout_events": 5,
+              "normal_learned_from_training_only": [
+                0.2586967602128897,
+                0.8397074348948851,
+                -0.4774593281501648
+              ],
+              "residual_px": {
+                "count": 5,
+                "median": 5.368410430298493e-05,
+                "p95": 7.1260825336809e-05,
+                "max": 7.486954908249297e-05
+              }
+            }
+          ],
+          "terminal_reason": "insufficient_flow_constraints"
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": 0.0
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 18,
+              "holdout_events": 3,
+              "normal_learned_from_training_only": [
+                0.49975594687762714,
+                0.7808689250613007,
+                0.3748169092157603
+              ],
+              "residual_px": {
+                "count": 3,
+                "median": 2.967020471965291e-05,
+                "p95": 5.0035031506255325e-05,
+                "max": 5.229779003810004e-05
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 104,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                -0.9723871983747652,
+                0.18669864907120703,
+                0.14002410818091826
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 6.777804281050669e-05,
+                "p95": 0.00019186520182207153,
+                "max": 0.00023450969794870194
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 48,
+              "holdout_events": 13,
+              "normal_learned_from_training_only": [
+                -0.24633144444973162,
+                -0.9656228754685495,
+                -0.08302579025313923
+              ],
+              "residual_px": {
+                "count": 13,
+                "median": 8.351219208914446e-05,
+                "p95": 0.00011257166446358153,
+                "max": 0.00011680050855331864
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 128,
+              "holdout_events": 30,
+              "normal_learned_from_training_only": [
+                0.550305560065959,
+                -0.6542090622187519,
+                0.5188200974050182
+              ],
+              "residual_px": {
+                "count": 30,
+                "median": 0.00013394876424242222,
+                "p95": 0.0002672397948804054,
+                "max": 0.0002868397686474045
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 89,
+              "holdout_events": 24,
+              "normal_learned_from_training_only": [
+                0.9119598458911204,
+                -0.08411264549529447,
+                0.40156481712175285
+              ],
+              "residual_px": {
+                "count": 24,
+                "median": 7.888196178290353e-05,
+                "p95": 0.0001687333713818319,
+                "max": 0.00017647062193858383
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 38,
+              "holdout_events": 5,
+              "normal_learned_from_training_only": [
+                0.2586967602128897,
+                0.8397074348948851,
+                -0.4774593281501648
+              ],
+              "residual_px": {
+                "count": 5,
+                "median": 5.368410430298493e-05,
+                "p95": 7.1260825336809e-05,
+                "max": 7.486954908249297e-05
+              }
+            }
+          ],
+          "terminal_reason": "insufficient_flow_constraints"
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_heldout_motion": null,
+          "initial_heldout_motion": null,
+          "terminal_reason": "no_rotation_evidence"
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": null,
+          "speed_relative_error": null,
+          "omega_error_norm": 0.017624069947225283
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": null,
+          "speed_relative_error": null,
+          "omega_error_norm": 0.0
+        },
+        "raw_rhs_omega": [
+          0.008092318562587486,
+          -0.011481449183914435,
+          0.010644178992457893
+        ],
+        "compensated_refit_omega": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "raw_planes": 108,
+        "compensated_planes": 0,
+        "difference_norm": 0.017624069947225283,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    },
+    {
+      "scene": "mixed",
+      "truth_omega": [
+        10.0,
+        20.0,
+        30.0
+      ],
+      "truth_velocity": [
+        400.0,
+        -300.0
+      ],
+      "physical_edge_plane_counts": {
+        "0": 28,
+        "3": 38,
+        "1": 86,
+        "4": 88,
+        "2": 44,
+        "5": 7
+      },
+      "minimum_plane_edge_purity": 1.0,
+      "local_holdout_time_RMS_us": {
+        "count": 291,
+        "median": 5.151819939498599,
+        "p95": 81.9131303702272,
+        "max": 195.1901098187535
+      },
+      "local_holdout_RMS_over_training_gate": {
+        "count": 291,
+        "median": 0.059372767933088474,
+        "p95": 0.5504306560159588,
+        "max": 1.6828598292186274
+      },
+      "zero_motion_heldout_baseline": [
+        {
+          "edge_id": 0,
+          "training_events": 211,
+          "holdout_events": 54,
+          "normal_learned_from_training_only": [
+            0.585705408851869,
+            0.6812851905464329,
+            0.4390895844628694
+          ],
+          "residual_px": {
+            "count": 54,
+            "median": 1.4602373522213594,
+            "p95": 3.3486162550739818,
+            "max": 4.427561424695371
+          }
+        },
+        {
+          "edge_id": 1,
+          "training_events": 798,
+          "holdout_events": 201,
+          "normal_learned_from_training_only": [
+            -0.3230638832416334,
+            -0.7599350491468179,
+            -0.5640287655989369
+          ],
+          "residual_px": {
+            "count": 201,
+            "median": 8.360971602024778,
+            "p95": 15.809080859256591,
+            "max": 17.237492083123275
+          }
+        },
+        {
+          "edge_id": 2,
+          "training_events": 336,
+          "holdout_events": 87,
+          "normal_learned_from_training_only": [
+            -0.06830398406800138,
+            -0.9790827449103842,
+            -0.19165475308268762
+          ],
+          "residual_px": {
+            "count": 87,
+            "median": 2.368709390523432,
+            "p95": 5.5849552544504855,
+            "max": 7.734828558570746
+          }
+        },
+        {
+          "edge_id": 3,
+          "training_events": 284,
+          "holdout_events": 74,
+          "normal_learned_from_training_only": [
+            -0.7280037248376168,
+            0.498150027511667,
+            -0.47101711934141066
+          ],
+          "residual_px": {
+            "count": 74,
+            "median": 4.325035756615677,
+            "p95": 9.433904865958512,
+            "max": 12.166452707088002
+          }
+        },
+        {
+          "edge_id": 4,
+          "training_events": 673,
+          "holdout_events": 171,
+          "normal_learned_from_training_only": [
+            0.6771041486764243,
+            0.48038470856023346,
+            0.5574589703526839
+          ],
+          "residual_px": {
+            "count": 171,
+            "median": 5.27883433551383,
+            "p95": 13.198156714619014,
+            "max": 17.395212240330903
+          }
+        },
+        {
+          "edge_id": 5,
+          "training_events": 110,
+          "holdout_events": 28,
+          "normal_learned_from_training_only": [
+            -0.21309030507001472,
+            -0.8569632849304127,
+            0.46926160099292585
+          ],
+          "residual_px": {
+            "count": 28,
+            "median": 0.971789886363282,
+            "p95": 3.695709696498268,
+            "max": 4.583109294976535
+          }
+        }
+      ],
+      "routes": [
+        {
+          "method": "A_literal",
+          "initial_error": {
+            "axis_error_deg": 5.666898420197999,
+            "speed_relative_error": 0.12564007522193887,
+            "omega_error_norm": 6.123976572942134
+          },
+          "final_error": {
+            "axis_error_deg": 0.5193549970764222,
+            "speed_relative_error": 0.0037734974397161114,
+            "omega_error_norm": 0.36796514162714805
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 211,
+              "holdout_events": 54,
+              "normal_learned_from_training_only": [
+                -0.4998765170255687,
+                -0.7807170507925845,
+                -0.3749724714270576
+              ],
+              "residual_px": {
+                "count": 54,
+                "median": 0.040944661347378286,
+                "p95": 0.08808228783703002,
+                "max": 0.11611724092738339
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 798,
+              "holdout_events": 201,
+              "normal_learned_from_training_only": [
+                0.9724019663436274,
+                -0.18665335525320267,
+                -0.13998193034734518
+              ],
+              "residual_px": {
+                "count": 201,
+                "median": 0.009471407401436541,
+                "p95": 0.038604548440588395,
+                "max": 0.05162322318271578
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 336,
+              "holdout_events": 87,
+              "normal_learned_from_training_only": [
+                0.2463604737843711,
+                0.965614820887609,
+                0.08303333450447047
+              ],
+              "residual_px": {
+                "count": 87,
+                "median": 0.08117293049281922,
+                "p95": 0.1546028053681355,
+                "max": 0.17044595322916214
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 284,
+              "holdout_events": 74,
+              "normal_learned_from_training_only": [
+                -0.5503791984034158,
+                0.6541816149832369,
+                -0.5187765921692473
+              ],
+              "residual_px": {
+                "count": 74,
+                "median": 0.07135639450518313,
+                "p95": 0.13444994679133843,
+                "max": 0.1450935254243904
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 673,
+              "holdout_events": 171,
+              "normal_learned_from_training_only": [
+                -0.9119505590202002,
+                0.08415869344942092,
+                -0.40157625953189846
+              ],
+              "residual_px": {
+                "count": 171,
+                "median": 0.00657741124277916,
+                "p95": 0.02722925768147265,
+                "max": 0.042690873981786275
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 110,
+              "holdout_events": 28,
+              "normal_learned_from_training_only": [
+                0.25898473689891754,
+                0.8396304633171893,
+                -0.47743857314125815
+              ],
+              "residual_px": {
+                "count": 28,
+                "median": 0.04459762962728867,
+                "p95": 0.08439763758867794,
+                "max": 0.08653155900905925
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 211,
+              "holdout_events": 54,
+              "normal_learned_from_training_only": [
+                -0.5071267127591502,
+                -0.7729653606981929,
+                -0.3812440797793599
+              ],
+              "residual_px": {
+                "count": 54,
+                "median": 0.9347690481241662,
+                "p95": 1.852056610272531,
+                "max": 2.398752387194796
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 798,
+              "holdout_events": 201,
+              "normal_learned_from_training_only": [
+                0.9720876811038278,
+                -0.18764075417547058,
+                -0.14084206622541223
+              ],
+              "residual_px": {
+                "count": 201,
+                "median": 0.8905319414255727,
+                "p95": 1.850824560457468,
+                "max": 2.157620905742096
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 336,
+              "holdout_events": 87,
+              "normal_learned_from_training_only": [
+                0.24679921049017248,
+                0.9654943794679358,
+                0.08313093838790135
+              ],
+              "residual_px": {
+                "count": 87,
+                "median": 1.0082509597095541,
+                "p95": 1.992955966083452,
+                "max": 2.331283950873519
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 284,
+              "holdout_events": 74,
+              "normal_learned_from_training_only": [
+                -0.545766245636545,
+                0.6577718586028865,
+                -0.5191101878733406
+              ],
+              "residual_px": {
+                "count": 74,
+                "median": 0.3603246164195167,
+                "p95": 0.9188738655598014,
+                "max": 0.983862863125935
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 673,
+              "holdout_events": 171,
+              "normal_learned_from_training_only": [
+                0.9113836961072959,
+                -0.08057339181413993,
+                0.4035934674909511
+              ],
+              "residual_px": {
+                "count": 171,
+                "median": 0.5353064590636868,
+                "p95": 1.2266728893441252,
+                "max": 1.550958247302285
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 110,
+              "holdout_events": 28,
+              "normal_learned_from_training_only": [
+                0.2670377079030718,
+                0.8366603463156171,
+                -0.47821577500214785
+              ],
+              "residual_px": {
+                "count": 28,
+                "median": 0.3287292857680675,
+                "p95": 0.7966251463510569,
+                "max": 0.869184148302479
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "S",
+          "initial_error": {
+            "axis_error_deg": 0.01879923038820208,
+            "speed_relative_error": 0.00026839504920528334,
+            "omega_error_norm": 0.015862154518071558
+          },
+          "final_error": {
+            "axis_error_deg": 0.5008116520223835,
+            "speed_relative_error": 0.003670062833422527,
+            "omega_error_norm": 0.35526257879359757
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 211,
+              "holdout_events": 54,
+              "normal_learned_from_training_only": [
+                -0.4998615409064362,
+                -0.7807332487718226,
+                -0.3749587099732971
+              ],
+              "residual_px": {
+                "count": 54,
+                "median": 0.03613269725515747,
+                "p95": 0.07966461297817419,
+                "max": 0.10666996422835487
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 798,
+              "holdout_events": 201,
+              "normal_learned_from_training_only": [
+                0.9724020406853585,
+                -0.1866531114086115,
+                -0.1399817390677611
+              ],
+              "residual_px": {
+                "count": 201,
+                "median": 0.0099778384455729,
+                "p95": 0.038439319136399835,
+                "max": 0.0514026530256157
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 336,
+              "holdout_events": 87,
+              "normal_learned_from_training_only": [
+                0.2463563240845402,
+                0.9656158769574502,
+                0.08303336528918882
+              ],
+              "residual_px": {
+                "count": 87,
+                "median": 0.08064980357799635,
+                "p95": 0.15323299326091236,
+                "max": 0.16807366096392695
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 284,
+              "holdout_events": 74,
+              "normal_learned_from_training_only": [
+                -0.5503816146173682,
+                0.6541781591503141,
+                -0.5187783865793615
+              ],
+              "residual_px": {
+                "count": 74,
+                "median": 0.0694628582337147,
+                "p95": 0.13134417605725798,
+                "max": 0.1418018947859035
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 673,
+              "holdout_events": 171,
+              "normal_learned_from_training_only": [
+                -0.9119505114429581,
+                0.08415864983843997,
+                -0.401576376715934
+              ],
+              "residual_px": {
+                "count": 171,
+                "median": 0.006531450562863626,
+                "p95": 0.029320426758525704,
+                "max": 0.04503303509136911
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 110,
+              "holdout_events": 28,
+              "normal_learned_from_training_only": [
+                0.2589960727873179,
+                0.8396247925116307,
+                -0.47744239660983967
+              ],
+              "residual_px": {
+                "count": 28,
+                "median": 0.04620119380839603,
+                "p95": 0.0871042816767125,
+                "max": 0.08988917872289477
+              }
+            }
+          ],
+          "initial_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 211,
+              "holdout_events": 54,
+              "normal_learned_from_training_only": [
+                0.4997477350285892,
+                0.7808770807587437,
+                0.37481086707764705
+              ],
+              "residual_px": {
+                "count": 54,
+                "median": 0.0026425581890652484,
+                "p95": 0.005153064539561271,
+                "max": 0.0055022444932180115
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 798,
+              "holdout_events": 201,
+              "normal_learned_from_training_only": [
+                0.9723890164597008,
+                -0.18669246708553044,
+                -0.14001972504634463
+              ],
+              "residual_px": {
+                "count": 201,
+                "median": 0.0037019517025070653,
+                "p95": 0.00730404579552559,
+                "max": 0.008538404971161614
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 336,
+              "holdout_events": 87,
+              "normal_learned_from_training_only": [
+                0.24633053518220183,
+                0.9656231858080733,
+                0.083024878601037
+              ],
+              "residual_px": {
+                "count": 87,
+                "median": 0.0033491806153581145,
+                "p95": 0.006734335669779769,
+                "max": 0.0074515284900424465
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 284,
+              "holdout_events": 74,
+              "normal_learned_from_training_only": [
+                -0.5503036004316113,
+                0.654209236607058,
+                -0.518821956060088
+              ],
+              "residual_px": {
+                "count": 74,
+                "median": 0.00041830577389921695,
+                "p95": 0.001039556216987334,
+                "max": 0.0015138289775341062
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 673,
+              "holdout_events": 171,
+              "normal_learned_from_training_only": [
+                0.9119596474505758,
+                -0.08411866683713995,
+                0.40156400649381324
+              ],
+              "residual_px": {
+                "count": 171,
+                "median": 0.00433399779597335,
+                "p95": 0.008301533594680017,
+                "max": 0.009372691590738566
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 110,
+              "holdout_events": 28,
+              "normal_learned_from_training_only": [
+                0.25872314260207196,
+                0.839697361377157,
+                -0.4774627491002291
+              ],
+              "residual_px": {
+                "count": 28,
+                "median": 0.0036756120290309833,
+                "p95": 0.007614236104959465,
+                "max": 0.008856080445250264
+              }
+            }
+          ],
+          "terminal_reason": null
+        },
+        {
+          "method": "G",
+          "initial_error": {
+            "axis_error_deg": null,
+            "speed_relative_error": null,
+            "omega_error_norm": null
+          },
+          "final_error": {
+            "axis_error_deg": 0.5070208641440503,
+            "speed_relative_error": 0.003508368305969345,
+            "omega_error_norm": 0.35671737179249685
+          },
+          "final_heldout_motion": [
+            {
+              "edge_id": 0,
+              "training_events": 211,
+              "holdout_events": 54,
+              "normal_learned_from_training_only": [
+                -0.4998590531764898,
+                -0.7807354244285764,
+                -0.3749574962576867
+              ],
+              "residual_px": {
+                "count": 54,
+                "median": 0.03566507466842028,
+                "p95": 0.07902238340351012,
+                "max": 0.10601942277668666
+              }
+            },
+            {
+              "edge_id": 1,
+              "training_events": 798,
+              "holdout_events": 201,
+              "normal_learned_from_training_only": [
+                0.9724014100247436,
+                -0.18665556015671125,
+                -0.1399828548232776
+              ],
+              "residual_px": {
+                "count": 201,
+                "median": 0.00835854331448023,
+                "p95": 0.03523746874839429,
+                "max": 0.04765090709681116
+              }
+            },
+            {
+              "edge_id": 2,
+              "training_events": 336,
+              "holdout_events": 87,
+              "normal_learned_from_training_only": [
+                0.24635789418030493,
+                0.9656155471166786,
+                0.08303254266613151
+              ],
+              "residual_px": {
+                "count": 87,
+                "median": 0.08123566801675888,
+                "p95": 0.1540182285563756,
+                "max": 0.16887852709736284
+              }
+            },
+            {
+              "edge_id": 3,
+              "training_events": 284,
+              "holdout_events": 74,
+              "normal_learned_from_training_only": [
+                -0.5503844203826821,
+                0.6541765876146394,
+                -0.5187773915822518
+              ],
+              "residual_px": {
+                "count": 74,
+                "median": 0.07136271784230848,
+                "p95": 0.13508091320221474,
+                "max": 0.14554790256034333
+              }
+            },
+            {
+              "edge_id": 4,
+              "training_events": 673,
+              "holdout_events": 171,
+              "normal_learned_from_training_only": [
+                -0.911950415517804,
+                0.08415698255975979,
+                -0.4015769439638451
+              ],
+              "residual_px": {
+                "count": 171,
+                "median": 0.006312828833752588,
+                "p95": 0.02732475896271762,
+                "max": 0.04253012738888139
+              }
+            },
+            {
+              "edge_id": 5,
+              "training_events": 110,
+              "holdout_events": 28,
+              "normal_learned_from_training_only": [
+                0.2590021121411424,
+                0.8396227066882597,
+                -0.47744278853063427
+              ],
+              "residual_px": {
+                "count": 28,
+                "median": 0.046952770868927976,
+                "p95": 0.08807831304629692,
+                "max": 0.09086632548368405
+              }
+            }
+          ],
+          "initial_heldout_motion": null,
+          "terminal_reason": null
+        }
+      ],
+      "translation_path_comparison": {
+        "raw_rhs_error": {
+          "axis_error_deg": 0.03583525805661194,
+          "speed_relative_error": 0.0005923764308042312,
+          "omega_error_norm": 0.03223738691140131
+        },
+        "compensated_refit_error": {
+          "axis_error_deg": 0.01879923038820208,
+          "speed_relative_error": 0.00026839504920528334,
+          "omega_error_norm": 0.015862154518071558
+        },
+        "raw_rhs_omega": [
+          9.988154288506054,
+          20.026586644431095,
+          30.013859241392375
+        ],
+        "compensated_refit_omega": [
+          9.99237186284658,
+          20.011965655611856,
+          30.007088198311436
+        ],
+        "raw_planes": 293,
+        "compensated_planes": 291,
+        "difference_norm": 0.016655577797665654,
+        "caveat": "Same raw events and fixed split; full coordinate correction changes neighbors and fits. Initializer values are diagnostic, not accepted zero measurements."
+      }
+    }
+  ],
+  "caveat": "Geometric edge-crossing implementation check; no DVS noise/refractory/contrast model, not a real-data accuracy claim."
+}

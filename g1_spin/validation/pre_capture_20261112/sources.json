@@ -1,0 +1,20 @@
+{
+  "cmax.py": {
+    "source": "g1_spin/src/g1_spin/spherical_cmax.py",
+    "sha256": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192"
+  },
+  "contour.py": {
+    "source": "g1_spin/experiments/drill_outer_contour_20261110/contour.py",
+    "sha256": "ea020d090e8cbd82f4a899fb7a9bcabf03622caf7719f24ccab6d10bb42dd30e"
+  },
+  "policy.py": {
+    "source": "g1_spin/experiments/drill_outer_validation_20261110/policy.py",
+    "sha256": "a629a8697a5d81da80924dea864f43df84547e17605523e454a0d80cb51d93a7"
+  },
+  "geometry.py": {
+    "source": "g1_spin/experiments/drill_center_evidence_20261110/run.py",
+    "source_sha256": "4eaab26c387f72698d4cb8e270aab990ddf4dd0217652f52d2c55631c3e61baa",
+    "function": "fit_circle",
+    "sha256": "601a464c3ef7215713f68da8c602bd6231a1a57d53435895a0b9e953ffdbc202"
+  }
+}

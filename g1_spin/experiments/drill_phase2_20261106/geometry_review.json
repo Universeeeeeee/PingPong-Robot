@@ -1,0 +1,213 @@
+{
+  "reviewed_before_spin": true,
+  "reviewer": "GPT-6.1 Sol high; execution under GPT-6 Astra xhigh reviewed protocol",
+  "anchors": [
+    {
+      "run": 2,
+      "time_s": 0.9,
+      "result": null,
+      "raw_events": 4062,
+      "radius_px": 63.0,
+      "sector": null,
+      "visual_review": "\u5916\u8f6e\u5ed3\u53ef\u89c1\u4f46\u51bb\u7ed3\u62df\u5408\u672a\u63a5\u53d7\uff1b\u5019\u9009\u7559\u7a7a\u3002\u65e0\u53ef\u9760\u5916\u9732\u6746\uff0c\u4e0d\u5f3a\u52a0\u6392\u9664\u6247\u533a\u3002",
+      "usable_candidate": false,
+      "independent_truth": false
+    },
+    {
+      "run": 2,
+      "time_s": 3.5,
+      "result": null,
+      "raw_events": 4477,
+      "radius_px": 63.0,
+      "sector": null,
+      "visual_review": "\u5916\u8f6e\u5ed3\u53ef\u89c1\u4f46\u51bb\u7ed3\u62df\u5408\u672a\u63a5\u53d7\uff1b\u5019\u9009\u7559\u7a7a\u3002\u65e0\u53ef\u9760\u5916\u9732\u6746\uff0c\u4e0d\u5f3a\u52a0\u6392\u9664\u6247\u533a\u3002",
+      "usable_candidate": false,
+      "independent_truth": false
+    },
+    {
+      "run": 3,
+      "time_s": 1.5,
+      "result": {
+        "cx": 546.3399332234526,
+        "cy": 429.21370356290646,
+        "hough_radius_px": 57.70000076293945,
+        "ring_rms_px": 0.881345748432349,
+        "angular_bins": 26,
+        "fit_bins": 27,
+        "support_bins": [
+          0,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "raw_events": 5818,
+      "radius_px": 59.0,
+      "sector": [
+        5,
+        65
+      ],
+      "visual_review": "r59\u5706\u4e0e\u53ef\u89c1\u4e0a\u4e0b\u548c\u5de6\u4fa7\u5916\u5f27\u5927\u4f53\u543b\u5408\uff0c\u5c40\u90e8\u7eb9\u7406\u63a5\u8fd1\u5916\u5f27\uff1b\u53f3\u4e0b\u5916\u6746\u53ef\u89c1\u3002\u4ec5\u4f5c\u51e0\u4f55\u5019\u9009\u3002",
+      "usable_candidate": true,
+      "independent_truth": false
+    },
+    {
+      "run": 3,
+      "time_s": 4.3,
+      "result": {
+        "cx": 573.9869998796391,
+        "cy": 409.14579167033827,
+        "hough_radius_px": 57.70000076293945,
+        "ring_rms_px": 1.6591692905952748,
+        "angular_bins": 19,
+        "fit_bins": 24,
+        "support_bins": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "raw_events": 7367,
+      "radius_px": 59.0,
+      "sector": [
+        5,
+        65
+      ],
+      "visual_review": "r59\u5706\u4e0e\u53ef\u89c1\u4e0a\u4e0b\u548c\u5de6\u4fa7\u5916\u5f27\u5927\u4f53\u543b\u5408\uff0c\u5c40\u90e8\u7eb9\u7406\u63a5\u8fd1\u5916\u5f27\uff1b\u53f3\u4e0b\u5916\u6746\u53ef\u89c1\u3002\u4ec5\u4f5c\u51e0\u4f55\u5019\u9009\u3002",
+      "usable_candidate": true,
+      "independent_truth": false
+    },
+    {
+      "run": 4,
+      "time_s": 0.9,
+      "result": {
+        "cx": 592.9118525449655,
+        "cy": 354.58884864678765,
+        "hough_radius_px": 55.400001525878906,
+        "ring_rms_px": 1.5259075179615513,
+        "angular_bins": 20,
+        "fit_bins": 23,
+        "support_bins": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          18,
+          21,
+          22,
+          23,
+          32,
+          34,
+          35
+        ]
+      },
+      "raw_events": 4165,
+      "radius_px": 60.0,
+      "sector": [
+        60,
+        120
+      ],
+      "visual_review": "r60\u5706\u4e0e\u53ef\u89c1\u5916\u5f27\u5927\u4f53\u543b\u5408\uff1b\u5411\u4e0b\u5916\u6746\u53ef\u89c1\u3002\u4ec5\u4f5c\u51e0\u4f55\u5019\u9009\u3002",
+      "usable_candidate": true,
+      "independent_truth": false
+    },
+    {
+      "run": 4,
+      "time_s": 2.5,
+      "result": {
+        "cx": 596.4299231821124,
+        "cy": 354.37114831932763,
+        "hough_radius_px": 62.0,
+        "ring_rms_px": 1.0806928221500198,
+        "angular_bins": 27,
+        "fit_bins": 29,
+        "support_bins": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "raw_events": 5456,
+      "radius_px": 60.0,
+      "sector": [
+        60,
+        120
+      ],
+      "visual_review": "r60\u5706\u4e0e\u53ef\u89c1\u5916\u5f27\u5927\u4f53\u543b\u5408\uff1b\u5411\u4e0b\u5916\u6746\u53ef\u89c1\u3002\u4ec5\u4f5c\u51e0\u4f55\u5019\u9009\u3002",
+      "usable_candidate": true,
+      "independent_truth": false
+    }
+  ],
+  "decision": "Keep frozen configuration and all failures; no parameter changes after review"
+}

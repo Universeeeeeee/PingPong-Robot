@@ -1,0 +1,347 @@
+[
+  {
+    "case": "run1_01495000",
+    "condition": "fixed_vertical",
+    "center": [
+      638.4983474063433,
+      355.85710435555654
+    ],
+    "radius_px": 60.0,
+    "selection_support": "stage4 complete common_ids first6ms only",
+    "selected_count": 6,
+    "maximum_allowed": 6,
+    "insufficient_patch_slots": 0,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          53,
+          26
+        ],
+        "center": [
+          642,
+          318
+        ],
+        "box": [
+          636,
+          312,
+          648,
+          324
+        ],
+        "selection_events_first6ms": 312
+      },
+      {
+        "patch": 1,
+        "cell": [
+          51,
+          28
+        ],
+        "center": [
+          618,
+          342
+        ],
+        "box": [
+          612,
+          336,
+          624,
+          348
+        ],
+        "selection_events_first6ms": 247
+      },
+      {
+        "patch": 2,
+        "cell": [
+          50,
+          30
+        ],
+        "center": [
+          606,
+          366
+        ],
+        "box": [
+          600,
+          360,
+          612,
+          372
+        ],
+        "selection_events_first6ms": 222
+      },
+      {
+        "patch": 3,
+        "cell": [
+          51,
+          32
+        ],
+        "center": [
+          618,
+          390
+        ],
+        "box": [
+          612,
+          384,
+          624,
+          396
+        ],
+        "selection_events_first6ms": 184
+      },
+      {
+        "patch": 4,
+        "cell": [
+          54,
+          32
+        ],
+        "center": [
+          654,
+          390
+        ],
+        "box": [
+          648,
+          384,
+          660,
+          396
+        ],
+        "selection_events_first6ms": 184
+      },
+      {
+        "patch": 5,
+        "cell": [
+          55,
+          31
+        ],
+        "center": [
+          666,
+          378
+        ],
+        "box": [
+          660,
+          372,
+          672,
+          384
+        ],
+        "selection_events_first6ms": 159
+      }
+    ],
+    "common_events": 5460,
+    "first6ms_common_events": 3423,
+    "source_file": "inputs/run1_01495000.npz",
+    "source_sha256": "d4111bfbd44dcf8c7d0c05ab7e6568dce6364a3313977839acf47fead1f42204"
+  },
+  {
+    "case": "run2_02095000",
+    "condition": "camera_facing",
+    "center": [
+      623.0344374944943,
+      487.1459146159508
+    ],
+    "radius_px": 63.0,
+    "selection_support": "stage4 complete common_ids first6ms only",
+    "selected_count": 6,
+    "maximum_allowed": 6,
+    "insufficient_patch_slots": 0,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          48,
+          39
+        ],
+        "center": [
+          582,
+          474
+        ],
+        "box": [
+          576,
+          468,
+          588,
+          480
+        ],
+        "selection_events_first6ms": 197
+      },
+      {
+        "patch": 1,
+        "cell": [
+          49,
+          43
+        ],
+        "center": [
+          594,
+          522
+        ],
+        "box": [
+          588,
+          516,
+          600,
+          528
+        ],
+        "selection_events_first6ms": 194
+      },
+      {
+        "patch": 2,
+        "cell": [
+          49,
+          40
+        ],
+        "center": [
+          594,
+          486
+        ],
+        "box": [
+          588,
+          480,
+          600,
+          492
+        ],
+        "selection_events_first6ms": 145
+      },
+      {
+        "patch": 3,
+        "cell": [
+          48,
+          42
+        ],
+        "center": [
+          582,
+          510
+        ],
+        "box": [
+          576,
+          504,
+          588,
+          516
+        ],
+        "selection_events_first6ms": 116
+      },
+      {
+        "patch": 4,
+        "cell": [
+          50,
+          42
+        ],
+        "center": [
+          606,
+          510
+        ],
+        "box": [
+          600,
+          504,
+          612,
+          516
+        ],
+        "selection_events_first6ms": 29
+      },
+      {
+        "patch": 5,
+        "cell": [
+          50,
+          44
+        ],
+        "center": [
+          606,
+          534
+        ],
+        "box": [
+          600,
+          528,
+          612,
+          540
+        ],
+        "selection_events_first6ms": 21
+      }
+    ],
+    "common_events": 2809,
+    "first6ms_common_events": 1673,
+    "source_file": "inputs/run2_02095000.npz",
+    "source_sha256": "3fdddf51b5fc105001e3742579a1620498ff7e2eaaa4a20e330f93ad90c5b1cc"
+  },
+  {
+    "case": "run5_04095000",
+    "condition": "translation_early",
+    "center": [
+      638.5752163885172,
+      355.191253352207
+    ],
+    "radius_px": 60.0,
+    "selection_support": "stage4 complete common_ids first6ms only",
+    "selected_count": 3,
+    "maximum_allowed": 6,
+    "insufficient_patch_slots": 3,
+    "patches": [
+      {
+        "patch": 0,
+        "cell": [
+          55,
+          28
+        ],
+        "center": [
+          666,
+          342
+        ],
+        "box": [
+          660,
+          336,
+          672,
+          348
+        ],
+        "selection_events_first6ms": 70
+      },
+      {
+        "patch": 1,
+        "cell": [
+          54,
+          31
+        ],
+        "center": [
+          654,
+          378
+        ],
+        "box": [
+          648,
+          372,
+          660,
+          384
+        ],
+        "selection_events_first6ms": 56
+      },
+      {
+        "patch": 2,
+        "cell": [
+          55,
+          30
+        ],
+        "center": [
+          666,
+          366
+        ],
+        "box": [
+          660,
+          360,
+          672,
+          372
+        ],
+        "selection_events_first6ms": 22
+      }
+    ],
+    "common_events": 762,
+    "first6ms_common_events": 470,
+    "source_file": "inputs/run5_04095000.npz",
+    "source_sha256": "8a407517ce2e2a7961902fa55366f4b4b7fa601b888311a5e045f0d425397eea"
+  },
+  {
+    "case": "run5_01525000",
+    "condition": "static_prior",
+    "center": [
+      714.0,
+      355.0
+    ],
+    "radius_px": 60.0,
+    "selection_support": "stage4 complete common_ids first6ms only",
+    "selected_count": 0,
+    "maximum_allowed": 6,
+    "insufficient_patch_slots": 6,
+    "patches": [],
+    "common_events": 18,
+    "first6ms_common_events": 8,
+    "source_file": "inputs/run5_01525000.npz",
+    "source_sha256": "edb2fa1b7302a89e87267da9760d216dc1e97e98125b30df80211f2b96c3f972"
+  }
+]

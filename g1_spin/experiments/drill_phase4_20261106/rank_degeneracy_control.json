@@ -1,0 +1,54 @@
+{
+  "events": 169,
+  "metadata": {
+    "accepted_planes": 169,
+    "seeds_attempted": 169,
+    "failures": {}
+  },
+  "initializers": {
+    "A": {
+      "method": "A",
+      "available": false,
+      "failure_reason": "degenerate_flow_system",
+      "planes": 169,
+      "rank": 3,
+      "condition": 595.1577594443595,
+      "singular_values": [
+        12.982481263910575,
+        0.6743177313999744,
+        0.021813512565191196
+      ],
+      "raw_omega_rad_s": [
+        77.13117460835377,
+        -51.42078307225705,
+        -5.447655106298196e-14
+      ],
+      "residual_rms": 0.07396385643626462,
+      "residual_units": "unit_sphere_per_second",
+      "native_scalar_status": "not_applicable",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "S": {
+      "method": "S",
+      "available": false,
+      "failure_reason": "degenerate_flow_system",
+      "planes": 169,
+      "rank": 2,
+      "condition": null,
+      "singular_values": [
+        0.14023725548392146,
+        0.007297676833668934,
+        9.378134531191098e-17
+      ],
+      "raw_omega_rad_s": [
+        77.13102650767848,
+        -51.42068433845232,
+        -3.4571676263918956e-14
+      ],
+      "residual_rms": 0.0013837915941717666,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "degenerate_flow_system",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    }
+  }
+}

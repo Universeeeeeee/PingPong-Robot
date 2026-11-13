@@ -1,0 +1,30 @@
+{
+  "hypothesis_only": true,
+  "physics_validated": false,
+  "files_sha256": {
+    "axis_directions.png": "446f75a34f538ece8c5fb53cf5161a427c4aeaf92a41d8c54922deaa4ed4f299",
+    "axis_sensitivity.png": "022151accc6c3f63405c903f5f4c0317669cf06ab9c340b5f8c11a05c7a55b25",
+    "center_hypotheses.png": "0bd4c2df4e45be88606f88c7d275cef979b092cc0e35a95afae6ed1632f2c9d8",
+    "coordinate_selfcheck.png": "762edb00bedb1a62d54818150a38d23a8c3454967ce642506a942daa0c234887",
+    "detailed_results.json": "842e3b9c5374a4f14384c546b565cffff5e2cde1ea350b5b320e058fae208c4b",
+    "early_turn_1.65_1.70_events.npz": "b2f407c3446ae10265d83baab970409af1f61fbc5294688540b0aea7355e7bf4",
+    "early_turn_1.80_1.85_events.npz": "cd23c7813c4651a97d462fa325f42e370695f18204ba9771e37868c2811dbe56",
+    "environment.json": "f724256f02ec7c74e8a0abaddcffa23f59abfaad3f358ae4cee272ab28ac9f50",
+    "geometry_diagnostics.csv": "5d11e59ec57ae3c4ebb2095d82e065f77077c3aa57cdbd994a21bc4b48e80609",
+    "independent_validation.json": "ef4c59eb09d686d61a9d18ddc1685972920f89f53efd9ec31f9437a7100a8491",
+    "late_11.25_11.30_events.npz": "a151bb38d0c415b45ad04d1239f2370ff665bd3f937df2159ae6b6c3a2a69781",
+    "late_11.40_11.45_events.npz": "ce947d6003bbe0f38ff9267819a7ee6103012e87bade785c8b32396abf578d57",
+    "mask_audit.csv": "37a03fd6a677e3f0383ad2d8346280029645a6f50ba8e21dd264e3908adf932b",
+    "middle_6.25_6.30_events.npz": "bb19828738c799cf14b26da3382103b2fe9fb7830fdc91e9abcb5a36bd9d8b19",
+    "middle_6.40_6.45_events.npz": "6b6f3e8144cafe35943ba363f535500563c6c6e527fc1b487feb72d29504c253",
+    "models.json": "9e81d71df5214128f008eedc6fda40afce66ff26dbb501cb07ce5944839ed63e",
+    "protocol.md": "4a17ebc287f6701a0ab0b5aa74c3960deccfcdc19c4010b9604bcf9e04c65865",
+    "real_event_alignment.png": "31c03755b2ee775b4e70e867c66f53fdbcdfb3723c109efd82814488c2932589",
+    "render.py": "46c51b35603ae4069992720721d17f840e7791ab398d8a1cfd4351e2af55375e",
+    "report.md": "0a3a0ae56b971dcb0bdcf2af8050a8e45764f3a93e49a3aff33b7393f2104ea3",
+    "results.csv": "092d897ec5f9db41a1a949efd2f7b16c2dbed06d9e1d4e232ad3b11445a9c23f",
+    "run.py": "5fc4b84662dd5790ed674a7862166f298d3d127ff1a876158ce3dca6e6c7be41",
+    "validation.json": "cefb6be4dd3679f463cd1db2e85f54e8ddd8b503317bfa617bbdf4af681fda79",
+    "verify.py": "34ad05bdf97aa61e47a63cee6c815d80da8d5414972c33b939328faf331d9ee0"
+  }
+}

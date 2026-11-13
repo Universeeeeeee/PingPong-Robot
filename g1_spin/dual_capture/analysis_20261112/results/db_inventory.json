@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "/device_0/sensor_0/Infrared_1/image/data",
+    "id": 110,
+    "count": 22794,
+    "first_db_ns": 1185,
+    "last_db_ns": 262505068342,
+    "span_s": 262.505067157
+  },
+  {
+    "topic": "/device_0/sensor_0/Depth_0/image/data",
+    "id": 115,
+    "count": 22768,
+    "first_db_ns": 3392,
+    "last_db_ns": 262505195018,
+    "span_s": 262.505191626
+  },
+  {
+    "topic": "/device_0/sensor_0/Infrared_2/image/data",
+    "id": 119,
+    "count": 22794,
+    "first_db_ns": 365942,
+    "last_db_ns": 262505076857,
+    "span_s": 262.504710915
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "decoded_frames": 109,
+  "fps": 2,
+  "alignment": "coarse_only",
+  "reversal_transition_s": [
+    28.5,
+    31
+  ]
+}

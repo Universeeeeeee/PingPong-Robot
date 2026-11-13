@@ -1,0 +1,344 @@
+[
+  {
+    "run": 1,
+    "end_us": 905000,
+    "condition": "rotation",
+    "case": "run1_00905000",
+    "anchor": null,
+    "outer_valid": 0,
+    "old_route": "unavailable",
+    "new_route": "unavailable",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 1,
+    "end_us": 2305000,
+    "condition": "rotation",
+    "case": "run1_02305000",
+    "anchor": [
+      644.0103546130111,
+      355.0395354512644
+    ],
+    "outer_valid": 7,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "rms_px": 4.04395122704331,
+      "direction": [
+        -0.043334197891361705,
+        0.9990606324408505
+      ],
+      "reason": "large_residual"
+    }
+  },
+  {
+    "run": 1,
+    "end_us": 3705000,
+    "condition": "rotation",
+    "case": "run1_03705000",
+    "anchor": [
+      643.7914926212416,
+      354.9141488970191
+    ],
+    "outer_valid": 8,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "rms_px": 4.306864020951704,
+      "direction": [
+        -0.03901503132245205,
+        0.9992386238186093
+      ],
+      "reason": "large_residual"
+    }
+  },
+  {
+    "run": 1,
+    "end_us": 5805000,
+    "condition": "rotation",
+    "case": "run1_05805000",
+    "anchor": [
+      647.4269411285924,
+      356.0058187973008
+    ],
+    "outer_valid": 8,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": true,
+      "rms_px": 1.193448537847141,
+      "direction": [
+        0.03353126458060754,
+        0.9994376690397582
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 3,
+    "end_us": 1605000,
+    "condition": "rotation",
+    "case": "run3_01605000",
+    "anchor": [
+      547.0043929140855,
+      430.86738053093273
+    ],
+    "outer_valid": 9,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "rms_px": 3.1074557570156514,
+      "direction": [
+        0.8153303145368866,
+        0.5789960951484746
+      ],
+      "reason": "large_residual"
+    }
+  },
+  {
+    "run": 3,
+    "end_us": 2805000,
+    "condition": "rotation",
+    "case": "run3_02805000",
+    "anchor": null,
+    "outer_valid": 0,
+    "old_route": "unavailable",
+    "new_route": "unavailable",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 3,
+    "end_us": 4405000,
+    "condition": "rotation",
+    "case": "run3_04405000",
+    "anchor": [
+      574.2388401593903,
+      402.58487231556563
+    ],
+    "outer_valid": 6,
+    "old_route": "unavailable",
+    "new_route": "unavailable",
+    "shaft": {
+      "valid": true,
+      "rms_px": 2.021098325855929,
+      "direction": [
+        0.7977994041585184,
+        0.6029229724635754
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 3,
+    "end_us": 6405000,
+    "condition": "rotation",
+    "case": "run3_06405000",
+    "anchor": [
+      575.9168435974627,
+      395.47452407136814
+    ],
+    "outer_valid": 5,
+    "old_route": "old20",
+    "new_route": "old20",
+    "shaft": {
+      "valid": true,
+      "rms_px": 2.5963794383814784,
+      "direction": [
+        0.787865706134821,
+        0.6158470825592014
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 4,
+    "end_us": 1005000,
+    "condition": "rotation",
+    "case": "run4_01005000",
+    "anchor": null,
+    "outer_valid": 0,
+    "old_route": "unavailable",
+    "new_route": "unavailable",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 4,
+    "end_us": 1805000,
+    "condition": "rotation",
+    "case": "run4_01805000",
+    "anchor": [
+      588.6501176687995,
+      355.3508200404596
+    ],
+    "outer_valid": 6,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": true,
+      "rms_px": 2.170036309309023,
+      "direction": [
+        0.024040670205313492,
+        0.9997109813221415
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 4,
+    "end_us": 2605000,
+    "condition": "rotation",
+    "case": "run4_02605000",
+    "anchor": [
+      590.6745112111136,
+      355.5966015215231
+    ],
+    "outer_valid": 7,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": true,
+      "rms_px": 2.134701862275918,
+      "direction": [
+        -0.04485586830359772,
+        0.998993468987025
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 4,
+    "end_us": 3405000,
+    "condition": "rotation",
+    "case": "run4_03405000",
+    "anchor": [
+      597.2261021380145,
+      354.731176944719
+    ],
+    "outer_valid": 7,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": true,
+      "rms_px": 2.859646708596908,
+      "direction": [
+        -0.04357829151007061,
+        0.9990500150187994
+      ],
+      "reason": null
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 4205000,
+    "condition": "translation",
+    "case": "run5_04205000",
+    "anchor": [
+      612.094278361849,
+      348.85362960822647
+    ],
+    "outer_valid": 7,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 4605000,
+    "condition": "translation",
+    "case": "run5_04605000",
+    "anchor": [
+      532.7830941972036,
+      318.0498290205917
+    ],
+    "outer_valid": 6,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 5805000,
+    "condition": "translation",
+    "case": "run5_05805000",
+    "anchor": [
+      373.547978427157,
+      272.4812507724627
+    ],
+    "outer_valid": 5,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 6605000,
+    "condition": "translation",
+    "case": "run5_06605000",
+    "anchor": [
+      424.0367389964378,
+      271.0159380329579
+    ],
+    "outer_valid": 5,
+    "old_route": "old20",
+    "new_route": "outer20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 905000,
+    "condition": "static",
+    "case": "run5_00905000",
+    "anchor": [
+      714.0,
+      355.0
+    ],
+    "outer_valid": 0,
+    "old_route": "old20",
+    "new_route": "old20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  },
+  {
+    "run": 5,
+    "end_us": 2905000,
+    "condition": "static",
+    "case": "run5_02905000",
+    "anchor": [
+      714.0,
+      355.0
+    ],
+    "outer_valid": 0,
+    "old_route": "old20",
+    "new_route": "old20",
+    "shaft": {
+      "valid": false,
+      "reason": "no_anchor"
+    }
+  }
+]

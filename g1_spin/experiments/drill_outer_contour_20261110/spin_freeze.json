@@ -1,0 +1,7 @@
+{
+  "g1_spin/experiments/drill_outer_contour_20261110/spin.py": "78a7da3f5143b95dd10e345cf55ae3c583b7112f7eb53d7f8317f26fcbeb2118",
+  "g1_spin/experiments/drill_outer_contour_20261110/spin_protocol.md": "6f0faf52ee08c13e4f3e636c672e62c221cf2335a289b99663cab82bd6ea38d4",
+  "g1_spin/experiments/drill_outer_contour_20261110/measurements.json": "51586bba0940509e8b9b9c7bfdd5e76cce10ed5f8fb1c6afcb03634ce2a0357d",
+  "g1_spin/experiments/drill_outer_contour_20261110/contour.py": "ea020d090e8cbd82f4a899fb7a9bcabf03622caf7719f24ccab6d10bb42dd30e",
+  "g1_spin/src/g1_spin/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192"
+}
