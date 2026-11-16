@@ -1,0 +1,1842 @@
+{
+  "rows": [
+    {
+      "case": "run1_01495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 13,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -15.202461817241288,
+          -36.57996054482389,
+          2.236933608437035
+        ],
+        "rpm": 378.8811711737628,
+        "axis": [
+          -0.3831618664845333,
+          -0.9219589647243547,
+          0.056379530296774755
+        ],
+        "rank": 3,
+        "condition": 23.39482181801197,
+        "constraint_rms": 0.07666172502056083
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          0.7399732699702696,
+          -27.725974394182295,
+          1.2569073075501394
+        ],
+        "optimizer_candidate_contrast": 2.2281759020418637e-07,
+        "zero_contrast": 1.5289846952690736e-07,
+        "selected_seed": [
+          -14.043615890308233,
+          -33.791560955708306,
+          2.066417712253892
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 64,
+        "contrast_calls": 76,
+        "search_s": 0.02641320799011737,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572911742911496,
+          "displacement_rad": 0.2774210076081754
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7399732699702696,
+          -27.725974394182295,
+          1.2569073075501394
+        ],
+        "candidate_axis": [
+          0.026651957533028015,
+          -0.9986191692373673,
+          0.0452706084709314
+        ],
+        "candidate_rpm": 265.1296517916859,
+        "candidate_contrast": 2.2281759020418637e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7399732699702696,
+          -27.725974394182295,
+          1.2569073075501394
+        ],
+        "measurement_axis": [
+          0.026651957533028015,
+          -0.9986191692373673,
+          0.0452706084709314
+        ],
+        "measurement_rpm": 265.1296517916859
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 173,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -5.969317026406706,
+          -43.06755929619523,
+          -1.0833900285912987
+        ],
+        "rpm": 415.32537116246414,
+        "axis": [
+          -0.1372484867432202,
+          -0.9902233898749493,
+          -0.024909657389458092
+        ],
+        "rank": 3,
+        "condition": 2.99058710958912,
+        "constraint_rms": 0.22887003526133012
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          0.7477450266721921,
+          -27.705462077815383,
+          1.2693921217031807
+        ],
+        "optimizer_candidate_contrast": 2.2281763255921662e-07,
+        "zero_contrast": 1.5289846952690736e-07,
+        "selected_seed": [
+          -5.030419772802861,
+          -36.29358281551242,
+          -0.9129866276785361
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 67,
+        "contrast_calls": 79,
+        "search_s": 0.02736391604412347,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572914513052386,
+          "displacement_rad": 0.2772240933981973
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7477450266721921,
+          -27.705462077815383,
+          1.2693921217031807
+        ],
+        "candidate_axis": [
+          0.026951006367894312,
+          -0.9985891691018924,
+          0.045752755197361425
+        ],
+        "candidate_rpm": 264.9414620205707,
+        "candidate_contrast": 2.2281763255921662e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7477450266721921,
+          -27.705462077815383,
+          1.2693921217031807
+        ],
+        "measurement_axis": [
+          0.026951006367894312,
+          -0.9985891691018924,
+          0.045752755197361425
+        ],
+        "measurement_rpm": 264.9414620205707
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 31,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          1.0799694866944163,
+          -37.94675440869587,
+          0.18615219518625833
+        ],
+        "rpm": 362.5158949001683,
+        "axis": [
+          0.028448266894862732,
+          -0.9995832387048222,
+          0.004903571255455026
+        ],
+        "rank": 3,
+        "condition": 3.42932162965023,
+        "constraint_rms": 0.16948544109361574
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          0.7539752971338769,
+          -27.701995885736046,
+          1.2534702995357594
+        ],
+        "optimizer_candidate_contrast": 2.2281763228136726e-07,
+        "zero_contrast": 1.5289846952690736e-07,
+        "selected_seed": [
+          1.042683439983062,
+          -36.636639192609884,
+          0.1797252733790685
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 70,
+        "contrast_calls": 82,
+        "search_s": 0.028199041029438376,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572914494880238,
+          "displacement_rad": 0.277183958899401
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7539752971338769,
+          -27.701995885736046,
+          1.2534702995357594
+        ],
+        "candidate_axis": [
+          0.027179499127133574,
+          -0.9986088083500302,
+          0.04518542589077789
+        ],
+        "candidate_rpm": 264.9031057122924,
+        "candidate_contrast": 2.2281763228136726e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7539752971338769,
+          -27.701995885736046,
+          1.2534702995357594
+        ],
+        "measurement_axis": [
+          0.027179499127133574,
+          -0.9986088083500302,
+          0.04518542589077789
+        ],
+        "measurement_rpm": 264.9031057122924
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 195,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -9.410792016674666,
+          -49.632135322797545,
+          -5.561783293300851
+        ],
+        "rpm": 485.3114962003823,
+        "axis": [
+          -0.18517270819957216,
+          -0.976593351034185,
+          -0.10943717308966405
+        ],
+        "rank": 3,
+        "condition": 2.4834212469386254,
+        "constraint_rms": 0.233425578591471
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          0.7860867170145828,
+          -27.708888913909767,
+          1.2807850887232646
+        ],
+        "optimizer_candidate_contrast": 2.2281763110686992e-07,
+        "zero_contrast": 1.5289846952690736e-07,
+        "selected_seed": [
+          -6.786934230126192,
+          -35.79401580012572,
+          -4.011081888428103
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 66,
+        "contrast_calls": 78,
+        "search_s": 0.027463040954899043,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572914418064731,
+          "displacement_rad": 0.2772741053635423
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7860867170145828,
+          -27.708888913909767,
+          1.2807850887232646
+        ],
+        "candidate_axis": [
+          0.028327847153672498,
+          -0.9985325447710941,
+          0.0461550659039853
+        ],
+        "candidate_rpm": 264.98925816647784,
+        "candidate_contrast": 2.2281763110686992e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7860867170145828,
+          -27.708888913909767,
+          1.2807850887232646
+        ],
+        "measurement_axis": [
+          0.028327847153672498,
+          -0.9985325447710941,
+          0.0461550659039853
+        ],
+        "measurement_rpm": 264.98925816647784
+      }
+    },
+    {
+      "case": "run1_01425000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run1_01425000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 138,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          1.1304956081937163,
+          -40.40685667094666,
+          -7.159962641659043
+        ],
+        "rpm": 392.0166123868547,
+        "axis": [
+          0.02753821524433057,
+          -0.9842875180463958,
+          -0.17441252397469367
+        ],
+        "rank": 3,
+        "condition": 3.3342507713939904,
+        "constraint_rms": 0.17085810629142437
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.0183796730599255,
+          -23.424829233847856,
+          0.32309864402091404
+        ],
+        "optimizer_candidate_contrast": 3.7319493510206983e-07,
+        "zero_contrast": 2.689054946675457e-07,
+        "selected_seed": [
+          1.0093283048865724,
+          -36.076021750004685,
+          -6.392552880151097
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 70,
+        "contrast_calls": 82,
+        "search_s": 0.019504582975059748,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.3878293396847827,
+          "displacement_rad": 0.2350679014902029
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.0183796730599255,
+          -23.424829233847856,
+          0.32309864402091404
+        ],
+        "candidate_axis": [
+          -0.08583792795045238,
+          -0.9962143549426165,
+          0.013740783508937298
+        ],
+        "candidate_rpm": 224.54067310835956,
+        "candidate_contrast": 3.7319493510206983e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.0183796730599255,
+          -23.424829233847856,
+          0.32309864402091404
+        ],
+        "measurement_axis": [
+          -0.08583792795045238,
+          -0.9962143549426165,
+          0.013740783508937298
+        ],
+        "measurement_rpm": 224.54067310835956
+      }
+    },
+    {
+      "case": "run1_01425000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 22,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -21.375728018558025,
+          -36.99264586119816,
+          25.769495280880506
+        ],
+        "rpm": 476.4557854425792,
+        "axis": [
+          -0.42841995588504894,
+          -0.7414197866929476,
+          0.5164814046019826
+        ],
+        "rank": 3,
+        "condition": 8.032936026163288,
+        "constraint_rms": 0.1452473689358522
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.014296120362455,
+          -23.430717313148662,
+          0.29403534992223546
+        ],
+        "optimizer_candidate_contrast": 3.731949040374417e-07,
+        "zero_contrast": 2.689054946675457e-07,
+        "selected_seed": [
+          -15.702411504030216,
+          -27.174454476174546,
+          18.930032174822134
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 72,
+        "contrast_calls": 84,
+        "search_s": 0.01967762497952208,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.38782922416230825,
+          "displacement_rad": 0.23511923014150374
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.014296120362455,
+          -23.430717313148662,
+          0.29403534992223546
+        ],
+        "candidate_axis": [
+          -0.08564556077843694,
+          -0.9962472267307716,
+          0.012502045840331738
+        ],
+        "candidate_rpm": 224.58970306880832,
+        "candidate_contrast": 3.731949040374417e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.014296120362455,
+          -23.430717313148662,
+          0.29403534992223546
+        ],
+        "measurement_axis": [
+          -0.08564556077843694,
+          -0.9962472267307716,
+          0.012502045840331738
+        ],
+        "measurement_rpm": 224.58970306880832
+      }
+    },
+    {
+      "case": "run1_01425000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 195,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -6.820593264298932,
+          -43.1922845805236,
+          -6.486956015487268
+        ],
+        "rpm": 422.13664792388306,
+        "axis": [
+          -0.15429095836685525,
+          -0.9770673493851743,
+          -0.14674363676721083
+        ],
+        "rank": 3,
+        "condition": 3.4227203044599803,
+        "constraint_rms": 0.23676483711703708
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.008753319565856,
+          -23.403340511956404,
+          0.26540582989266503
+        ],
+        "optimizer_candidate_contrast": 3.7319497909439e-07,
+        "zero_contrast": 2.689054946675457e-07,
+        "selected_seed": [
+          -5.655058982074145,
+          -35.81138874706067,
+          -5.378435197670716
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 65,
+        "contrast_calls": 77,
+        "search_s": 0.018217917007859796,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.38782950328248167,
+          "displacement_rad": 0.2348384197293095
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.008753319565856,
+          -23.403340511956404,
+          0.26540582989266503
+        ],
+        "candidate_axis": [
+          -0.08551201698106788,
+          -0.9962730773257196,
+          0.01129824534032932
+        ],
+        "candidate_rpm": 224.32146840737553,
+        "candidate_contrast": 3.7319497909439e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.008753319565856,
+          -23.403340511956404,
+          0.26540582989266503
+        ],
+        "measurement_axis": [
+          -0.08551201698106788,
+          -0.9962730773257196,
+          0.01129824534032932
+        ],
+        "measurement_rpm": 224.32146840737553
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 1,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run2_02095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 52,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -38.94543032581024,
+          15.960269111416714,
+          -63.823271297556616
+        ],
+        "rpm": 730.0614728533867,
+        "axis": [
+          -0.5094111642107002,
+          0.20876234262007012,
+          -0.8348164768865545
+        ],
+        "rank": 3,
+        "condition": 5.134202941555584,
+        "constraint_rms": 0.360922683573845
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.627277523369221,
+          1.4403699609975407,
+          -25.1696356795269
+        ],
+        "optimizer_candidate_contrast": 3.249322437601887e-07,
+        "zero_contrast": 3.004438035162549e-07,
+        "selected_seed": [
+          -18.67089432997786,
+          7.651539489083088,
+          -30.597621960295978
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 86,
+        "contrast_calls": 98,
+        "search_s": 0.02394300000742078,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150755634608675,
+          "displacement_rad": 0.2532960017312192
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.627277523369221,
+          1.4403699609975407,
+          -25.1696356795269
+        ],
+        "candidate_axis": [
+          -0.10365100164071295,
+          0.0568252831543783,
+          -0.9929891021825474
+        ],
+        "candidate_rpm": 242.04929895488928,
+        "candidate_contrast": 3.249322437601887e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.627277523369221,
+          1.4403699609975407,
+          -25.1696356795269
+        ],
+        "measurement_axis": [
+          -0.10365100164071295,
+          0.0568252831543783,
+          -0.9929891021825474
+        ],
+        "measurement_rpm": 242.04929895488928
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 5,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -30.559388269289187,
+          -33.48091320512355,
+          -78.51577453545845
+        ],
+        "rpm": 865.7570824383695,
+        "axis": [
+          -0.3370699102263308,
+          -0.3692943166564593,
+          -0.8660286273012295
+        ],
+        "rank": 3,
+        "condition": 24.493470547382014,
+        "constraint_rms": 0.08912985847647358
+      },
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run2_02095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 79,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -25.49195020376172,
+          10.6078075641177,
+          -61.99563851950663
+        ],
+        "rpm": 648.0746970295738,
+        "axis": [
+          -0.3756205791625885,
+          0.15630466829843417,
+          -0.9134976908441959
+        ],
+        "rank": 3,
+        "condition": 3.924492603545309,
+        "constraint_rms": 0.38991267064834695
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.629388846883873,
+          1.43948756390619,
+          -25.192956614106336
+        ],
+        "optimizer_candidate_contrast": 3.2493224381180524e-07,
+        "zero_contrast": 3.004438035162549e-07,
+        "selected_seed": [
+          -13.767213273733864,
+          5.728865305895085,
+          -33.48143907065259
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 73,
+        "contrast_calls": 85,
+        "search_s": 0.020617874979507178,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150755651788777,
+          "displacement_rad": 0.25352910075400986
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.629388846883873,
+          1.43948756390619,
+          -25.192956614106336
+        ],
+        "candidate_axis": [
+          -0.10363892219380642,
+          0.056738256804971694,
+          -0.9929953393753865
+        ],
+        "candidate_rpm": 242.2720480494977,
+        "candidate_contrast": 3.2493224381180524e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.629388846883873,
+          1.43948756390619,
+          -25.192956614106336
+        ],
+        "measurement_axis": [
+          -0.10363892219380642,
+          0.056738256804971694,
+          -0.9929953393753865
+        ],
+        "measurement_rpm": 242.2720480494977
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run3_01495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 103,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -43.9777919280771,
+          -26.54452470271618,
+          -11.216958773241993
+        ],
+        "rpm": 502.0858267749173,
+        "axis": [
+          -0.8364246825981095,
+          -0.5048569897619652,
+          -0.2133381593366241
+        ],
+        "rank": 3,
+        "condition": 4.700922163310745,
+        "constraint_rms": 0.19643567027609005
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -20.571337853677427,
+          -18.443982518007406,
+          2.562009162549869
+        ],
+        "optimizer_candidate_contrast": 4.225742463669066e-07,
+        "zero_contrast": 2.929892390546342e-07,
+        "selected_seed": [
+          -30.656565778199607,
+          -18.50397511841255,
+          -7.81925193119358
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 107,
+        "contrast_calls": 119,
+        "search_s": 0.028758291038684547,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422858932648668,
+          "displacement_rad": 0.27736411211493367
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.571337853677427,
+          -18.443982518007406,
+          2.562009162549869
+        ],
+        "candidate_axis": [
+          -0.741375989912316,
+          -0.6647076575415234,
+          0.0923329387986443
+        ],
+        "candidate_rpm": 264.9692045581413,
+        "candidate_contrast": 4.225742463669066e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.571337853677427,
+          -18.443982518007406,
+          2.562009162549869
+        ],
+        "measurement_axis": [
+          -0.741375989912316,
+          -0.6647076575415234,
+          0.0923329387986443
+        ],
+        "measurement_rpm": 264.9692045581413
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 7,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -27.169728949625842,
+          -23.179192246037257,
+          14.162542817414106
+        ],
+        "rpm": 366.87780368968777,
+        "axis": [
+          -0.7071885987069542,
+          -0.6033207218970038,
+          0.36863042792012274
+        ],
+        "rank": 3,
+        "condition": 9.358567575744829,
+        "constraint_rms": 0.09583971962627988
+      },
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run3_01495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 155,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -50.04615726105528,
+          -30.365256166845505,
+          -14.431424024776216
+        ],
+        "rpm": 575.7309350846987,
+        "axis": [
+          -0.8300849746431825,
+          -0.5036499158928271,
+          -0.23936519607657053
+        ],
+        "rank": 3,
+        "condition": 3.6703030266315624,
+        "constraint_rms": 0.2730632761329774
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          -20.566834590971602,
+          -18.483788041603464,
+          2.591532632790213
+        ],
+        "optimizer_candidate_contrast": 4.2257434705550374e-07,
+        "zero_contrast": 2.929892390546342e-07,
+        "selected_seed": [
+          -30.424203345600066,
+          -18.45973355041693,
+          -8.773192651057732
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 80,
+        "contrast_calls": 92,
+        "search_s": 0.02529529097955674,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228623692457725,
+          "displacement_rad": 0.27762279829769604
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.566834590971602,
+          -18.483788041603464,
+          2.591532632790213
+        ],
+        "candidate_axis": [
+          -0.7405230400094929,
+          -0.66552151479197,
+          0.0933099167511199
+        ],
+        "candidate_rpm": 265.21633051670204,
+        "candidate_contrast": 4.2257434705550374e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.566834590971602,
+          -18.483788041603464,
+          2.591532632790213
+        ],
+        "measurement_axis": [
+          -0.7405230400094929,
+          -0.66552151479197,
+          0.0933099167511199
+        ],
+        "measurement_rpm": 265.21633051670204
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 5,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          27.537360472066748,
+          43.90986651248597,
+          17.01590307212383
+        ],
+        "rpm": 520.9334769772502,
+        "axis": [
+          0.5047907918220649,
+          0.8049172435434732,
+          0.3119206430136197
+        ],
+        "rank": 3,
+        "condition": 63.04941202163871,
+        "constraint_rms": 0.01580020951829886
+      },
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run4_02495000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 147,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          9.190533849875543,
+          43.3619864169122,
+          1.1734559543682659
+        ],
+        "rpm": 423.42325973513266,
+        "axis": [
+          0.20727045927180282,
+          0.9779256555039811,
+          0.026464486021172302
+        ],
+        "rank": 3,
+        "condition": 3.2102906080029583,
+        "constraint_rms": 0.16582522404102473
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          1.1080206702775053,
+          29.268559891536917,
+          -2.138419297401728
+        ],
+        "optimizer_candidate_contrast": 2.1414231509277617e-07,
+        "zero_contrast": 1.256769301005065e-07,
+        "selected_seed": [
+          7.5968591084689105,
+          35.84284730936338,
+          0.9699740734266877
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 71,
+        "contrast_calls": 83,
+        "search_s": 0.027973499963991344,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110910930275,
+          "displacement_rad": 0.2935280074352378
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1080206702775053,
+          29.268559891536917,
+          -2.138419297401728
+        ],
+        "candidate_axis": [
+          0.03772950559706678,
+          0.9966314924154401,
+          -0.07281588242391482
+        ],
+        "candidate_rpm": 280.4388193250588,
+        "candidate_contrast": 2.1414231509277617e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1080206702775053,
+          29.268559891536917,
+          -2.138419297401728
+        ],
+        "measurement_axis": [
+          0.03772950559706678,
+          0.9966314924154401,
+          -0.07281588242391482
+        ],
+        "measurement_rpm": 280.4388193250588
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 30,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          7.42916299731864,
+          45.72670597473625,
+          2.8324770539476973
+        ],
+        "rpm": 443.20949221735975,
+        "axis": [
+          0.16006715128909652,
+          0.9852177918093685,
+          0.06102794262028957
+        ],
+        "rank": 3,
+        "condition": 3.4480814458441067,
+        "constraint_rms": 0.09968638432183505
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          1.0865466540794526,
+          29.257692076858305,
+          -2.1596012587050843
+        ],
+        "optimizer_candidate_contrast": 2.1414226348554754e-07,
+        "zero_contrast": 1.256769301005065e-07,
+        "selected_seed": [
+          5.866767509993501,
+          36.11011806423315,
+          2.2367909223286797
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 87,
+        "contrast_calls": 99,
+        "search_s": 0.03376170800765976,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039106804589628,
+          "displacement_rad": 0.2934272252790645
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.0865466540794526,
+          29.257692076858305,
+          -2.1596012587050843
+        ],
+        "candidate_axis": [
+          0.03701099581743199,
+          0.9966036111001019,
+          -0.07356241248653278
+        ],
+        "candidate_rpm": 280.3425313110691,
+        "candidate_contrast": 2.1414226348554754e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.0865466540794526,
+          29.257692076858305,
+          -2.1596012587050843
+        ],
+        "measurement_axis": [
+          0.03701099581743199,
+          0.9966036111001019,
+          -0.07356241248653278
+        ],
+        "measurement_rpm": 280.3425313110691
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 187,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          11.689496004631433,
+          53.733906884571425,
+          1.5812144888731625
+        ],
+        "rpm": 525.339544052162,
+        "axis": [
+          0.21248441231433288,
+          0.9767416508973126,
+          0.028742336819141217
+        ],
+        "rank": 3,
+        "condition": 2.9197998120762874,
+        "constraint_rms": 0.2385708729217961
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          1.1272354777018125,
+          29.263274333498956,
+          -2.1673205185120743
+        ],
+        "optimizer_candidate_contrast": 2.1414224706839292e-07,
+        "zero_contrast": 1.256769301005065e-07,
+        "selected_seed": [
+          7.787960468505614,
+          35.79945127399857,
+          1.053461665643537
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 65,
+        "contrast_calls": 77,
+        "search_s": 0.026449833996593952,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039105498291438,
+          "displacement_rad": 0.29350384515092687
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1272354777018125,
+          29.263274333498956,
+          -2.1673205185120743
+        ],
+        "candidate_axis": [
+          0.03838695398977139,
+          0.9965335439231413,
+          -0.07380608104602125
+        ],
+        "candidate_rpm": 280.41573450073975,
+        "candidate_contrast": 2.1414224706839292e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1272354777018125,
+          29.263274333498956,
+          -2.1673205185120743
+        ],
+        "measurement_axis": [
+          0.03838695398977139,
+          0.9965335439231413,
+          -0.07380608104602125
+        ],
+        "measurement_rpm": 280.41573450073975
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_04095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 11,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -2.159740541414072,
+          31.27699707269389,
+          5.7895419439901445
+        ],
+        "rpm": 304.44646500691124,
+        "axis": [
+          -0.0677426258743151,
+          0.9810372452333064,
+          0.18159531961121148
+        ],
+        "rank": 3,
+        "condition": 3.095346347563648,
+        "constraint_rms": 0.5533765497085786
+      },
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_04095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_04095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 25,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          -3.42225176761469,
+          32.451083563739566,
+          9.95018628116212
+        ],
+        "rpm": 325.76832067568824,
+        "axis": [
+          -0.10031698923783701,
+          0.9512435734349324,
+          0.29167133158573555
+        ],
+        "rank": 3,
+        "condition": 3.051765800862659,
+        "constraint_rms": 0.522091741168231
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "optimizer_candidate_contrast": 2.8717066097430066e-07,
+        "zero_contrast": 2.765588407398922e-07,
+        "selected_seed": [
+          -0.0,
+          0.0,
+          0.0
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 70,
+        "contrast_calls": 82,
+        "search_s": 0.011926707986276597,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_01525000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_01525000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_01525000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_01525000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_05095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_05095000",
+      "representation": "all",
+      "residual_ratio_limit": 0.8,
+      "planes": 9,
+      "production_solver_valid": false,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          7.674947579712839,
+          27.09331727327924,
+          10.893855773538728
+        ],
+        "rpm": 288.32373130595585,
+        "axis": [
+          0.2541946526044929,
+          0.8973320404674611,
+          0.36080505503357924
+        ],
+        "rank": 3,
+        "condition": 6.326464175096779,
+        "constraint_rms": 0.261029993877676
+      },
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_05095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.5,
+      "planes": 0,
+      "production_solver_valid": false,
+      "coarse_candidate": null,
+      "seed_available": false,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic"
+    },
+    {
+      "case": "run5_05095000",
+      "representation": "latest",
+      "residual_ratio_limit": 0.8,
+      "planes": 45,
+      "production_solver_valid": true,
+      "coarse_candidate": {
+        "omega_rad_s": [
+          3.478172032033378,
+          34.03385320275768,
+          5.089493092327964
+        ],
+        "rpm": 330.28748673312407,
+        "axis": [
+          0.10056117062697871,
+          0.9839893160819992,
+          0.14714780595921667
+        ],
+        "rank": 3,
+        "condition": 3.291521429405539,
+        "constraint_rms": 0.2948015276259794
+      },
+      "seed_available": true,
+      "qualification": "12 planes, rank 3, condition <=100; final measurement residual gate withheld for coarse-seed diagnostic",
+      "search": {
+        "optimizer_candidate_omega": [
+          1.8566323758545922,
+          6.26178688066113,
+          -0.45736350962722283
+        ],
+        "optimizer_candidate_contrast": 4.2992355874202565e-07,
+        "zero_contrast": 4.131662092165717e-07,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 1,
+        "objective_calls": 69,
+        "contrast_calls": 81,
+        "search_s": 0.011708457954227924,
+        "multistart_check": "not_performed_single_start_not_a_pass"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.04055837372864679,
+          "displacement_rad": 0.06502055586210474
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.8566323758545922,
+          6.26178688066113,
+          -0.45736350962722283
+        ],
+        "candidate_axis": [
+          0.2835751844957405,
+          0.9564022436801217,
+          -0.069856016361053
+        ],
+        "candidate_rpm": 62.52145524944125,
+        "candidate_contrast": 4.2992355874202565e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    }
+  ],
+  "baselines": {
+    "run1_01495000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          0.763207929024869,
+          -27.7227171797822,
+          1.2831794431241743
+        ],
+        "optimizer_candidate_contrast": 2.2281765707866893e-07,
+        "zero_contrast": 1.5289846952690736e-07,
+        "selected_seed": [
+          -21.734260224084537,
+          -41.84799550118853,
+          56.12324375944265
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 676,
+        "contrast_calls": 1385,
+        "search_s": 0.5122027500183322,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.45729161166951426,
+          "displacement_rad": 0.2774068009296991
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.763207929024869,
+          -27.7227171797822,
+          1.2831794431241743
+        ],
+        "candidate_axis": [
+          0.027490218701411998,
+          -0.9985529883623252,
+          0.04621923093711751
+        ],
+        "candidate_rpm": 265.11607455126705,
+        "candidate_contrast": 2.2281765707866893e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.763207929024869,
+          -27.7227171797822,
+          1.2831794431241743
+        ],
+        "measurement_axis": [
+          0.027490218701411998,
+          -0.9985529883623252,
+          0.04621923093711751
+        ],
+        "measurement_rpm": 265.11607455126705
+      }
+    },
+    "run1_01425000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.0059558340189385,
+          -23.409890358700725,
+          0.26538586419468957
+        ],
+        "optimizer_candidate_contrast": 3.731950082392342e-07,
+        "zero_contrast": 2.689054946675457e-07,
+        "selected_seed": [
+          -36.352111550038515,
+          30.03592483692279,
+          -56.12324375944265
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 738,
+        "contrast_calls": 1447,
+        "search_s": 0.3549464159877971,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.38782961166570473,
+          "displacement_rad": 0.23490126317430654
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.0059558340189385,
+          -23.409890358700725,
+          0.26538586419468957
+        ],
+        "candidate_axis": [
+          -0.08537008359042651,
+          -0.9962852934608193,
+          0.011294372999542486
+        ],
+        "candidate_rpm": 224.38149748557223,
+        "candidate_contrast": 3.731950082392342e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.0059558340189385,
+          -23.409890358700725,
+          0.26538586419468957
+        ],
+        "measurement_axis": [
+          -0.08537008359042651,
+          -0.9962852934608193,
+          0.011294372999542486
+        ],
+        "measurement_rpm": 224.38149748557223
+      }
+    },
+    "run2_02095000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          -2.6138584752920684,
+          1.4396225917849135,
+          -25.181710904607375
+        ],
+        "optimizer_candidate_contrast": 3.249322843053892e-07,
+        "zero_contrast": 3.004438035162549e-07,
+        "selected_seed": [
+          -36.352111550038515,
+          30.03592483692279,
+          -56.12324375944265
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 755,
+        "contrast_calls": 1464,
+        "search_s": 0.3696237920084968,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150769129711599,
+          "displacement_rad": 0.2534015421881845
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.6138584752920684,
+          1.4396225917849135,
+          -25.181710904607375
+        ],
+        "candidate_axis": [
+          -0.10307864552850998,
+          0.05677214288231522,
+          -0.9930517190099204
+        ],
+        "candidate_rpm": 242.15015326543994,
+        "candidate_contrast": 3.249322843053892e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.6138584752920684,
+          1.4396225917849135,
+          -25.181710904607375
+        ],
+        "measurement_axis": [
+          -0.10307864552850998,
+          0.05677214288231522,
+          -0.9930517190099204
+        ],
+        "measurement_rpm": 242.15015326543994
+      }
+    },
+    "run3_01495000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          -20.577902497634803,
+          -18.488302175133988,
+          2.573037235415261
+        ],
+        "optimizer_candidate_contrast": 4.225743658349879e-07,
+        "zero_contrast": 2.929892390546342e-07,
+        "selected_seed": [
+          -54.52816732505777,
+          45.05388725538418,
+          -84.18486563916397
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 732,
+        "contrast_calls": 1441,
+        "search_s": 0.3569312500185333,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228630102073385,
+          "displacement_rad": 0.2777175763812616
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.577902497634803,
+          -18.488302175133988,
+          2.573037235415261
+        ],
+        "candidate_axis": [
+          -0.7406686895609695,
+          -0.6654568679114721,
+          0.09261236015505699
+        ],
+        "candidate_rpm": 265.3068731367274,
+        "candidate_contrast": 4.225743658349879e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.577902497634803,
+          -18.488302175133988,
+          2.573037235415261
+        ],
+        "measurement_axis": [
+          -0.7406686895609695,
+          -0.6654568679114721,
+          0.09261236015505699
+        ],
+        "measurement_rpm": 265.3068731367274
+      }
+    },
+    "run4_02495000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          1.0921454531137007,
+          29.269157197539542,
+          -2.154553120395949
+        ],
+        "optimizer_candidate_contrast": 2.141423162356527e-07,
+        "zero_contrast": 1.256769301005065e-07,
+        "selected_seed": [
+          6.20720310370609,
+          36.11793849944847,
+          -0.5726861608106393
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 753,
+        "contrast_calls": 1462,
+        "search_s": 0.5473777499864809,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.703911100186793,
+          "displacement_rad": 0.29353979987036904
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.0921454531137007,
+          29.269157197539542,
+          -2.154553120395949
+        ],
+        "candidate_axis": [
+          0.037187440369899016,
+          0.9966117927401991,
+          -0.0733623121902636
+        ],
+        "candidate_rpm": 280.45008590440176,
+        "candidate_contrast": 2.141423162356527e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.0921454531137007,
+          29.269157197539542,
+          -2.154553120395949
+        ],
+        "measurement_axis": [
+          0.037187440369899016,
+          0.9966117927401991,
+          -0.0733623121902636
+        ],
+        "measurement_rpm": 280.45008590440176
+      }
+    },
+    "run5_04095000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          0.9440689699422502,
+          6.091819255030559,
+          0.31565527721919545
+        ],
+        "optimizer_candidate_contrast": 2.871709019527655e-07,
+        "zero_contrast": 2.765588407398922e-07,
+        "selected_seed": [
+          -71.46936189471809,
+          -6.623764396576331,
+          -14.889840181076622
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 744,
+        "contrast_calls": 1453,
+        "search_s": 0.21381675003794953,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.038371802486885986,
+          "displacement_rad": 0.06153479116003518
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9440689699422502,
+          6.091819255030559,
+          0.31565527721919545
+        ],
+        "candidate_axis": [
+          0.15294475505535965,
+          0.9869107379508155,
+          0.051138021260432605
+        ],
+        "candidate_rpm": 58.94412389555862,
+        "candidate_contrast": 2.871709019527655e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    "run5_05095000": {
+      "search": {
+        "optimizer_candidate_omega": [
+          1.8625563437514543,
+          6.260052161915748,
+          -0.5005133195230245
+        ],
+        "optimizer_candidate_contrast": 4.2992433543812173e-07,
+        "zero_contrast": 4.131662092165717e-07,
+        "selected_seed": [
+          -9.204474276233016,
+          -20.17998541808712,
+          -69.86771161889799
+        ],
+        "optimizer_converged": true,
+        "nm_calls": 8,
+        "objective_calls": 767,
+        "contrast_calls": 1476,
+        "search_s": 0.22285470803035423,
+        "multistart_check": "performed_by_frozen_G"
+      },
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.04056025359219495,
+          "displacement_rad": 0.06505213051731627
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.8625563437514543,
+          6.260052161915748,
+          -0.5005133195230245
+        ],
+        "candidate_axis": [
+          0.28434191013731597,
+          0.9556732043301271,
+          -0.07640945402795114
+        ],
+        "candidate_rpm": 62.55181631551719,
+        "candidate_contrast": 4.2992433543812173e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    }
+  }
+}

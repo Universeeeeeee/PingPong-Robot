@@ -1,0 +1,56 @@
+{
+  "comparisons": [
+    {
+      "method": "coarse_flow",
+      "windows": 108,
+      "accepted": 53,
+      "statuses": {
+        "accepted": 53,
+        "geometry_unavailable": 20,
+        "insufficient_events": 12,
+        "initializer_rejected": 6,
+        "refinement_rejected": 17
+      },
+      "rpm_absolute_difference_median": 0.0722947889642569,
+      "rpm_absolute_difference_max": 0.64834663028347,
+      "directed_axis_difference_median_deg": 0.04854568037978655,
+      "directed_axis_difference_max_deg": 0.42118504417578745
+    },
+    {
+      "method": "zero",
+      "windows": 108,
+      "accepted": 53,
+      "statuses": {
+        "accepted": 53,
+        "geometry_unavailable": 20,
+        "insufficient_events": 12,
+        "no_rotation_evidence": 23
+      },
+      "rpm_absolute_difference_median": 0.10664718611809576,
+      "rpm_absolute_difference_max": 0.554639864117803,
+      "directed_axis_difference_median_deg": 0.04803554141433923,
+      "directed_axis_difference_max_deg": 0.13816409599561597
+    }
+  ],
+  "strict_baseline_accepted_planes": 0,
+  "strict_gate_cases": 8,
+  "residual_sensitivity_rows": 96,
+  "generic_seed_rotation_trials": 40,
+  "generic_seed_rotation_acceptances": 40,
+  "generic_seed_rotation_scan_selected_zero": 23,
+  "source_hashes": {
+    "gate_diagnostics.json": "b7cdbf236d761c5fc14b41700e743d4251afd17d244e8f3f31d77098e90858ac",
+    "gate_refinement.json": "844ca9ab821cd801208a31ae8ca20ea39ca7ad8d0c85d06b6086c0927501790d",
+    "zero_seed_results.json": "3c357806df8dbfa2b0c369022cc0ae580fcf915b2f05cfa1e5a010c924e4a2bf",
+    "seed_controls.json": "4e6b6b27e188af7af47ab9b82a880e50049b9f74d65ddb364c426eb4a1b4de8c",
+    "constraint_sensitivity.json": "afb7eed9a849c18702a09b4513d09bcda3e8b31c6e10e0c7e0db9b84e585df47",
+    "coarse_seed/results.json": "cc8bd72e129db18c0ec317371c7fc37a150fea01d1f0c1e8f961d07c07ef90d1",
+    "coarse_seed/extension/results.json": "2738346f4ae82fbf40f95a63661e4324f1ac4f2d59cfb63b0ce187ade02676ef"
+  },
+  "limitations": [
+    "Old Nov5 recordings only for new real-event runs; Nov13 raw windows unavailable while Linux powered off",
+    "Acceptance is optimizer quality-gate acceptance, not physical correctness",
+    "G has an extra multistart-ambiguity gate; single-start methods do not",
+    "Four original rotation pilot windows and archive expansion are exploratory reuse, not new blind recordings"
+  ]
+}

@@ -1,0 +1,1298 @@
+[
+  {
+    "case": "run1_01495000",
+    "window_ms": 10,
+    "sampled_events": 4000,
+    "full_roi_events": 6501,
+    "central10ms_events": 6501,
+    "initial_rpm": 198.38345285524017,
+    "initial_axis": [
+      0.17490217190197993,
+      -0.9473423853809982,
+      -0.2682380195360277
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 262.6394881533181,
+        "axis": [
+          0.05346494976051816,
+          -0.9964176561912433,
+          0.06552368714789018
+        ],
+        "omega_rad_s": [
+          1.4704755385383126,
+          -27.405015737598283,
+          1.8021335394008222
+        ],
+        "contrast": 2.031258355018265e-07,
+        "gain": 0.39455195559047307,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 15.758369289199086,
+        "nm_calls": 8,
+        "objective_calls": 748,
+        "contrast_calls": 1317,
+        "zero_scan_won": null,
+        "selected_seed": [
+          22.287786679690463,
+          -14.177665509762486,
+          39.02447124381071
+        ]
+      },
+      "zero": {
+        "rpm": 262.70448462766063,
+        "axis": [
+          0.05410530839204966,
+          -0.996353630251606,
+          0.0659701378522691
+        ],
+        "omega_rad_s": [
+          1.4884559327978397,
+          -27.41003639359326,
+          1.8148615356220765
+        ],
+        "contrast": 2.0312574413912708e-07,
+        "gain": 0.394551328343669,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.999999550216253,
+        "directed_axis_difference_to_grid_deg": 0.044876780244816755,
+        "rpm_difference_to_grid": 0.06499647434253575,
+        "candidate_rotation_degrees": 15.762269077659639,
+        "nm_calls": 1,
+        "objective_calls": 110,
+        "contrast_calls": 112,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 262.901080183075,
+        "axis": [
+          0.053904188408891565,
+          -0.9964496442797358,
+          0.06467182452016348
+        ],
+        "omega_rad_s": [
+          1.484032800969623,
+          -27.433192118735562,
+          1.780475909561101
+        ],
+        "contrast": 2.0312568156708707e-07,
+        "gain": 0.3945508987579369,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999992421705538,
+        "directed_axis_difference_to_grid_deg": 0.05494494484719673,
+        "rpm_difference_to_grid": 0.26159202975691187,
+        "candidate_rotation_degrees": 15.7740648109845,
+        "nm_calls": 1,
+        "objective_calls": 72,
+        "contrast_calls": 82,
+        "zero_scan_won": false,
+        "selected_seed": [
+          5.494713783441594,
+          -29.761638783471753,
+          -8.426945915878603
+        ]
+      }
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "window_ms": 50,
+    "sampled_events": 4000,
+    "full_roi_events": 28183,
+    "central10ms_events": 6501,
+    "initial_rpm": 198.38345285524017,
+    "initial_axis": [
+      0.17490217190197993,
+      -0.9473423853809982,
+      -0.2682380195360277
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 268.8797111609345,
+        "axis": [
+          -0.018276101691216424,
+          -0.9970142073151355,
+          0.07502435950239512
+        ],
+        "omega_rad_s": [
+          -0.5146005153234832,
+          -28.072946492510688,
+          2.1124622041418037
+        ],
+        "contrast": 1.6874602608956874e-07,
+        "gain": 1.3363646962193028,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 80.66391334828036,
+        "nm_calls": 8,
+        "objective_calls": 657,
+        "contrast_calls": 1786,
+        "zero_scan_won": null,
+        "selected_seed": [
+          7.5397899949901515,
+          -20.33728891271011,
+          -9.203884727313847
+        ]
+      },
+      "zero": {
+        "rpm": 268.87939953142023,
+        "axis": [
+          -0.01823432442263208,
+          -0.9970366689866121,
+          0.07473546754340349
+        ],
+        "omega_rad_s": [
+          -0.5134235969857739,
+          -28.073546409125974,
+          2.1043254292943545
+        ],
+        "contrast": 1.687459936263324e-07,
+        "gain": 1.3363642467511818,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999998076207357,
+        "directed_axis_difference_to_grid_deg": 0.016773913739813354,
+        "rpm_difference_to_grid": -0.00031162951427177177,
+        "candidate_rotation_degrees": 80.66381985942607,
+        "nm_calls": 1,
+        "objective_calls": 103,
+        "contrast_calls": 105,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 268.88622392079094,
+        "axis": [
+          -0.018229451045444697,
+          -0.9970286317301933,
+          0.07484380151221848
+        ],
+        "omega_rad_s": [
+          -0.5132994050257418,
+          -28.074032629118765,
+          2.1074292742175817
+        ],
+        "contrast": 1.6874601318417208e-07,
+        "gain": 1.3363645175382763,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999235217744,
+        "directed_axis_difference_to_grid_deg": 0.010716843452802188,
+        "rpm_difference_to_grid": 0.0065127598564345135,
+        "candidate_rotation_degrees": 80.66586717623728,
+        "nm_calls": 1,
+        "objective_calls": 77,
+        "contrast_calls": 95,
+        "zero_scan_won": false,
+        "selected_seed": [
+          4.121035337581195,
+          -22.32122908760381,
+          -6.320209436908952
+        ]
+      }
+    }
+  },
+  {
+    "case": "run1_01495000",
+    "window_ms": 250,
+    "sampled_events": 4000,
+    "full_roi_events": 104336,
+    "central10ms_events": 6501,
+    "initial_rpm": 198.38345285524017,
+    "initial_axis": [
+      0.17490217190197993,
+      -0.9473423853809982,
+      -0.2682380195360277
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 250.09170486388737,
+        "axis": [
+          -0.019692646738900286,
+          -0.9378701438903339,
+          0.3464271826279532
+        ],
+        "omega_rad_s": [
+          -0.5157414006477732,
+          -24.56238960912478,
+          9.072769280833601
+        ],
+        "contrast": 6.647865226667687e-08,
+        "gain": 0.41587917396006757,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 375.1375572958311,
+        "nm_calls": 8,
+        "objective_calls": 961,
+        "contrast_calls": 3070,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -0.0,
+          -25.13274122871835,
+          -0.0
+        ]
+      },
+      "zero": {
+        "rpm": 213.5199960823047,
+        "axis": [
+          0.0874773468808887,
+          -0.14991094755584666,
+          0.9848220253353338
+        ],
+        "omega_rad_s": [
+          1.9559726306576894,
+          -3.3519730640031202,
+          22.020385806255227
+        ],
+        "contrast": 5.8173416011459047e-08,
+        "gain": 0.23899214861230123,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.8750691241166917,
+        "directed_axis_difference_to_grid_deg": 61.311759435389206,
+        "rpm_difference_to_grid": -36.571708781582686,
+        "candidate_rotation_degrees": 320.279994123457,
+        "nm_calls": 1,
+        "objective_calls": 143,
+        "contrast_calls": 145,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 249.27062176401057,
+        "axis": [
+          -0.014673863302407402,
+          -0.9929791766432092,
+          -0.11737560431689514
+        ],
+        "omega_rad_s": [
+          -0.38304004869008,
+          -25.92028999665343,
+          -3.063920950196871
+        ],
+        "contrast": 6.475977062125162e-08,
+        "gain": 0.37926999731044186,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9741438554059428,
+        "directed_axis_difference_to_grid_deg": 27.01187769788867,
+        "rpm_difference_to_grid": -0.8210830998768017,
+        "candidate_rotation_degrees": 373.90593264601586,
+        "nm_calls": 1,
+        "objective_calls": 110,
+        "contrast_calls": 142,
+        "zero_scan_won": false,
+        "selected_seed": [
+          4.395771026753276,
+          -23.8093110267774,
+          -6.741556732702883
+        ]
+      }
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "window_ms": 10,
+    "sampled_events": 2817,
+    "full_roi_events": 2817,
+    "central10ms_events": 2817,
+    "initial_rpm": 177.68039692932746,
+    "initial_axis": [
+      -0.5165068582404134,
+      0.25921065342939603,
+      -0.8161069185709205
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 237.52621054168713,
+        "axis": [
+          -0.08554352967013566,
+          0.04912883898707687,
+          -0.9951224355381384
+        ],
+        "omega_rad_s": [
+          -2.127782947880304,
+          1.2220153441056092,
+          -24.75236359261875
+        ],
+        "contrast": 3.2443575314724123e-07,
+        "gain": 0.08134626263788047,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 14.251572632501228,
+        "nm_calls": 8,
+        "objective_calls": 821,
+        "contrast_calls": 1390,
+        "zero_scan_won": null,
+        "selected_seed": [
+          2.5462602734272313,
+          1.0802535691413953,
+          -15.462526341887264
+        ]
+      },
+      "zero": {
+        "rpm": 237.53222438089716,
+        "axis": [
+          -0.08630809947513929,
+          0.04850137625516409,
+          -0.9950871964136331
+        ],
+        "omega_rad_s": [
+          -2.14685497165493,
+          1.2064385773608457,
+          -24.752113739523708
+        ],
+        "contrast": 3.2443572693289474e-07,
+        "gain": 0.0813461752653104,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999192001923,
+        "directed_axis_difference_to_grid_deg": 0.056705987636545246,
+        "rpm_difference_to_grid": 0.006013839210027072,
+        "candidate_rotation_degrees": 14.25193346285383,
+        "nm_calls": 1,
+        "objective_calls": 98,
+        "contrast_calls": 100,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 237.422865037065,
+        "axis": [
+          -0.0852970948071234,
+          0.048560786488389594,
+          -0.9951714704678253
+        ],
+        "omega_rad_s": [
+          -2.1207300922213355,
+          1.2073602441060225,
+          -24.742813212027713
+        ],
+        "contrast": 3.244357298860634e-07,
+        "gain": 0.08134618510823888,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999283026683,
+        "directed_axis_difference_to_grid_deg": 0.03558885360809059,
+        "rpm_difference_to_grid": -0.10334550462212633,
+        "candidate_rotation_degrees": 14.2453719022239,
+        "nm_calls": 1,
+        "objective_calls": 82,
+        "contrast_calls": 92,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -16.226541513768275,
+          8.143342845460005,
+          -25.638754999262073
+        ]
+      }
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "window_ms": 50,
+    "sampled_events": 4000,
+    "full_roi_events": 14571,
+    "central10ms_events": 2817,
+    "initial_rpm": 177.68039692932746,
+    "initial_axis": [
+      -0.5165068582404134,
+      0.25921065342939603,
+      -0.8161069185709205
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 254.406270944179,
+        "axis": [
+          -0.1267523717778222,
+          0.11833916078158195,
+          -0.9848500795929336
+        ],
+        "omega_rad_s": [
+          -3.376855870854825,
+          3.152716467805287,
+          -26.237747874372598
+        ],
+        "contrast": 3.1694397728056797e-07,
+        "gain": 0.5824214242782604,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 76.3218812832537,
+        "nm_calls": 8,
+        "objective_calls": 665,
+        "contrast_calls": 1794,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -2.817311674239405,
+          8.684403554573946,
+          -21.72116795646068
+        ]
+      },
+      "zero": {
+        "rpm": 254.3695951214819,
+        "axis": [
+          -0.1266809554892903,
+          0.11839835185536962,
+          -0.9848521542821809
+        ],
+        "omega_rad_s": [
+          -3.3744667022172825,
+          3.153838668095042,
+          -26.23402064182517
+        ],
+        "contrast": 3.169439504856136e-07,
+        "gain": 0.5824212904978041,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999154583892,
+        "directed_axis_difference_to_grid_deg": 0.00531591642156851,
+        "rpm_difference_to_grid": -0.03667582269710579,
+        "candidate_rotation_degrees": 76.31087853644458,
+        "nm_calls": 1,
+        "objective_calls": 102,
+        "contrast_calls": 104,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 254.5259860379059,
+        "axis": [
+          -0.1268981136268401,
+          0.1184334506876359,
+          -0.9848199767044579
+        ],
+        "omega_rad_s": [
+          -3.382329494951395,
+          3.156713224497736,
+          -26.249292122812925
+        ],
+        "contrast": 3.169439164160874e-07,
+        "gain": 0.5824211203972438,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.999999807964546,
+        "directed_axis_difference_to_grid_deg": 0.010094055707344977,
+        "rpm_difference_to_grid": 0.11971509372691003,
+        "candidate_rotation_degrees": 76.35779581137177,
+        "nm_calls": 1,
+        "objective_calls": 88,
+        "contrast_calls": 106,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -16.226541513768275,
+          8.143342845460005,
+          -25.638754999262073
+        ]
+      }
+    }
+  },
+  {
+    "case": "run2_02095000",
+    "window_ms": 250,
+    "sampled_events": 4000,
+    "full_roi_events": 107705,
+    "central10ms_events": 2817,
+    "initial_rpm": 177.68039692932746,
+    "initial_axis": [
+      -0.5165068582404134,
+      0.25921065342939603,
+      -0.8161069185709205
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 251.9287104461955,
+        "axis": [
+          -0.10398317852304963,
+          0.11607486729156165,
+          -0.9877824273429295
+        ],
+        "omega_rad_s": [
+          -2.7432751552767014,
+          3.062277034764781,
+          -26.059589928270064
+        ],
+        "contrast": 2.666621077887557e-07,
+        "gain": 3.3318860664733023,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 377.89306566929326,
+        "nm_calls": 8,
+        "objective_calls": 800,
+        "contrast_calls": 2909,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -4.006843270029377,
+          12.351151722060724,
+          -30.892327760299636
+        ]
+      },
+      "zero": {
+        "rpm": 77.7265659348448,
+        "axis": [
+          -0.01730776102214729,
+          -0.04216405387361965,
+          0.9989607769924416
+        ],
+        "omega_rad_s": [
+          -0.140876641145825,
+          -0.3431946095862034,
+          8.131048188095388
+        ],
+        "contrast": 6.849314937108113e-08,
+        "gain": 0.11266096960616645,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.25685370125904805,
+        "directed_axis_difference_to_grid_deg": 171.8298373230737,
+        "rpm_difference_to_grid": -174.2021445113507,
+        "candidate_rotation_degrees": 116.5898489022672,
+        "nm_calls": 1,
+        "objective_calls": 98,
+        "contrast_calls": 100,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 251.9275444586161,
+        "axis": [
+          -0.1040356906155116,
+          0.11608634122826153,
+          -0.9877755496358417
+        ],
+        "omega_rad_s": [
+          -2.7446478217654127,
+          3.0625655647962713,
+          -26.059287871896196
+        ],
+        "contrast": 2.6666210444408073e-07,
+        "gain": 3.3318860121395577,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999874572544,
+        "directed_axis_difference_to_grid_deg": 0.003104814746906382,
+        "rpm_difference_to_grid": -0.0011659875794123309,
+        "candidate_rotation_degrees": 377.89131668792413,
+        "nm_calls": 1,
+        "objective_calls": 114,
+        "contrast_calls": 146,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -15.144772079517056,
+          7.600453322429337,
+          -23.929504665977937
+        ]
+      }
+    }
+  },
+  {
+    "case": "run3_01495000",
+    "window_ms": 10,
+    "sampled_events": 2651,
+    "full_roi_events": 2651,
+    "central10ms_events": 2651,
+    "initial_rpm": 238.7922513114178,
+    "initial_axis": [
+      -0.39256804025731257,
+      -0.7492050454567298,
+      0.5334624013280713
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 264.94513491373465,
+        "axis": [
+          -0.7412379674729157,
+          -0.6648596376215595,
+          0.09234683447931152
+        ],
+        "omega_rad_s": [
+          -20.56563973447151,
+          -18.44652376339031,
+          2.562161966682835
+        ],
+        "contrast": 4.1650385544441994e-07,
+        "gain": 0.4384494477938934,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 15.89670809482408,
+        "nm_calls": 8,
+        "objective_calls": 826,
+        "contrast_calls": 1395,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -49.43581190037776,
+          6.161090028941035,
+          -38.2881604656256
+        ]
+      },
+      "zero": {
+        "rpm": 265.02789247237405,
+        "axis": [
+          -0.7411885547841075,
+          -0.6648942750927197,
+          0.09249394145549727
+        ],
+        "omega_rad_s": [
+          -20.570692180308818,
+          -18.4532469870178,
+          2.567045033201768
+        ],
+        "contrast": 4.1650385801451144e-07,
+        "gain": 0.43844945667003365,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0000000061706307,
+        "directed_axis_difference_to_grid_deg": 0.009110178569859278,
+        "rpm_difference_to_grid": 0.08275755863940049,
+        "candidate_rotation_degrees": 15.901673548342444,
+        "nm_calls": 1,
+        "objective_calls": 116,
+        "contrast_calls": 118,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 264.959016204359,
+        "axis": [
+          -0.7410928513706767,
+          -0.6648887781551623,
+          0.09329682915627509
+        ],
+        "omega_rad_s": [
+          -20.562690775898055,
+          -18.44829877967738,
+          2.5886551796634727
+        ],
+        "contrast": 4.165038314010887e-07,
+        "gain": 0.4384493647571672,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999999422734486,
+        "directed_axis_difference_to_grid_deg": 0.05508737608816309,
+        "rpm_difference_to_grid": 0.013881290624340181,
+        "candidate_rotation_degrees": 15.897540972261538,
+        "nm_calls": 1,
+        "objective_calls": 80,
+        "contrast_calls": 90,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -12.332888713065154,
+          -23.5369706683927,
+          16.759215609786388
+        ]
+      }
+    }
+  },
+  {
+    "case": "run3_01495000",
+    "window_ms": 50,
+    "sampled_events": 4000,
+    "full_roi_events": 14761,
+    "central10ms_events": 2651,
+    "initial_rpm": 238.7922513114178,
+    "initial_axis": [
+      -0.39256804025731257,
+      -0.7492050454567298,
+      0.5334624013280713
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 274.34777612926683,
+        "axis": [
+          -0.8170213822579436,
+          -0.5765946652214398,
+          -0.0038279199958992562
+        ],
+        "omega_rad_s": [
+          -23.472723594380646,
+          -16.565352506850758,
+          -0.1099747325545253
+        ],
+        "contrast": 2.7537871401063907e-07,
+        "gain": 2.8343895976838502,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 82.30433283878004,
+        "nm_calls": 8,
+        "objective_calls": 798,
+        "contrast_calls": 1927,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -11.64335369147386,
+          -22.41856901849386,
+          30.066023442558567
+        ]
+      },
+      "zero": {
+        "rpm": 274.110325791584,
+        "axis": [
+          -0.8158830065518562,
+          -0.5782170162958474,
+          4.105887796116095e-05
+        ],
+        "omega_rad_s": [
+          -23.419730943639465,
+          -16.597584261392573,
+          0.0011785854920082842
+        ],
+        "contrast": 2.7537766722958466e-07,
+        "gain": 2.8343750222421695,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999961987582876,
+        "directed_axis_difference_to_grid_deg": 0.249068315827677,
+        "rpm_difference_to_grid": -0.2374503376828443,
+        "candidate_rotation_degrees": 82.2330977374752,
+        "nm_calls": 1,
+        "objective_calls": 130,
+        "contrast_calls": 132,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 274.3566773726631,
+        "axis": [
+          -0.8170112341088602,
+          -0.5766089844306367,
+          -0.0038369797741044476
+        ],
+        "omega_rad_s": [
+          -23.47319360739985,
+          -16.566301370469443,
+          -0.11023859323485195
+        ],
+        "contrast": 2.753787303472267e-07,
+        "gain": 2.8343898251554687,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0000000593240757,
+        "directed_axis_difference_to_grid_deg": 0.001131651766868112,
+        "rpm_difference_to_grid": 0.008901243396280734,
+        "candidate_rotation_degrees": 82.30700321179893,
+        "nm_calls": 1,
+        "objective_calls": 102,
+        "contrast_calls": 120,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -12.332888713065154,
+          -23.5369706683927,
+          16.759215609786388
+        ]
+      }
+    }
+  },
+  {
+    "case": "run3_01495000",
+    "window_ms": 250,
+    "sampled_events": 4000,
+    "full_roi_events": 99783,
+    "central10ms_events": 2651,
+    "initial_rpm": 238.7922513114178,
+    "initial_axis": [
+      -0.39256804025731257,
+      -0.7492050454567298,
+      0.5334624013280713
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 250.441788957851,
+        "axis": [
+          -0.8049678453870958,
+          -0.5787420971636731,
+          -0.13070712629176026
+        ],
+        "omega_rad_s": [
+          -21.111249969774164,
+          -15.178207615706945,
+          -3.4279516030224113
+        ],
+        "contrast": 8.072830208589636e-08,
+        "gain": 0.6627547842860766,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 375.6626834367765,
+        "nm_calls": 8,
+        "objective_calls": 928,
+        "contrast_calls": 3037,
+        "zero_scan_won": null,
+        "selected_seed": [
+          -23.156799454334134,
+          -17.933927084449763,
+          -1.3744467859455347
+        ]
+      },
+      "zero": {
+        "rpm": 131.92176073857627,
+        "axis": [
+          -0.0021267095086546606,
+          0.030154102167355555,
+          0.999542999189703
+        ],
+        "omega_rad_s": [
+          -0.02938009731384859,
+          0.4165733272378471,
+          13.808501098086818
+        ],
+        "contrast": 6.02720256484397e-08,
+        "gain": 0.24141839251026131,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.7466034103418797,
+        "directed_axis_difference_to_grid_deg": 98.41760024751706,
+        "rpm_difference_to_grid": -118.52002821927474,
+        "candidate_rotation_degrees": 197.8826411078644,
+        "nm_calls": 1,
+        "objective_calls": 133,
+        "contrast_calls": 135,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 361.1051336485317,
+        "axis": [
+          -0.5618345042860419,
+          -0.530244564482581,
+          0.634966685449194
+        ],
+        "omega_rad_s": [
+          -21.24568254234962,
+          -20.051113986171075,
+          24.01116435731285
+        ],
+        "contrast": 6.300978112063396e-08,
+        "gain": 0.2978077366680607,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.780516615518439,
+        "directed_axis_difference_to_grid_deg": 47.45734581312924,
+        "rpm_difference_to_grid": 110.6633446906807,
+        "candidate_rotation_degrees": 541.6577004727976,
+        "nm_calls": 1,
+        "objective_calls": 93,
+        "contrast_calls": 125,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -14.799466455678187,
+          -28.244364802071242,
+          20.111058731743675
+        ]
+      }
+    }
+  },
+  {
+    "case": "run4_02495000",
+    "window_ms": 10,
+    "sampled_events": 4000,
+    "full_roi_events": 4739,
+    "central10ms_events": 4739,
+    "initial_rpm": 107.20641552036332,
+    "initial_axis": [
+      -0.07817192829552119,
+      0.9413926171591258,
+      -0.3281296847053793
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 281.1286586799824,
+        "axis": [
+          0.048927908995339026,
+          0.9955928965479477,
+          -0.08000527522989527
+        ],
+        "omega_rad_s": [
+          1.4404241511089193,
+          29.30998038352223,
+          -2.355333244840598
+        ],
+        "contrast": 2.1214870788348369e-07,
+        "gain": 0.7040444079860058,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 16.867719520798943,
+        "nm_calls": 8,
+        "objective_calls": 783,
+        "contrast_calls": 1352,
+        "zero_scan_won": null,
+        "selected_seed": [
+          5.320459803176649,
+          30.958232999527265,
+          -0.4908738521234052
+        ]
+      },
+      "zero": {
+        "rpm": 281.2122407433,
+        "axis": [
+          0.048619245593949784,
+          0.9956227922882809,
+          -0.0798212029097655
+        ],
+        "omega_rad_s": [
+          1.4317627350127913,
+          29.319574886722037,
+          -2.35061285698597
+        ],
+        "contrast": 2.121486513485697e-07,
+        "gain": 0.7040439538799921,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999997335128055,
+        "directed_axis_difference_to_grid_deg": 0.02066221741827631,
+        "rpm_difference_to_grid": 0.0835820633176354,
+        "candidate_rotation_degrees": 16.872734444598002,
+        "nm_calls": 1,
+        "objective_calls": 100,
+        "contrast_calls": 102,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 281.1716400125714,
+        "axis": [
+          0.048899364490760266,
+          0.9956363460489202,
+          -0.07948030308670671
+        ],
+        "omega_rad_s": [
+          1.439803904540672,
+          29.315740878692047,
+          -2.340235950099914
+        ],
+        "contrast": 2.1214867524310668e-07,
+        "gain": 0.7040441458083453,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999998461438803,
+        "directed_axis_difference_to_grid_deg": 0.030225813005926225,
+        "rpm_difference_to_grid": 0.04298133258902226,
+        "candidate_rotation_degrees": 16.870298400754283,
+        "nm_calls": 1,
+        "objective_calls": 76,
+        "contrast_calls": 86,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -2.455843556501575,
+          29.574721302107783,
+          -10.308498068951547
+        ]
+      }
+    }
+  },
+  {
+    "case": "run4_02495000",
+    "window_ms": 50,
+    "sampled_events": 4000,
+    "full_roi_events": 23741,
+    "central10ms_events": 4739,
+    "initial_rpm": 107.20641552036332,
+    "initial_axis": [
+      -0.07817192829552119,
+      0.9413926171591258,
+      -0.3281296847053793
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 280.46182949009176,
+        "axis": [
+          0.023835038655168395,
+          0.9967808756371569,
+          -0.07654917959279058
+        ],
+        "omega_rad_s": [
+          0.7000325612816813,
+          29.275348762967894,
+          -2.248241298435352
+        ],
+        "contrast": 1.8434299383181883e-07,
+        "gain": 2.2265807758712266,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 84.13854884702752,
+        "nm_calls": 8,
+        "objective_calls": 731,
+        "contrast_calls": 1860,
+        "zero_scan_won": null,
+        "selected_seed": [
+          5.320459803176649,
+          30.958232999527265,
+          -0.4908738521234052
+        ]
+      },
+      "zero": {
+        "rpm": 280.4626174844095,
+        "axis": [
+          0.023909950664582395,
+          0.9967718171401156,
+          -0.07664371346959288
+        ],
+        "omega_rad_s": [
+          0.7022346920803197,
+          29.275164968056004,
+          -2.251024072916122
+        ],
+        "contrast": 1.843429672088601e-07,
+        "gain": 2.226580309885918,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999998555792212,
+        "directed_axis_difference_to_grid_deg": 0.0069303075151359445,
+        "rpm_difference_to_grid": 0.0007879943177613313,
+        "candidate_rotation_degrees": 84.13878524532285,
+        "nm_calls": 1,
+        "objective_calls": 113,
+        "contrast_calls": 115,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 280.46266854588595,
+        "axis": [
+          0.02377401743338281,
+          0.9967826513478542,
+          -0.07654503293499437
+        ],
+        "omega_rad_s": [
+          0.6982424633807994,
+          29.275488498425688,
+          -2.248126237219214
+        ],
+        "contrast": 1.8434297165537792e-07,
+        "gain": 2.226580387713931,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.9999998797001153,
+        "directed_axis_difference_to_grid_deg": 0.00350579815273123,
+        "rpm_difference_to_grid": 0.0008390557941879706,
+        "candidate_rotation_degrees": 84.13880056376578,
+        "nm_calls": 1,
+        "objective_calls": 107,
+        "contrast_calls": 125,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -2.455843556501575,
+          29.574721302107783,
+          -10.308498068951547
+        ]
+      }
+    }
+  },
+  {
+    "case": "run4_02495000",
+    "window_ms": 250,
+    "sampled_events": 4000,
+    "full_roi_events": 101401,
+    "central10ms_events": 4739,
+    "initial_rpm": 107.20641552036332,
+    "initial_axis": [
+      -0.07817192829552119,
+      0.9413926171591258,
+      -0.3281296847053793
+    ],
+    "methods": {
+      "grid": {
+        "rpm": 244.1325951520229,
+        "axis": [
+          0.013269600100673929,
+          0.9949937942606351,
+          -0.09905184044728012
+        ],
+        "omega_rad_s": [
+          0.3392440354320395,
+          25.43751940027727,
+          -2.5323103797679045
+        ],
+        "contrast": 7.167798088871987e-08,
+        "gain": 0.49606192281701533,
+        "common_valid": true,
+        "native_valid": true,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 1.0,
+        "directed_axis_difference_to_grid_deg": 0.0,
+        "rpm_difference_to_grid": 0.0,
+        "candidate_rotation_degrees": 366.19889272803437,
+        "nm_calls": 8,
+        "objective_calls": 852,
+        "contrast_calls": 2961,
+        "zero_scan_won": null,
+        "selected_seed": [
+          0.0,
+          25.13274122871835,
+          0.0
+        ]
+      },
+      "zero": {
+        "rpm": 91.29702345553052,
+        "axis": [
+          -0.08354085581723847,
+          -0.019108226313310155,
+          0.9963211335189486
+        ],
+        "omega_rad_s": [
+          -0.7987008681468453,
+          -0.18268614554985182,
+          9.525429761403394
+        ],
+        "contrast": 5.3295880690232204e-08,
+        "gain": 0.11239095681897115,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.7435460657433154,
+        "directed_axis_difference_to_grid_deg": 96.8233463216607,
+        "rpm_difference_to_grid": -152.83557169649237,
+        "candidate_rotation_degrees": 136.94553518329576,
+        "nm_calls": 1,
+        "objective_calls": 119,
+        "contrast_calls": 121,
+        "zero_scan_won": false,
+        "selected_seed": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "flow": {
+        "rpm": 244.14214063864776,
+        "axis": [
+          0.013268339529282469,
+          0.9950003571000268,
+          -0.09898606233685174
+        ],
+        "omega_rad_s": [
+          0.3392250713328476,
+          25.43868178595807,
+          -2.5307276756876984
+        ],
+        "contrast": 7.16779519057495e-08,
+        "gain": 0.49606131788481944,
+        "common_valid": true,
+        "native_valid": null,
+        "native_reason": null,
+        "contrast_fraction_of_grid": 0.999999595650296,
+        "directed_axis_difference_to_grid_deg": 0.0037882083893149955,
+        "rpm_difference_to_grid": 0.009545486624858768,
+        "candidate_rotation_degrees": 366.2132109579717,
+        "nm_calls": 1,
+        "objective_calls": 144,
+        "contrast_calls": 176,
+        "zero_scan_won": false,
+        "selected_seed": [
+          -1.9646748452012597,
+          23.65977704168623,
+          -8.246798455161239
+        ]
+      }
+    }
+  }
+]

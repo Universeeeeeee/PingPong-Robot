@@ -1,0 +1,246 @@
+[
+  {
+    "case": "run1_01495000",
+    "variant": "clean",
+    "initial_rpm": 271.9217580370835,
+    "initial_axis": [
+      0.640058983317348,
+      -0.5641859715097277,
+      -0.5215541078607161
+    ],
+    "initial_constraint_rms_px_s": 420.9113264864705,
+    "final_rpm": 265.1066613374826,
+    "final_axis": [
+      0.027931412637712094,
+      -0.99855929076191,
+      0.04581679846009588
+    ],
+    "failure_reason": null,
+    "G_rpm": 265.11607455126705,
+    "G_axis": [
+      0.027490218701411998,
+      -0.9985529883623252,
+      0.04621923093711751
+    ],
+    "pipeline_ms": 35.720417043194175,
+    "initial_to_G_directed_angle_deg": 56.16113797867472,
+    "final_to_G_directed_angle_deg": 0.03421684182547083,
+    "G_ms": 485.86083302507177,
+    "G_recomputed_rpm": 265.11607455126705
+  },
+  {
+    "case": "run1_01495000",
+    "variant": "shuffled_seed_clean_refinement",
+    "initial_rpm": 94.47196627825642,
+    "initial_axis": [
+      0.3311949291915843,
+      -0.4445939385178832,
+      -0.8322536564719547
+    ],
+    "initial_constraint_rms_px_s": 725.290830045609,
+    "final_rpm": 264.9740684220329,
+    "final_axis": [
+      0.02721321911327134,
+      -0.9985431441671535,
+      0.046594312338187484
+    ],
+    "failure_reason": null,
+    "G_rpm": 265.11607455126705,
+    "G_axis": [
+      0.027490218701411998,
+      -0.9985529883623252,
+      0.04621923093711751
+    ],
+    "pipeline_ms": 34.185873984824866,
+    "initial_to_G_directed_angle_deg": 65.50655699000258,
+    "final_to_G_directed_angle_deg": 0.026721693894396117
+  },
+  {
+    "case": "run1_01495000",
+    "variant": "shuffled_seed_shuffled_refinement",
+    "initial_rpm": 94.47196627825642,
+    "initial_axis": [
+      0.3311949291915843,
+      -0.4445939385178832,
+      -0.8322536564719547
+    ],
+    "initial_constraint_rms_px_s": 725.290830045609,
+    "final_rpm": null,
+    "final_axis": null,
+    "failure_reason": "no_rotation_evidence",
+    "G_rpm": 265.11607455126705,
+    "G_axis": [
+      0.027490218701411998,
+      -0.9985529883623252,
+      0.04621923093711751
+    ],
+    "pipeline_ms": 29.294083069544286,
+    "initial_to_G_directed_angle_deg": 65.50655699000258,
+    "final_to_G_directed_angle_deg": null,
+    "G_ms": 502.2492909920402,
+    "G_recomputed_rpm": null
+  },
+  {
+    "case": "run2_02095000",
+    "variant": "clean",
+    "initial_rpm": 177.60651287883766,
+    "initial_axis": [
+      -0.5160580420287285,
+      0.2594318961713174,
+      -0.8163205182441697
+    ],
+    "initial_constraint_rms_px_s": 609.1155766411406,
+    "final_rpm": 241.77804849124524,
+    "final_axis": [
+      -0.10347712330462736,
+      0.05689490177023622,
+      -0.9930032502993906
+    ],
+    "failure_reason": null,
+    "G_rpm": 242.15015326543994,
+    "G_axis": [
+      -0.10307864552850998,
+      0.05677214288231522,
+      -0.9930517190099204
+    ],
+    "pipeline_ms": 22.42791699245572,
+    "initial_to_G_directed_angle_deg": 28.529470953541463,
+    "final_to_G_directed_angle_deg": 0.024050820597210726,
+    "G_ms": 349.58633297355846,
+    "G_recomputed_rpm": 242.15015326543994
+  },
+  {
+    "case": "run3_01495000",
+    "variant": "clean",
+    "initial_rpm": 234.34830778197068,
+    "initial_axis": [
+      -0.41519164714734796,
+      -0.7513489527107675,
+      0.5129236272580012
+    ],
+    "initial_constraint_rms_px_s": 447.23742307829406,
+    "final_rpm": 265.18727174252155,
+    "final_axis": [
+      -0.7399086885225356,
+      -0.6660698031970913,
+      0.09426637745161194
+    ],
+    "failure_reason": null,
+    "G_rpm": 265.3068731367274,
+    "G_axis": [
+      -0.7406686895609695,
+      -0.6654568679114721,
+      0.09261236015505699
+    ],
+    "pipeline_ms": 28.552999952808022,
+    "initial_to_G_directed_angle_deg": 31.2388464929943,
+    "final_to_G_directed_angle_deg": 0.110047662205521,
+    "G_ms": 340.6633329577744,
+    "G_recomputed_rpm": 265.3068731367274
+  },
+  {
+    "case": "run4_02495000",
+    "variant": "clean",
+    "initial_rpm": 107.20641552036338,
+    "initial_axis": [
+      -0.07817192829551746,
+      0.9413926171591266,
+      -0.32812968470537773
+    ],
+    "initial_constraint_rms_px_s": 1226.0621334184802,
+    "final_rpm": 280.505174065121,
+    "final_axis": [
+      0.037651129061851696,
+      0.9965762822399459,
+      -0.07360778598202408
+    ],
+    "failure_reason": null,
+    "G_rpm": 280.45008590440176,
+    "G_axis": [
+      0.037187440369899016,
+      0.9966117927401991,
+      -0.0733623121902636
+    ],
+    "pipeline_ms": 29.980374965816736,
+    "initial_to_G_directed_angle_deg": 16.388967555146454,
+    "final_to_G_directed_angle_deg": 0.030129386880009143,
+    "G_ms": 505.59266697382554,
+    "G_recomputed_rpm": 280.45008590440176
+  },
+  {
+    "case": "run5_04095000",
+    "variant": "clean",
+    "initial_rpm": 62.98091802983204,
+    "initial_axis": [
+      -0.4362258326565233,
+      0.2783491892292976,
+      0.8557036588553981
+    ],
+    "initial_constraint_rms_px_s": 584.5653614933086,
+    "final_rpm": null,
+    "final_axis": null,
+    "failure_reason": "no_rotation_evidence",
+    "G_rpm": null,
+    "G_axis": null,
+    "pipeline_ms": 13.539834006223828,
+    "initial_to_G_directed_angle_deg": null,
+    "final_to_G_directed_angle_deg": null,
+    "G_ms": 203.92245799303055,
+    "G_recomputed_rpm": null
+  },
+  {
+    "case": "run5_04095000",
+    "variant": "shuffled_seed_clean_refinement",
+    "initial_rpm": 109.64233873403032,
+    "initial_axis": [
+      -0.549876132302288,
+      -0.006205001455997824,
+      -0.8352231660348075
+    ],
+    "initial_constraint_rms_px_s": 502.6839158524533,
+    "final_rpm": null,
+    "final_axis": null,
+    "failure_reason": "no_rotation_evidence",
+    "G_rpm": null,
+    "G_axis": null,
+    "pipeline_ms": 13.828625029418617,
+    "initial_to_G_directed_angle_deg": null,
+    "final_to_G_directed_angle_deg": null
+  },
+  {
+    "case": "run5_04095000",
+    "variant": "shuffled_seed_shuffled_refinement",
+    "initial_rpm": 109.64233873403032,
+    "initial_axis": [
+      -0.549876132302288,
+      -0.006205001455997824,
+      -0.8352231660348075
+    ],
+    "initial_constraint_rms_px_s": 502.6839158524533,
+    "final_rpm": null,
+    "final_axis": null,
+    "failure_reason": "no_rotation_evidence",
+    "G_rpm": null,
+    "G_axis": null,
+    "pipeline_ms": 14.882124087307602,
+    "initial_to_G_directed_angle_deg": null,
+    "final_to_G_directed_angle_deg": null,
+    "G_ms": 209.24358296906576,
+    "G_recomputed_rpm": null
+  },
+  {
+    "case": "run5_01525000",
+    "variant": "clean",
+    "initial_rpm": null,
+    "initial_axis": null,
+    "initial_constraint_rms_px_s": null,
+    "final_rpm": null,
+    "final_axis": null,
+    "failure_reason": "no_local_normal_observations",
+    "G_rpm": null,
+    "G_axis": null,
+    "pipeline_ms": 0.6867499905638397,
+    "initial_to_G_directed_angle_deg": null,
+    "final_to_G_directed_angle_deg": null
+  }
+]

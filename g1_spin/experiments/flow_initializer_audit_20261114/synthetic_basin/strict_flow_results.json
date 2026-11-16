@@ -1,0 +1,397 @@
+[
+  {
+    "scene": "rpm240_ms10",
+    "events": 2246,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 291,
+      "seeds_attempted": 300,
+      "failures": {
+        "too_few_neighbors": 8,
+        "plane_residual_or_rank": 1
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 291,
+      "rank": 3,
+      "condition": 1.9439280296331916,
+      "singular_values": [
+        1.2671005327342573,
+        0.8531593415972545,
+        0.6518248172867552
+      ],
+      "raw_omega_rad_s": [
+        6.699369287671371,
+        13.43427757076621,
+        20.186207818259504
+      ],
+      "residual_rms": 0.006225970491666075,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        6.699369287671372,
+        13.43427757076621,
+        20.18620781825952
+      ],
+      "axis_camera": [
+        0.26630876760710925,
+        0.5340302571686023,
+        0.8024283922718707
+      ],
+      "spin_rad_s": 25.156397770407196,
+      "spin_rps": 4.00376505554624,
+      "spin_rpm": 240.2259033327744,
+      "quality": {
+        "constraints": 291,
+        "rank": 3,
+        "condition": 1.9439280296331913,
+        "constraint_rms": 0.006225970491666078,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 291,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.011860291997436434,
+    "candidate_rpm": 240.22590333277432,
+    "candidate_rpm_error_percent": 0.09412638865597955,
+    "candidate_axis_error_deg": 0.07167904743367358
+  },
+  {
+    "scene": "rpm240_ms50",
+    "events": 10820,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 292,
+      "seeds_attempted": 300,
+      "failures": {
+        "too_few_neighbors": 8
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 292,
+      "rank": 3,
+      "condition": 2.076658171517005,
+      "singular_values": [
+        1.3488578119617607,
+        0.8366393093508921,
+        0.6495329036152425
+      ],
+      "raw_omega_rad_s": [
+        6.708810135180509,
+        13.43583507441884,
+        20.184048757711853
+      ],
+      "residual_rms": 0.006719644422480653,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        6.708810135180507,
+        13.435835074418833,
+        20.184048757711846
+      ],
+      "axis_camera": [
+        0.2666669309477008,
+        0.5340578778979472,
+        0.8022910512987637
+      ],
+      "spin_rad_s": 25.158013073980488,
+      "spin_rps": 4.004022139094523,
+      "spin_rpm": 240.2413283456714,
+      "quality": {
+        "constraints": 292,
+        "rank": 3,
+        "condition": 2.0766581715170047,
+        "constraint_rms": 0.006719644422480637,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 292,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.028800792002584785,
+    "candidate_rpm": 240.24132834567152,
+    "candidate_rpm_error_percent": 0.10055347736315223,
+    "candidate_axis_error_deg": 0.0520869837782244
+  },
+  {
+    "scene": "rpm1200_ms10",
+    "events": 10819,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 296,
+      "seeds_attempted": 300,
+      "failures": {
+        "plane_residual_or_rank": 4
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 296,
+      "rank": 3,
+      "condition": 1.9957935088775423,
+      "singular_values": [
+        0.2523611185059397,
+        0.17241854994836087,
+        0.1264465073081987
+      ],
+      "raw_omega_rad_s": [
+        33.47492527367645,
+        67.00670099215104,
+        100.95590287571213
+      ],
+      "residual_rms": 0.005747376591010116,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        33.47492527367645,
+        67.00670099215104,
+        100.95590287571213
+      ],
+      "axis_camera": [
+        0.26629060970079177,
+        0.5330334605786226,
+        0.8030969064121456
+      ],
+      "spin_rad_s": 125.70824525614849,
+      "spin_rps": 20.007088619924335,
+      "spin_rpm": 1200.4253171954601,
+      "quality": {
+        "constraints": 296,
+        "rank": 3,
+        "condition": 1.9957935088775423,
+        "constraint_rms": 0.005747376591010116,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 296,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.01616533298511058,
+    "candidate_rpm": 1200.4253171954601,
+    "candidate_rpm_error_percent": 0.03544309962166814,
+    "candidate_axis_error_deg": 0.12661929886553858
+  },
+  {
+    "scene": "rpm1200_ms50",
+    "events": 29628,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 251,
+      "seeds_attempted": 300,
+      "failures": {
+        "outside_flow_inner_sphere": 39,
+        "plane_residual_or_rank": 9,
+        "too_few_neighbors": 1
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 251,
+      "rank": 3,
+      "condition": 1.8888397854142787,
+      "singular_values": [
+        0.22769665569007344,
+        0.2085225801071555,
+        0.1205484220781239
+      ],
+      "raw_omega_rad_s": [
+        33.537450321374,
+        67.11474236296804,
+        100.86190414933311
+      ],
+      "residual_rms": 0.00499516051964616,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        33.537450321374,
+        67.11474236296812,
+        100.8619041493332
+      ],
+      "axis_camera": [
+        0.266790439943,
+        0.5338978207972426,
+        0.8023565155857937
+      ],
+      "spin_rad_s": 125.70709178537022,
+      "spin_rps": 20.00690503934826,
+      "spin_rpm": 1200.4143023608958,
+      "quality": {
+        "constraints": 251,
+        "rank": 3,
+        "condition": 1.888839785414279,
+        "constraint_rms": 0.004995160519646116,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 251,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.015156166977249086,
+    "candidate_rpm": 1200.4143023608947,
+    "candidate_rpm_error_percent": 0.034525196741208575,
+    "candidate_axis_error_deg": 0.05554874363486556
+  },
+  {
+    "scene": "rpm3000_ms10",
+    "events": 22646,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 120,
+      "seeds_attempted": 300,
+      "failures": {
+        "plane_residual_or_rank": 167,
+        "outside_flow_inner_sphere": 13
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 120,
+      "rank": 3,
+      "condition": 2.8181039320314287,
+      "singular_values": [
+        0.0940898119847352,
+        0.07369719140259685,
+        0.03338763021309531
+      ],
+      "raw_omega_rad_s": [
+        83.79065025734128,
+        167.72924375783816,
+        251.86787993103582
+      ],
+      "residual_rms": 0.00887288457297294,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        83.79065025734121,
+        167.7292437578381,
+        251.86787993103567
+      ],
+      "axis_camera": [
+        0.26685542813351876,
+        0.5341820240807557,
+        0.8021457134615029
+      ],
+      "spin_rad_s": 313.99267702142185,
+      "spin_rps": 49.97348664261627,
+      "spin_rpm": 2998.409198556976,
+      "quality": {
+        "constraints": 120,
+        "rank": 3,
+        "condition": 2.8181039320314287,
+        "constraint_rms": 0.008872884572972715,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 120,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.012792584020644426,
+    "candidate_rpm": 2998.4091985569776,
+    "candidate_rpm_error_percent": -0.053026714767412386,
+    "candidate_axis_error_deg": 0.03676017854461372
+  },
+  {
+    "scene": "rpm3000_ms50",
+    "events": 81902,
+    "source": "All generated sphere events, no training/holdout split or event cap; diagnostic only",
+    "metadata": {
+      "accepted_planes": 137,
+      "seeds_attempted": 300,
+      "failures": {
+        "plane_residual_or_rank": 150,
+        "outside_flow_inner_sphere": 13
+      }
+    },
+    "initial": {
+      "method": "S",
+      "available": true,
+      "failure_reason": null,
+      "planes": 137,
+      "rank": 3,
+      "condition": 3.129094883282185,
+      "singular_values": [
+        0.11508202351819082,
+        0.08364347746322393,
+        0.036778054936281904
+      ],
+      "raw_omega_rad_s": [
+        83.83002772569206,
+        167.82450824046143,
+        251.515723466158
+      ],
+      "residual_rms": 0.007783197105379461,
+      "residual_units": "dimensionless",
+      "native_scalar_status": "accepted",
+      "caveat": "A/S share rank/count/condition/direction gates; no residual acceptance gate except separately reported scalar native status."
+    },
+    "production": {
+      "valid": true,
+      "method": "local_plane_normal_flow",
+      "omega_rad_s": [
+        83.83002772569212,
+        167.8245082404613,
+        251.51572346615805
+      ],
+      "axis_camera": [
+        0.26716883591037394,
+        0.5348617878375492,
+        0.8015882241085608
+      ],
+      "spin_rad_s": 313.77172955087565,
+      "spin_rps": 49.93832176051519,
+      "spin_rpm": 2996.2993056309115,
+      "quality": {
+        "constraints": 137,
+        "rank": 3,
+        "condition": 3.1290948832821828,
+        "constraint_rms": 0.007783197105379224,
+        "thresholds": "engineering choices: rank=3, condition<=100, RMS<=0.35",
+        "accepted_planes": 137,
+        "model": "local normal flow; aperture constraints; engineering variant"
+      },
+      "failure_reason": null
+    },
+    "extraction_s": 0.02214545797323808,
+    "candidate_rpm": 2996.2993056309115,
+    "candidate_rpm_error_percent": -0.12335647896962731,
+    "candidate_axis_error_deg": 0.023053060015214403
+  }
+]

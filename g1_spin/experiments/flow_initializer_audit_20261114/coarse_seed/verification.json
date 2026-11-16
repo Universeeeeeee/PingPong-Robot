@@ -1,0 +1,9 @@
+{
+  "source_hashes_unchanged": true,
+  "rows": 10,
+  "expected_rows": 10,
+  "no_direction_grid_in_flow_route": true,
+  "note": "Old B1 center/radius geometry supplied. Reference spin axis and RPM were not passed to fitting. Source hashes were checked at experiment completion, before this annotation-only revision.",
+  "reference_spin_axis_or_rpm_used": false,
+  "supplied_geometry_used": true
+}

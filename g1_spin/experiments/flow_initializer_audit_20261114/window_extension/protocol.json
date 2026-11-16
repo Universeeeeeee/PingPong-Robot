@@ -1,0 +1,42 @@
+{
+  "cases": [
+    "run1_01495000",
+    "run2_02095000",
+    "run3_01495000",
+    "run4_02495000"
+  ],
+  "window_ms": [
+    10,
+    50,
+    250
+  ],
+  "fixed_geometry": "old B1 center and radius held fixed over entire250ms",
+  "roi_ratio": 0.8,
+  "cmax_max_events": 4000,
+  "max_rpm": 1200,
+  "reference_time": "actual sampled endpoint midpoint for every method",
+  "coarse_seed": "fixed top6 12px patches; five2ms segments on central10ms only; full ROI events",
+  "search": "flow axis magnitude scan then free3D NM on each10/50/250ms window",
+  "native_grid_rival_gate": "reported separately from common quality gates",
+  "interpretation": "optimizer comparison under supplied fixed geometry; no physical precision claim",
+  "source_hashes": {
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/flow_initializer_audit_20261114/window_extension/run.py": "a257d44f9166bde5020b24a389c2be2732f9b3fbe447dfccd022990233a62e30",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/flow_initializer_audit_20261114/coarse_seed/run.py": "14cd06bc80ef8d20f934c645d39322293a6c81d6286b0fa913129a2fd6a6b4ce",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase5_20261106/local_motion/models.py": "cd1bfee5b947c0e36dc8f0c1242a469e7b2ecbea7dca721377ec2598379d77bc",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase3_20261106/frozen/spherical_cmax.py": "c44c2822dc2caffcc043134fb9c4a6dedf90490dfa4d00a37e2feb1de5522192",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201058/manifest.json": "1e01bbd1da2612db6d296b2325ccf1599969589ed53314d147894ed334161a84",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201058/part_0001.npy": "fa05df87f18577e5043874b9270aad793762a6464c4274f750b661adb5bfa8e1",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase3_20261106/windows/run1_01495000.npz": "b5887cc147dc40399721a5ed2b225514de3f54f89b262c496523d27adaf0e187",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201123/manifest.json": "3f29d8952780ad3ffac8943087c88a45ac076d95416c5c78af72bd002b8be84a",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201123/part_0001.npy": "dcb6f949460df46a4c4e7a77874935898c361d381f3910f650fed87a400db6cb",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201123/part_0002.npy": "bce36fde55804ede9cc764bd32e247007f36c8a2b8bd979805667214a4ed8dc5",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase3_20261106/windows/run2_02095000.npz": "c55d6e9e4901a4e2ac220d2a961206efc29b75f2489f423aa5554511b8afd8e5",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/manifest.json": "07e8d1ec20ffef37f3d3217b042e8e9ad34d509ae110ff8fb0bcd03682f8c912",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0000.npy": "07f8a1167493eb269ebbac1500f9ac0744c20bf71a33810cf2a56437f0dc0fa4",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_201143/part_0001.npy": "1ca8a9bc9d305010e97b4a29170f0e997cba55a44880ae707de6334510b0e6ec",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase3_20261106/windows/run3_01495000.npz": "5253dc65849171fc1d46e7a95d253328e06124094088ad1256d58c6d288ff8f5",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_203829/manifest.json": "1764722f609931393e04882d860ec0370f5b43e0919d75e1beb0669bb9b2a7a0",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/data/archive_20261105/decoded/DSP03F100025_20261105_203829/part_0002.npy": "f9bbdfe3baf7d0b72e5458488c735a4427537a5a400b496576e4ecbee5aab52a",
+    "/Users/vae/Projects/PingPongRobot/g1_spin/experiments/drill_phase3_20261106/windows/run4_02495000.npz": "b4d68fbc30ca0e52351361e798555de21987b051530381c9711905b950bc64c2"
+  }
+}

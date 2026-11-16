@@ -1,0 +1,155 @@
+"""Nov13 real-event flow initialization with original-pixel local neighborhoods."""
+import hashlib
+import importlib.util
+import json
+from pathlib import Path
+from time import perf_counter
+
+import numpy as np
+
+OUT = Path(__file__).resolve().parent
+ROOT = OUT.parents[2]
+AUDIT = OUT.parent/'flow_initializer_audit_20261114'
+CAPTURE = ROOT/'g1_spin/dual_capture/analysis_20261113'
+
+
+def module(name, path):
+    spec = importlib.util.spec_from_file_location(name, path)
+    result = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(result)
+    return result
+
+
+search = module('new_capture_search', AUDIT/'window_extension/run.py')
+coarse = search.coarse
+flow = module('new_capture_strict_flow', OUT.parent/'drill_phase3_20261106/flow.py')
+
+
+def digest(path):
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def save(name, value):
+    temporary = OUT/(name+'.tmp')
+    temporary.write_text(json.dumps(value,indent=2,allow_nan=False)+'\n')
+    temporary.replace(OUT/name)
+
+
+def geometry(k, tracks):
+    times, centers = [], []
+    for row in tracks:
+        if k-.3 < row['t'] < k+.55:
+            candidates = [q for q in row['candidates']
+                          if 310<q[1]<390 and 60<q[2]<82 and 300<q[0]<700]
+            if len(candidates)==1:
+                times.append(row['t'])
+                centers.append(candidates[0])
+    if len(times)<3:
+        raise ValueError('Insufficient geometry')
+    centers=np.array(centers)
+    return np.array(times),centers[:,:2],float(np.median(centers[:,2]))
+
+
+def center_at(t, times, centers):
+    return np.column_stack([np.interp(np.atleast_1d(t),times,centers[:,i]) for i in range(2)])
+
+
+def velocity_at(t, times, centers):
+    index=int(np.clip(np.searchsorted(times,t,side='right')-1,0,len(times)-2))
+    return (centers[index+1]-centers[index])/(times[index+1]-times[index])
+
+
+def corrected_initializer(initial, origin_s, radius, track_times, centers):
+    observations=[row for row in initial['observations'] if row['eligible']]
+    if not observations:
+        return dict(available=False,failure_reason='no_local_normal_observations',constraints=0)
+    matrix, rhs = [], []
+    for row in observations:
+        fit=row['fit']
+        instant=origin_s+fit['reference_s']
+        center=center_at(instant,track_times,centers)[0]
+        velocity=velocity_at(instant,track_times,centers)
+        xy=(np.array(fit['center'])-center)/radius
+        normal=np.r_[fit['normal'],0.]
+        point=np.r_[xy,-np.sqrt(1-xy@xy)]
+        matrix.append(radius*np.cross(point,normal))
+        rhs.append(fit['speed_px_s']-np.dot(fit['normal'],velocity))
+    matrix,rhs=np.array(matrix),np.array(rhs)
+    omega,_,rank,singular=np.linalg.lstsq(matrix,rhs,rcond=None)
+    speed=np.linalg.norm(omega)
+    condition=float(singular[0]/singular[-1]) if rank==3 else None
+    available=bool(len(observations)>=6 and initial['patches']>=3 and rank==3 and condition<=100 and speed>1e-6)
+    return dict(available=available,failure_reason=None if available else 'insufficient_support_or_rank',
+                constraints=len(observations),patches=initial['patches'],rank=int(rank),condition=condition,
+                omega_rad_s=omega.tolist(),axis=(omega/speed).tolist() if speed>1e-12 else None,
+                rpm=float(speed*60/(2*np.pi)),residual_rms_px_s=float(np.sqrt(np.mean((matrix@omega-rhs)**2))),
+                matrix=matrix.tolist(),rhs_px_s=rhs.tolist())
+
+
+def main():
+    if (OUT/'results.json').exists():
+        raise FileExistsError('Preserve existing results')
+    tracks=json.loads((CAPTURE/'event_track.json').read_text())
+    source_paths=[Path(__file__),CAPTURE/'event_track.json',coarse.MODELS,
+                  AUDIT/'coarse_seed/run.py',AUDIT/'window_extension/run.py',
+                  ROOT/'g1_spin/src/g1_spin/spherical_cmax.py']
+    source_paths += [OUT/'inputs'/f't{k}.npz' for k in [17,19,31,42]]
+    hashes={str(p.relative_to(ROOT)):digest(p) for p in source_paths}
+    save('protocol.json',dict(cases=[17,19,31,42],durations_ms=[10,50,100,150,250],
+        source_recording='DSP03F100025_20261113_192618.raw',
+        geometry='Original track interpolation, radius median over original geometry neighborhood,0.8r',
+        local_flow='Full original integer-pixel central10ms ROI before CMAX sampling',
+        strict='Original 4px/+-2ms/0.15std plane extraction, no retuned threshold',
+        coarse='Frozen Nov14 M_spatial12px top6 patches,5x2ms separate polarity,6constraints/3patches/rank3/condition100',
+        center_motion='Correct global normal constraints using existing piecewise-linear event-center track; retain uncorrected candidate',
+        search='Frozen1200RPM grid / zero singleNM / coarse axis scan singleNM; all same events',
+        reference_usage='No RGB or drill-axis reference passed to runner',sources=hashes))
+    results=[]
+    for k in [17,19,31,42]:
+        data=np.load(OUT/'inputs'/f't{k}.npz')
+        events=data['events']; t=(events['t'].astype(np.int64)-int(data['origin']))*1e-6
+        tt,centers,radius=geometry(k,tracks)
+        xy=np.c_[events['x'],events['y']].astype(float)
+        centered=xy-center_at(t,tt,centers)
+        inside=np.sum(centered**2,axis=1)<(.8*radius)**2
+        central=(t>=k+.120)&(t<k+.130)&inside
+        local_xy=xy[central]; local_t=t[central]-(k+.120); polarity=events['p'][central]
+        middle=center_at(k+.125,tt,centers)[0]
+        started=perf_counter()
+        planes,metadata=flow.extract(local_xy,local_t,polarity,middle,radius)
+        strict=flow.initialize(planes['points'],planes['gradients'],radius,'S')
+        strict_s=perf_counter()-started
+        patches,counts=np.unique(np.floor(local_xy/12).astype(int),axis=0,return_counts=True)
+        order=np.lexsort((patches[:,1],patches[:,0],-counts))[:6]
+        started=perf_counter()
+        initial=coarse.normal_seed(local_xy,local_t,polarity,middle,radius,patches[order])
+        corrected=corrected_initializer(initial,k+.120,radius,tt,centers)
+        initial_s=perf_counter()-started
+        for duration in [10,50,100,150,250]:
+            chosen=np.flatnonzero(inside&(t>=k+.125-duration*.0005)&(t<k+.125+duration*.0005))
+            chosen=chosen[np.linspace(0,len(chosen)-1,min(4000,len(chosen))).astype(int)]
+            points=search.cmax.lift(centered[chosen,0],centered[chosen,1],0,0,radius)
+            dt=t[chosen]-(k+.125)
+            row=dict(time_s=k,window_ms=duration,events_used=len(chosen),central10ms_events=int(central.sum()),
+                radius=radius,center=middle.tolist(),strict=dict(metadata=metadata,initializer=strict,seconds=strict_s),
+                coarse=initial,corrected_coarse=corrected,initializer_s=initial_s,
+                event_sample_sha256=hashlib.sha256(events[chosen].tobytes()).hexdigest())
+            row['grid']=search.grid_search(points,dt)
+            row['zero']=search.single_search(points,dt,None)
+            row['flow']=search.single_search(points,dt,corrected['axis']) if corrected['available'] else None
+            row['flow_uncorrected']=search.single_search(points,dt,initial['axis']) if initial['available'] else None
+            results.append(row)
+            save('results.json',results)
+            print(k,duration,'strict',metadata['accepted_planes'],'coarse',corrected.get('rpm'),
+                  [(name,round(row[name]['outcome']['rpm'],2),row[name]['outcome']['valid'])
+                   for name in ['grid','zero','flow'] if row[name]],flush=True)
+    unchanged=all(digest(ROOT/path)==h for path,h in hashes.items())
+    assert unchanged
+    assert len(results)==20
+    save('verification.json',dict(rows=len(results),source_hashes_unchanged=unchanged,
+        corrected_normal_constraint='r*(s cross [nx,ny,0])*omega = vn - n*center_velocity',
+        reference_spin_labels_used=False,original_pixel_neighborhoods=True,
+        single_routes_one_NM=all(r['zero']['nm_calls']==1 and (r['flow'] is None or r['flow']['nm_calls']==1) for r in results)))
+
+if __name__=='__main__':
+    main()

@@ -1,0 +1,8 @@
+{
+  "source_hashes_unchanged": true,
+  "scenes": 6,
+  "maximum_root_residual": 1.5190900538398956e-15,
+  "maximum_derivative_error": 5.788922408100916e-08,
+  "no_time_rescaling": true,
+  "estimator_sources_unchanged": true
+}

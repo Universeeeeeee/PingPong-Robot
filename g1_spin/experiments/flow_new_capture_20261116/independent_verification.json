@@ -1,0 +1,10 @@
+{
+  "remote_input_hashes_match": true,
+  "source_hashes_match": true,
+  "independently_reconstructed_global_constraints": true,
+  "rows": 20,
+  "historical_grid_max_rpm_difference": 2.7284841053187847e-12,
+  "historical_grid_checks": 12,
+  "one_NM_per_single_route": true,
+  "timestamp_boundary_correction": "First float-boundary run preserved as results_float_boundaries.json; final run uses integer-us half-open intervals"
+}

@@ -1,0 +1,8 @@
+{
+  "rows": 20,
+  "source_hashes_unchanged": true,
+  "corrected_normal_constraint": "r*(s cross [nx,ny,0])*omega = vn - n*center_velocity",
+  "reference_spin_labels_used": false,
+  "original_pixel_neighborhoods": true,
+  "single_routes_one_NM": true
+}

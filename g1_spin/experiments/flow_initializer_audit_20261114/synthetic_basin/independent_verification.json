@@ -1,0 +1,53 @@
+{
+  "checks": [
+    {
+      "scene": "rpm240_ms10",
+      "root_residual_max": 2.7755575615628914e-16,
+      "rounding_max_us": 0.4994009694973475,
+      "true_held_median_px": 0.00038693599962680725,
+      "true_held_p95_px": 0.0011999395987069136,
+      "input_sha256": "eeb88ad1df6e6fc073e5058d8fe8f6710f73fb984c68c68e6c448231333b136d"
+    },
+    {
+      "scene": "rpm240_ms50",
+      "root_residual_max": 5.967448757360216e-16,
+      "rounding_max_us": 0.49999230064545763,
+      "true_held_median_px": 0.00040428671054825046,
+      "true_held_p95_px": 0.001199461644683531,
+      "input_sha256": "911720dab46ce6323292e850c7b86bb62c85572bdf61d45853b2f36cc84203fd"
+    },
+    {
+      "scene": "rpm1200_ms10",
+      "root_residual_max": 5.828670879282072e-16,
+      "rounding_max_us": 0.4999984601281038,
+      "true_held_median_px": 0.0019447120111978054,
+      "true_held_p95_px": 0.006059056601259887,
+      "input_sha256": "df7df53b9229a4121411df3c3f0a6c6e4f2540b6136a5f05566699f289a2a436"
+    },
+    {
+      "scene": "rpm1200_ms50",
+      "root_residual_max": 9.43689570931383e-16,
+      "rounding_max_us": 0.4999995326590567,
+      "true_held_median_px": 0.0016623153253718514,
+      "true_held_p95_px": 0.0057634593499853335,
+      "input_sha256": "4d392d123c9a7493653406a24c5f79a3d591786f96a461e688a7a93e749b2397"
+    },
+    {
+      "scene": "rpm3000_ms10",
+      "root_residual_max": 8.187894806610529e-16,
+      "rounding_max_us": 0.49997186304332614,
+      "true_held_median_px": 0.004720539557397493,
+      "true_held_p95_px": 0.014858415376484174,
+      "input_sha256": "9bc68cbfc00fa74747071b18ce8cb93dbcf500cb3f7db7042753c91f4fb65f4b"
+    },
+    {
+      "scene": "rpm3000_ms50",
+      "root_residual_max": 2.858824288409778e-15,
+      "rounding_max_us": 0.49997186304939767,
+      "true_held_median_px": 0.004286353152335991,
+      "true_held_p95_px": 0.014618221837164179,
+      "input_sha256": "da38d2d134cc92f31f55b89a584f77e9b1f1d39c6ef43f2eb1d4abc57cb5f02e"
+    }
+  ],
+  "all_passed": true
+}

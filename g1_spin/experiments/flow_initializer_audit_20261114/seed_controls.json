@@ -1,0 +1,2429 @@
+{
+  "protocol": "Six coordinate directions and four fixed random directions, evaluated separately with identical directed magnitude scan and one NM; no best-of selection claimed as single-start method",
+  "rows": [
+    {
+      "case": "run1_01495000",
+      "seed": "x+",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.042570458026602864,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "x-",
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.04152604204136878,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "y+",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.04128300002776086,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "y-",
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        -36.651914291880914,
+        0.0
+      ],
+      "search_s": 0.025032749981619418,
+      "nm_calls": 1,
+      "objective_calls": 63,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572914001034116,
+          "displacement_rad": 0.2773493626825423
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7662596117896031,
+          -27.716085574978187,
+          1.3001452256707613
+        ],
+        "candidate_axis": [
+          0.02760585410021441,
+          -0.9985208705244806,
+          0.046840025047297375
+        ],
+        "candidate_rpm": 265.0611811508014,
+        "candidate_contrast": 2.2281762473053565e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7662596117896031,
+          -27.716085574978187,
+          1.3001452256707613
+        ],
+        "measurement_axis": [
+          0.02760585410021441,
+          -0.9985208705244806,
+          0.046840025047297375
+        ],
+        "measurement_rpm": 265.0611811508014
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "z+",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.04123104200698435,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "z-",
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        -36.651914291880914
+      ],
+      "search_s": 0.030013499956112355,
+      "nm_calls": 1,
+      "objective_calls": 77,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.45729157391880615,
+          "displacement_rad": 0.27725708575197017
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7791963007456539,
+          -27.70816489649295,
+          1.2636409951213574
+        ],
+        "candidate_axis": [
+          0.02808126405835328,
+          -0.9985677476731184,
+          0.045540047386013034
+        ],
+        "candidate_rpm": 264.9729926221751,
+        "candidate_contrast": 2.2281765130664346e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7791963007456539,
+          -27.70816489649295,
+          1.2636409951213574
+        ],
+        "measurement_axis": [
+          0.02808126405835328,
+          -0.9985677476731184,
+          0.045540047386013034
+        ],
+        "measurement_rpm": 264.9729926221751
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "random0",
+      "axis": [
+        -0.8389996972187552,
+        0.5743241040937862,
+        -0.23402397437190217
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.04102354199858382,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "random1",
+      "axis": [
+        0.8807528151701158,
+        -1.9125562180451832,
+        -0.8398978163735172
+      ],
+      "selected_seed": [
+        14.240011195860985,
+        -30.922208238887766,
+        -13.579467590152406
+      ],
+      "search_s": 0.02524133399128914,
+      "nm_calls": 1,
+      "objective_calls": 64,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572911138323865,
+          "displacement_rad": 0.27715885110616284
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7566600090833848,
+          -27.6974700699537,
+          1.295551520101606
+        ],
+        "candidate_axis": [
+          0.027278749282537585,
+          -0.9985361096513202,
+          0.04670661152328395
+        ],
+        "candidate_rpm": 264.87911033957033,
+        "candidate_contrast": 2.2281758096013402e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7566600090833848,
+          -27.6974700699537,
+          1.295551520101606
+        ],
+        "measurement_axis": [
+          0.027278749282537585,
+          -0.9985361096513202,
+          0.04670661152328395
+        ],
+        "measurement_rpm": 264.87911033957033
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "random2",
+      "axis": [
+        -0.5196156352370456,
+        0.07610191622739597,
+        -0.12806632087684014
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.040846207994036376,
+      "nm_calls": 1,
+      "objective_calls": 111,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.457291112736818,
+          "displacement_rad": 0.2774284665478739
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "candidate_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "candidate_rpm": 265.13678025719776,
+        "candidate_contrast": 2.2281758079262327e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7906729903220082,
+          -27.724871157547973,
+          1.2668228886849806
+        ],
+        "measurement_axis": [
+          0.028477267014465464,
+          -0.9985525856569398,
+          0.045626515769087474
+        ],
+        "measurement_rpm": 265.13678025719776
+      }
+    },
+    {
+      "case": "run1_01495000",
+      "seed": "random3",
+      "axis": [
+        -0.42391787919472385,
+        -0.2422699545355762,
+        -0.00887293750426462
+      ],
+      "selected_seed": [
+        -31.81651230961586,
+        -18.183203325544408,
+        -0.6659448425793152
+      ],
+      "search_s": 0.031853583001066,
+      "nm_calls": 1,
+      "objective_calls": 83,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4572916925778454,
+          "displacement_rad": 0.27733748626624544
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.7766677848528216,
+          -27.715696089588047,
+          1.27668554176786
+        ],
+        "candidate_axis": [
+          0.02798202511578008,
+          -0.9985495976598867,
+          0.04599681819102526
+        ],
+        "candidate_rpm": 265.04983092846436,
+        "candidate_contrast": 2.2281766944942895e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          0.7766677848528216,
+          -27.715696089588047,
+          1.27668554176786
+        ],
+        "measurement_axis": [
+          0.02798202511578008,
+          -0.9985495976598867,
+          0.04599681819102526
+        ],
+        "measurement_rpm": 265.04983092846436
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "x+",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.021136125025805086,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "x-",
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.0208215830498375,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "y+",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.020936084038112313,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "y-",
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "search_s": 0.020916207984555513,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "z+",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.02071687497664243,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "z-",
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        -36.651914291880914
+      ],
+      "search_s": 0.02048520796233788,
+      "nm_calls": 1,
+      "objective_calls": 78,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150759299231947,
+          "displacement_rad": 0.25322614942276855
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.5952809070617406,
+          1.433541161439204,
+          -25.166306374217598
+        ],
+        "candidate_axis": [
+          -0.10241691927704243,
+          0.056571475177096826,
+          -0.9931316341966391
+        ],
+        "candidate_rpm": 241.9825481882949,
+        "candidate_contrast": 3.249322547703222e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.5952809070617406,
+          1.433541161439204,
+          -25.166306374217598
+        ],
+        "measurement_axis": [
+          -0.10241691927704243,
+          0.056571475177096826,
+          -0.9931316341966391
+        ],
+        "measurement_rpm": 241.9825481882949
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "random0",
+      "axis": [
+        -0.8389996972187552,
+        0.5743241040937862,
+        -0.23402397437190217
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.020625125034712255,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "random1",
+      "axis": [
+        0.8807528151701158,
+        -1.9125562180451832,
+        -0.8398978163735172
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.020800917001906782,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "random2",
+      "axis": [
+        -0.5196156352370456,
+        0.07610191622739597,
+        -0.12806632087684014
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.02074787497986108,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run2_02095000",
+      "seed": "random3",
+      "axis": [
+        -0.42391787919472385,
+        -0.2422699545355762,
+        -0.00887293750426462
+      ],
+      "selected_seed": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.020661332993768156,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.08150742160397728,
+          "displacement_rad": 0.2535147703835314
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "candidate_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "candidate_rpm": 242.2583539678526,
+        "candidate_contrast": 3.2493220327775686e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -2.609151978950865,
+          1.4514081196603408,
+          -25.192932549388075
+        ],
+        "measurement_axis": [
+          -0.10284708731649406,
+          0.05721134637569022,
+          -0.9930505216132733
+        ],
+        "measurement_rpm": 242.2583539678526
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "x+",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.026407375000417233,
+      "nm_calls": 1,
+      "objective_calls": 106,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862411847128,
+          "displacement_rad": 0.2775979078085257
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "candidate_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "candidate_rpm": 265.1925523391063,
+        "candidate_contrast": 4.225743483036776e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "measurement_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "measurement_rpm": 265.1925523391063
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "x-",
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        -36.651914291880914,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.018981541972607374,
+      "nm_calls": 1,
+      "objective_calls": 73,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228605344036165,
+          "displacement_rad": 0.27760446788451554
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.586280370802232,
+          -18.467311794992213,
+          2.5343136124339285
+        ],
+        "candidate_axis": [
+          -0.7412721421765608,
+          -0.6649721818581685,
+          0.09125573180770336
+        ],
+        "candidate_rpm": 265.19881925699855,
+        "candidate_contrast": 4.22574293296603e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.586280370802232,
+          -18.467311794992213,
+          2.5343136124339285
+        ],
+        "measurement_axis": [
+          -0.7412721421765608,
+          -0.6649721818581685,
+          0.09125573180770336
+        ],
+        "measurement_rpm": 265.19881925699855
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "y+",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.026261791994329542,
+      "nm_calls": 1,
+      "objective_calls": 106,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862411847128,
+          "displacement_rad": 0.2775979078085257
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "candidate_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "candidate_rpm": 265.1925523391063,
+        "candidate_contrast": 4.225743483036776e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "measurement_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "measurement_rpm": 265.1925523391063
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "y-",
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        -36.651914291880914,
+        0.0
+      ],
+      "search_s": 0.021669499983545393,
+      "nm_calls": 1,
+      "objective_calls": 87,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228612972100634,
+          "displacement_rad": 0.27755812297532506
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.56318570813503,
+          -18.478524756150343,
+          2.5886890002772764
+        ],
+        "candidate_axis": [
+          -0.7405641821435401,
+          -0.6654870391917864,
+          0.09322924859623755
+        ],
+        "candidate_rpm": 265.1545454191546,
+        "candidate_contrast": 4.2257431564601105e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.56318570813503,
+          -18.478524756150343,
+          2.5886890002772764
+        ],
+        "measurement_axis": [
+          -0.7405641821435401,
+          -0.6654870391917864,
+          0.09322924859623755
+        ],
+        "measurement_rpm": 265.1545454191546
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "z+",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        36.651914291880914
+      ],
+      "search_s": 0.0273497499874793,
+      "nm_calls": 1,
+      "objective_calls": 110,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228585543944976,
+          "displacement_rad": 0.2778096740458531
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.570862147687652,
+          -18.503768402363658,
+          2.617275629391324
+        ],
+        "candidate_axis": [
+          -0.7401698257431694,
+          -0.6657927575247018,
+          0.09417342027865283
+        ],
+        "candidate_rpm": 265.39485512092284,
+        "candidate_contrast": 4.225742352844665e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.570862147687652,
+          -18.503768402363658,
+          2.617275629391324
+        ],
+        "measurement_axis": [
+          -0.7401698257431694,
+          -0.6657927575247018,
+          0.09417342027865283
+        ],
+        "measurement_rpm": 265.39485512092284
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "z-",
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.026106916018761694,
+      "nm_calls": 1,
+      "objective_calls": 106,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862411847128,
+          "displacement_rad": 0.2775979078085257
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "candidate_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "candidate_rpm": 265.1925523391063,
+        "candidate_contrast": 4.225743483036776e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "measurement_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "measurement_rpm": 265.1925523391063
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "random0",
+      "axis": [
+        -0.8389996972187552,
+        0.5743241040937862,
+        -0.23402397437190217
+      ],
+      "selected_seed": [
+        -29.473865019702156,
+        20.175872741951714,
+        -8.221208011012248
+      ],
+      "search_s": 0.02302087499992922,
+      "nm_calls": 1,
+      "objective_calls": 92,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862229205655,
+          "displacement_rad": 0.277709218518868
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.59792691706136,
+          -18.470516922156897,
+          2.531177891184603
+        ],
+        "candidate_axis": [
+          -0.7414117491708558,
+          -0.6648367243211849,
+          0.09110844189913796
+        ],
+        "candidate_rpm": 265.2988887722999,
+        "candidate_contrast": 4.22574342952479e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.59792691706136,
+          -18.470516922156897,
+          2.531177891184603
+        ],
+        "measurement_axis": [
+          -0.7414117491708558,
+          -0.6648367243211849,
+          0.09110844189913796
+        ],
+        "measurement_rpm": 265.2988887722999
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "random1",
+      "axis": [
+        0.8807528151701158,
+        -1.9125562180451832,
+        -0.8398978163735172
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.02616725000552833,
+      "nm_calls": 1,
+      "objective_calls": 106,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862411847128,
+          "displacement_rad": 0.2775979078085257
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "candidate_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "candidate_rpm": 265.1925523391063,
+        "candidate_contrast": 4.225743483036776e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.57426529710006,
+          -18.4764035329997,
+          2.558311756336848
+        ],
+        "measurement_axis": [
+          -0.7408570098145958,
+          -0.6653152798372521,
+          0.0921220354945259
+        ],
+        "measurement_rpm": 265.1925523391063
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "random2",
+      "axis": [
+        -0.5196156352370456,
+        0.07610191622739597,
+        -0.12806632087684014
+      ],
+      "selected_seed": [
+        -35.23254773129165,
+        5.160091833459381,
+        -8.683539249171723
+      ],
+      "search_s": 0.0206736660329625,
+      "nm_calls": 1,
+      "objective_calls": 82,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.44228621231337284,
+          "displacement_rad": 0.27765235665105553
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.570111804438753,
+          -18.48420995240115,
+          2.5942033863914893
+        ],
+        "candidate_axis": [
+          -0.7405621910696938,
+          -0.6654658541811426,
+          0.09339613523597565
+        ],
+        "candidate_rpm": 265.24456795996025,
+        "candidate_contrast": 4.225743398446857e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.570111804438753,
+          -18.48420995240115,
+          2.5942033863914893
+        ],
+        "measurement_axis": [
+          -0.7405621910696938,
+          -0.6654658541811426,
+          0.09339613523597565
+        ],
+        "measurement_rpm": 265.24456795996025
+      }
+    },
+    {
+      "case": "run3_01495000",
+      "seed": "random3",
+      "axis": [
+        -0.42391787919472385,
+        -0.2422699545355762,
+        -0.00887293750426462
+      ],
+      "selected_seed": [
+        -31.81651230961586,
+        -18.183203325544408,
+        -0.6659448425793152
+      ],
+      "search_s": 0.017329583002720028,
+      "nm_calls": 1,
+      "objective_calls": 65,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.4422862596059325,
+          "displacement_rad": 0.2777060573686924
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          -20.592972856720706,
+          -18.474629949183125,
+          2.537990497777222
+        ],
+        "candidate_axis": [
+          -0.7412418678447835,
+          -0.6649923401809593,
+          0.09135469804354798
+        ],
+        "candidate_rpm": 265.2958688882885,
+        "candidate_contrast": 4.225743537008967e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          -20.592972856720706,
+          -18.474629949183125,
+          2.537990497777222
+        ],
+        "measurement_axis": [
+          -0.7412418678447835,
+          -0.6649923401809593,
+          0.09135469804354798
+        ],
+        "measurement_rpm": 265.2958688882885
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "x+",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.03329750004922971,
+      "nm_calls": 1,
+      "objective_calls": 88,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110006139122,
+          "displacement_rad": 0.29352489514308244
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "candidate_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "candidate_rpm": 280.4358458182201,
+        "candidate_contrast": 2.1414230372163872e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "measurement_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "measurement_rpm": 280.4358458182201
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "x-",
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        -73.30382858376183,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.03755462501430884,
+      "nm_calls": 1,
+      "objective_calls": 98,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039109736804787,
+          "displacement_rad": 0.2935982260715702
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1008572226986935,
+          29.274703864232457,
+          -2.154450434480784
+        ],
+        "candidate_axis": [
+          0.03747661587775136,
+          0.9966022923165632,
+          -0.07334421730254656
+        ],
+        "candidate_rpm": 280.50590672717664,
+        "candidate_contrast": 2.141423003367275e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1008572226986935,
+          29.274703864232457,
+          -2.154450434480784
+        ],
+        "measurement_axis": [
+          0.03747661587775136,
+          0.9966022923165632,
+          -0.07334421730254656
+        ],
+        "measurement_rpm": 280.50590672717664
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "y+",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        36.651914291880914,
+        0.0
+      ],
+      "search_s": 0.030821874970570207,
+      "nm_calls": 1,
+      "objective_calls": 83,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110923594039,
+          "displacement_rad": 0.2935389710212541
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1070884388774391,
+          29.26958791048717,
+          -2.1398952697660607
+        ],
+        "candidate_axis": [
+          0.0376963539392485,
+          0.9966292725886023,
+          -0.07286341962329469
+        ],
+        "candidate_rpm": 280.44929401585523,
+        "candidate_contrast": 2.1414231525193049e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1070884388774391,
+          29.26958791048717,
+          -2.1398952697660607
+        ],
+        "measurement_axis": [
+          0.0376963539392485,
+          0.9966292725886023,
+          -0.07286341962329469
+        ],
+        "measurement_rpm": 280.44929401585523
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "y-",
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "search_s": 0.03248612501192838,
+      "nm_calls": 1,
+      "objective_calls": 88,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110006139122,
+          "displacement_rad": 0.29352489514308244
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "candidate_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "candidate_rpm": 280.4358458182201,
+        "candidate_contrast": 2.1414230372163872e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "measurement_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "measurement_rpm": 280.4358458182201
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "z+",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        73.30382858376183
+      ],
+      "search_s": 0.03386487503303215,
+      "nm_calls": 1,
+      "objective_calls": 90,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110130124293,
+          "displacement_rad": 0.293575599040038
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1010374184678997,
+          29.272455044399663,
+          -2.1540494303446627
+        ],
+        "candidate_axis": [
+          0.037485639247851144,
+          0.9966025416467692,
+          -0.07333621774662094
+        ],
+        "candidate_rpm": 280.4842886946653,
+        "candidate_contrast": 2.141423052798463e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1010374184678997,
+          29.272455044399663,
+          -2.1540494303446627
+        ],
+        "measurement_axis": [
+          0.037485639247851144,
+          0.9966025416467692,
+          -0.07333621774662094
+        ],
+        "measurement_rpm": 280.4842886946653
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "z-",
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        -73.30382858376183
+      ],
+      "search_s": 0.03833870799280703,
+      "nm_calls": 1,
+      "objective_calls": 105,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039109025907024,
+          "displacement_rad": 0.29353881338409504
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.119571101438653,
+          29.268090011927896,
+          -2.1536281597392817
+        ],
+        "candidate_axis": [
+          0.03812140898804102,
+          0.9965788043383494,
+          -0.07333106381549626
+        ],
+        "candidate_rpm": 280.44914340815285,
+        "candidate_contrast": 2.1414229140238264e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.119571101438653,
+          29.268090011927896,
+          -2.1536281597392817
+        ],
+        "measurement_axis": [
+          0.03812140898804102,
+          0.9965788043383494,
+          -0.07333106381549626
+        ],
+        "measurement_rpm": 280.44914340815285
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "random0",
+      "axis": [
+        -0.8389996972187552,
+        0.5743241040937862,
+        -0.23402397437190217
+      ],
+      "selected_seed": [
+        -29.473865019702156,
+        20.175872741951714,
+        -8.221208011012248
+      ],
+      "search_s": 0.029896416002884507,
+      "nm_calls": 1,
+      "objective_calls": 79,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039108721440881,
+          "displacement_rad": 0.29365529899351733
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.104983232756687,
+          29.279596531209634,
+          -2.1636928670885975
+        ],
+        "candidate_axis": [
+          0.037609767129204434,
+          0.9965751285009189,
+          -0.07364454270252398
+        ],
+        "candidate_rpm": 280.560434616989,
+        "candidate_contrast": 2.1414228757594563e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.104983232756687,
+          29.279596531209634,
+          -2.1636928670885975
+        ],
+        "measurement_axis": [
+          0.037609767129204434,
+          0.9965751285009189,
+          -0.07364454270252398
+        ],
+        "measurement_rpm": 280.560434616989
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "random1",
+      "axis": [
+        0.8807528151701158,
+        -1.9125562180451832,
+        -0.8398978163735172
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.03274358395719901,
+      "nm_calls": 1,
+      "objective_calls": 88,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110006139122,
+          "displacement_rad": 0.29352489514308244
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "candidate_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "candidate_rpm": 280.4358458182201,
+        "candidate_contrast": 2.1414230372163872e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "measurement_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "measurement_rpm": 280.4358458182201
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "random2",
+      "axis": [
+        -0.5196156352370456,
+        0.07610191622739597,
+        -0.12806632087684014
+      ],
+      "selected_seed": [
+        -70.4650954625833,
+        10.320183666918762,
+        -17.367078498343446
+      ],
+      "search_s": 0.03285650000907481,
+      "nm_calls": 1,
+      "objective_calls": 88,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039109682154818,
+          "displacement_rad": 0.2933668554374365
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.0918825776833119,
+          29.252703215556913,
+          -2.1423241448755723
+        ],
+        "candidate_axis": [
+          0.03720040680012023,
+          0.9966387245877697,
+          -0.07298891961091966
+        ],
+        "candidate_rpm": 280.28485351992094,
+        "candidate_contrast": 2.1414229964990346e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.0918825776833119,
+          29.252703215556913,
+          -2.1423241448755723
+        ],
+        "measurement_axis": [
+          0.03720040680012023,
+          0.9966387245877697,
+          -0.07298891961091966
+        ],
+        "measurement_rpm": 280.28485351992094
+      }
+    },
+    {
+      "case": "run4_02495000",
+      "seed": "random3",
+      "axis": [
+        -0.42391787919472385,
+        -0.2422699545355762,
+        -0.00887293750426462
+      ],
+      "selected_seed": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.03288266697200015,
+      "nm_calls": 1,
+      "objective_calls": 88,
+      "outcome": {
+        "common_quality": {
+          "passed": true,
+          "failure_reason": null,
+          "gain": 0.7039110006139122,
+          "displacement_rad": 0.29352489514308244
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "candidate_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "candidate_rpm": 280.4358458182201,
+        "candidate_contrast": 2.1414230372163872e-07,
+        "measurement_valid": true,
+        "measurement_omega": [
+          1.1096148338819831,
+          29.266248280579973,
+          -2.1647915455479945
+        ],
+        "measurement_axis": [
+          0.037784189512253014,
+          0.9965633457489393,
+          -0.07371467243759658
+        ],
+        "measurement_rpm": 280.4358458182201
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "x+",
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.011467709031421691,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "x-",
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.011318417033180594,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "y+",
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.011247499962337315,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "y-",
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "search_s": 0.011371000029612333,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "z+",
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "search_s": 0.01144324999768287,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "z-",
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "selected_seed": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.011216791986953467,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "random0",
+      "axis": [
+        -0.8389996972187552,
+        0.5743241040937862,
+        -0.23402397437190217
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.011181875015608966,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "random1",
+      "axis": [
+        0.8807528151701158,
+        -1.9125562180451832,
+        -0.8398978163735172
+      ],
+      "selected_seed": [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.01123145903693512,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "random2",
+      "axis": [
+        -0.5196156352370456,
+        0.07610191622739597,
+        -0.12806632087684014
+      ],
+      "selected_seed": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "search_s": 0.011303833045531064,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_04095000",
+      "seed": "random3",
+      "axis": [
+        -0.42391787919472385,
+        -0.2422699545355762,
+        -0.00887293750426462
+      ],
+      "selected_seed": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "search_s": 0.011202250025235116,
+      "nm_calls": 1,
+      "objective_calls": 70,
+      "outcome": {
+        "common_quality": {
+          "passed": false,
+          "failure_reason": "no_rotation_evidence",
+          "gain": 0.03837093114079493,
+          "displacement_rad": 0.06114650275587878
+        },
+        "zero_won": false,
+        "candidate_omega": [
+          0.9080204450469499,
+          6.057799162564584,
+          0.31687543897712395
+        ],
+        "candidate_axis": [
+          0.1480388151193611,
+          0.9876312974547062,
+          0.05166168315095078
+        ],
+        "candidate_rpm": 58.57218276485291,
+        "candidate_contrast": 2.8717066097430066e-07,
+        "measurement_valid": false,
+        "measurement_omega": null,
+        "measurement_axis": null,
+        "measurement_rpm": null
+      }
+    },
+    {
+      "case": "run5_01525000",
+      "failure_reason": "insufficient_events"
+    }
+  ]
+}

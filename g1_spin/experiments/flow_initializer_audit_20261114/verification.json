@@ -1,0 +1,8 @@
+{
+  "sources_unchanged": true,
+  "case_identity_matches": true,
+  "windows_per_extension": 108,
+  "summary_acceptance_sets_equal": true,
+  "existing_tests": "2 passed: tests/test_optical_flow.py and phase3/test_math.py",
+  "review": "Independent agent reconstructed M_spatial via regression residual SVD and checked label flow, geometry and no direction-grid route"
+}

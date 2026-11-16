@@ -1,0 +1,1286 @@
+{
+  "windows": 108,
+  "statuses": {
+    "accepted": 53,
+    "geometry_unavailable": 20,
+    "insufficient_events": 12,
+    "initializer_rejected": 6,
+    "refinement_rejected": 17
+  },
+  "conditions": [
+    {
+      "condition": "camera_facing",
+      "windows": 12,
+      "G_accepted": 11,
+      "initializer_available": 12,
+      "accepted": 11,
+      "statuses": {
+        "accepted": 11,
+        "refinement_rejected": 1
+      }
+    },
+    {
+      "condition": "dynamic_total_motion",
+      "windows": 15,
+      "G_accepted": 12,
+      "initializer_available": 14,
+      "accepted": 12,
+      "statuses": {
+        "accepted": 12,
+        "geometry_unavailable": 1,
+        "refinement_rejected": 2
+      }
+    },
+    {
+      "condition": "fixed_vertical",
+      "windows": 18,
+      "G_accepted": 14,
+      "initializer_available": 14,
+      "accepted": 14,
+      "statuses": {
+        "accepted": 14,
+        "geometry_unavailable": 4
+      }
+    },
+    {
+      "condition": "oblique_fixed",
+      "windows": 12,
+      "G_accepted": 8,
+      "initializer_available": 8,
+      "accepted": 8,
+      "statuses": {
+        "accepted": 8,
+        "geometry_unavailable": 4
+      }
+    },
+    {
+      "condition": "reverse_fixed",
+      "windows": 12,
+      "G_accepted": 8,
+      "initializer_available": 8,
+      "accepted": 8,
+      "statuses": {
+        "geometry_unavailable": 4,
+        "accepted": 8
+      }
+    },
+    {
+      "condition": "static_prior",
+      "windows": 12,
+      "G_accepted": 0,
+      "initializer_available": 0,
+      "accepted": 0,
+      "statuses": {
+        "insufficient_events": 12
+      }
+    },
+    {
+      "condition": "translation_early",
+      "windows": 18,
+      "G_accepted": 0,
+      "initializer_available": 11,
+      "accepted": 0,
+      "statuses": {
+        "initializer_rejected": 4,
+        "refinement_rejected": 11,
+        "geometry_unavailable": 3
+      }
+    },
+    {
+      "condition": "translation_late",
+      "windows": 9,
+      "G_accepted": 0,
+      "initializer_available": 3,
+      "accepted": 0,
+      "statuses": {
+        "geometry_unavailable": 4,
+        "refinement_rejected": 3,
+        "initializer_rejected": 2
+      }
+    }
+  ],
+  "paired_count": 53,
+  "accepted_sets_identical": true,
+  "paired_abs_rpm_median": 0.0722947889642569,
+  "paired_abs_rpm_max": 0.64834663028347,
+  "paired_axis_degrees_median": 0.04854568038729422,
+  "paired_axis_degrees_max": 0.42118504417578745,
+  "initial_to_G_axis_degrees_median": 27.402191778806383,
+  "initial_to_G_axis_degrees_max": 83.81228122025036,
+  "initializer_failures": {
+    "insufficient_observation_or_patch_count": 2,
+    "no_local_normal_observations": 4
+  },
+  "refinement_failures": {
+    "no_rotation_evidence": 17
+  },
+  "downsampled_windows": 11,
+  "comparisons": [
+    {
+      "case": "run1_00725000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 17.195008596151528,
+      "axis_difference_deg": 0.10403821288302753,
+      "rpm_difference": 0.017827749453346087,
+      "initial_rpm": 176.76266577557558,
+      "final_rpm": 209.60414638917408,
+      "G_rpm": 209.58631863972073,
+      "final_axis": [
+        -0.12243797618424686,
+        -0.9752004811288503,
+        -0.18437180802379888
+      ],
+      "G_axis": [
+        -0.12390084023989993,
+        -0.9748245698584516,
+        -0.18537971784456767
+      ],
+      "initial_residual_rms_px_s": 533.8515420828322,
+      "final_gain": 0.49244980602238186
+    },
+    {
+      "case": "run1_00795000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 30.12039141229081,
+      "axis_difference_deg": 0.04822564579803739,
+      "rpm_difference": 0.05004212180745071,
+      "initial_rpm": 217.3442461296227,
+      "final_rpm": 274.1720264815368,
+      "G_rpm": 274.12198435972937,
+      "final_axis": [
+        -0.02012287393782432,
+        -0.9982539914237204,
+        0.05553412060250174
+      ],
+      "G_axis": [
+        -0.020846181621338226,
+        -0.9982629967680867,
+        0.05510377478366811
+      ],
+      "initial_residual_rms_px_s": 985.4598536991723,
+      "final_gain": 0.6560089264523961
+    },
+    {
+      "case": "run1_01425000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 23.856710559538623,
+      "axis_difference_deg": 0.07008875816790064,
+      "rpm_difference": 0.11820956535970595,
+      "initial_rpm": 181.7631326785217,
+      "final_rpm": 224.49970705093193,
+      "G_rpm": 224.38149748557223,
+      "final_axis": [
+        -0.0854839606458909,
+        -0.9962609798046479,
+        0.01251209778473925
+      ],
+      "G_axis": [
+        -0.08537008359042651,
+        -0.9962852934608193,
+        0.011294372999542486
+      ],
+      "initial_residual_rms_px_s": 322.19454599317794,
+      "final_gain": 0.38782952943460924
+    },
+    {
+      "case": "run1_01495000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 51.68864583336177,
+      "axis_difference_deg": 0.03454908775965028,
+      "rpm_difference": -0.08557493462535604,
+      "initial_rpm": 257.29134799042413,
+      "final_rpm": 265.0304996166417,
+      "G_rpm": 265.11607455126705,
+      "final_axis": [
+        0.027998507948164393,
+        -0.9985538289782049,
+        0.0458948165443842
+      ],
+      "G_axis": [
+        0.027490218701411998,
+        -0.9985529883623252,
+        0.04621923093711751
+      ],
+      "initial_residual_rms_px_s": 426.6653384951042,
+      "final_gain": 0.457291720474549
+    },
+    {
+      "case": "run1_01565000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 75.14607106803831,
+      "axis_difference_deg": 0.2688193620661925,
+      "rpm_difference": 0.02952000097570817,
+      "initial_rpm": 387.304172725175,
+      "final_rpm": 272.8365112440651,
+      "G_rpm": 272.8069912430894,
+      "final_axis": [
+        0.025895962905764208,
+        -0.9925499339709113,
+        0.11905472556569427
+      ],
+      "G_axis": [
+        0.029551397495466546,
+        -0.9927950369043909,
+        0.11612376847172282
+      ],
+      "initial_residual_rms_px_s": 1281.944303430574,
+      "final_gain": 0.7130777238443899
+    },
+    {
+      "case": "run1_02195000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 17.794904584470874,
+      "axis_difference_deg": 0.05212875224747633,
+      "rpm_difference": 0.02866351438217407,
+      "initial_rpm": 201.4484066988139,
+      "final_rpm": 266.9894452916127,
+      "G_rpm": 266.9607817772305,
+      "final_axis": [
+        -0.07881098498037462,
+        -0.9956630118269186,
+        0.049436783129288425
+      ],
+      "G_axis": [
+        -0.07798825964427593,
+        -0.9957085641382166,
+        0.049822551715743395
+      ],
+      "initial_residual_rms_px_s": 476.7273818398542,
+      "final_gain": 0.49489911927277297
+    },
+    {
+      "case": "run1_02265000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 46.51545402989287,
+      "axis_difference_deg": 0.043118858417343024,
+      "rpm_difference": -0.026402352345940017,
+      "initial_rpm": 237.81179215393863,
+      "final_rpm": 274.28340222658153,
+      "G_rpm": 274.30980457892747,
+      "final_axis": [
+        -0.02360891443845422,
+        -0.9954489364370137,
+        0.0923256958027176
+      ],
+      "G_axis": [
+        -0.022857502255932905,
+        -0.9954628306762895,
+        0.0923649681024633
+      ],
+      "initial_residual_rms_px_s": 530.3314565115173,
+      "final_gain": 0.7141889792479899
+    },
+    {
+      "case": "run1_03595000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 20.350036492222316,
+      "axis_difference_deg": 0.09725324924717617,
+      "rpm_difference": -0.02922513395165538,
+      "initial_rpm": 153.37416863288942,
+      "final_rpm": 216.1106294794504,
+      "G_rpm": 216.13985461340206,
+      "final_axis": [
+        -0.10297483192607158,
+        -0.9923480942858447,
+        0.06812814218111064
+      ],
+      "G_axis": [
+        -0.10247322965096785,
+        -0.9922874440321463,
+        0.06974858866708515
+      ],
+      "initial_residual_rms_px_s": 541.9626559445085,
+      "final_gain": 0.37888954080672077
+    },
+    {
+      "case": "run1_03665000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 35.862753101895244,
+      "axis_difference_deg": 0.0445077276716417,
+      "rpm_difference": -0.09589388243324493,
+      "initial_rpm": 184.69088483613004,
+      "final_rpm": 264.1419111975615,
+      "G_rpm": 264.23780507999476,
+      "final_axis": [
+        0.017205838057064354,
+        -0.9983265064427534,
+        0.05521001422351763
+      ],
+      "G_axis": [
+        0.017591583491484222,
+        -0.9983568067433353,
+        0.054536433872345816
+      ],
+      "initial_residual_rms_px_s": 814.8039501627314,
+      "final_gain": 0.5574220149038545
+    },
+    {
+      "case": "run1_04295000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 33.60992440394328,
+      "axis_difference_deg": 0.06253415591803511,
+      "rpm_difference": 0.045628015146689904,
+      "initial_rpm": 231.55225296132596,
+      "final_rpm": 235.1430373646543,
+      "G_rpm": 235.09740934950761,
+      "final_axis": [
+        0.029814346597675328,
+        -0.9960869729275269,
+        0.08319763879479992
+      ],
+      "G_axis": [
+        0.02931634875726137,
+        -0.996020353693967,
+        0.08416654158801623
+      ],
+      "initial_residual_rms_px_s": 325.25233717673984,
+      "final_gain": 0.3534082935030822
+    },
+    {
+      "case": "run1_04365000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 31.42519252053047,
+      "axis_difference_deg": 0.038339067666909615,
+      "rpm_difference": -0.08733431159595284,
+      "initial_rpm": 192.37658053185388,
+      "final_rpm": 265.55808626467945,
+      "G_rpm": 265.6454205762754,
+      "final_axis": [
+        -0.03361137964601432,
+        -0.9906029118240893,
+        0.13257505890599042
+      ],
+      "G_axis": [
+        -0.03295558061453395,
+        -0.9906419482457332,
+        0.1324479523520737
+      ],
+      "initial_residual_rms_px_s": 776.6340246277808,
+      "final_gain": 0.6210369892159833
+    },
+    {
+      "case": "run1_05625000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 37.30307776304067,
+      "axis_difference_deg": 0.05624694451918196,
+      "rpm_difference": 0.09247155919575789,
+      "initial_rpm": 254.0795746480139,
+      "final_rpm": 272.0551731717915,
+      "G_rpm": 271.96270161259577,
+      "final_axis": [
+        0.018838166864808766,
+        -0.9989731075298431,
+        0.041205022768369376
+      ],
+      "G_axis": [
+        0.019818293894466463,
+        -0.9989520269307264,
+        0.041256310039868585
+      ],
+      "initial_residual_rms_px_s": 722.0795031489514,
+      "final_gain": 0.5728689035028147
+    },
+    {
+      "case": "run1_05695000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 3.2955615177973723,
+      "axis_difference_deg": 0.047996142466236486,
+      "rpm_difference": -0.0765625618349759,
+      "initial_rpm": 169.09697785345068,
+      "final_rpm": 256.3564713490926,
+      "G_rpm": 256.4330339109276,
+      "final_axis": [
+        0.005816974123539735,
+        -0.993461407250383,
+        0.11402015223693902
+      ],
+      "G_axis": [
+        0.0058863257276506155,
+        -0.9935558451800497,
+        0.11319069607518567
+      ],
+      "initial_residual_rms_px_s": 612.0523503123717,
+      "final_gain": 0.7134940730047008
+    },
+    {
+      "case": "run1_05765000",
+      "condition": "fixed_vertical",
+      "initial_to_G_axis_deg": 59.608476283772916,
+      "axis_difference_deg": 0.03220072562691009,
+      "rpm_difference": -0.0390147211098224,
+      "initial_rpm": 200.77820952262226,
+      "final_rpm": 214.45630692098592,
+      "G_rpm": 214.49532164209575,
+      "final_axis": [
+        -0.1120603486049204,
+        -0.992878516023403,
+        -0.040431802949023585
+      ],
+      "G_axis": [
+        -0.11179443243969805,
+        -0.9928882111019518,
+        -0.04092682653531733
+      ],
+      "initial_residual_rms_px_s": 647.8622376818042,
+      "final_gain": 0.4627810033586994
+    },
+    {
+      "case": "run2_00825000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 14.17785825462413,
+      "axis_difference_deg": 0.02657364578271753,
+      "rpm_difference": -0.0722947889642569,
+      "initial_rpm": 180.71023822098465,
+      "final_rpm": 275.06067403177883,
+      "G_rpm": 275.1329688207431,
+      "final_axis": [
+        -0.08310574852794106,
+        -0.02147586647702898,
+        -0.9963093002279318
+      ],
+      "G_axis": [
+        -0.08354763279998036,
+        -0.021610981729056275,
+        -0.9962694206499696
+      ],
+      "initial_residual_rms_px_s": 518.787343459128,
+      "final_gain": 0.09241352787423662
+    },
+    {
+      "case": "run2_00965000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 15.72064335762444,
+      "axis_difference_deg": 0.14768192730070917,
+      "rpm_difference": 0.5805780024743399,
+      "initial_rpm": 253.4637599060669,
+      "final_rpm": 259.23575785149785,
+      "G_rpm": 258.6551798490235,
+      "final_axis": [
+        -0.05453666382235288,
+        0.0072162130255089794,
+        -0.9984856927210817
+      ],
+      "G_axis": [
+        -0.055277210957980875,
+        0.004747487660711803,
+        -0.9984597594843861
+      ],
+      "initial_residual_rms_px_s": 565.3623978919535,
+      "final_gain": 0.10855247969341653
+    },
+    {
+      "case": "run2_02025000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 25.20729907909642,
+      "axis_difference_deg": 0.014918941289581687,
+      "rpm_difference": 0.11223749959054885,
+      "initial_rpm": 125.43451860350775,
+      "final_rpm": 274.7667139776722,
+      "G_rpm": 274.6544764780817,
+      "final_axis": [
+        -0.11319268230594542,
+        -0.03372117810081297,
+        -0.9930006539876389
+      ],
+      "G_axis": [
+        -0.1131374952928988,
+        -0.0339756360967475,
+        -0.9929982695406224
+      ],
+      "initial_residual_rms_px_s": 866.9568520026203,
+      "final_gain": 0.09073459715156917
+    },
+    {
+      "case": "run2_02095000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 28.529470953541463,
+      "axis_difference_deg": 0.024050820597210726,
+      "rpm_difference": -0.3721047741946961,
+      "initial_rpm": 177.60651287883766,
+      "final_rpm": 241.77804849124524,
+      "G_rpm": 242.15015326543994,
+      "final_axis": [
+        -0.10347712330462736,
+        0.05689490177023622,
+        -0.9930032502993906
+      ],
+      "G_axis": [
+        -0.10307864552850998,
+        0.05677214288231522,
+        -0.9930517190099204
+      ],
+      "initial_residual_rms_px_s": 609.1155766411406,
+      "final_gain": 0.08150737404454933
+    },
+    {
+      "case": "run2_02165000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 28.174292121151506,
+      "axis_difference_deg": 0.025407260909699816,
+      "rpm_difference": 0.05952054408510321,
+      "initial_rpm": 269.9450207375356,
+      "final_rpm": 258.03947355445,
+      "G_rpm": 257.9799530103649,
+      "final_axis": [
+        -0.08335792452256756,
+        0.09448884134200233,
+        -0.9920298963645884
+      ],
+      "G_axis": [
+        -0.08379821542013764,
+        0.09452284701525603,
+        -0.991989561681236
+      ],
+      "initial_residual_rms_px_s": 649.1713089192768,
+      "final_gain": 0.10056777146773954
+    },
+    {
+      "case": "run2_03425000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 36.62625215913037,
+      "axis_difference_deg": 0.08162735833790466,
+      "rpm_difference": -0.35602418908308664,
+      "initial_rpm": 293.99749567841354,
+      "final_rpm": 257.21884669145413,
+      "G_rpm": 257.5748708805372,
+      "final_axis": [
+        -0.037609867057190764,
+        0.10020461126338445,
+        -0.9942557687946771
+      ],
+      "G_axis": [
+        -0.0368718032168629,
+        0.09899515019952825,
+        -0.9944045607118412
+      ],
+      "initial_residual_rms_px_s": 602.6727344875659,
+      "final_gain": 0.09209844775047027
+    },
+    {
+      "case": "run2_03495000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 23.575296261376742,
+      "axis_difference_deg": 0.051736107161523576,
+      "rpm_difference": -0.06644996561993821,
+      "initial_rpm": 231.8500104232242,
+      "final_rpm": 257.6803284403529,
+      "G_rpm": 257.74677840597286,
+      "final_axis": [
+        -0.18082668968409024,
+        0.029947175761725377,
+        -0.9830589376847098
+      ],
+      "G_axis": [
+        -0.18168501701645118,
+        0.02971097949246263,
+        -0.9829078350940795
+      ],
+      "initial_residual_rms_px_s": 836.9709374808932,
+      "final_gain": 0.084636524055413
+    },
+    {
+      "case": "run2_03565000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 11.704950556417597,
+      "axis_difference_deg": 0.02727388819856916,
+      "rpm_difference": -0.07616781787709215,
+      "initial_rpm": 160.2779261509198,
+      "final_rpm": 261.98027152327865,
+      "G_rpm": 262.05643934115574,
+      "final_axis": [
+        0.016241853859256618,
+        -0.044989945015558176,
+        -0.998855398459012
+      ],
+      "G_axis": [
+        0.01639828672482445,
+        -0.04454070785582859,
+        -0.9988729756761828
+      ],
+      "initial_residual_rms_px_s": 599.4789653278019,
+      "final_gain": 0.12983768743572122
+    },
+    {
+      "case": "run2_05225000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 4.626392202968979,
+      "axis_difference_deg": 0.048873488255051334,
+      "rpm_difference": 0.10991086207008038,
+      "initial_rpm": 181.80040711171534,
+      "final_rpm": 246.14102703245754,
+      "G_rpm": 246.03111617038746,
+      "final_axis": [
+        0.03709526390113109,
+        -0.02118843114034511,
+        -0.9990870791787452
+      ],
+      "G_axis": [
+        0.03687931318165543,
+        -0.022013587434708284,
+        -0.9990772333646202
+      ],
+      "initial_residual_rms_px_s": 579.348599959629,
+      "final_gain": 0.11880736115673884
+    },
+    {
+      "case": "run2_05295000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 11.154079267560027,
+      "axis_difference_deg": 0.13943563808154755,
+      "rpm_difference": 0.4724419231945376,
+      "initial_rpm": 259.61165518240455,
+      "final_rpm": 268.12022770017336,
+      "G_rpm": 267.6477857769788,
+      "final_axis": [
+        0.003891589551858983,
+        -0.1271999218539433,
+        -0.9918694649050905
+      ],
+      "G_axis": [
+        0.0014636457148899033,
+        -0.12703624458399532,
+        -0.9918969958131826
+      ],
+      "initial_residual_rms_px_s": 681.2781665263988,
+      "final_gain": 0.1116789075175495
+    },
+    {
+      "case": "run2_05365000",
+      "condition": "camera_facing",
+      "initial_to_G_axis_deg": 32.45561764142342,
+      "axis_difference_deg": 0.01449735307048155,
+      "rpm_difference": -0.08999129483123625,
+      "initial_rpm": 268.6771315528009,
+      "final_rpm": 248.09187447351852,
+      "G_rpm": 248.18186576834975,
+      "final_axis": [
+        -0.10148249269685068,
+        -0.0031583713752814683,
+        -0.994832311681868
+      ],
+      "G_axis": [
+        -0.10123097781010269,
+        -0.0031481536921112623,
+        -0.9948579688879923
+      ],
+      "initial_residual_rms_px_s": 590.2829584687563,
+      "final_gain": 0.08698070006632563
+    },
+    {
+      "case": "run3_01425000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 22.148377588583987,
+      "axis_difference_deg": 0.02719646736160556,
+      "rpm_difference": 0.026362192287990638,
+      "initial_rpm": 212.44220816045188,
+      "final_rpm": 271.11773006618506,
+      "G_rpm": 271.09136787389707,
+      "final_axis": [
+        -0.7991345557307651,
+        -0.5992035260389517,
+        -0.04836420390619604
+      ],
+      "G_axis": [
+        -0.7989633638107657,
+        -0.5993996122312653,
+        -0.04876113355116712
+      ],
+      "initial_residual_rms_px_s": 588.0178945436,
+      "final_gain": 0.7741752291113995
+    },
+    {
+      "case": "run3_01495000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 31.2388464929943,
+      "axis_difference_deg": 0.110047662205521,
+      "rpm_difference": -0.11960139420585847,
+      "initial_rpm": 234.34830778197068,
+      "final_rpm": 265.18727174252155,
+      "G_rpm": 265.3068731367274,
+      "final_axis": [
+        -0.7399086885225356,
+        -0.6660698031970913,
+        0.09426637745161194
+      ],
+      "G_axis": [
+        -0.7406686895609695,
+        -0.6654568679114721,
+        0.09261236015505699
+      ],
+      "initial_residual_rms_px_s": 447.23742307829406,
+      "final_gain": 0.44228591326387634
+    },
+    {
+      "case": "run3_01565000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 21.044482657369716,
+      "axis_difference_deg": 0.01721447401195596,
+      "rpm_difference": -0.0703553858798216,
+      "initial_rpm": 183.91813604335005,
+      "final_rpm": 238.33466134680083,
+      "G_rpm": 238.40501673268065,
+      "final_axis": [
+        -0.7723973480115898,
+        -0.6221971836953565,
+        -0.12756567479627887
+      ],
+      "G_axis": [
+        -0.7722081670825885,
+        -0.6224304824984634,
+        -0.12757288562887886
+      ],
+      "initial_residual_rms_px_s": 584.7672677391523,
+      "final_gain": 0.4069497963581241
+    },
+    {
+      "case": "run3_02625000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 31.72035589989538,
+      "axis_difference_deg": 0.03458963585909029,
+      "rpm_difference": -0.09409762098243846,
+      "initial_rpm": 266.19636985967935,
+      "final_rpm": 265.75279712936043,
+      "G_rpm": 265.84689475034287,
+      "final_axis": [
+        -0.7371789269946789,
+        -0.6703255724507018,
+        -0.0850344431016792
+      ],
+      "G_axis": [
+        -0.7375268826524615,
+        -0.669988318047961,
+        -0.08467438245542011
+      ],
+      "initial_residual_rms_px_s": 581.6852262453172,
+      "final_gain": 0.7350575091477873
+    },
+    {
+      "case": "run3_02695000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 46.07873105516427,
+      "axis_difference_deg": 0.02125362594083967,
+      "rpm_difference": -0.015291909149539151,
+      "initial_rpm": 297.8278308620253,
+      "final_rpm": 272.775410598623,
+      "G_rpm": 272.79070250777255,
+      "final_axis": [
+        -0.6862295336943992,
+        -0.6931472671664021,
+        0.22053546904141247
+      ],
+      "G_axis": [
+        -0.6861589314770361,
+        -0.693319203090876,
+        0.22021444861707995
+      ],
+      "initial_residual_rms_px_s": 454.756017001034,
+      "final_gain": 0.5382682127796385
+    },
+    {
+      "case": "run3_04295000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 30.8546436537116,
+      "axis_difference_deg": 0.0525574832597736,
+      "rpm_difference": 0.01782072478823693,
+      "initial_rpm": 266.9212441732864,
+      "final_rpm": 273.23284388853403,
+      "G_rpm": 273.2150231637458,
+      "final_axis": [
+        -0.7402150245731498,
+        -0.6716805375668923,
+        0.03044622883087117
+      ],
+      "G_axis": [
+        -0.7407787614540715,
+        -0.6710767318651438,
+        0.030047404676102705
+      ],
+      "initial_residual_rms_px_s": 576.1641279008725,
+      "final_gain": 0.731214598916385
+    },
+    {
+      "case": "run3_04365000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 32.9280515093148,
+      "axis_difference_deg": 0.07175108971162057,
+      "rpm_difference": -0.06288969964288071,
+      "initial_rpm": 256.4187962304427,
+      "final_rpm": 275.0829800567124,
+      "G_rpm": 275.1458697563553,
+      "final_axis": [
+        -0.6586565121558922,
+        -0.7227401453614938,
+        0.20932816646949812
+      ],
+      "G_axis": [
+        -0.6581559708557053,
+        -0.7228647129023746,
+        0.21046929673363624
+      ],
+      "initial_residual_rms_px_s": 754.9445254376376,
+      "final_gain": 0.5130911235278246
+    },
+    {
+      "case": "run3_06225000",
+      "condition": "oblique_fixed",
+      "initial_to_G_axis_deg": 13.936204002380991,
+      "axis_difference_deg": 0.04356242574381958,
+      "rpm_difference": -0.12096749001568696,
+      "initial_rpm": 240.56921647629085,
+      "final_rpm": 286.45436191892804,
+      "G_rpm": 286.57532940894373,
+      "final_axis": [
+        -0.8075749823557092,
+        -0.5883846562259911,
+        -0.04032547818685257
+      ],
+      "G_axis": [
+        -0.8078540852543478,
+        -0.5880435480812249,
+        -0.039705950409294956
+      ],
+      "initial_residual_rms_px_s": 474.47599291685873,
+      "final_gain": 0.5225028009326849
+    },
+    {
+      "case": "run4_00895000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 10.301994903753576,
+      "axis_difference_deg": 0.050654734561444655,
+      "rpm_difference": 0.008240244743092262,
+      "initial_rpm": 165.41098023046183,
+      "final_rpm": 235.6193076247367,
+      "G_rpm": 235.6110673799936,
+      "final_axis": [
+        0.025689471207394482,
+        0.9981527013778908,
+        -0.05505665991597797
+      ],
+      "G_axis": [
+        0.0263253037500891,
+        0.9981021776204203,
+        -0.05566885495355974
+      ],
+      "initial_residual_rms_px_s": 429.3761753517169,
+      "final_gain": 0.3740609719758725
+    },
+    {
+      "case": "run4_01625000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 34.51845386336693,
+      "axis_difference_deg": 0.03140619337669114,
+      "rpm_difference": 0.01756506214996989,
+      "initial_rpm": 177.4815728925612,
+      "final_rpm": 213.58284578506203,
+      "G_rpm": 213.56528072291206,
+      "final_axis": [
+        0.05780609354209017,
+        0.9965457649167364,
+        0.05962377022563915
+      ],
+      "G_axis": [
+        0.05795181387616829,
+        0.9965056373084039,
+        0.060150661517839606
+      ],
+      "initial_residual_rms_px_s": 408.5679952879281,
+      "final_gain": 0.4033934371630783
+    },
+    {
+      "case": "run4_01765000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 54.687908588362696,
+      "axis_difference_deg": 0.012212471789454796,
+      "rpm_difference": 0.05719929743293051,
+      "initial_rpm": 240.10723667777378,
+      "final_rpm": 277.0829491993808,
+      "G_rpm": 277.02574990194785,
+      "final_axis": [
+        0.06300193225112947,
+        0.996210138663539,
+        -0.05996762590428614
+      ],
+      "G_axis": [
+        0.06300898054002578,
+        0.9961968714294454,
+        -0.060180243647659996
+      ],
+      "initial_residual_rms_px_s": 492.14861057298833,
+      "final_gain": 0.647456145078382
+    },
+    {
+      "case": "run4_02425000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 48.44960565178083,
+      "axis_difference_deg": 0.039262153168511456,
+      "rpm_difference": 0.1713863289171229,
+      "initial_rpm": 192.49740525049248,
+      "final_rpm": 242.73426671065218,
+      "G_rpm": 242.56288038173506,
+      "final_axis": [
+        0.0026295685209505007,
+        0.9818598709059162,
+        -0.18958976574174835
+      ],
+      "G_axis": [
+        0.002206004110954196,
+        0.98175860732405,
+        -0.19011883255218098
+      ],
+      "initial_residual_rms_px_s": 665.0081927437061,
+      "final_gain": 0.3844076858712735
+    },
+    {
+      "case": "run4_02495000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 16.388967555146454,
+      "axis_difference_deg": 0.030129386892105793,
+      "rpm_difference": 0.055088160719265034,
+      "initial_rpm": 107.20641552036338,
+      "final_rpm": 280.505174065121,
+      "G_rpm": 280.45008590440176,
+      "final_axis": [
+        0.037651129061851696,
+        0.9965762822399459,
+        -0.07360778598202408
+      ],
+      "G_axis": [
+        0.037187440369899016,
+        0.9966117927401991,
+        -0.0733623121902636
+      ],
+      "initial_residual_rms_px_s": 1226.0621334184802,
+      "final_gain": 0.7039109705396769
+    },
+    {
+      "case": "run4_03225000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 22.14514380181422,
+      "axis_difference_deg": 0.05832477633014871,
+      "rpm_difference": -0.027732456654064208,
+      "initial_rpm": 182.05600340234795,
+      "final_rpm": 276.19390090556914,
+      "G_rpm": 276.2216333622232,
+      "final_axis": [
+        0.04009340050112736,
+        0.9971623148705089,
+        -0.06371685050553265
+      ],
+      "G_axis": [
+        0.040674232019866356,
+        0.9970852508376931,
+        -0.06454927893887584
+      ],
+      "initial_residual_rms_px_s": 616.6770172966935,
+      "final_gain": 0.8321302412431868
+    },
+    {
+      "case": "run4_03295000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 12.838574666615726,
+      "axis_difference_deg": 0.04654678225476387,
+      "rpm_difference": -0.22766799017682615,
+      "initial_rpm": 157.0660409631747,
+      "final_rpm": 258.5382944958546,
+      "G_rpm": 258.7659624860314,
+      "final_axis": [
+        0.001718092239161119,
+        0.9960397944358154,
+        -0.08889193472591447
+      ],
+      "G_axis": [
+        0.0018033634925169139,
+        0.9959675033123399,
+        -0.08969660097182233
+      ],
+      "initial_residual_rms_px_s": 682.3995983909927,
+      "final_gain": 0.35691322868371644
+    },
+    {
+      "case": "run4_03365000",
+      "condition": "reverse_fixed",
+      "initial_to_G_axis_deg": 27.272929686064014,
+      "axis_difference_deg": 0.018609638033295166,
+      "rpm_difference": -0.004277064346666748,
+      "initial_rpm": 183.18746524625237,
+      "final_rpm": 236.61383032459602,
+      "G_rpm": 236.6181073889427,
+      "final_axis": [
+        0.023434224059362654,
+        0.9980615467655207,
+        -0.05765401990106205
+      ],
+      "G_axis": [
+        0.023314470320320028,
+        0.9980468857548159,
+        -0.057955580480194835
+      ],
+      "initial_residual_rms_px_s": 387.22988520485603,
+      "final_gain": 0.37332694406015454
+    },
+    {
+      "case": "run4_04425000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 10.371473100296482,
+      "axis_difference_deg": 0.42118504417578745,
+      "rpm_difference": -0.05143721803307244,
+      "initial_rpm": 216.44554813269787,
+      "final_rpm": 266.56804050889457,
+      "G_rpm": 266.61947772692764,
+      "final_axis": [
+        0.4023435813150403,
+        0.9142587058035996,
+        -0.04744113654746144
+      ],
+      "G_axis": [
+        0.397823004893538,
+        0.9159305380245263,
+        -0.05299156811774933
+      ],
+      "initial_residual_rms_px_s": 396.68369854859463,
+      "final_gain": 0.5495363530181587
+    },
+    {
+      "case": "run4_04495000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 32.215778431809454,
+      "axis_difference_deg": 0.06154942941080587,
+      "rpm_difference": -0.012705662848702559,
+      "initial_rpm": 202.4866863933819,
+      "final_rpm": 256.38520049591364,
+      "G_rpm": 256.39790615876234,
+      "final_axis": [
+        0.392927602650296,
+        0.9129543380394847,
+        0.11010120676167645
+      ],
+      "G_axis": [
+        0.39286484699668156,
+        0.9131086995594996,
+        0.10903996874097795
+      ],
+      "initial_residual_rms_px_s": 711.3043537256572,
+      "final_gain": 0.5375592694939644
+    },
+    {
+      "case": "run4_05425000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 83.81228122025036,
+      "axis_difference_deg": 0.09512340678350376,
+      "rpm_difference": -0.1520519166789427,
+      "initial_rpm": 381.8399319109743,
+      "final_rpm": 131.40284868893804,
+      "G_rpm": 131.55490060561698,
+      "final_axis": [
+        0.2856418645441405,
+        0.909262691563771,
+        0.30273764706417555
+      ],
+      "G_axis": [
+        0.28608025239462614,
+        0.9086332299464804,
+        0.30421003045076184
+      ],
+      "initial_residual_rms_px_s": 491.9051617183581,
+      "final_gain": 0.12439331734449377
+    },
+    {
+      "case": "run4_05495000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 7.818097683702432,
+      "axis_difference_deg": 0.02226069060938055,
+      "rpm_difference": 0.052564454970109864,
+      "initial_rpm": 170.28792224583307,
+      "final_rpm": 201.5032715613374,
+      "G_rpm": 201.4507071063673,
+      "final_axis": [
+        0.07804676244823226,
+        0.9616149362626613,
+        0.2630692251630875
+      ],
+      "G_axis": [
+        0.07794190366162017,
+        0.9615240880324188,
+        0.26343213127298626
+      ],
+      "initial_residual_rms_px_s": 449.0310057954198,
+      "final_gain": 0.42821825778273137
+    },
+    {
+      "case": "run4_05565000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 45.235804104492125,
+      "axis_difference_deg": 0.06018415383193147,
+      "rpm_difference": 0.04545727382355835,
+      "initial_rpm": 157.9802269637076,
+      "final_rpm": 163.41901267504807,
+      "G_rpm": 163.3735554012245,
+      "final_axis": [
+        0.13193704157018182,
+        0.9258540488655791,
+        0.3541001232150617
+      ],
+      "G_axis": [
+        0.13208931074859856,
+        0.9254634060345752,
+        0.3550632310967204
+      ],
+      "initial_residual_rms_px_s": 627.37007962973,
+      "final_gain": 0.17676867235683913
+    },
+    {
+      "case": "run4_06425000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 11.560089387640252,
+      "axis_difference_deg": 0.09222579105687054,
+      "rpm_difference": 0.20006026639876495,
+      "initial_rpm": 207.6603697474677,
+      "final_rpm": 235.75645185995,
+      "G_rpm": 235.55639159355124,
+      "final_axis": [
+        -0.6978613865470147,
+        0.6087893862161416,
+        -0.3773128256463748
+      ],
+      "G_axis": [
+        -0.6988209906721228,
+        0.6084620963004908,
+        -0.3760626282438143
+      ],
+      "initial_residual_rms_px_s": 583.3110396597484,
+      "final_gain": 0.39459721650699664
+    },
+    {
+      "case": "run4_06495000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 49.15361687232898,
+      "axis_difference_deg": 0.04700812441708084,
+      "rpm_difference": -0.05443664645758872,
+      "initial_rpm": 481.72052907551847,
+      "final_rpm": 272.62818011494807,
+      "G_rpm": 272.68261676140565,
+      "final_axis": [
+        -0.7619181735905822,
+        0.5753462020495203,
+        -0.2974179627049854
+      ],
+      "G_axis": [
+        -0.7622682175290973,
+        0.5752632372140186,
+        -0.2966805899533379
+      ],
+      "initial_residual_rms_px_s": 572.1881011457585,
+      "final_gain": 0.6281989537905559
+    },
+    {
+      "case": "run4_06565000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 8.921184530190965,
+      "axis_difference_deg": 0.19306773687399023,
+      "rpm_difference": -0.64834663028347,
+      "initial_rpm": 200.5669923965474,
+      "final_rpm": 231.90812556904416,
+      "G_rpm": 232.55647219932763,
+      "final_axis": [
+        -0.8273167828034206,
+        0.5388031580504478,
+        -0.15886503003072172
+      ],
+      "G_axis": [
+        -0.8279750800877412,
+        0.5369709045744042,
+        -0.16161532846312718
+      ],
+      "initial_residual_rms_px_s": 433.933002224806,
+      "final_gain": 0.43648679878180197
+    },
+    {
+      "case": "run4_07425000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 26.795985290976702,
+      "axis_difference_deg": 0.04854568038729422,
+      "rpm_difference": 0.15851680792394518,
+      "initial_rpm": 349.51389047246204,
+      "final_rpm": 269.0123515682902,
+      "G_rpm": 268.8538347603663,
+      "final_axis": [
+        0.15350873136676138,
+        0.5243180105114341,
+        0.8375713063659112
+      ],
+      "G_axis": [
+        0.15434474603040954,
+        0.5242109590041383,
+        0.8374846684165449
+      ],
+      "initial_residual_rms_px_s": 934.2159688636153,
+      "final_gain": 0.1378486883020682
+    },
+    {
+      "case": "run4_07495000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 27.402191778806383,
+      "axis_difference_deg": 0.04893325771007753,
+      "rpm_difference": -0.2241539320228867,
+      "initial_rpm": 159.36323125063396,
+      "final_rpm": 266.03536171318933,
+      "G_rpm": 266.2595156452122,
+      "final_axis": [
+        0.08550878024021646,
+        0.26424211840360057,
+        0.9606582906337757
+      ],
+      "G_axis": [
+        0.0853688675054462,
+        0.2634329459429117,
+        0.9608929386006937
+      ],
+      "initial_residual_rms_px_s": 854.6377131407229,
+      "final_gain": 0.1442002789778638
+    },
+    {
+      "case": "run4_08495000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 25.079307709633927,
+      "axis_difference_deg": 0.12847300351057164,
+      "rpm_difference": -0.42044613046959967,
+      "initial_rpm": 255.42321573400838,
+      "final_rpm": 256.8068261464139,
+      "G_rpm": 257.2272722768835,
+      "final_axis": [
+        -0.4102584425267077,
+        0.34864782444581055,
+        0.8426937194762777
+      ],
+      "G_axis": [
+        -0.4085833389054776,
+        0.3477449934779822,
+        0.843879775015286
+      ],
+      "initial_residual_rms_px_s": 812.0576106509301,
+      "final_gain": 0.25364946165830027
+    },
+    {
+      "case": "run4_08565000",
+      "condition": "dynamic_total_motion",
+      "initial_to_G_axis_deg": 76.39332260504749,
+      "axis_difference_deg": 0.06753600889043719,
+      "rpm_difference": 0.1253903419903395,
+      "initial_rpm": 147.4384807805167,
+      "final_rpm": 231.24628003786881,
+      "G_rpm": 231.12088969587847,
+      "final_axis": [
+        -0.34071722390355075,
+        0.44384783824761076,
+        0.8288008625830336
+      ],
+      "G_axis": [
+        -0.34043587258094765,
+        0.44490073998014495,
+        0.8283518263547007
+      ],
+      "initial_residual_rms_px_s": 524.316720990102,
+      "final_gain": 0.20584630591094077
+    }
+  ]
+}
